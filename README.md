@@ -1,0 +1,20 @@
+# Yunzai-Bot插件索引
+
+此仓库用于收集 Yunzai-Bot 的第三方插件。
+此仓库仅作为索引查询使用，对索引内容可能不会做全面验证，使用第三方代码前请确保知晓可能存在的风险。
+
+## 插件索引（按时间倒序）
+
+<!-- 新内容请添加到首行 -->
+
+| 名称 | 作者 | 备注 |
+| --- | --- | --- |
+| [图鉴插件xiaoyao-cvs-plugin](https://github.com/ctrlcvs/xiaoyao-cvs-plugin) | [@cvs](https://github.com/ctrlcvs) | 提供角色图鉴、武器图鉴、原魔图鉴、圣遗物图鉴、料理图鉴、秘境图鉴以及一系列额外的体力提示图 |
+| [喵喵插件Miao-Plugin](https://github.com/yoimiya-kokomi/miao-plugin) | [@喵喵](https://github.com/yoimiya-kokomi)| Miao-Plugin是一个Yunzai-Bot的升级插件，提供包括角色面板查询等升级功能 |
+
+<!-- 请不要在这里添加内容，请将内容添加到首行 -->
+
+
+## 发布内容
+
+请参考[贡献指南](./CONTRIBUTING.md)向此仓库发起 pull request
