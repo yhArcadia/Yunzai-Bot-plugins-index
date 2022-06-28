@@ -29,3 +29,8 @@
 ## 发布内容
 
 请参考[贡献指南](./CONTRIBUTING.md)向此仓库发起 pull request
+
+##其他
+
+* [Yunzai-Bot](https://github.com/Le-niao/Yunzai-Bot)
+* Yunzai-Bot 官方QQ群：213938015
