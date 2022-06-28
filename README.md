@@ -3,6 +3,7 @@
 此仓库用于收集 Yunzai-Bot 的第三方插件。
 此仓库仅作为索引查询使用，对索引内容可能不会做全面验证，使用第三方代码前请确保知晓可能存在的风险。
 
+
 ## 插件索引（按时间倒序）
 
 <!-- 新内容请添加到首行 -->
@@ -19,6 +20,7 @@
 <!-- 请不要在这里添加内容，请将内容添加到首行 -->
 
 
+
 ## 资源索引
 
 | 名称 | 作者 | 备注 |
@@ -26,11 +28,13 @@
 | [体力背景图包](https://github.com/cv-hunag/BJT) | [@煌](https://github.com/cv-hunag) | xiaoyao-cvs-plugin的体力背景图库 |
 
 
+
 ## 发布内容
 
 请参考[贡献指南](./CONTRIBUTING.md)向此仓库发起 pull request
 
-##其他
+
+## 其他
 
 * [Yunzai-Bot](https://github.com/Le-niao/Yunzai-Bot)
 * Yunzai-Bot 官方QQ群：213938015
