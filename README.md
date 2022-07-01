@@ -10,6 +10,7 @@
 
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [ayaka-plugin](https://github.com/lumie-fx/ayaka-plugin) | [@lumie-fx](https://github.com/lumie-fx) | 模拟抽卡和圣遗物 |
 | [fen-plugin](https://github.com/litefen/fen-plugin) | [@小粉litefen](https://github.com/litefen) | 色色就要挨打，发群主女装要承担代价 |
 | [体力小组件](https://github.com/OctoberCK/genshinhelper) | [@雁潮](https://github.com/OctoberCK) | 实现ios桌面小组件实时显示体力、派遣、委托情况 |
 | [py插件python-plugin](https://github.com/lcwf/python-plugin) | [@零零零零](https://github.com/lcwf) | 黄历、图鉴、头像表情等丰富的实用功能 |
