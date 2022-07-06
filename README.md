@@ -10,6 +10,7 @@
 
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [成就查漏achievements-plugin](https://github.com/zolay-poi/achievements-plugin) | [@zolay-poi](https://github.com/zolay-poi) | 提供成就查漏功能 |
 | [howe-plugin](https://github.com/howe0116/howe-plugin) | [@howe0116](https://github.com/howe0116) | 提供角色参考面板 |
 | [ayaka-plugin](https://github.com/lumie-fx/ayaka-plugin) | [@lumie-fx](https://github.com/lumie-fx) | 模拟抽卡和圣遗物 |
 | [fen-plugin](https://github.com/litefen/fen-plugin) | [@小粉litefen](https://github.com/litefen) | 色色就要挨打，发群主女装要承担代价 |
