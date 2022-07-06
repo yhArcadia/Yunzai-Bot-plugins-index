@@ -27,6 +27,7 @@
 
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [Windows安装教程](https://github.com/kirigirisan/Windows-Install-Yunzai-Bot) | [@kirigirisan](https://github.com/kirigirisan) | Windows系统下Yunzai-Bot安装教程 |
 | [Yunzai-Bot懒人安装脚本[未验证]](https://github.com/GanYu256/Yunzai) | [@GanYu256](https://github.com/GanYu256/Yunzai/commits?author=GanYu256) | Yunzai-Bot，喵喵插件，黄历插件，ffmpeg自动安装脚本，仅适用于arm64架构的ubuntu 18.04 LTS系统，使用前请自行验证可用性|
 | [体力背景图包](https://github.com/cv-hunag/BJT) | [@煌](https://github.com/cv-hunag) | xiaoyao-cvs-plugin的体力背景图库 |
 
