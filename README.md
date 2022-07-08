@@ -9,7 +9,7 @@
 
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
-|[色图监听](https://github.com/HiArcadia/PornpicListener)|[@渔火Arcadia](https://github.com/HiArcadia)|监听群内色图并根据指定的策略进行相应操作，包括警告、撤回、禁言、转发给主人、存本地等|
+|[色图监听](https://gitee.com/Hikari666/PornpicListener)|[@渔火Arcadia](https://gitee.com/Hikari666)|监听群内色图并根据指定的策略进行相应操作，包括警告、撤回、禁言、转发给主人、存本地等|
 | [zhi-plugin](https://github.com/HeadmasterTan/zhi-plugin) | [@HeadmasterTan](https://github.com/HeadmasterTan) | 提供B站动态推送。优化云崽的“添加”功能，可在同一触发词下添加多个回复 |
 | [成就查漏achievements-plugin](https://github.com/zolay-poi/achievements-plugin) | [@zolay-poi](https://github.com/zolay-poi) | 提供成就查漏功能 |
 | [howe-plugin](https://github.com/howe0116/howe-plugin) | [@howe0116](https://github.com/howe0116) | 提供角色参考面板 |
