@@ -28,6 +28,7 @@
 
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [TRSS Yunzai 管理脚本](https://gitee.com/TimeRainStarSky/TRSS_Yunzai) | [@时雨🌌星空](https://gitee.com/TimeRainStarSky) | 提供 Yunzai-Bot 及插件安装管理功能，支持 Ubuntu 18.04 |
 | [体力小组件](https://gihub.com/OctoberCK/genshinhelper) | [@雁潮](https://github.com/OctoberCK) | 实现ios桌面小组件实时显示体力、派遣、委托情况 |
 | [Yunzai-Bot 文档中心](https://github.com/Xm798/Yunzai-Bot-Docs) | [@Xm798](https://github.com/Xm798) | 正在建设中。[文档地址](https://docs.yunzai.org/) |
 | [Windows安装教程](https://github.com/kirigirisan/Windows-Install-Yunzai-Bot) | [@kirigirisan](https://github.com/kirigirisan) | Windows系统下Yunzai-Bot安装教程 |
