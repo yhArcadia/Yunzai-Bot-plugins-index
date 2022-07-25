@@ -21,7 +21,7 @@
 | [py插件python-plugin](https://github.com/lcwf/python-plugin) | [@零零零零](https://github.com/lcwf) | 黄历、图鉴、头像表情等丰富的实用功能 |
 | 图鉴插件 | @cvs @逍遥 | 提供角色图鉴、武器图鉴、原魔图鉴、圣遗物图鉴、料理图鉴、秘境图鉴以及一系列额外的体力提示图 |
 | [喵喵插件Miao-Plugin](https://github.com/yoimiya-kokomi/miao-plugin) | [@喵喵](https://github.com/yoimiya-kokomi)| Miao-Plugin是一个Yunzai-Bot的升级插件，提供包括角色面板查询等升级功能 |
-| [yiyi-plugin](https://github.com/cv-hunag/yiyi-plugin) | [@煌](https://github.com/cv-hunag) | yiyi-plugin是Yunzai-Bot的外挂插件，提供第二、三攻略(米游社O丶Ha丶Yo ，米游社流曳) |
+| [yiyi-plugin](https://github.com/cv-hunag/yiyi-plugin) | [@煌](https://github.com/cv-hunag) | yiyi-plugin是Yunzai-Bot的外挂插件.现作者已摆烂，处于废弃状态. |
 
 <!-- 请不要在这里添加内容，请将内容添加到首行 -->
 
@@ -47,4 +47,4 @@
 ## 其他
 
 * [Yunzai-Bot](https://github.com/Le-niao/Yunzai-Bot)
-* Yunzai-Bot 官方QQ群：213938015
+* Yunzai-Bot 官方QQ群：213938015（已封闭，暂时不可进入）
