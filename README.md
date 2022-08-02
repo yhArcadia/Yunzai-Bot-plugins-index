@@ -10,7 +10,7 @@
 
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
-|[xianxin-plugin](https://github.com/xianxincoder/xianxin-plugin)|[@闲心](https://github.com/xianxincoder)|提供原神角色生日推送、群消息复读、动态图片、伪造信息等功能，目前仅支持[Yunzai-Bot](https://github.com/Le-niao/Yunzai-Bot) v3|
+|[xianxin-plugin](https://github.com/xianxincoder/xianxin-plugin)|[@闲心](https://github.com/xianxincoder)|新增群战功能，并提供原神角色生日推送、#cos、#同人、#xx生日图片、伪造信息等功能，[Yunzai-Bot](https://github.com/Le-niao/Yunzai-Bot) v3|
 |[色图监听](https://github.com/HiArcadia/PornpicListener)|[@渔火Arcadia](https://github.com/HiArcadia)|监听群内色图并根据指定的策略进行相应操作，包括警告、撤回、禁言、转发给主人、存本地等|
 | [抽卡插件](https://github.com/Nwflower/gacha-plugin) | [@西北一枝花](https://github.com/Nwflower) | 基于yunzai-bot的拓展抽卡插件 |
 | [zhi-plugin](https://github.com/HeadmasterTan/zhi-plugin) | [@HeadmasterTan](https://github.com/HeadmasterTan) | 提供B站动态推送。优化云崽的“添加”功能，可在同一触发词下添加多个回复 |
