@@ -20,7 +20,7 @@
 | [py插件python-plugin](https://gitee.com/linglinglingling-python/python-plugin) | [@零零零零](https://gitee.com/linglinglingling-python) | 黄历、图鉴、头像表情等丰富的实用功能 |
 | 图鉴插件 | @cvs @逍遥 | 提供角色图鉴、武器图鉴、原魔图鉴、圣遗物图鉴、料理图鉴、秘境图鉴以及一系列额外的体力提示图 |
 | [喵喵插件Miao-Plugin](https://gitee.com/yoimiya-kokomi/miao-plugin) | [@喵喵](https://gitee.com/yoimiya-kokomi)| Miao-Plugin是一个Yunzai-Bot的升级插件，提供包括角色面板查询等升级功能 |
-| [yiyi-plugin](https://gitee.com/cv-hunag/yiyi-plugin) | [@煌](https://gitee.com/cv-hunag) | yiyi-plugin是Yunzai-Bot的外挂插件.现作者已摆烂，处于废弃状态. |
+| [yiyi-plugin](https://gitee.com/cv-hunag/yiyi-plugin) | [@煌](https://gitee.com/cv-hunag) | yiyi-plugin是Yunzai-Bot的垃圾插件.现作者已摆烂，处于废弃状态. |
 
 <!-- 请不要在这里添加内容，请将内容添加到首行 -->
 
