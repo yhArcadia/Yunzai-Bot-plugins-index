@@ -9,7 +9,7 @@
 
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
-|[xianxin-plugin](https://gitee.com/xianxincoder/xianxin-plugin)|[@闲心](https://gitee.com/xianxincoder)|新增群战功能，并提供原神角色生日推送、#cos、#同人、#xx生日图片等功能，[Yunzai-Bot](https://gitee.com/Le-niao/Yunzai-Bot) v3|
+|[xianxin-plugin](https://gitee.com/xianxincoder/xianxin-plugin)|[@闲心](https://gitee.com/xianxincoder)|新增小游戏五子棋(#五子棋、落子H8)，并提供群战功能(#加入群战、#战榜、战@xx、#战狂、#逆天改命)、#cos、#cosdbs、#同人等功能，[Yunzai-Bot](https://gitee.com/Le-niao/Yunzai-Bot) v3|
 |[色图监听](https://gitee.com/Hikari666/PornpicListener)|[@渔火Arcadia](https://gitee.com/Hikari666)|监听群内色图并根据指定的策略进行相应操作，包括警告、撤回、禁言、转发给主人、存本地等|
 | [zhi-plugin](https://github.com/HeadmasterTan/zhi-plugin) | [@HeadmasterTan](https://github.com/HeadmasterTan) | 提供B站动态推送。优化云崽的“添加”功能，可在同一触发词下添加多个回复 |
 | [成就查漏achievements-plugin](https://github.com/zolay-poi/achievements-plugin) | [@zolay-poi](https://github.com/zolay-poi) | 提供成就查漏功能 |
