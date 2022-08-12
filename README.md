@@ -14,7 +14,7 @@
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
 | [碎月plugin（V3）](https://gitee.com/Acceleratorsky/suiyue) | [@碎月](https://gitee.com/Acceleratorsky) | 疫情，清晰度提升，搜番，搜磁力，疯狂星期四，计算器 |
-|[xianxin-plugin（V3）](https://gitee.com/xianxincoder/xianxin-plugin)|[@闲心](https://gitee.com/xianxincoder)|新增小游戏五子棋(#五子棋、落子H8)，并提供群战功能(#加入群战、#战榜、战@xx、#战狂、#逆天改命)、#cos、#cosdbs、#同人等功能，[Yunzai-Bot](https://gitee.com/Le-niao/Yunzai-Bot) v3|
+|[xianxin-plugin（V3）](https://gitee.com/xianxincoder/xianxin-plugin)|[@闲心](https://gitee.com/xianxincoder)|新增小游戏五子棋(#五子棋、落子H8、#弃子)，并提供群战功能(#加入群战、#战榜、战@xx、狂战@xx、#战狂榜、#逆天改命)、#cos、#cosdbs、#同人等功能|
 | [zhi-plugin](https://github.com/HeadmasterTan/zhi-plugin) | [@HeadmasterTan](https://github.com/HeadmasterTan) | 提供B站动态推送。优化云崽的“添加”功能，可在同一触发词下添加多个回复 |
 | [成就查漏achievements-plugin](https://github.com/zolay-poi/achievements-plugin) | [@zolay-poi](https://github.com/zolay-poi) | 提供成就查漏功能 |
 | [howe-plugin](https://github.com/howe0116/howe-plugin) | [@howe0116](https://github.com/howe0116) | 提供角色参考面板 |
@@ -37,6 +37,7 @@
 
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [退群不再允许加入（V3）](https://gitee.com/xianxincoder/plugins) | [@闲心](https://gitee.com/xianxincoder) | V3插件，自行下载安装到Yunzai/plugins/example |
 | [谁是卧底V3](https://gitee.com/Saury-loser/Saury) | [@Saury](https://gitee.com/Saury-loser) | V3插件，自行下载安装到Yunzai/plugins/example |
 
 <br>
