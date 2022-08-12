@@ -37,6 +37,7 @@
 
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [谁是卧底V3](https://gitee.com/Saury-loser/Saury) | [@Saury](https://gitee.com/Saury-loser) | V3插件，自行下载安装到Yunzai/plugins/example |
 
 <br>
 
