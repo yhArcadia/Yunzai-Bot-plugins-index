@@ -31,14 +31,14 @@
 <br>
 
 ## .js插件
-*即单个js文件形式的插件*
+*即单个js文件形式的插件。 有（V3）标志的插件为V3版云崽插件*
 
 <!-- 新内容请添加到首行 -->
 
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
 | [退群不再允许加入（V3）](https://gitee.com/xianxincoder/plugins) | [@闲心](https://gitee.com/xianxincoder) | V3插件，自行下载安装到Yunzai/plugins/example |
-| [谁是卧底V3](https://gitee.com/Saury-loser/Saury) | [@Saury](https://gitee.com/Saury-loser) | V3插件，自行下载安装到Yunzai/plugins/example |
+| [谁是卧底（V3）](https://gitee.com/Saury-loser/Saury) | [@Saury](https://gitee.com/Saury-loser) | V3插件，自行下载安装到Yunzai/plugins/example |
 
 <br>
 
@@ -57,7 +57,7 @@
 
 ## 发布内容
 
-请参考[贡献指南](./CONTRIBUTING.md)向此仓库发起 pull request
+请参考☞[贡献指南](./CONTRIBUTING.md)向此仓库发起 pull request
 
 <br>
 
