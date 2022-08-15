@@ -13,6 +13,7 @@
 
 | 名称                                                        |  作者  | 备注  |
 |-------------------------------------------------------------| ----- | ----- |
+| [修仙plugin（v3）](https://gitee.com/waterfeet/xiuxian-emulator-plugin) | [@waterfeet](https://gitee.com/waterfeet) | 是一个 开发中 的"修仙模拟器" |
 | [碎月plugin（V3）](https://gitee.com/Acceleratorsky/suiyue)|[@碎月](https://gitee.com/Acceleratorsky)|疫情，清晰度提升，搜番，搜磁力，疯狂星期四，计算器 |
 | [xianxin-plugin（V3）](https://gitee.com/xianxincoder/xianxin-plugin) |[@闲心](https://gitee.com/xianxincoder)|新增B站推送功能(#添加up推送 UID、#删除up推送 UID、#up推送列表)，并提供小游戏五子棋(#五子棋、落子H8、#弃子)、群战功能(#加入群战、#战榜、战@xx、狂战@xx、#战狂榜、#逆天改命)、#cos、#cosdbs、#同人等功能|
 | [zhi-plugin](https://github.com/HeadmasterTan/zhi-plugin)    | [@HeadmasterTan](https://github.com/HeadmasterTan) | 提供B站动态推送。优化云崽的“添加”功能，可在同一触发词下添加多个回复 |
