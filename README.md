@@ -13,6 +13,7 @@
 
 | 名称                                                        |  作者  | 备注  |
 |-------------------------------------------------------------| ----- | ----- |
+| [小雪插件（v3）](https://gitee.com/XueWerY/xiaoxue-plugin) | [@XueWerY](https://gitee.com/XueWerY) | 是一个追求用户体验和完美的插件 |
 | [修仙plugin（v3）](https://gitee.com/waterfeet/xiuxian-emulator-plugin) | [@waterfeet](https://gitee.com/waterfeet) | 是一个 开发中 的"修仙模拟器" |
 | [碎月plugin（V3）](https://gitee.com/Acceleratorsky/suiyue)|[@碎月](https://gitee.com/Acceleratorsky)|疫情，清晰度提升，搜番，搜磁力，疯狂星期四，计算器 |
 | [xianxin-plugin（V3）](https://gitee.com/xianxincoder/xianxin-plugin) |[@闲心](https://gitee.com/xianxincoder)|新增B站推送功能(#添加up推送 UID、#删除up推送 UID、#up推送列表)，并提供小游戏五子棋(#五子棋、落子H8、#弃子)、群战功能(#加入群战、#战榜、战@xx、狂战@xx、#战狂榜、#逆天改命)、#cos、#cosdbs、#同人等功能|
