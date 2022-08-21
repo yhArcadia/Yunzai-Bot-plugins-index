@@ -56,7 +56,7 @@
 | [Yunzai-Bot懒人安装脚本[未验证]](https://github.com/GanYu256/Yunzai) | [@GanYu256](https://github.com/GanYu256/Yunzai/commits?author=GanYu256) | Yunzai-Bot，喵喵插件，黄历插件，ffmpeg自动安装脚本，仅适用于arm64架构的ubuntu 18.04 LTS系统，使用前请自行验证可用性|
 | [体力背景图包](https://gitee.com/cv-hunag/BJT) | [@煌](https://gitee.com/cv-hunag) | xiaoyao-cvs-plugin的体力背景图库 |
 | [曉K体力模板2版背景图包](https://gitee.com/SmallK111407/BJT-Template) | [@SunRyK曉K](https://gitee.com/SmallK111407) | xiaoyao-cvs-plugin的体力背景图库 |
-| [Yunzai-Bot-Help](https://gitee.com/ningmengchongshui/Yunzai-Bot-Help) | [@柠檬冲水](https://github.com/ningmengchongshui) | Centos系统一键部署环境和安装Yunzai-BotV2&V3，一键控制Bot与安装开源插件 |
+| [Yunzai-Bot-Help](https://gitee.com/ningmengchongshui/Yunzai-Bot-Help) | [@柠檬冲水](https://github.com/ningmengchongshui) | Windows&Linux-Centos/Ubuntu一键安装Yunzai-BotV2&V3图形化系统 |
 
 <br>
 
