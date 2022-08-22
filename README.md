@@ -36,6 +36,7 @@
 
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [打他hithim](https://github.com/huzwu/hithim-plugin) | [@huzwu](https://github.com/huzwu) | 提供攻击他人并禁言或回血取消功能 |
 <!--|[色图监听](https://github.com/HiArcadia/PornpicListener)|[@渔火Arcadia](https://github.com/HiArcadia)|监听群内色图并根据指定的策略进行相应操作，包括警告、撤回、禁言、转发给主人、存本地等|-->
 
 <br>
