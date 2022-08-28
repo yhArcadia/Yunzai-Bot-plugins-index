@@ -39,9 +39,9 @@
 
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
-| [原神语音合成](https://github.com/HiArcadia/TTS-for-Yunzai-Bot) | [@渔火Arcadia](https://github.com/HiArcadia) | 文字转语音，支持大部分原神角色音色 |
+| [原神语音合成](https://github.com/yhArcadia/TTS-for-Yunzai-Bot) | [@渔火Arcadia](https://github.com/yhArcadia) | 文字转语音，支持大部分原神角色音色 |
 | [打他hithim](https://github.com/huzwu/hithim-plugin) | [@huzwu](https://github.com/huzwu) | 提供攻击他人并禁言或回血取消功能 |
-|[色图监听](https://github.com/HiArcadia/PornpicListener)|[@渔火Arcadia](https://github.com/HiArcadia)|对群聊中的图片进行鉴黄。识别到色图后，可根据指定的策略进行相应操作，包括警告、撤回、禁言、告知主人等。|
+|[色图监听](https://github.com/yhArcadia/PornpicListener)|[@渔火Arcadia](https://github.com/yhArcadia)|对群聊中的图片进行鉴黄。识别到色图后，可根据指定的策略进行相应操作，包括警告、撤回、禁言、告知主人等。|
 | [退群不再允许加入（V3）](https://gitee.com/xianxincoder/plugins) | [@闲心](https://gitee.com/xianxincoder) |V3插件，自行下载安装到Yunzai/plugins/example|
 | [谁是卧底（V3）](https://gitee.com/Saury-loser/Saury) | [@Saury](https://gitee.com/Saury-loser) | V3插件，自行下载安装到Yunzai/plugins/example |
 
@@ -71,6 +71,6 @@
 
 ## 其他
 
-* Yunzai-Bot插件库：[☞Github](https://github.com/HiArcadia/Yunzai-Bot-plugins-index)/[☞Gitee](https://gitee.com/Hikari666/Yunzai-Bot-plugins-index)
+* Yunzai-Bot插件库：[☞Github](https://github.com/yhArcadia/Yunzai-Bot-plugins-index)/[☞Gitee](https://gitee.com/yhArcadia/Yunzai-Bot-plugins-index)
 * [Yunzai-Bot](https://github.com/Le-niao/Yunzai-Bot)
 * Yunzai-Bot 官方QQ群：213938015（已封闭，暂时不可进入）
