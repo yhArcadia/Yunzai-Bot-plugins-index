@@ -25,7 +25,6 @@
 | [Flower-plugin(V3)](https://gitee.com/Nwflower/flower-plugin) | [@西北一枝花](https://gitee.com/Nwflower/) | 实现更多功能的抽卡，可以通过指令修改抽卡概率、卡池角色，以及功能#转生 |
 | [ayaka-plugin](https://github.com/lumie-fx/ayaka-plugin)     | [@lumie-fx](https://github.com/lumie-fx) | 模拟抽卡和圣遗物 |
 | [fen-plugin](https://gitee.com/litefen/fen-plugin)           | [@小粉litefen](https://gitee.com/litefen) | 色色就要挨打，发群主女装要承担代价 |
-| 图鉴插件  | @cvs @逍遥 | 提供角色图鉴、武器图鉴、原魔图鉴、圣遗物图鉴、料理图鉴、秘境图鉴以及一系列额外的体力提示图 |
 | [喵喵插件Miao-Plugin](https://gitee.com/yoimiya-kokomi/miao-plugin) | [@喵喵](https://gitee.com/yoimiya-kokomi)| Miao-Plugin是一个Yunzai-Bot的升级插件，提供包括角色面板查询等升级功能 |
 | [yiyi-plugin](https://gitee.com/cv-hunag/yiyi-plugin)|[@煌](https://gitee.com/cv-hunag) | yiyi-plugin是Yunzai-Bot的垃圾插件.现作者已摆烂，处于废弃状态. |
 
