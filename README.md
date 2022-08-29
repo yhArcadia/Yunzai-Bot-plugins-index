@@ -39,7 +39,7 @@
 
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
-| [原神语音合成](https://gitee.com/yhArcadia/TTS-for-Yunzai-Bot) | [@渔火](https://gitee.com/yhArcadia) | 文字转语音，支持大部分原神角色音色 |
+| [原神角色语音合成（V2）（V3）](https://gitee.com/yhArcadia/TTS-for-Yunzai-Bot) | [@渔火Arcadia](https://gitee.com/yhArcadia) | 文字转语音，支持大部分原神角色音色 |
 | [打他hithim](https://github.com/huzwu/hithim-plugin) | [@huzwu](https://github.com/huzwu) | 提供攻击他人并禁言或回血取消功能 |
 | [涩图监听](https://gitee.com/yhArcadia/PornpicListener) | [@渔火](https://gitee.com/yhArcadia) | 对群聊中的图片进行鉴黄。识别到色图后，可根据指定的策略进行相应操作，包括警告、撤回、禁言、告知主人等。 |
 | [退群不再允许加入（V3）](https://gitee.com/xianxincoder/plugins) | [@闲心](https://gitee.com/xianxincoder) |V3插件，自行下载安装到Yunzai/plugins/example|
