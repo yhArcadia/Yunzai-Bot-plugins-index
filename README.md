@@ -16,7 +16,7 @@
 | [小雪插件（v3）](https://gitee.com/XueWerY/xiaoxue-plugin) | [@XueWerY](https://gitee.com/XueWerY) | 是一个追求用户体验和完美的插件 |
 | [修仙plugin（v3）](https://gitee.com/waterfeet/xiuxian-emulator-plugin) | [@waterfeet](https://gitee.com/waterfeet) | 是一个 开发中 的"修仙模拟器" |
 | [碎月plugin（V3）](https://gitee.com/Acceleratorsky/suiyue) | [@碎月](https://gitee.com/Acceleratorsky) | 疫情，清晰度提升，搜番，搜磁力，疯狂星期四，计算器 |
-|[xianxin-plugin（V3）](https://github.com/xianxincoder/xianxin-plugin)|[@闲心](https://github.com/xianxincoder)|新增#攻略 xxx、#wiki xx查询原神攻略和wiki的内容，并提供B站推送功能(#添加up推送 UID、#删除up推送 UID、#up推送列表)、群战功能(#加入群战、#战榜、战@xx、狂战@xx、#战狂榜、#逆天改命、#五子棋)、#cos、#cosdbs、#同人等功能|
+|[xianxin-plugin（V3）](https://github.com/xianxincoder/xianxin-plugin)|[@闲心](https://github.com/xianxincoder)|是一个集米游社cos、米游社wiki攻略、B站up动态推送、神秘指令、群战小游戏、五子棋、21点等功能的插件|
 | [zhi-plugin](https://github.com/HeadmasterTan/zhi-plugin) | [@HeadmasterTan](https://github.com/HeadmasterTan) | 提供B站动态推送。优化云崽的“添加”功能，可在同一触发词下添加多个回复 |
 | [成就查漏achievements-plugin](https://github.com/zolay-poi/achievements-plugin) | [@zolay-poi](https://github.com/zolay-poi) | 提供成就查漏功能 |
 | [抽卡插件](https://github.com/Nwflower/gacha-plugin) | [@西北一枝花](https://github.com/Nwflower) | 基于yunzai-bot的拓展抽卡插件 |
