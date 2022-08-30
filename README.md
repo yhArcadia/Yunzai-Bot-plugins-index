@@ -44,6 +44,7 @@
 | [涩图监听](https://gitee.com/yhArcadia/PornpicListener) | [@渔火](https://gitee.com/yhArcadia) | 对群聊中的图片进行鉴黄。识别到色图后，可根据指定的策略进行相应操作，包括警告、撤回、禁言、告知主人等。 |
 | [退群不再允许加入（V3）](https://gitee.com/xianxincoder/plugins) | [@闲心](https://gitee.com/xianxincoder) |V3插件，自行下载安装到Yunzai/plugins/example|
 | [谁是卧底（V3）](https://gitee.com/Saury-loser/Saury) | [@Saury](https://gitee.com/Saury-loser) | V3插件，自行下载安装到Yunzai/plugins/example |
+| [查委托（V2）（V3）](https://gitee.com/mofengdada/chaweituo) | [@mofengdada](https://gitee.com/mofengdada) | 查看原神每日委托是否有隐藏成就 |
 
 <br>
 
