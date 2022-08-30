@@ -15,7 +15,7 @@
 | [修仙plugin ](https://gitee.com/waterfeet/xiuxian-emulator-plugin) | [@waterfeet](https://gitee.com/waterfeet) |   | ✔ | 是一个 开发中 的"修仙模拟器" |
 | [碎月plugin ](https://gitee.com/Acceleratorsky/suiyue) | [@碎月](https://gitee.com/Acceleratorsky) |   | ✔ | 疫情，清晰度提升，搜番，搜磁力，疯狂星期四，计算器 |
 | [xianxin-plugin ](https://github.com/xianxincoder/xianxin-plugin)|[@闲心](https://github.com/xianxincoder)|   | ✔ | 是一个集米游社cos、米游社wiki攻略、B站up动态推送、神秘指令、群战小游戏、五子棋、21点等功能的插件|
-| [zhi-plugin](https://github.com/HeadmasterTan/zhi-plugin) | [@HeadmasterTan](https://github.com/HeadmasterTan) | ✔ |  | 提供B站动态推送。优化云崽的“添加”功能，可在同一触发词下添加多个回复 |
+| [zhi-plugin](https://github.com/HeadmasterTan/zhi-plugin) | [@HeadmasterTan](https://github.com/HeadmasterTan) | ✔ | ✔ | 提供B站动态推送。优化云崽的“添加”功能，可在同一触发词下添加多个回复 |
 | [成就查漏achievements-plugin](https://github.com/zolay-poi/achievements-plugin) | [@zolay-poi](https://github.com/zolay-poi) | ✔ |  | 提供成就查漏功能 |
 | [抽卡插件](https://github.com/Nwflower/gacha-plugin) | [@西北一枝花](https://github.com/Nwflower)   | ✔ |  | 基于yunzai-bot的拓展抽卡插件 |
 | [howe-plugin](https://github.com/howe0116/howe-plugin) | [@howe0116](https://github.com/howe0116) | ✔ |  | 提供角色参考面板 |
