@@ -33,8 +33,7 @@
 <!-- 在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
-| [查委托（v2） ](https://gitee.com/mofengdada/chaweituo) | [@mofengdada](https://gitee.com/mofengdada) | ✔ |   | [查看](https://gitee.com/mofengdada/chaweituo/raw/master/%E6%9F%A5%E5%A7%94%E6%89%98V2.js) | 查看原神每日委托是否有隐藏成就 |
-| [查委托（v3） ](https://gitee.com/mofengdada/chaweituo) | [@mofengdada](https://gitee.com/mofengdada) |   | ✔ | [查看](https://gitee.com/mofengdada/chaweituo/raw/master/%E6%9F%A5%E5%A7%94%E6%89%98V3.js) | 查看原神每日委托是否有隐藏成就 |
+| [查委托](https://gitee.com/mofengdada/chaweituo) | [@mofengdada](https://gitee.com/mofengdada) | ✔ | ✔ | [☞v2](https://gitee.com/mofengdada/chaweituo/raw/master/%E6%9F%A5%E5%A7%94%E6%89%98V2.js) [☞v3](https://gitee.com/mofengdada/chaweituo/raw/master/%E6%9F%A5%E5%A7%94%E6%89%98V3.js)| 查看原神每日委托是否有隐藏成就 |
 | [原神角色语音合成（v2） ](https://gitee.com/yhArcadia/TTS-for-Yunzai-Bot) | [@渔火Arcadia](https://gitee.com/yhArcadia) | ✔ |   | [查看](https://gitee.com/yhArcadia/TTS-for-Yunzai-Bot/raw/main/%E5%8E%9F%E7%A5%9E%E8%A7%92%E8%89%B2%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90(V2).js) |  文字转语音，支持大部分原神角色音色 |
 | [原神角色语音合成（v3） ](https://gitee.com/yhArcadia/TTS-for-Yunzai-Bot) | [@渔火Arcadia](https://gitee.com/yhArcadia) |   | ✔ | [查看](https://gitee.com/yhArcadia/TTS-for-Yunzai-Bot/raw/main/%E5%8E%9F%E7%A5%9E%E8%A7%92%E8%89%B2%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90(V3).js) |  文字转语音，支持大部分原神角色音色 |
 | [打他hithim](https://github.com/huzwu/hithim-plugin) | [@huzwu](https://github.com/huzwu) | ✔ |  | [查看](https://raw.githubusercontent.com/huzwu/hithim-plugin/main/hithim.js) |  提供攻击他人并禁言或回血取消功能 |
