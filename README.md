@@ -28,18 +28,19 @@
  
 <br>
 
-## .js插件
-*即单个js文件形式的插件。*
- 
+## .js插件索引  
+#### *可以点击查看源码，另存为js文件来使用*
+<!-- 在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 
-| 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
-|-------| ----- | ------ | ------|------ |
-| [查委托 ](https://gitee.com/mofengdada/chaweituo) | [@mofengdada](https://gitee.com/mofengdada) | ✔ | ✔ | 查看原神每日委托是否有隐藏成就 |
-| [原神角色语音合成 ](https://github.com/yhArcadia/TTS-for-Yunzai-Bot) | [@渔火Arcadia](https://github.com/yhArcadia) | ✔ | ✔ | 文字转语音，支持大部分原神角色音色 |
-| [打他hithim](https://github.com/huzwu/hithim-plugin) | [@huzwu](https://github.com/huzwu) | ✔ |   | 提供攻击他人并禁言或回血取消功能 |
-|[色图监听](https://github.com/yhArcadia/PornpicListener)|[@渔火Arcadia](https://github.com/yhArcadia)| ✔ |  |对群聊中的图片进行鉴黄。识别到色图后，可根据指定的策略进行相应操作，包括警告、撤回、禁言、告知主人等。|
-| [退群不再允许加入 ](https://gitee.com/xianxincoder/plugins) | [@闲心](https://gitee.com/xianxincoder) |   | ✔ | V3插件，自行下载安装到Yunzai/plugins/example|
-| [谁是卧底 ](https://gitee.com/Saury-loser/Saury) | [@Saury](https://gitee.com/Saury-loser) |   | ✔ | V3插件，自行下载安装到Yunzai/plugins/example |
+| 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
+|-------| ----- | ------ | ------|------|-------|
+| [查委托](https://gitee.com/mofengdada/chaweituo) | [@mofengdada](https://gitee.com/mofengdada) | ✔ | ✔ | [v2](https://gitee.com/mofengdada/chaweituo/raw/master/%E6%9F%A5%E5%A7%94%E6%89%98V2.js) [v3](https://gitee.com/mofengdada/chaweituo/raw/master/%E6%9F%A5%E5%A7%94%E6%89%98V3.js)| 查看原神每日委托是否有隐藏成就 |
+| [原神角色语音合成 ](https://github.com/yhArcadia/TTS-for-Yunzai-Bot) | [@渔火Arcadia](https://github.com/yhArcadia) | ✔ | ✔ | [ v2 ](https://github.com/yhArcadia/TTS-for-Yunzai-Bot/raw/main/%E5%8E%9F%E7%A5%9E%E8%A7%92%E8%89%B2%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90(V2).js) [v3](https://github.com/yhArcadia/TTS-for-Yunzai-Bot/raw/main/%E5%8E%9F%E7%A5%9E%E8%A7%92%E8%89%B2%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90(V3).js) |  文字转语音，支持大部分原神角色音色 |
+| [打他hithim](https://github.com/huzwu/hithim-plugin) | [@huzwu](https://github.com/huzwu) | ✔ |  | [v2](https://raw.githubusercontent.com/huzwu/hithim-plugin/main/hithim.js) |  提供攻击他人并禁言或回血取消功能 |
+|[色图监听](https://github.com/yhArcadia/PornpicListener)|[@渔火Arcadia](https://github.com/yhArcadia)| ✔ |  | [v2](https://github.com/yhArcadia/PornpicListener/raw/main/%E6%B6%A9%E5%9B%BE%E7%9B%91%E5%90%AC1.5%EF%BC%88%E5%A4%A7%E5%B9%85%E5%87%8F%E5%B0%91%E8%B0%83%E7%94%A8%E6%AC%A1%E6%95%B0%EF%BC%8C%E5%9B%BE%E7%89%87%E5%8F%AF%E6%B7%BB%E5%8A%A0%E7%99%BD%E5%90%8D%E5%8D%95%EF%BC%8C%E5%8F%AF%E6%9F%A5%E7%9C%8B%E8%B0%83%E7%94%A8%E7%BB%9F%E8%AE%A1%EF%BC%89.js) |  对群聊中的图片进行鉴黄。识别到色图后，可根据指定的策略进行相应操作，包括警告、撤回、禁言、告知主人等。 |
+| [退群不再允许加入 ](https://gitee.com/xianxincoder/plugins) | [@闲心](https://gitee.com/xianxincoder) |   | ✔ | [v3](https://gitee.com/xianxincoder/plugins/raw/master/%E9%80%80%E7%BE%A4%E4%B8%8D%E5%86%8D%E5%85%81%E8%AE%B8%E5%8A%A0%E5%85%A5.js) |  V3插件，自行下载安装到Yunzai/plugins/example|
+| [谁是卧底 ](https://gitee.com/Saury-loser/Saury) | [@Saury](https://gitee.com/Saury-loser) |   | ✔ | [v3](https://gitee.com/Saury-loser/Saury/raw/master/%E8%B0%81%E6%98%AF%E5%8D%A7%E5%BA%951.1.4.js) |  V3插件，自行下载安装到Yunzai/plugins/example |
+
 
 <br>
 
