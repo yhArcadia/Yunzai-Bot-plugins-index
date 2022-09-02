@@ -33,6 +33,7 @@
 <!-- 在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
+| [指令拦截](https://gitee.com/zhxhx/Yunzai-Bot-js) | [@BeterKing](https://gitee.com/zhxhx) |  | ✔ | [v3](https://gitee.com/zhxhx/Yunzai-Bot-js/blob/main/%E6%8C%87%E4%BB%A4%E6%8B%A6%E6%88%AA.js) | 禁用指令 |
 | [查委托](https://gitee.com/mofengdada/chaweituo) | [@mofengdada](https://gitee.com/mofengdada) | ✔ | ✔ | [v2](https://gitee.com/mofengdada/chaweituo/raw/master/%E6%9F%A5%E5%A7%94%E6%89%98V2.js) [v3](https://gitee.com/mofengdada/chaweituo/raw/master/%E6%9F%A5%E5%A7%94%E6%89%98V3.js)| 查看原神每日委托是否有隐藏成就 |
 | [原神角色语音合成](https://gitee.com/yhArcadia/TTS-for-Yunzai-Bot) | [@渔火Arcadia](https://gitee.com/yhArcadia) | ✔ | ✔ | [v2](https://gitee.com/yhArcadia/TTS-for-Yunzai-Bot/raw/main/%E5%8E%9F%E7%A5%9E%E8%A7%92%E8%89%B2%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90(V2).js) [v3](https://gitee.com/yhArcadia/TTS-for-Yunzai-Bot/raw/main/%E5%8E%9F%E7%A5%9E%E8%A7%92%E8%89%B2%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90(V3).js) |  文字转语音，支持大部分原神角色音色 |
 | [打他hithim](https://github.com/huzwu/hithim-plugin) | [@huzwu](https://github.com/huzwu) | ✔ |  | [v2](https://raw.githubusercontent.com/huzwu/hithim-plugin/main/hithim.js) |  提供攻击他人并禁言或回血取消功能 |
