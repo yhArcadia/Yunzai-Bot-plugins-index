@@ -24,7 +24,7 @@
 | [fen-plugin](https://gitee.com/litefen/fen-plugin)           | [@小粉litefen](https://gitee.com/litefen)  | ✔ |   |色色就要挨打，发群主女装要承担代价 |
 | [喵喵插件Miao-Plugin](https://gitee.com/yoimiya-kokomi/miao-plugin) | [@喵喵](https://gitee.com/yoimiya-kokomi)| ✔ | ✔ | Miao-Plugin是一个Yunzai-Bot的升级插件，提供包括角色面板查询等升级功能 |
 | [yiyi-plugin](https://gitee.com/cv-hunag/yiyi-plugin)|[@煌](https://gitee.com/cv-hunag) | ✔ |   | yiyi-plugin是Yunzai-Bot的垃圾插件.现作者已摆烂，处于废弃状态. |
- 
+
 
 <br>
 
@@ -41,6 +41,8 @@
 | [退群不再允许加入 ](https://gitee.com/xianxincoder/plugins) | [@闲心](https://gitee.com/xianxincoder) |   | ✔ | [v3](https://gitee.com/xianxincoder/plugins/raw/master/%E9%80%80%E7%BE%A4%E4%B8%8D%E5%86%8D%E5%85%81%E8%AE%B8%E5%8A%A0%E5%85%A5.js) |  V3插件，自行下载安装到Yunzai/plugins/example|
 | [谁是卧底 ](https://gitee.com/Saury-loser/Saury) | [@Saury](https://gitee.com/Saury-loser) |   | ✔ | [v3](https://gitee.com/Saury-loser/Saury/raw/master/%E8%B0%81%E6%98%AF%E5%8D%A7%E5%BA%951.1.4.js) |  V3插件，自行下载安装到Yunzai/plugins/example |
 | [more js](https://gitee.com/ying_Sailor_uniform/V2-js) | [@呆呆的屑荧](https://gitee.com/ying_Sailor_uniform) | ✔ |    | [v2](https://gitee.com/ying_Sailor_uniform/V2-js/raw/master/more-js.js) | 为V2云崽添加了随机美图，摸鱼日历，随机头像功能 |
+| [派蒙一言](https://gitee.com/huangshx2001/yunzai-js-plug-in) | [@癫癫博士](https://gitee.com/huangshx2001) |  | ✔ | [v3](https://gitee.com/huangshx2001/yunzai-js-plug-in/raw/master/%E6%B4%BE%E8%92%99%E4%B8%80%E8%A8%80V3.js) | 让指定的角色随机说一句话并且转换成语音 |
+| [表情制作](https://gitee.com/huangshx2001/yunzai-js-plug-in) | [@癫癫博士](https://gitee.com/huangshx2001) |  | ✔ | [v3](https://gitee.com/huangshx2001/yunzai-js-plug-in/raw/master/%E8%A1%A8%E6%83%85%E5%88%B6%E4%BD%9C1.0%EF%BC%88V3%E6%97%A0%E9%9C%80py%EF%BC%89.js) | 无需python就可体验表情制作功能！ |
 <br>
 
 ## 资源索引
