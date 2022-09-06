@@ -46,6 +46,7 @@
 | [派蒙一言](https://gitee.com/huangshx2001/yunzai-js-plug-in) | [@癫癫博士](https://gitee.com/huangshx2001) |  | ✔ | [v3](https://gitee.com/huangshx2001/yunzai-js-plug-in/raw/master/%E6%B4%BE%E8%92%99%E4%B8%80%E8%A8%80V3.js) | 让指定的角色随机说一句话并且转换成语音 |
 | [表情制作](https://gitee.com/huangshx2001/yunzai-js-plug-in) | [@癫癫博士](https://gitee.com/huangshx2001) |  | ✔ | [v3](https://gitee.com/huangshx2001/yunzai-js-plug-in/raw/master/%E8%A1%A8%E6%83%85%E5%88%B6%E4%BD%9C1.0%EF%BC%88V3%E6%97%A0%E9%9C%80py%EF%BC%89.js) | 无需python就可体验表情制作功能！ |
 | [漂流瓶](https://gitee.com/huangshx2001/yunzai-js-plug-in) | [@癫癫博士](https://gitee.com/huangshx2001) | | ✔ | [v3](https://gitee.com/huangshx2001/yunzai-js-plug-in/raw/master/%E6%BC%82%E6%B5%81%E7%93%B6.js) | 记录当下心情丢出瓶子！或者查看他人分享捞起瓶子！ |
+| [ 戳一戳语音/文字/表情包/禁言](https://gitee.com/huangshx2001/yunzai-js-plug-in) | [@癫癫博士](https://gitee.com/huangshx2001) | | ✔ | [v3](https://gitee.com/huangshx2001/yunzai-js-plug-in/raw/master/%E6%88%B3%E4%B8%80%E6%88%B3%E8%AF%AD%E9%9F%B3%E3%80%81%E6%96%87%E5%AD%97%E3%80%81%E8%A1%A8%E6%83%85%E5%8C%85%E3%80%81%E7%A6%81%E8%A8%80.js) | 可丰富的自定义机器人戳一戳反应的插件，事件，概率都可以调整，随机的就是最好的！ |
 <br>
 
 ## 资源索引
