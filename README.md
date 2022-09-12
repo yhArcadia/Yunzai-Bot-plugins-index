@@ -8,9 +8,11 @@
 ## 插件包(plugin)索引 
 
 
+<!-- 请在表首添加新行 -->
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
 | [Guoba-Plugin](https://github.com/guoba-yunzai/guoba-plugin) | [@zolay-poi](https://github.com/zolay-poi) | | ✔ | 主要提供云崽的网页端后台管理界面 |
+| [lin-Plugin](https://gitee.com/go-farther-and-farther/lin) | [@越追越远](https://gitee.com/go-farther-and-farther) | | ✔ | 提供了QQ群内决斗小游戏、随机时间给全部好友点赞、点歌和点动漫（支持选择歌曲版本） |
 | [ATRI-plugin ](https://github.com/70loKirin/ATRI-plugin) | [@70loKirin](https://github.com/70loKirin) |   | ✔ | 生成亚托莉（atri）酱的语音并发送，需本地部署一个项目，配置略显麻烦，返回速度较慢（10s左右） |
 | [小雪插件 ](https://gitee.com/XueWerY/xiaoxue-plugin) | [@XueWerY](https://gitee.com/XueWerY) |   | ✔ | 是一个追求用户体验和完美的插件 |
 | [修仙plugin ](https://gitee.com/waterfeet/xiuxian-emulator-plugin) | [@waterfeet](https://gitee.com/waterfeet) |   | ✔ | 是一个 开发中 的"修仙模拟器" |
@@ -25,14 +27,13 @@
 | [fen-plugin](https://github.com/litefen/fen-plugin) | [@小粉litefen](https://github.com/litefen)     | ✔ |  | 色色就要挨打，发群主女装要承担代价 |
 | [喵喵插件Miao-Plugin](https://github.com/yoimiya-kokomi/miao-plugin) | [@喵喵](https://github.com/yoimiya-kokomi)| ✔ | ✔ | Miao-Plugin是一个Yunzai-Bot的升级插件，提供包括角色面板查询等升级功能 |
 | [yiyi-plugin](https://github.com/cv-hunag/yiyi-plugin) | [@煌](https://github.com/cv-hunag) | ✔ |  | yiyi-plugin是Yunzai-Bot的外挂插件.现作者已摆烂，处于废弃状态. |
-<!-- | [~~py插件python-plugin~~](https://github.com/lcwf/python-plugin) | [@零零零零](https://github.com/lcwf) | 目前仓库不可用 |  -->
- 
+ <!-- 请不要在此处添加行，请在顶部添加 -->
 <br>
 
 ## .js插件索引  
 #### *可以点击查看源码，另存为js文件来使用*
 <!-- 在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
-
+<!-- 请在表首添加新行 -->
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
 | [指令拦截](https://gitee.com/zhxhx/Yunzai-Bot-js) | [@BeterKing](https://gitee.com/zhxhx) |  | ✔ | [v3](https://gitee.com/zhxhx/Yunzai-Bot-js/blob/main/%E6%8C%87%E4%BB%A4%E6%8B%A6%E6%88%AA.js) | 禁用指令 |
@@ -48,10 +49,12 @@
 | [漂流瓶](https://gitee.com/huangshx2001/yunzai-js-plug-in) | [@癫癫博士](https://gitee.com/huangshx2001) | | ✔ | [v3](https://gitee.com/huangshx2001/yunzai-js-plug-in/raw/master/%E6%BC%82%E6%B5%81%E7%93%B6.js) | 记录当下心情丢出瓶子！或者查看他人分享捞起瓶子！ |
 | [ 戳一戳语音/文字/表情包/禁言](https://gitee.com/huangshx2001/yunzai-js-plug-in) | [@癫癫博士](https://gitee.com/huangshx2001) | | ✔ | [v3](https://gitee.com/huangshx2001/yunzai-js-plug-in/raw/master/%E6%88%B3%E4%B8%80%E6%88%B3%E8%AF%AD%E9%9F%B3%E3%80%81%E6%96%87%E5%AD%97%E3%80%81%E8%A1%A8%E6%83%85%E5%8C%85%E3%80%81%E7%A6%81%E8%A8%80.js) | 可丰富的自定义机器人戳一戳反应的插件，事件，概率都可以调整，随机的就是最好的！ |
 | [更多ai,更多欢乐!](https://gitee.com/huangshx2001/yunzai-js-plug-in) | [@癫癫博士](https://gitee.com/huangshx2001) | | ✔ | [v3](https://gitee.com/huangshx2001/yunzai-js-plug-in/raw/master/%E6%9B%B4%E5%A4%9Aai%EF%BC%8C%E6%9B%B4%E5%A4%9A%E5%BF%AB%E4%B9%90!.js) | 集成了小爱，青云客，思知，夸克四大ai的插件 |
+<!-- 请不要在此处添加新行，请在顶部添加 -->
+
 <br>
 
 ## 资源索引
-
+<!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
 | [Yunzai-Bot-Help](https://gitee.com/ningmengchongshui/Yunzai-Bot-Help) | [@柠檬冲水](https://github.com/ningmengchongshui) | Windows&Linux-Centos/Ubuntu一键安装Yunzai-BotV2&V3图形化系统 |
@@ -64,6 +67,7 @@
 | [曉K体力模板2版背景图包](https://github.com/SmallK111407/BJT-Template) | [@SunRyK曉K](https://github.com/SmallK111407) | xiaoyao-cvs-plugin的体力背景图库 |
 | [全服获取Ck或国服Stoken_1.5.apk](https://wwd.lanzouj.com/iLnGe0bd4tad) | [@DivinationHW](https://gitee.com/DivinationHW) | 蓝奏云密码：6n8b 用于获取国际服国服Cookie或国服Stoken |
 | [Yunzai-Bot小助手](https://github.com/ChuYao233/YunzaiBotHelper) | [ChuYao](https://github.com/ChuYao233) | Windows傻瓜式部署Yunzai-Bot,提供插件一键下载等功能。 |
+<!-- 请不要在此处添加新行，请在顶部添加 -->
 
 
 <br>
