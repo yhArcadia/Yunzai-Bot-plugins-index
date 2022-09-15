@@ -37,6 +37,7 @@
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
+| [帐号管理](https://gitee.com/zhxhx/Yunzai-Bot-js) | [@BeterKing](https://gitee.com/zhxhx) |  | ✔ | [v3](https://gitee.com/zhxhx/Yunzai-Bot-js/blob/main/%E5%B8%90%E5%8F%B7%E7%AE%A1%E7%90%86/%E5%B8%90%E5%8F%B7%E7%AE%A1%E7%90%86.js) | 切换、管理帐号，掉线自动切换账户 |
 | [cp卡片，文章生成](https://gitee.com/huangshx2001/yunzai-js-plug-in) | [@癫癫博士](https://gitee.com/huangshx2001) |  | ✔ | [v3](https://gitee.com/huangshx2001/yunzai-js-plug-in/raw/master/cp%E5%8D%A1%E7%89%87%E3%80%81%E6%96%87%E7%94%9F%E6%88%90%E5%99%A8.js) | 生成cp卡片/文章，可快乐嗑cp或者恶心群友 |
 | [指令拦截](https://gitee.com/zhxhx/Yunzai-Bot-js) | [@BeterKing](https://gitee.com/zhxhx) |  | ✔ | [v3](https://gitee.com/zhxhx/Yunzai-Bot-js/blob/main/%E6%8C%87%E4%BB%A4%E6%8B%A6%E6%88%AA.js) | 禁用指令 |
 | [查委托](https://gitee.com/mofengdada/chaweituo) | [@mofengdada](https://gitee.com/mofengdada) | ✔ | ✔ | [v2](https://gitee.com/mofengdada/chaweituo/raw/master/%E6%9F%A5%E5%A7%94%E6%89%98V2.js) [v3](https://gitee.com/mofengdada/chaweituo/raw/master/%E6%9F%A5%E5%A7%94%E6%89%98V3.js)| 查看原神每日委托是否有隐藏成就 |
