@@ -62,7 +62,7 @@
 | --- | --- | --- |
 | [TRSS Yunzai 管理脚本 ![TRSS Yunzai 管理脚本](https://github-readme-stats.vercel.app/api/pin/?username=TimeRainStarSky&repo=TRSS_Yunzai&show_owner=true)](../../../../TimeRainStarSky/TRSS_Yunzai) | [@时雨🌌星空](../../../../TimeRainStarSky) | 提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Android Termux 和 Linux 服务器 |
 | [Yunzai-Bot-Help](https://gitee.com/ningmengchongshui/Yunzai-Bot-Help) | [@柠檬冲水](https://github.com/ningmengchongshui) | Windows&Linux-Centos/Ubuntu一键安装Yunzai-BotV2&V3图形化系统 |
-| [体力小组件](https://gihub.com/OctoberCK/genshinhelper) | [@雁潮](https://github.com/OctoberCK) | 实现ios桌面小组件实时显示体力、派遣、委托情况 |
+| [体力小组件](https://github.com/OctoberCK/genshinhelper) | [@雁潮](https://github.com/OctoberCK) | 实现ios桌面小组件实时显示体力、派遣、委托情况 |
 | [Yunzai-Bot 文档中心](https://github.com/Xm798/Yunzai-Bot-Docs) | [@Xm798](https://github.com/Xm798) | 正在建设中。[文档地址](https://docs.yunzai.org/) |
 | [Windows安装教程](https://github.com/kirigirisan/Windows-Install-Yunzai-Bot) | [@kirigirisan](https://github.com/kirigirisan) | Windows系统下Yunzai-Bot安装教程 |
 | [Yunzai-Bot懒人安装脚本[未验证]](https://github.com/GanYu256/Yunzai) | [@GanYu256](https://github.com/GanYu256/Yunzai/commits?author=GanYu256) | Yunzai-Bot，喵喵插件，黄历插件，ffmpeg自动安装脚本，仅适用于arm64架构的ubuntu 18.04 LTS系统，使用前请自行验证可用性|
