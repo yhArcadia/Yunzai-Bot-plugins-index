@@ -67,7 +67,7 @@
 | [Yunzai-Bot懒人安装脚本[未验证]](https://github.com/GanYu256/Yunzai) | [@GanYu256](https://github.com/GanYu256/Yunzai/commits?author=GanYu256) | Yunzai-Bot，喵喵插件，黄历插件，ffmpeg自动安装脚本，仅适用于arm64架构的ubuntu 18.04 LTS系统，使用前请自行验证可用性|
 | [体力背景图包](https://github.com/cv-hunag/BJT) | [@煌](https://github.com/cv-hunag) | xiaoyao-cvs-plugin的体力背景图库 |
 | [曉K体力模板2版背景图包](https://github.com/SmallK111407/BJT-Template) | [@SunRyK曉K](https://github.com/SmallK111407) | xiaoyao-cvs-plugin的体力背景图库 |
-| [全服获取Ck或国服Stoken_1.5.apk](https://wwd.lanzouj.com/iLnGe0bd4tad) | [@DivinationHW](https://gitee.com/DivinationHW) | 蓝奏云密码：6n8b 用于获取国际服国服Cookie或国服Stoken |
+| [全服获取Ck或Stoken_1.5.apk](https://wwd.lanzouj.com/i05nv0brec6b) | [@DivinationHW](https://gitee.com/DivinationHW) | 蓝奏云密码：4b0b 用于获取国际服国服Cookie和Stoken |
 | [Yunzai-Bot小助手](https://github.com/ChuYao233/YunzaiBotHelper) | [ChuYao](https://github.com/ChuYao233) | Windows傻瓜式部署Yunzai-Bot,提供插件一键下载等功能。 |
 <!-- 请不要在此处添加新行，请在顶部添加 -->
 
