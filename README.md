@@ -11,6 +11,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
+| [l-plugin](https://github.com/liuly0322/l-plugin) | [@liuly0322](https://github.com/liuly0322) | | ✔ | 塔罗牌，抽签，骰子，今天吃什么，tex图片等 |
 | [Guoba-Plugin](https://github.com/guoba-yunzai/guoba-plugin) | [@zolay-poi](https://github.com/zolay-poi) | | ✔ | 主要提供云崽的网页端后台管理界面 |
 | [lin-Plugin](https://gitee.com/go-farther-and-farther/lin) | [@越追越远](https://gitee.com/go-farther-and-farther) | | ✔ | 提供了QQ群内决斗小游戏、随机时间给全部好友点赞、点歌和点动漫（支持选择歌曲版本） |
 | [ATRI-plugin ](https://github.com/70loKirin/ATRI-plugin) | [@70loKirin](https://github.com/70loKirin) |   | ✔ | 生成亚托莉（atri）酱的语音并发送，需本地部署一个项目，配置略显麻烦，返回速度较慢（10s左右） |
