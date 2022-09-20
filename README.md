@@ -39,6 +39,7 @@
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
+| [文案类回复合集](https://gitee.com/huangshx2001/yunzai-js-plug-in) | [@癫癫博士](https://gitee.com/huangshx2001) |  | ✔ | [v3](https://gitee.com/huangshx2001/yunzai-js-plug-in/raw/master/%E6%96%87%E6%A1%88%E7%B1%BB%E5%9B%9E%E5%A4%8D%E5%90%88%E9%9B%86.js) | 比较全的文案类api合集，日后打算整图片/资讯/音视频类合集，就不发在这占空间了，欢迎光临我的仓库查看！ |
 | [帐号管理](https://gitee.com/zhxhx/Yunzai-Bot-js) | [@BeterKing](https://gitee.com/zhxhx) |  | ✔ | [v3](https://gitee.com/zhxhx/Yunzai-Bot-js/blob/main/%E5%B8%90%E5%8F%B7%E7%AE%A1%E7%90%86/%E5%B8%90%E5%8F%B7%E7%AE%A1%E7%90%86.js) | 切换、管理帐号，掉线自动切换账户 |
 | [cp卡片，文章生成](https://gitee.com/huangshx2001/yunzai-js-plug-in) | [@癫癫博士](https://gitee.com/huangshx2001) |  | ✔ | [v3](https://gitee.com/huangshx2001/yunzai-js-plug-in/raw/master/cp%E5%8D%A1%E7%89%87%E3%80%81%E6%96%87%E7%94%9F%E6%88%90%E5%99%A8.js) | 生成cp卡片/文章，可快乐嗑cp或者恶心群友 |
 | [指令拦截](https://gitee.com/zhxhx/Yunzai-Bot-js) | [@BeterKing](https://gitee.com/zhxhx) |  | ✔ | [v3](https://gitee.com/zhxhx/Yunzai-Bot-js/blob/main/%E6%8C%87%E4%BB%A4%E6%8B%A6%E6%88%AA.js) | 禁用指令 |
