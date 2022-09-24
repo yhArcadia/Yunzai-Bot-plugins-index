@@ -54,6 +54,8 @@
 | [漂流瓶](https://gitee.com/huangshx2001/yunzai-js-plug-in) | [@癫癫博士](https://gitee.com/huangshx2001) | | ✔ | [v3](https://gitee.com/huangshx2001/yunzai-js-plug-in/raw/master/%E6%BC%82%E6%B5%81%E7%93%B6.js) | 记录当下心情丢出瓶子！或者查看他人分享捞起瓶子！ |
 | [ 戳一戳语音/文字/表情包/禁言](https://gitee.com/huangshx2001/yunzai-js-plug-in) | [@癫癫博士](https://gitee.com/huangshx2001) | | ✔ | [v3](https://gitee.com/huangshx2001/yunzai-js-plug-in/raw/master/%E6%88%B3%E4%B8%80%E6%88%B3%E8%AF%AD%E9%9F%B3%E3%80%81%E6%96%87%E5%AD%97%E3%80%81%E8%A1%A8%E6%83%85%E5%8C%85%E3%80%81%E7%A6%81%E8%A8%80.js) | 可丰富的自定义机器人戳一戳反应的插件，事件，概率都可以调整，随机的就是最好的！ |
 | [更多ai,更多欢乐!](https://gitee.com/huangshx2001/yunzai-js-plug-in) | [@癫癫博士](https://gitee.com/huangshx2001)          |        | ✔      | [v3](https://gitee.com/huangshx2001/yunzai-js-plug-in/raw/master/%E6%9B%B4%E5%A4%9Aai%EF%BC%8C%E6%9B%B4%E5%A4%9A%E5%BF%AB%E4%B9%90!.js) | 欢迎转学生韩国妹妹ai的加入！                                 |
+| [点歌插件](https://gitee.com/xfdown/yun-zai-robot-plug-in/) | [@小飞](https://gitee.com/xfdown) | | ✔ | [v3](https://gitee.com/xfdown/yun-zai-robot-plug-in/raw/master/%E7%82%B9%E6%AD%8C%E6%8F%92%E4%BB%B6.js) | QQ/网易/酷我/酷狗点歌（支持多选） |
+| [天气插件](https://gitee.com/xfdown/yun-zai-robot-plug-in/) | [@小飞](https://gitee.com/xfdown) | | ✔ | [v3](https://gitee.com/xfdown/yun-zai-robot-plug-in/raw/master/%E5%A4%A9%E6%B0%94%E6%8F%92%E4%BB%B6.js) | 请求腾讯天气网站进行页面截图 |
 <!-- 请不要在此处添加新行，请在顶部添加 -->
 
 <br>
