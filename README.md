@@ -11,6 +11,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
+| [xiaofei-plugin](https://gitee.com/xfdown/xiaofei-plugin/) | [@小飞](https://gitee.com/xfdown) | | ✔ | Yunzai-Bot插件 |
 | [Guoba-Plugin](https://gitee.com/guoba-yunzai/guoba-plugin) | [@zolay-poi](https://gitee.com/zolay) | | ✔ | 主要提供云崽的网页端后台管理界面 |
 | [l-plugin](https://github.com/liuly0322/l-plugin) | [@liuly0322](https://github.com/liuly0322) | | ✔ | 塔罗牌，抽签，骰子，今天吃什么，tex图片等 |
 | [土块插件](https://gitee.com/SmallK111407/earth-k-plugin) | [@SunRyK曉K](https://gitee.com/SmallK111407)  [@地球生物](https://gitee.com/jiang-zhitao-1)| | ✔ | 提供了记忆力小游戏，图片可视化点歌，原史（原神角色背景故事等）等功能 |
