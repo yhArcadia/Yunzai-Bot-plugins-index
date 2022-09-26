@@ -29,6 +29,7 @@
 | [fen-plugin](https://github.com/litefen/fen-plugin) | [@小粉litefen](https://github.com/litefen)     | ✔ |  | 色色就要挨打，发群主女装要承担代价 |
 | [喵喵插件Miao-Plugin](https://github.com/yoimiya-kokomi/miao-plugin) | [@喵喵](https://github.com/yoimiya-kokomi)| ✔ | ✔ | Miao-Plugin是一个Yunzai-Bot的升级插件，提供包括角色面板查询等升级功能 |
 | [yiyi-plugin](https://github.com/cv-hunag/yiyi-plugin) | [@煌](https://github.com/cv-hunag) | ✔ |  | yiyi-plugin是Yunzai-Bot的外挂插件.现作者已摆烂，处于废弃状态. |
+| [windoge-plugin](https://github.com/gxy12345/windoge-plugin) | [@gxy12345](https://github.com/gxy12345) | ✔ | ✔ | 提供一些国际服便捷功能，以及继续维护参考面板数据 |
  <!-- 请不要在此处添加行，请在顶部添加 -->
 <br>
 
