@@ -12,6 +12,7 @@
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
 | [Guoba-Plugin](https://github.com/guoba-yunzai/guoba-plugin) | [@zolay-poi](https://github.com/zolay-poi) | | ✔ | 主要提供云崽的网页端后台管理界面 |
+| [windoge-plugin](https://github.com/gxy12345/windoge-plugin) | [@gxy12345](https://github.com/gxy12345) | ✔ | ✔ | 提供一些国际服便捷功能，以及继续维护参考面板数据 |
 | [xiaofei-plugin](https://gitee.com/xfdown/xiaofei-plugin/) | [@小飞](https://gitee.com/xfdown) | | ✔ | Yunzai-Bot插件 |
 | [l-plugin](https://github.com/liuly0322/l-plugin) | [@liuly0322](https://github.com/liuly0322) | | ✔ | 塔罗牌，抽签，骰子，今天吃什么，tex图片等 |
 | [土块插件](https://github.com/SmallK111407/earth-k-plugin) | [@SunRyK曉K](https://github.com/SmallK111407) [@地球生物](https://github.com/diqiushengwu) | | ✔ | 提供了记忆力小游戏，图片可视化点歌/视频/小说/漫画，原史（原神角色背景故事等）等功能 |
@@ -30,7 +31,6 @@
 | [fen-plugin](https://github.com/litefen/fen-plugin) | [@小粉litefen](https://github.com/litefen)     | ✔ |  | 色色就要挨打，发群主女装要承担代价 |
 | [喵喵插件Miao-Plugin](https://github.com/yoimiya-kokomi/miao-plugin) | [@喵喵](https://github.com/yoimiya-kokomi)| ✔ | ✔ | Miao-Plugin是一个Yunzai-Bot的升级插件，提供包括角色面板查询等升级功能 |
 | [yiyi-plugin](https://github.com/cv-hunag/yiyi-plugin) | [@煌](https://github.com/cv-hunag) | ✔ |  | yiyi-plugin是Yunzai-Bot的外挂插件.现作者已摆烂，处于废弃状态. |
-| [windoge-plugin](https://github.com/gxy12345/windoge-plugin) | [@gxy12345](https://github.com/gxy12345) | ✔ | ✔ | 提供一些国际服便捷功能，以及继续维护参考面板数据 |
  <!-- 请不要在此处添加行，请在顶部添加 -->
 <br>
 
