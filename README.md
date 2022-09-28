@@ -41,6 +41,7 @@
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
+| [今日日报插件](https://github.com/MuXia-0326/YunzaiBotJsPluginMuXia) | [@MuXia](https://github.com/MuXia-0326) | | ✔ | [v3](https://github.com/MuXia-0326/YunzaiBotJsPluginMuXia/blob/master/my_plugin_get_day_news.js) | 获取易即今日公众号的今日日报，支持自定义公众号（自行查看源码） 
 | [点歌插件](https://gitee.com/xfdown/yun-zai-robot-plug-in/) | [@小飞](https://gitee.com/xfdown) | | ✔ | [v3](https://gitee.com/xfdown/yun-zai-robot-plug-in/raw/master/%E7%82%B9%E6%AD%8C%E6%8F%92%E4%BB%B6.js) | QQ/网易/酷我/酷狗点歌（支持多选） |
 | [天气插件](https://gitee.com/xfdown/yun-zai-robot-plug-in/) | [@小飞](https://gitee.com/xfdown) | | ✔ | [v3](https://gitee.com/xfdown/yun-zai-robot-plug-in/raw/master/%E5%A4%A9%E6%B0%94%E6%8F%92%E4%BB%B6.js) | 请求腾讯天气网站进行页面截图 |
 | [文案类回复合集](https://gitee.com/huangshx2001/yunzai-js-plug-in) | [@癫癫博士](https://gitee.com/huangshx2001) |  | ✔ | [v3](https://gitee.com/huangshx2001/yunzai-js-plug-in/raw/master/%E6%96%87%E6%A1%88%E7%B1%BB%E5%9B%9E%E5%A4%8D%E5%90%88%E9%9B%86.js) | 比较全的文案类api合集，日后打算整图片/资讯/音视频类合集，就不发在这占空间了，欢迎光临我的仓库查看！ |
