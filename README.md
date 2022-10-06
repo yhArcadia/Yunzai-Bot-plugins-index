@@ -14,6 +14,7 @@
 | [Guoba-Plugin](https://github.com/guoba-yunzai/guoba-plugin) | [@zolay-poi](https://github.com/zolay-poi) | | ✔ | 主要提供云崽的网页端后台管理界面 |
 | Xt-plugin | @xt | | ✔ | 管理js插件。因误屏蔽原因，请到[github插件库](https://github.com/yhArcadia/Yunzai-Bot-plugins-index)查看 |
 | [windoge-plugin](https://github.com/gxy12345/windoge-plugin) | [@gxy12345](https://github.com/gxy12345) | ✔ | ✔ | 提供一些国际服便捷功能，以及继续维护参考面板数据 |
+| [Yenai-plugin](https://gitee.com/yeyang52/yenai-plugin) | [@椰羊](https://gitee.com/yeyang52)| | ✔ | 提供对bot的一些便携操作 |
 | [xiaofei-plugin](https://gitee.com/xfdown/xiaofei-plugin) | [@小飞](https://gitee.com/xfdown) | | ✔ | Yunzai-Bot插件 |
 | [l-plugin](https://github.com/liuly0322/l-plugin) | [@liuly0322](https://github.com/liuly0322) | | ✔ | 塔罗牌，抽签，骰子，今天吃什么，tex图片等 |
 | [土块插件](https://gitee.com/SmallK111407/earth-k-plugin) | [@SunRyK曉K](https://gitee.com/SmallK111407)  [@地球生物](https://gitee.com/jiang-zhitao-1)| | ✔ | 提供了记忆力小游戏，图片可视化点歌/视频/小说/漫画，原史（原神角色背景故事等）等功能 |
