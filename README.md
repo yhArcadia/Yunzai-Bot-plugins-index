@@ -43,6 +43,7 @@
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
+| [以文生图 ](https://gitee.com/Saury-loser/Saury) | [@Saury](https://gitee.com/Saury-loser) |   | ✔ | [v3](https://gitee.com/Saury-loser/Saury/raw/master/%E4%BB%A5%E6%96%87%E7%94%9F%E5%9B%BE1.2.js) | 根据输入的文案AI作画  |
 | [今日日报插件](https://github.com/MuXia-0326/YunzaiBotJsPluginMuXia) | [@MuXia](https://github.com/MuXia-0326) | | ✔ | [v3](https://github.com/MuXia-0326/YunzaiBotJsPluginMuXia/blob/master/my_plugin_get_day_news.js) | 获取易即今日的日报，支持自定义来源（自行查看源码） 
 | [点歌插件](https://gitee.com/xfdown/yun-zai-robot-plug-in/) | [@小飞](https://gitee.com/xfdown) | | ✔ | [v3](https://gitee.com/xfdown/yun-zai-robot-plug-in/raw/master/%E7%82%B9%E6%AD%8C%E6%8F%92%E4%BB%B6.js) | QQ/网易/酷我/酷狗点歌（支持多选） |
 | [天气插件](https://gitee.com/xfdown/yun-zai-robot-plug-in/) | [@小飞](https://gitee.com/xfdown) | | ✔ | [v3](https://gitee.com/xfdown/yun-zai-robot-plug-in/raw/master/%E5%A4%A9%E6%B0%94%E6%8F%92%E4%BB%B6.js) | 请求腾讯天气网站进行页面截图 |
