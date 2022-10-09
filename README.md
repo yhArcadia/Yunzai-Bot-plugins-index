@@ -44,7 +44,7 @@
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
-| [以文生图 ](https://gitee.com/Saury-loser/Saury) | [@Saury](https://gitee.com/Saury-loser) |   | ✔ | [v3](https://gitee.com/Saury-loser/Saury/raw/master/%E4%BB%A5%E6%96%87%E7%94%9F%E5%9B%BE1.2.js) | 根据输入的文案AI作画  |
+| [以文生图](https://gitee.com/Saury-loser/Saury) | [@Saury](https://gitee.com/Saury-loser) |   | ✔ | [v3](https://gitee.com/Saury-loser/Saury/raw/master/%E4%BB%A5%E6%96%87%E7%94%9F%E5%9B%BE.js) | 根据输入的文案AI作画  |
 | [今日日报插件](https://github.com/MuXia-0326/YunzaiBotJsPluginMuXia) | [@MuXia](https://github.com/MuXia-0326) | | ✔ | [v3](https://github.com/MuXia-0326/YunzaiBotJsPluginMuXia/blob/master/my_plugin_get_day_news.js) | 获取易即今日的日报，支持自定义来源（自行查看源码） 
 | [点歌插件](https://gitee.com/xfdown/yun-zai-robot-plug-in/) | [@小飞](https://gitee.com/xfdown) | | ✔ | [v3](https://gitee.com/xfdown/yun-zai-robot-plug-in/raw/master/%E7%82%B9%E6%AD%8C%E6%8F%92%E4%BB%B6.js) | QQ/网易/酷我/酷狗点歌（支持多选） |
 | [天气插件](https://gitee.com/xfdown/yun-zai-robot-plug-in/) | [@小飞](https://gitee.com/xfdown) | | ✔ | [v3](https://gitee.com/xfdown/yun-zai-robot-plug-in/raw/master/%E5%A4%A9%E6%B0%94%E6%8F%92%E4%BB%B6.js) | 请求腾讯天气网站进行页面截图 |
@@ -55,7 +55,7 @@
 | [查委托](https://gitee.com/mofengdada/chaweituo) | [@mofengdada](https://gitee.com/mofengdada) | ✔ | ✔ | [v2](https://gitee.com/mofengdada/chaweituo/raw/master/%E6%9F%A5%E5%A7%94%E6%89%98V2.js) [v3](https://gitee.com/mofengdada/chaweituo/raw/master/%E6%9F%A5%E5%A7%94%E6%89%98V3.js)| 查看原神每日委托是否有隐藏成就 |
 | [原神角色语音合成](https://gitee.com/yhArcadia/YunzaiJsPlugins) | [@渔火Arcadia](https://gitee.com/yhArcadia) | ✔ | ✔ | [v2](https://gitee.com/yhArcadia/YunzaiJsPlugins/raw/main/%E5%8E%9F%E7%A5%9E%E8%A7%92%E8%89%B2%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90(V2).js) [v3](https://gitee.com/yhArcadia/YunzaiJsPlugins/raw/main/%E5%8E%9F%E7%A5%9E%E8%A7%92%E8%89%B2%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90(V3).js) |  文字转语音，支持大部分原神角色音色 |
 | [打他hithim](https://github.com/huzwu/hithim-plugin) | [@huzwu](https://github.com/huzwu) |  | ✔ | [v3](https://raw.githubusercontent.com/huzwu/hithim-plugin/main/hithim.js) |  提供攻击他人并禁言或回血取消功能 |
-| [谁是卧底 ](https://gitee.com/Saury-loser/Saury) | [@Saury](https://gitee.com/Saury-loser) |   | ✔ | [v3](https://gitee.com/Saury-loser/Saury/raw/master/%E8%B0%81%E6%98%AF%E5%8D%A7%E5%BA%951.1.4.js) |  V3插件，自行下载安装到Yunzai/plugins/example |
+| [谁是卧底](https://gitee.com/Saury-loser/Saury) | [@Saury](https://gitee.com/Saury-loser) |   | ✔ | [v3](https://gitee.com/Saury-loser/Saury/raw/master/%E8%B0%81%E6%98%AF%E5%8D%A7%E5%BA%95.js) | 是一个比拼语言表述能力、知识面与想象力的游戏。  |
 | [more js](https://gitee.com/ying_Sailor_uniform/more-js) | [@呆呆的屑荧](https://gitee.com/ying_Sailor_uniform) | ✔ | ✔ | [v2](https://gitee.com/ying_Sailor_uniform/more-js/raw/master/more-js-V2.js) [v3](https://gitee.com/ying_Sailor_uniform/more-js/raw/master/more-js-V3.js)| 为V2云崽添加了随机美图，摸鱼日历，随机头像功能 |
 | [派蒙一言](https://gitee.com/huangshx2001/yunzai-js-plug-in) | [@癫癫博士](https://gitee.com/huangshx2001) |  | ✔ | [v3](https://gitee.com/huangshx2001/yunzai-js-plug-in/raw/master/%E6%B4%BE%E8%92%99%E4%B8%80%E8%A8%80V3.js) | 让指定的角色随机说一句话并且转换成语音！ |
 | [表情制作](https://gitee.com/huangshx2001/yunzai-js-plug-in) | [@癫癫博士](https://gitee.com/huangshx2001)          |        | ✔      | [v3](https://gitee.com/huangshx2001/yunzai-js-plug-in/raw/master/%E8%A1%A8%E6%83%85%E5%88%B6%E4%BD%9C1.2(V3%E6%97%A0%E9%9C%80py).js) | 无需python就可体验表情制作功能，时不时增加支持的表情！       |
