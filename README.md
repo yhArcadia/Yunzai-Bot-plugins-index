@@ -11,6 +11,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
+| [TRSS 插件 ![TRSS 插件](https://github-readme-stats.vercel.app/api/pin/?username=TimeRainStarSky&repo=TRSS-Plugin&show_owner=true)](../../../../TimeRainStarSky/TRSS-Plugin) | [@时雨🌌星空](../../../../TimeRainStarSky) | | ✔ | 原神语音合成 |
 | [Guoba-Plugin](https://github.com/guoba-yunzai/guoba-plugin) | [@zolay-poi](https://github.com/zolay-poi) | | ✔ | 主要提供云崽的网页端后台管理界面 |
 | Xt-plugin | @xt | | ✔ | 管理js插件。因误屏蔽原因，请到[github插件库](https://github.com/yhArcadia/Yunzai-Bot-plugins-index)查看 |
 | [windoge-plugin](https://github.com/gxy12345/windoge-plugin) | [@gxy12345](https://github.com/gxy12345) | ✔ | ✔ | 提供一些国际服便捷功能，以及继续维护参考面板数据 |
