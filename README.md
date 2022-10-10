@@ -44,6 +44,7 @@
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
+| [谁艾特我](https://gitee.com/Saury-loser/Saury) | [@Saury](https://gitee.com/Saury-loser) |   | ✔ | [v3](https://gitee.com/Saury-loser/Saury/raw/master/%E8%B0%81%E8%89%BE%E7%89%B9%E6%88%91.js) | 你点进一个99+的QQ群，发现有人艾特/回复过你，你满心期待地去查看，结果腾讯告诉你消息过多无法定义到上下文。现在你只需要这个插件即可找出到底是谁艾特了你。  |
 | [以文生图](https://gitee.com/Saury-loser/Saury) | [@Saury](https://gitee.com/Saury-loser) |   | ✔ | [v3](https://gitee.com/Saury-loser/Saury/raw/master/%E4%BB%A5%E6%96%87%E7%94%9F%E5%9B%BE.js) | 根据输入的文案AI作画  |
 | [今日日报插件](https://github.com/MuXia-0326/YunzaiBotJsPluginMuXia) | [@MuXia](https://github.com/MuXia-0326) | | ✔ | [v3](https://github.com/MuXia-0326/YunzaiBotJsPluginMuXia/blob/master/my_plugin_get_day_news.js) | 获取易即今日公众号的今日日报，支持自定义公众号（自行查看源码） |
 | [点歌插件](https://gitee.com/xfdown/yun-zai-robot-plug-in/) | [@小飞](https://gitee.com/xfdown) | | ✔ | [v3](https://gitee.com/xfdown/yun-zai-robot-plug-in/raw/master/%E7%82%B9%E6%AD%8C%E6%8F%92%E4%BB%B6.js) | QQ/网易/酷我/酷狗点歌（支持多选） |
