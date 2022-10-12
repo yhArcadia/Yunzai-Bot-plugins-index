@@ -45,6 +45,7 @@
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
+| [QA问答](https://gitee.com/xianxincoder/plugins) | [@闲心](https://gitee.com/xianxincoder) |   | ✔ | [v3](https://gitee.com/xianxincoder/plugins/raw/master/QA%E9%97%AE%E7%AD%94.js) | QA问答小插件，其中内置多种问答类互动功能 |
 | [谁艾特我](https://gitee.com/Saury-loser/Saury) | [@Saury](https://gitee.com/Saury-loser) |   | ✔ | [v3](https://gitee.com/Saury-loser/Saury/raw/master/%E8%B0%81%E8%89%BE%E7%89%B9%E6%88%91.js) | 你点进一个99+的QQ群，发现有人艾特/回复过你，你满心期待地去查看，结果腾讯告诉你消息过多无法定义到上下文。现在你只需要这个插件即可找出到底是谁艾特了你。  |
 | [以文生图](https://gitee.com/Saury-loser/Saury) | [@Saury](https://gitee.com/Saury-loser) |   | ✔ | [v3](https://gitee.com/Saury-loser/Saury/raw/master/%E4%BB%A5%E6%96%87%E7%94%9F%E5%9B%BE.js) | 根据输入的文案AI作画  |
 | [鸭鸭照插件](https://github.com/MuXia-0326/YunzaiBotJsPluginMuXia) | [@MuXia](https://github.com/MuXia-0326) | | ✔ | [v3](https://github.com/MuXia-0326/YunzaiBotJsPluginMuXia/blob/master/muxia_duck_img.js) | 主动进行 **早上好鸭** **中午好鸭** **晚上好鸭** **晚安鸭** 问好 |
