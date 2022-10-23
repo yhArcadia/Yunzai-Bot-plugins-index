@@ -11,29 +11,29 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
-| [Guoba-Plugin](https://github.com/guoba-yunzai/guoba-plugin) | [@zolay-poi](https://github.com/zolay-poi) | | ✔ | 主要提供云崽的网页端后台管理界面 |
-| [Xitian-plugin](https://github.com/XiTianGame/xitian-plugin) | [@戏天](https://github.com/XiTianGame) | | ✔ | 提供js类插件管理功能 |
-| [TRSS 插件 ![TRSS 插件](https://github-readme-stats.vercel.app/api/pin/?username=TimeRainStarSky&repo=TRSS-Plugin&show_owner=true)](../../../../TimeRainStarSky/TRSS-Plugin) | [@时雨🌌星空](../../../../TimeRainStarSky) | | ✔ | 原神语音合成 |
+| [锅巴插件 (guoba-plugin)](https://github.com/guoba-yunzai/guoba-plugin) | [@zolay-poi](https://github.com/zolay-poi) | | ✔ | 主要提供云崽的网页端后台管理界面 |
+| [戏天插件 (xitian-plugin)](https://github.com/XiTianGame/xitian-plugin) | [@戏天](https://github.com/XiTianGame) | | ✔ | 提供js类插件管理功能 |
+| [TRSS 插件 (TRSS-Plugin)](../../../../TimeRainStarSky/TRSS-Plugin) | [@时雨🌌星空](../../../../TimeRainStarSky) | | ✔ | 图片修复(提高清晰度)、原神语音合成 |
 | [windoge-plugin](https://github.com/gxy12345/windoge-plugin) | [@gxy12345](https://github.com/gxy12345) | ✔ | ✔ | 提供一些国际服便捷功能，以及继续维护参考面板数据 |
-| [Yenai-plugin](https://gitee.com/yeyang52/yenai-plugin) | [@椰羊](https://gitee.com/yeyang52)| | ✔ | 提供对bot的一些便携操作 |
-| [xiaofei-plugin](https://gitee.com/xfdown/xiaofei-plugin) | [@小飞](https://gitee.com/xfdown) | | ✔ | Yunzai-Bot插件 |
+| [椰奶插件 (yenai-plugin)](https://gitee.com/yeyang52/yenai-plugin) | [@椰羊](https://gitee.com/yeyang52)| | ✔ | 提供对bot的一些便携操作 |
+| [小飞插件 (xiaofei-plugin)](https://gitee.com/xfdown/xiaofei-plugin) | [@小飞](https://gitee.com/xfdown) | | ✔ | Yunzai-Bot插件 |
 | [l-plugin](https://github.com/liuly0322/l-plugin) | [@liuly0322](https://github.com/liuly0322) | | ✔ | 塔罗牌，抽签，骰子，今天吃什么，tex图片等 |
-| [土块插件](https://gitee.com/SmallK111407/earth-k-plugin) | [@SunRyK曉K](https://gitee.com/SmallK111407)  [@地球生物](https://gitee.com/jiang-zhitao-1)| | ✔ | 提供了猜语音、打我、练习记忆力小游戏，AI画图，卜卦，图片可视化点歌/视频/小说/漫画，原史（原神角色/圣遗物/武器/NPC等背景故事等）等功能 |
-| [lin-Plugin](https://gitee.com/go-farther-and-farther/lin) | [@越追越远](https://gitee.com/go-farther-and-farther) | | ✔ | 提供了QQ群内决斗小游戏、随机时间给全部好友点赞、点歌和点动漫（支持选择歌曲版本） |
-| [Icepray-plugin](https://gitee.com/koinori/Icepray-plugin) | [@koinori](https://gitee.com/koinori) | | ✔ | 主要提供一些冰祈Bot的娱乐功能 |
+| [土块插件 (earth-k-plugin)](https://gitee.com/SmallK111407/earth-k-plugin) | [@SunRyK曉K](https://gitee.com/SmallK111407)  [@地球生物](https://gitee.com/jiang-zhitao-1)| | ✔ | 提供了猜语音、打我、练习记忆力小游戏，AI画图，卜卦，图片可视化点歌/视频/小说/漫画，原史（原神角色/圣遗物/武器/NPC等背景故事等）等功能 |
+| [麟插件 (lin-plugin)](https://gitee.com/go-farther-and-farther/lin) | [@越追越远](https://gitee.com/go-farther-and-farther) | | ✔ | 提供了QQ群内决斗小游戏、随机时间给全部好友点赞、点歌和点动漫（支持选择歌曲版本） |
+| [冰祈插件 (Icepray-plugin)](https://gitee.com/koinori/Icepray-plugin) | [@koinori](https://gitee.com/koinori) | | ✔ | 主要提供一些冰祈Bot的娱乐功能 |
 | [ATRI-plugin ](https://gitee.com/magical_modoka/ATRI-plugin) | [@70loKirin](https://github.com/70loKirin) |   | ✔ | 生成亚托莉（atri）酱的语音并发送，需本地部署一个项目，配置略显麻烦，返回速度较慢（10s左右） |
-| [小雪插件 ](https://gitee.com/XueWerY/xiaoxue-plugin) | [@XueWerY](https://gitee.com/XueWerY) |   | ✔ | 是一个追求用户体验和完美的插件 |
-| [xiuxian-emulator-plugin ](https://gitee.com/waterfeet/xiuxian-emulator-plugin) | [@waterfeet](https://gitee.com/waterfeet) |   | ✔ | 是一个"修仙模拟器" |
-| [碎月plugin ](https://gitee.com/Acceleratorsky/suiyue)|[@碎月](https://gitee.com/Acceleratorsky)|   | ✔ |疫情，清晰度提升，搜番，搜磁力，疯狂星期四，计算器 |
-| [xianxin-plugin ](https://gitee.com/xianxincoder/xianxin-plugin) |[@闲心](https://gitee.com/xianxincoder)|   | ✔ |是一个集米游社cos、米游社wiki攻略、B站up动态推送(支持长图模式)、神秘指令、群战小游戏、五子棋、21点等功能的插件|
-| [zhi-plugin](https://github.com/HeadmasterTan/zhi-plugin)    | [@HeadmasterTan](https://github.com/HeadmasterTan) | ✔ | ✔ | 提供B站动态推送。优化云崽的“添加”功能，可在同一触发词下添加多个回复 |
-| [成就插件](https://github.com/zolay-poi/achievements-plugin) | [@zolay-poi](https://github.com/zolay-poi) | ✔ | ✔ | 提供成就查漏、成就搜索等功能 |
+| [小雪插件 (xiaoxue-plugin)](https://gitee.com/XueWerY/xiaoxue-plugin) | [@XueWerY](https://gitee.com/XueWerY) |   | ✔ | 是一个追求用户体验和完美的插件 |
+| [修仙插件 (xiuxian-emulator-plugin)](https://gitee.com/waterfeet/xiuxian-emulator-plugin) | [@waterfeet](https://gitee.com/waterfeet) |   | ✔ | 是一个"修仙模拟器" |
+| [碎月插件 (suiyue)](https://gitee.com/Acceleratorsky/suiyue)|[@碎月](https://gitee.com/Acceleratorsky)|   | ✔ |疫情，清晰度提升，搜番，搜磁力，疯狂星期四，计算器 |
+| [闲心插件 (xianxin-plugin)](https://gitee.com/xianxincoder/xianxin-plugin) |[@闲心](https://gitee.com/xianxincoder)|   | ✔ |是一个集米游社cos、米游社wiki攻略、B站up动态推送(支持长图模式)、神秘指令、群战小游戏、五子棋、21点等功能的插件|
+| [白纸插件 (zhi-plugin)](https://github.com/HeadmasterTan/zhi-plugin)    | [@HeadmasterTan](https://github.com/HeadmasterTan) | ✔ | ✔ | 提供B站动态推送。优化云崽的“添加”功能，可在同一触发词下添加多个回复 |
+| [成就插件 (achievements-plugin)](https://github.com/zolay-poi/achievements-plugin) | [@zolay-poi](https://github.com/zolay-poi) | ✔ | ✔ | 提供成就查漏、成就搜索等功能 |
 | [howe-plugin](https://github.com/howe0116/howe-plugin)       | [@howe0116](https://github.com/howe0116)   | ✔ |   | 提供角色参考面板 |
-| [Flower-plugin ](https://gitee.com/Nwflower/flower-plugin) | [@西北一枝花](https://gitee.com/Nwflower/) |   | ✔ | 百连、单抽、转生、更新群名片、设置头衔xxx、谁是卧底、#抽卡设置、#设置抽卡、#我的卡池、文字狱 |
+| [抽卡插件 (flower-plugin)](https://gitee.com/Nwflower/flower-plugin) | [@西北一枝花](https://gitee.com/Nwflower/) |   | ✔ | 百连、单抽、转生、更新群名片、设置头衔xxx、谁是卧底、#抽卡设置、#设置抽卡、#我的卡池、文字狱 |
 | [ayaka-plugin](https://github.com/lumie-fx/ayaka-plugin)     | [@lumie-fx](https://github.com/lumie-fx)   | ✔  |  | 模拟抽卡和圣遗物 |
-| [fen-plugin](https://gitee.com/litefen/fen-plugin)           | [@小粉litefen](https://gitee.com/litefen)  | ✔ |   |色色就要挨打，发群主女装要承担代价 |
-| [喵喵插件Miao-Plugin](https://gitee.com/yoimiya-kokomi/miao-plugin) | [@喵喵](https://gitee.com/yoimiya-kokomi)| ✔ | ✔ | Miao-Plugin是一个Yunzai-Bot的升级插件，提供包括角色面板查询等升级功能 |
-| [yiyi-plugin](https://gitee.com/cv-hunag/yiyi-plugin)|[@煌](https://gitee.com/cv-hunag) | ✔ |   | yiyi-plugin是Yunzai-Bot的垃圾插件.现作者已摆烂，处于废弃状态. |
+| [粉酱插件 (fen-plugin)](https://gitee.com/litefen/fen-plugin)           | [@小粉litefen](https://gitee.com/litefen)  | ✔ |   |色色就要挨打，发群主女装要承担代价 |
+| [喵喵插件 (miao-plugin)](https://gitee.com/yoimiya-kokomi/miao-plugin) | [@喵喵](https://gitee.com/yoimiya-kokomi)| ✔ | ✔ | Miao-Plugin是一个Yunzai-Bot的升级插件，提供包括角色面板查询等升级功能 |
+| [伊伊插件 (yiyi-plugin)](https://gitee.com/cv-hunag/yiyi-plugin)|[@煌](https://gitee.com/cv-hunag) | ✔ |   | yiyi-plugin是Yunzai-Bot的垃圾插件.现作者已摆烂，处于废弃状态. |
 <!-- 请不要在此处添加行，请在顶部添加 -->
 <br>
 
@@ -74,7 +74,7 @@
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
-| [TRSS Yunzai 管理脚本 ![TRSS Yunzai 管理脚本](https://github-readme-stats.vercel.app/api/pin/?username=TimeRainStarSky&repo=TRSS_Yunzai&show_owner=true)](../../../../TimeRainStarSky/TRSS_Yunzai) | [@时雨🌌星空](../../../../TimeRainStarSky) | 提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Android Termux 和 Linux 服务器 |
+| [TRSS Yunzai 管理脚本](../../../../TimeRainStarSky/TRSS_Yunzai) | [@时雨🌌星空](../../../../TimeRainStarSky) | 提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Windows(WSL) / Linux / Mac / Android |
 | [Yunzai-Bot-Help](https://gitee.com/ningmengchongshui/Yunzai-Bot-Help) | [@柠檬冲水](https://github.com/ningmengchongshui) | 专为Centos/Ubuntu系统设计的快捷型一键安装Yunzai-BotV2&V3图形化工具 |
 | [体力小组件](https://github.com/OctoberCK/genshinhelper) | [@雁潮](https://github.com/OctoberCK) | 实现ios桌面小组件实时显示体力、派遣、委托情况 |
 | [Yunzai-Bot 文档中心](https://github.com/Xm798/Yunzai-Bot-Docs) | [@Xm798](https://github.com/Xm798) | 正在建设中。[文档地址](https://docs.yunzai.org/) |
