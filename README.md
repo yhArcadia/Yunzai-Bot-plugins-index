@@ -11,6 +11,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
+| [修仙插件 (xiuxian-emulator-plugin)](https://gitee.com/ningmengchongshui/xiuxian-emulator-plugin) | [@柠檬冲水](https://gitee.com/ningmengchongshui) |   | ✔ | 修仙模拟器2.0开发者测试版，全新框架，支持自定义帮助、配置与所有魔改扩展 |
 | [AI语音本地生成(vits_yunzai_plugin)](https://gitee.com/sumght/vits_yunzai_plugin) | [@sumght-z](https://github.com/sumght-z) | | ✔ | 基于vits本地生成原神/崩三语音，可以自行添加更多模型进行更多音色语音合成 [github地址](https://github.com/sumght-z/vits_yunzai_plugin)|
 | [锅巴插件 (guoba-plugin)](https://github.com/guoba-yunzai/guoba-plugin) | [@zolay-poi](https://github.com/zolay-poi) | | ✔ | 主要提供云崽的网页端后台管理界面 |
 | [戏天插件 (xitian-plugin)](https://github.com/XiTianGame/xitian-plugin) | [@戏天](https://github.com/XiTianGame) | | ✔ | 提供js类插件管理功能 |
@@ -23,7 +24,6 @@
 | [麟插件 (lin-plugin)](https://gitee.com/go-farther-and-farther/lin) | [@越追越远](https://gitee.com/go-farther-and-farther) | | ✔ | 提供了QQ群内决斗小游戏、随机时间给全部好友点赞、点歌和点动漫（支持选择歌曲版本） |
 | [ATRI-plugin ](https://gitee.com/magical_modoka/ATRI-plugin) | [@70loKirin](https://github.com/70loKirin) |   | ✔ | 生成亚托莉（atri）酱的语音并发送，需本地部署一个项目，配置略显麻烦，返回速度较慢（10s左右） |
 | [小雪插件 (xiaoxue-plugin)](https://gitee.com/XueWerY/xiaoxue-plugin) | [@XueWerY](https://gitee.com/XueWerY) |   | ✔ | 是一个追求用户体验和完美的插件 |
-| [修仙插件 (xiuxian-emulator-plugin)](https://gitee.com/waterfeet/xiuxian-emulator-plugin) | [@waterfeet](https://gitee.com/waterfeet) |   | ✔ | 是一个"修仙模拟器" |
 | [碎月插件 (suiyue)](https://gitee.com/Acceleratorsky/suiyue)|[@碎月](https://gitee.com/Acceleratorsky)|   | ✔ |疫情，清晰度提升，搜番，搜磁力，疯狂星期四，计算器 |
 | [闲心插件 (xianxin-plugin)](https://gitee.com/xianxincoder/xianxin-plugin) |[@闲心](https://gitee.com/xianxincoder)|   | ✔ |是一个集米游社cos、米游社wiki攻略、B站up动态推送(支持长图模式)、神秘指令、群战小游戏、五子棋、21点等功能的插件|
 | [白纸插件 (zhi-plugin)](https://github.com/HeadmasterTan/zhi-plugin)    | [@HeadmasterTan](https://github.com/HeadmasterTan) | ✔ | ✔ | 提供B站动态推送。优化云崽的“添加”功能，可在同一触发词下添加多个回复 |
