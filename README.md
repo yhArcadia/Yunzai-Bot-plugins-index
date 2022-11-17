@@ -44,6 +44,7 @@
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
+| [更换节点](https://gitee.com/ThreeYi/sy_js_plugin) | [@sanyi](https://gitee.com/ThreeYi) | | ✔ | [v3](https://gitee.com/ThreeYi/sy_js_plugin/blob/master/%E6%9B%B4%E6%8D%A2%E8%8A%82%E7%82%B9.js)| 更换面板更新服务器 |
 | [摸鱼人日历](https://github.com/AiYuuki/Yuuki-plugin-mini) | [@夕綺Yuuki](https://github.com/AiYuuki) | | ✔ | [v3](https://github.com/AiYuuki/Yuuki-plugin-mini/blob/main/Yuuki-mini-moyu.js)| 获取每日摸鱼人日报，支持自动推送 |
 | [能不能好好说话](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin)|[@bling丶一闪](https://gitee.com/bling_yshs)|   | ✔ | [v3](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin/blob/master/%E8%83%BD%E4%B8%8D%E8%83%BD%E5%A5%BD%E5%A5%BD%E8%AF%B4%E8%AF%9D.js)|发送拼音缩写可以得到原本的意思(注意需要安装一个依赖，请查看源码最上方的注释)|
 | [入群验证](https://gitee.com/kesally/YzBotJsPluginLibrary) | [@kesally](https://gitee.com/kesally) |   | ✔ | [v3](https://gitee.com/kesally/YzBotJsPluginLibrary/blob/master/v3/%E5%85%A5%E7%BE%A4%E9%AA%8C%E8%AF%81%E7%A0%81v3%20By%20kesally.js) | 对于无人工审核的群聊来防止机器人加群 |
