@@ -12,9 +12,9 @@
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
 | [锅巴插件 (guoba-plugin)](https://github.com/guoba-yunzai/guoba-plugin) | [@zolay-poi](https://github.com/zolay-poi) | | ✔ | 主要提供云崽的网页端后台管理界面 |
-| [戏天插件 (xitian-plugin)](https://github.com/XiTianGame/xitian-plugin) | [@戏天](https://github.com/XiTianGame) | | ✔ | 提供js类插件管理功能 |
-|[榴莲插件(liulian-plugin)](https://gitee.com/huifeidemangguomao/liulian-plugin) |[@会飞的芒果猫](https://gitee.com/huifeidemangguomao) | ✔ | ✔ | 提供须弥地下地图，插件管理，一些群聊功能等 |
-| [修仙插件 (xiuxian-emulator-plugin)](https://gitee.com/ningmengchongshui/xiuxian-emulator-plugin) | [@柠檬冲水](https://gitee.com/ningmengchongshui) |   | ✔ | 修仙模拟器2.0开发者测试版，全新框架，支持自定义帮助、配置与所有魔改扩展 |
+| [戏天插件 (xitian-plugin)](https://github.com/XiTianGame/xitian-plugin) | [@戏天](https://github.com/XiTianGame) | | ✔ | 提供js类插件管理功能 | 
+| [榴莲插件(liulian-plugin)](https://gitee.com/huifeidemangguomao/liulian-plugin) |[@会飞的芒果猫](https://gitee.com/huifeidemangguomao) | ✔ | ✔ | 提供须弥地下地图，插件管理，一些群聊功能等 |
+| [修仙插件 (xiuxian-emulator-plugin)](https://gitee.com/ningmengchongshui/xiuxian-emulator-plugin) | [@柠檬冲水](https://gitee.com/ningmengchongshui) |   | ✔ | 修仙模拟盒2.0，全新的游戏框架，高自由度的玩法，可自由组合喜欢的功能，支持自定义帮助、配置 | 
 | [修仙插件(魔改版)](https://gitee.com/hutao222/DDZS-XIUXIAN-V1.2.2.git) | [@DD斩首](https://gitee.com/hutao222) |   | ✔ | 基于修仙模拟器V1.2.1上进行大量魔改,装备·道具种类略胜2.0,玩法,数值优化与2.0不分伯仲,代码上较2.0略差(加新东西时可能存在些许bug) |
 | [AI语音本地生成(vits_yunzai_plugin)](https://gitee.com/sumght/vits_yunzai_plugin) | [@sumght-z](https://github.com/sumght-z) | | ✔ | 基于vits本地生成原神/崩三语音，可以自行添加更多模型进行更多音色语音合成 [github地址](https://github.com/sumght-z/vits_yunzai_plugin)|
 | [TRSS 插件 (TRSS-Plugin)](../../../../TimeRainStarSky/TRSS-Plugin) | [@时雨🌌星空](../../../../TimeRainStarSky) | | ✔ | 图片修复(提高清晰度)、原神语音合成 |
@@ -80,7 +80,7 @@
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
 | [TRSS Yunzai 管理脚本](../../../../TimeRainStarSky/TRSS_Yunzai) | [@时雨🌌星空](../../../../TimeRainStarSky) | 提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Windows(WSL) / Linux / Mac / Android |
-| [Yunzai-Bot-Help](https://gitee.com/ningmengchongshui/Yunzai-Bot-Help) | [@柠檬冲水](https://github.com/ningmengchongshui) | 专为Centos/Ubuntu系统设计的快捷型一键安装Yunzai-BotV2&V3图形化工具 |
+| [Yunzai-Bot-Help](https://gitee.com/ningmengchongshui/Yunzai-Bot-Help) | [@柠檬冲水](https://github.com/ningmengchongshui) | Centos/Ubuntu系统轻量型图形化工具 |
 | [体力小组件](https://github.com/OctoberCK/genshinhelper) | [@雁潮](https://github.com/OctoberCK) | 实现ios桌面小组件实时显示体力、派遣、委托情况 |
 | [Yunzai-Bot 文档中心](https://github.com/Xm798/Yunzai-Bot-Docs) | [@Xm798](https://github.com/Xm798) | 正在建设中。[文档地址](https://docs.yunzai.org/) |
 | [Windows安装教程](https://github.com/kirigirisan/Windows-Install-Yunzai-Bot) | [@kirigirisan](https://github.com/kirigirisan) | Windows系统下Yunzai-Bot安装教程 |
