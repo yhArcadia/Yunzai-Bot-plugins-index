@@ -14,6 +14,7 @@
 | [锅巴插件 (guoba-plugin)](https://github.com/guoba-yunzai/guoba-plugin) | [@zolay-poi](https://github.com/zolay-poi) | | ✔ | 主要提供云崽的网页端后台管理界面 |
 | [戏天插件 (xitian-plugin)](https://github.com/XiTianGame/xitian-plugin) | [@戏天](https://github.com/XiTianGame) | | ✔ | 提供js类插件管理功能 |
 | [修仙插件 (xiuxian-emulator-plugin)](https://gitee.com/ningmengchongshui/xiuxian-emulator-plugin) | [@柠檬冲水](https://gitee.com/ningmengchongshui) |   | ✔ | 修仙模拟器2.0开发者测试版，全新框架，支持自定义帮助、配置与所有魔改扩展 |
+| [修仙插件(魔改版)](https://gitee.com/hutao222/DDZS-XIUXIAN-V1.2.2.git) | [@DD斩首](https://gitee.com/hutao222) |   | ✔ | 基于修仙模拟器V1.2.1上进行大量魔改,装备·道具种类略胜2.0,玩法,数值优化与2.0不分伯仲,代码上较2.0略差(加新东西时可能存在些许bug) |
 | [AI语音本地生成(vits_yunzai_plugin)](https://gitee.com/sumght/vits_yunzai_plugin) | [@sumght-z](https://github.com/sumght-z) | | ✔ | 基于vits本地生成原神/崩三语音，可以自行添加更多模型进行更多音色语音合成 [github地址](https://github.com/sumght-z/vits_yunzai_plugin)|
 | [TRSS 插件 (TRSS-Plugin)](../../../../TimeRainStarSky/TRSS-Plugin) | [@时雨🌌星空](../../../../TimeRainStarSky) | | ✔ | 图片修复(提高清晰度)、原神语音合成 |
 | [windoge-plugin](https://github.com/gxy12345/windoge-plugin) | [@gxy12345](https://github.com/gxy12345) | ✔ | ✔ | 提供一些国际服便捷功能，以及继续维护参考面板数据 |
