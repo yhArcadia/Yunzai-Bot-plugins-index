@@ -11,11 +11,11 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
+| [锅巴插件 (guoba-plugin)](https://github.com/guoba-yunzai/guoba-plugin) | [@zolay-poi](https://github.com/zolay-poi) | | ✔ | 主要提供云崽的网页端后台管理界面 |
+| [戏天插件 (xitian-plugin)](https://github.com/XiTianGame/xitian-plugin) | [@戏天](https://github.com/XiTianGame) | | ✔ | 提供js类插件管理功能 | 
 | [Recreation-plugin](https://github.com/QiuLing0/recreation-plugin) | [@QiuLing0](https://github.com/QiuLing0) | | ✔ | 娱乐插件 |
 | [冰祈插件（Icepray-plugin）](https://gitee.com/koinori/Icepray-plugin) | [@koinori](https://gitee.com/koinori) | | ✔ | 休闲插件 |
 | [Python插件（py-plugin)](https://gitee.com/realhuhu/py-plugin) | [@realhuhu](https://gitee.com/realhuhu) | | ✔ | 主要提供py服务或者套娃（？）|
-| [锅巴插件 (guoba-plugin)](https://github.com/guoba-yunzai/guoba-plugin) | [@zolay-poi](https://github.com/zolay-poi) | | ✔ | 主要提供云崽的网页端后台管理界面 |
-| [戏天插件 (xitian-plugin)](https://github.com/XiTianGame/xitian-plugin) | [@戏天](https://github.com/XiTianGame) | | ✔ | 提供js类插件管理功能 | 
 | [榴莲插件(liulian-plugin)](https://gitee.com/huifeidemangguomao/liulian-plugin) |[@会飞的芒果猫](https://gitee.com/huifeidemangguomao) | ✔ | ✔ | 提供须弥地下地图，插件管理，一些群聊功能等 |
 | [修仙插件 (xiuxian-emulator-plugin)](https://gitee.com/ningmengchongshui/xiuxian-emulator-plugin) | [@柠檬冲水](https://gitee.com/ningmengchongshui) |   | ✔ | 修仙模拟盒2.0，全新的游戏框架，高自由度的玩法，可自由组合喜欢的功能，支持自定义帮助、配置 | 
 | [修仙插件(魔改版)](https://gitee.com/hutao222/DDZS-XIUXIAN-V1.2.2.git) | [@DD斩首](https://gitee.com/hutao222) |   | ✔ | 基于修仙模拟器V1.2.1上进行大量魔改,装备·道具种类略胜2.0,玩法,数值优化与2.0不分伯仲,代码上较2.0略差(加新东西时可能存在些许bug) |
