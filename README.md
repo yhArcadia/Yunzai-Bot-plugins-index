@@ -32,7 +32,7 @@
 | [碎月插件 (suiyue)](https://gitee.com/Acceleratorsky/suiyue)|[@碎月](https://gitee.com/Acceleratorsky)|   | ✔ |疫情，清晰度提升，搜番，搜磁力，疯狂星期四，计算器 |
 | [闲心插件 (xianxin-plugin)](https://gitee.com/xianxincoder/xianxin-plugin) |[@闲心](https://gitee.com/xianxincoder)|   | ✔ |是一个集米游社cos、米游社wiki攻略、B站up动态推送(支持长图模式)、神秘指令、群战小游戏、五子棋、21点等功能的插件|
 | [白纸插件 (zhi-plugin)](https://github.com/HeadmasterTan/zhi-plugin)    | [@HeadmasterTan](https://github.com/HeadmasterTan) | ✔ | ✔ | 提供B站动态推送。优化云崽的“添加”功能，可在同一触发词下添加多个回复 |
-| [成就插件 (achievements-plugin)](https://github.com/zolay-poi/achievements-plugin) | [@zolay-poi](https://github.com/zolay-poi) | ✔ | ✔ | 提供成就查漏、成就搜索等功能 |
+| [成就插件 (achievements-plugin)](https://gitee.com/zolay-poi/achievements-plugin) | [@zolay-poi](https://gitee.com/zolay-poi) | ✔ | ✔ | 提供成就查漏、成就搜索等功能 |
 | [howe-plugin](https://github.com/howe0116/howe-plugin)       | [@howe0116](https://github.com/howe0116)   | ✔ |   | 提供角色参考面板 |
 | [抽卡插件 (flower-plugin)](https://gitee.com/Nwflower/flower-plugin) | [@西北一枝花](https://gitee.com/Nwflower/) |   | ✔ | 百连、单抽、转生、更新群名片、设置头衔xxx、谁是卧底、#抽卡设置、#设置抽卡、#我的卡池、文字狱 |
 | [ayaka-plugin](https://github.com/lumie-fx/ayaka-plugin)     | [@lumie-fx](https://github.com/lumie-fx)   | ✔  |  | 模拟抽卡和圣遗物 |
