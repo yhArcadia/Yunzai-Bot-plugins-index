@@ -13,6 +13,7 @@
 |-------| ----- | ------ | ------|------ |
 | [锅巴插件 (guoba-plugin)](https://github.com/guoba-yunzai/guoba-plugin) | [@zolay-poi](https://github.com/zolay-poi) | | ✔ | 主要提供云崽的网页端后台管理界面 |
 | [戏天插件 (xitian-plugin)](https://github.com/XiTianGame/xitian-plugin) | [@戏天](https://github.com/XiTianGame) | | ✔ | 提供js类插件管理功能 | 
+| [圣遗物、武器与角色材料 (Atlas)](https://gitee.com/Nwflower/atlas) | [@西北一枝花](https://gitee.com/Nwflower/) |   | ✔ | 原神圣遗物、武器图鉴与角色材料，支持热更新 |
 | [枫叶插件(hs-qiqi-Plugin)](https://gitee.com/huasheng1999/hs-qiqi-plugin?_from=gitee_search) | [@huasheng1999](https://gitee.com/huasheng1999) | | ✔ |  枫叶插件是一个Yunzai-Bot的扩展插件，给bot提供一些有趣的功能 |
 | [虚空插件(Akasha-Terminal-plugin)](https://gitee.com/go-farther-and-farther/akasha-terminal-plugin?_from=gitee_search) | [@越追越远](https://gitee.com/go-farther-and-farther) | | ✔  | 提供群内决斗游戏 |
 | [Recreation-plugin](https://github.com/QiuLing0/recreation-plugin) | [@QiuLing0](https://github.com/QiuLing0) | | ✔ | 娱乐插件 |
