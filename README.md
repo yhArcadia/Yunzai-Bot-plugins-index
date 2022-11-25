@@ -87,6 +87,7 @@
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
 | [TRSS Yunzai 管理脚本](../../../../TimeRainStarSky/TRSS_Yunzai) | [@时雨🌌星空](../../../../TimeRainStarSky) | 提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Windows(WSL) / Linux / Mac / Android |
+| [Yunzai-Bot Ubuntu CentOS一键脚本](https://github.com/YAOyao5917/Yunzai-Bot-shell) | [@妖云网络-妖妖](https://github.com/YAOyao5917) | 提供 Yunzai-Bot-shell Linux轻量级云崽一键安装脚本 |
 | [Yunzai-Bot-Help](https://gitee.com/ningmengchongshui/Yunzai-Bot-Help) | [@柠檬冲水](https://github.com/ningmengchongshui) | Centos/Ubuntu系统轻量型图形化工具 |
 | [体力小组件](https://github.com/OctoberCK/genshinhelper) | [@雁潮](https://github.com/OctoberCK) | 实现ios桌面小组件实时显示体力、派遣、委托情况 |
 | [Yunzai-Bot 文档中心](https://github.com/Xm798/Yunzai-Bot-Docs) | [@Xm798](https://github.com/Xm798) | 正在建设中。[文档地址](https://docs.yunzai.org/) |
