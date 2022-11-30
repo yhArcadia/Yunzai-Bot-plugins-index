@@ -52,6 +52,7 @@
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
+| [须弥地图](https://gitee.com/txlx/resell-mapjs) | [@txlx](https://gitee.com/txlx) | | ✔ |[v3](https://gitee.com/txlx/resell-mapjs/raw/tx/mapmax.js)| 倒卖榴莲插件中的地图功能,某大佬帮助修改升级 |
 | [give_me_some_heis](https://gitee.com/koinori/give_me_some_heis) | [@koinori](https://gitee.com/koinori) | ✔  | ✔ | [v2](https://gitee.com/koinori/give_me_some_heis/blob/master/give_me_some_heisV2.js) [v3](https://gitee.com/koinori/give_me_some_heis/blob/master/give_me_some_heisV3.js)| 麻溜滴，来点黑丝/白丝/jk/巨r/网红/足控三次元美图 |
 | [更换节点](https://gitee.com/ThreeYi/sy_js_plugin) | [@sanyi](https://gitee.com/ThreeYi) | | ✔ | [v3](https://gitee.com/ThreeYi/sy_js_plugin/blob/master/%E6%9B%B4%E6%8D%A2%E8%8A%82%E7%82%B9.js)| 更换面板更新服务器 |
 | [摸鱼人日历](https://github.com/AiYuuki/Yuuki-plugin-mini) | [@夕綺Yuuki](https://github.com/AiYuuki) | | ✔ | [v3](https://github.com/AiYuuki/Yuuki-plugin-mini/blob/main/Yuuki-mini-moyu.js)| 获取每日摸鱼人日报，支持自动推送 |
