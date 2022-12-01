@@ -13,9 +13,10 @@
 |-------| ----- | ------ | ------|------ |
 | [锅巴插件 (guoba-plugin)](https://github.com/guoba-yunzai/guoba-plugin) | [@zolay-poi](https://github.com/zolay-poi) | | ✔ | 主要提供云崽的网页端后台管理界面 |
 | [戏天插件 (xitian-plugin)](https://github.com/XiTianGame/xitian-plugin) | [@戏天](https://github.com/XiTianGame) | | ✔ | 提供js类插件管理功能 | 
+| [止水插件(zhishui-plugin)](https://gitee.com/fjcq/zhishui-plugin) | [@止水](https://gitee.com/fjcq) | | ✔ | 搜剧插件 |
 | [图鉴 (Atlas)](https://gitee.com/Nwflower/atlas) | [@西北一枝花](https://gitee.com/Nwflower/) |   | ✔ | 原神圣遗物、武器、七圣召唤图鉴与角色材料，支持热更新 |
-| [枫叶插件(hs-qiqi-Plugin)](https://gitee.com/huasheng1999/hs-qiqi-plugin?_from=gitee_search) | [@huasheng](https://gitee.com/huasheng1999)  [@qiqi](https://gitee.com/fengyeplugin) | | ✔ |  枫叶插件是一个Yunzai-Bot的扩展插件，给bot提供一些有趣的功能 |
-| [虚空插件(Akasha-Terminal-plugin)](https://gitee.com/go-farther-and-farther/akasha-terminal-plugin?_from=gitee_search) | [@越追越远](https://gitee.com/go-farther-and-farther) | | ✔  | 提供群内决斗游戏 |
+| [枫叶插件(hs-qiqi-Plugin)](https://gitee.com/huasheng1999/hs-qiqi-plugin) | [@huasheng](https://gitee.com/huasheng1999)  [@qiqi](https://gitee.com/fengyeplugin) | | ✔ |  枫叶插件是一个Yunzai-Bot的扩展插件，给bot提供一些有趣的功能 |
+| [虚空插件(Akasha-Terminal-plugin)](https://gitee.com/go-farther-and-farther/akasha-terminal-plugin) | [@越追越远](https://gitee.com/go-farther-and-farther) | | ✔  | 提供群内决斗游戏 |
 | [Recreation-plugin](https://github.com/QiuLing0/recreation-plugin) | [@QiuLing0](https://github.com/QiuLing0) | | ✔ | 娱乐插件 |
 | [冰祈插件（Icepray-plugin）](https://gitee.com/koinori/Icepray-plugin) | [@koinori](https://gitee.com/koinori) | | ✔ | 休闲插件 |
 | [Python插件（py-plugin)](https://gitee.com/realhuhu/py-plugin) | [@realhuhu](https://gitee.com/realhuhu) | | ✔ | 主要提供py服务或者套娃（？）|
@@ -52,6 +53,7 @@
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
+| [云崽Bot账号管理插件](https://gitee.com/CUZNIL/Yunzai-QQmanager) | [@硫酸钡Barite](https://gitee.com/CUZNIL) | | ✔ | [v3](https://gitee.com/CUZNIL/Yunzai-QQmanager/blob/master/QQmanager.js) | 账号管理插件改写自[BeterKing的账号管理插件](https://gitee.com/zhxhx/Yunzai-Bot-js)，针对网络抖动造成的token丢失问题作出了临时解决，并大量优化了使用体验 |
 | [须弥地图](https://gitee.com/txlx/resell-mapjs) | [@txlx](https://gitee.com/txlx) | | ✔ |[v3](https://gitee.com/txlx/resell-mapjs/raw/tx/mapmax.js)| 倒卖榴莲插件中的地图功能,某大佬帮助修改升级 |
 | [give_me_some_heis](https://gitee.com/koinori/give_me_some_heis) | [@koinori](https://gitee.com/koinori) | ✔  | ✔ | [v2](https://gitee.com/koinori/give_me_some_heis/blob/master/give_me_some_heisV2.js) [v3](https://gitee.com/koinori/give_me_some_heis/blob/master/give_me_some_heisV3.js)| 麻溜滴，来点黑丝/白丝/jk/巨r/网红/足控三次元美图 |
 | [更换节点](https://gitee.com/ThreeYi/sy_js_plugin) | [@sanyi](https://gitee.com/ThreeYi) | | ✔ | [v3](https://gitee.com/ThreeYi/sy_js_plugin/blob/master/%E6%9B%B4%E6%8D%A2%E8%8A%82%E7%82%B9.js)| 更换面板更新服务器 |
@@ -87,6 +89,7 @@
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [termux一键安装云崽](https://gitee.com/baihu433/termux-Yunzai) | [@白狐](https://gitee.com/baihu433) | termux一键安装云崽，省去复杂的环境配置(仅适用于termux)
 | [TRSS Yunzai 管理脚本](../../../../TimeRainStarSky/TRSS_Yunzai) | [@时雨🌌星空](../../../../TimeRainStarSky) | 提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Windows / Linux / Mac / Android |
 | [Yunzai-Bot Ubuntu CentOS一键脚本](https://github.com/YAOyao5917/Yunzai-Bot-shell) | [@妖云网络-妖妖](https://github.com/YAOyao5917) | 提供 Yunzai-Bot-shell Linux轻量级云崽一键安装脚本 |
 | [Yunzai-Bot-Help](https://gitee.com/ningmengchongshui/Yunzai-Bot-Help) | [@柠檬冲水](https://github.com/ningmengchongshui) | Centos/Ubuntu系统轻量型图形化工具 |
