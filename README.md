@@ -11,7 +11,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
-| [yunzai-c-v-plugin(清凉图)](https://gitee.com/xwy231321/yunzai-c-v-plugin) | [@xwy](https://gitee.com/xwy231321) | | ✔ | 清凉图精简插件，群聊慎用 |
+| [清凉图插件(yunzai-c-v-plugin)](https://gitee.com/xwy231321/yunzai-c-v-plugin) | [@xwy](https://gitee.com/xwy231321) | | ✔ | 清凉图精简插件，群聊慎用 |
 | [小月插件 (tangxi-plugin)](https://gitee.com/txlx/tangxi-plugin) | [@溪欣梓](https://gitee.com/txlx) | | ✔ | 发送云溪院色图，本地图库，api图库,可以当作帮助插件使用需自行配置 |
 | [ChatGPT问答插件（chatgpt-plugin）](https://github.com/ikechan8370/yunzai-chatgpt) | [@ikechan8370](https://github.com/ikechan8370) |  | ✔ | 简单纯粹的基于OpenAI最新推出的chatgpt api进行问答的插件，需自备openai账号 |
 | [锅巴插件 (guoba-plugin)](https://gitee.com/guoba-yunzai/guoba-plugin) | [@zolay-poi](https://github.com/zolay-poi) | ✔ | ✔ | V3主要提供云崽的网页端后台管理界面功能；V2提供丝滑迁移V3功能。 |
