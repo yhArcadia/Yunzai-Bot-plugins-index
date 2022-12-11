@@ -55,6 +55,7 @@
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
+| [自定义对话](https://gitee.com/shuciqianye/yunzai-custom-dialogue-welm) | [@JD](https://gitee.com/jd66666) [@书辞千楪](https://gitee.com/shuciqianye) | | ✔ | [V3](https://gitee.com/shuciqianye/yunzai-custom-dialogue-welm/blob/master/WeLM(3.3).js) | 可根据自定义内容提供对话 |
 | [群管插件](https://gitee.com/clarlotte/Yunzai-Bot-V3-plugin) | [@clarlotte](https://gitee.com/clarlotte) | | ✔ | [v3](https://gitee.com/clarlotte/Yunzai-Bot-V3-plugin/raw/master/GroupSettings.js) | 提供Yunzai-Bot-V3的群管，部分功能仅支持Bot为群主，建议Bot为群主时使用该插件 |
 | [云崽Bot账号管理插件](https://gitee.com/CUZNIL/Yunzai-QQmanager) | [@硫酸钡Barite](https://gitee.com/CUZNIL) | | ✔ | [v3](https://gitee.com/CUZNIL/Yunzai-QQmanager/raw/master/QQmanager.js) | 账号管理插件改写自[BeterKing的账号管理插件](https://gitee.com/zhxhx/Yunzai-Bot-js)，针对网络抖动造成的token丢失问题作出了临时解决，并大量优化了使用体验 |
 | [须弥地图](https://gitee.com/txlx/resell-mapjs) | [@溪欣梓](https://gitee.com/txlx) | | ✔ |[v3](https://gitee.com/txlx/resell-mapjs/raw/tx/mapmax.js)| 倒卖榴莲插件中的地图功能,某大佬帮助修改升级 |
