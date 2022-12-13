@@ -95,7 +95,7 @@
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
 | [TRSS Yunzai 管理脚本](../../../../TimeRainStarSky/TRSS_Yunzai) | [@时雨🌌星空](../../../../TimeRainStarSky) | 提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Windows / Linux / Mac / Android |
-| [yunzai-install](https://gitee.com/txlx/yunzai-help) | [@溪欣梓](https://gitee.com/txlx) | 云崽命令行安装脚本 gitee用不了去[@github](https://github.com/txyxylx/yunzai-help)有时候莫名违规
+| [yunzai安装脚本](https://gitee.com/txlx/yunzai-help) | [@溪欣梓](https://gitee.com/txlx) | 手机与ubuntu云崽命令行安装脚本 [@github](https://github.com/txyxylx/yunzai-help)
 | [termux一键安装云崽](https://gitee.com/baihu433/termux-Yunzai) | [@白狐](https://gitee.com/baihu433) | termux一键安装云崽，省去复杂的环境配置(仅适用于termux)
 | [Yunzai-Bot Ubuntu CentOS一键脚本](https://github.com/YAOyao5917/Yunzai-Bot-shell) | [@妖云网络-妖妖](https://github.com/YAOyao5917) | 提供 Yunzai-Bot-shell Linux轻量级云崽一键安装脚本 |
 | [Yunzai-Bot-Help](https://gitee.com/ningmengchongshui/Yunzai-Bot-Help) | [@柠檬冲水](https://github.com/ningmengchongshui) | Centos/Ubuntu系统轻量型图形化工具 |
