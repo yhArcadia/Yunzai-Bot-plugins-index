@@ -14,7 +14,7 @@
 | [锅巴插件 (guoba-plugin)](https://gitee.com/guoba-yunzai/guoba-plugin) | [@zolay-poi](https://github.com/zolay-poi) | ✔ | ✔ | V3主要提供云崽的网页端后台管理界面功能；V2提供丝滑迁移V3功能。 |
 | [戏天插件 (xitian-plugin)](https://gitee.com/XiTianGame/xitian-plugin) | [@戏天](https://github.com/XiTianGame) | | ✔ | 提供js类插件管理功能 |
 | [千羽插件 (qianyu-plugin)](https://gitee.com/think-first-sxs/qianyu-plugin) | [@时先思](https://gitee.com/think-first-sxs) | | ✔ | 提供ai、水群统计、文本/图片api、伪装以及一些云崽配置等功能 |
-| [清凉图插件 (yunzai-c-v-plugin)](https://gitee.com/xwy231321/yunzai-c-v-plugin) | [@xwy](https://gitee.com/xwy231321) | | ✔ | 清凉图精简插件，发送随机图片，随机B站404小漫画，随机图片盲盒（支持多连发） |
+| [清凉图插件 (yunzai-c-v-plugin)](https://gitee.com/xwy231321/yunzai-c-v-plugin) | [@xwy](https://gitee.com/xwy231321) | | ✔ | 清凉图插件，发送随机图片(含铯图)、漫画(支持多连发)和 群名片内存占用(来自西北一枝花)！！！ |
 | [小月插件 (tangxi-plugin)](https://gitee.com/txlx/tangxi-plugin) | [@溪欣梓](https://gitee.com/txlx) | | ✔ | 发送云溪院色图，本地图库，api图库,可以当作帮助插件使用需自行配置 |
 | [ChatGPT问答插件（chatgpt-plugin）](https://github.com/ikechan8370/yunzai-chatgpt) | [@ikechan8370](https://github.com/ikechan8370) |  | ✔ | 简单纯粹的基于OpenAI最新推出的chatgpt api进行问答的插件，需自备openai账号 |
 | [榴莲插件 (liulian-plugin)](https://gitee.com/huifeidemangguomao/liulian-plugin) |[@会飞的芒果猫](https://gitee.com/huifeidemangguomao) | ✔ | ✔ | 提供须弥地下地图，插件管理，一些群聊功能等 |
