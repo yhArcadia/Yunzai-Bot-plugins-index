@@ -95,6 +95,7 @@
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [喵喵插件面板扩展图库（热门角色）](https://gitee.com/ljs_ice/normal-character2) | [@早餐不要在空腹的时候吃](https://gitee.com/ljs_ice) | 提供由多人制作的miao-plugin的面板背景图库 |
 | [TRSS Yunzai 管理脚本](../../../../TimeRainStarSky/TRSS_Yunzai) | [@时雨🌌星空](../../../../TimeRainStarSky) | 提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Windows / Linux / Mac / Android |
 | [yunzai安装脚本](https://gitee.com/txlx/yunzai-help) | [@溪欣梓](https://gitee.com/txlx) | 手机与ubuntu云崽命令行安装脚本
 | [termux一键安装云崽](https://gitee.com/baihu433/termux-Yunzai) | [@白狐](https://gitee.com/baihu433) | termux一键安装云崽，省去复杂的环境配置(仅适用于termux)
