@@ -47,6 +47,7 @@
 | [粉酱插件 (fen-plugin)](https://gitee.com/litefen/fen-plugin)           | [@小粉litefen](https://gitee.com/litefen)  | ✔ |   |色色就要挨打，发群主女装要承担代价 |
 | [喵喵插件 (miao-plugin)](https://gitee.com/yoimiya-kokomi/miao-plugin) | [@喵喵](https://gitee.com/yoimiya-kokomi)| ✔ | ✔ | Miao-Plugin是一个Yunzai-Bot的升级插件，提供包括角色面板查询等升级功能 |
 | [伊伊插件 (yiyi-plugin)](https://gitee.com/cv-hunag/yiyi-plugin)|[@煌](https://gitee.com/cv-hunag) | ✔ |   | yiyi-plugin是Yunzai-Bot的垃圾插件.现作者已摆烂，处于废弃状态. |
+<!-- 请不要在此处添加行，请在顶部添加 -->
 <br>
 
 ## .js插件索引  
