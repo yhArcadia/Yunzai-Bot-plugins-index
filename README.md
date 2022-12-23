@@ -13,20 +13,20 @@
 |-------| ----- | ------ | ------|------ |
 | [锅巴插件 (guoba-plugin)](https://gitee.com/guoba-yunzai/guoba-plugin) | [@zolay-poi](https://github.com/zolay-poi) | ✔ | ✔ | V3主要提供云崽的网页端后台管理界面功能；V2提供丝滑迁移V3功能。 |
 | [戏天插件 (xitian-plugin)](https://gitee.com/XiTianGame/xitian-plugin) | [@戏天](https://github.com/XiTianGame) | | ✔ | 提供js类插件管理功能 |
-| [自动化插件 (auto-plugin)](https://gitee.com/Nwflower/auto-plugin) | [@西北一枝花](https://gitee.com/Nwflower/) |   | ✔ | 一些乱七八糟的自动化小功能 |
+| [自动化插件 (auto-plugin)](https://gitee.com/Nwflower/auto-plugin) | [@西北一枝花](https://gitee.com/Nwflower/) |   | ✔ | 可能是史上最强大的群名片更新插件。另外还提供了一些自动化小功能。 |
 | [千羽插件 (qianyu-plugin)](https://gitee.com/think-first-sxs/qianyu-plugin) | [@时先思](https://gitee.com/think-first-sxs) | | ✔ | 提供ai、水群统计、文本/图片api、伪装以及一些云崽配置等功能 |
 | [清凉图插件 (yunzai-c-v-plugin)](https://gitee.com/xwy231321/yunzai-c-v-plugin) | [@xwy](https://gitee.com/xwy231321) | | ✔ | 清凉图插件，发送随机图片(含铯图)、漫画(支持多连发)和 群名片内存占用(来自西北一枝花)！！！ |
 | [小月插件 (tangxi-plugin)](https://gitee.com/txlx/tangxi-plugin) | [@溪欣梓](https://gitee.com/txlx) | | ✔ | 发送云溪院色图，本地图库，api图库,可以当作帮助插件使用需自行配置 |
 | [ChatGPT问答插件（chatgpt-plugin）](https://github.com/ikechan8370/yunzai-chatgpt) | [@ikechan8370](https://github.com/ikechan8370) |  | ✔ | 简单纯粹的基于OpenAI最新推出的chatgpt api进行问答的插件，需自备openai账号 |
 | [榴莲插件 (liulian-plugin)](https://gitee.com/huifeidemangguomao/liulian-plugin) |[@会飞的芒果猫](https://gitee.com/huifeidemangguomao) | ✔ | ✔ | 提供须弥地下地图、B站推送、插件管理、猜角色、猜歌名、等一些拓展功能 |
 | [止水插件 (zhishui-plugin)](https://gitee.com/fjcq/zhishui-plugin) | [@止水](https://gitee.com/fjcq) | | ✔ | 搜剧插件 |
-| [图鉴 (Atlas)](https://gitee.com/Nwflower/atlas) | [@西北一枝花](https://gitee.com/Nwflower/) |   | ✔ | 原神圣遗物、武器、七圣召唤图鉴与角色材料，支持热更新 |
+| [图鉴 (Atlas)](https://gitee.com/Nwflower/atlas) | [@西北一枝花](https://gitee.com/Nwflower/) |   | ✔ | 原神武器、圣遗物、区域特产、七圣召唤与角色材料的图鉴，支持热更新。 |
 | [枫叶插件 (hs-qiqi-Plugin)](https://gitee.com/huasheng1999/hs-qiqi-plugin) | [@huasheng](https://gitee.com/huasheng1999)  [@qiqi](https://gitee.com/fengyeplugin) | | ✔ |  枫叶插件是一个Yunzai-Bot的扩展插件，给bot提供一些有趣的功能 |
 | [虚空插件 (akasha-terminal-plugin)](https://gitee.com/go-farther-and-farther/akasha-terminal-plugin) | [@越追越远](https://gitee.com/go-farther-and-farther) | | ✔  | 提供群内决斗游戏 |
 | [Recreation-plugin](https://github.com/QiuLing0/recreation-plugin) | [@QiuLing0](https://github.com/QiuLing0) | | ✔ | 娱乐插件 |
 | [冰祈插件 (Icepray-plugin)](https://gitee.com/koinori/Icepray-plugin) | [@koinori](https://gitee.com/koinori) | | ✔ | 休闲插件 |
-| [Python插件 (py-plugin)](https://gitee.com/realhuhu/py-plugin) | [@realhuhu](https://gitee.com/realhuhu) | | ✔ | 主要提供py服务或者套娃（？）| 
-| [修仙插件 (Xiuxian-Plugin-Box)](https://gitee.com/ningmengchongshui/Xiuxian-Plugin-Box) | [@柠檬冲水](https://gitee.com/ningmengchongshui) |   | ✔ | 修仙插件盒V2.0全新的游戏框架与玩法 | 
+| [Python插件 (py-plugin)](https://gitee.com/realhuhu/py-plugin) | [@realhuhu](https://gitee.com/realhuhu) | | ✔ | 主要提供py服务或者套娃（？）|
+| [修仙插件 (Xiuxian-Plugin-Box)](https://gitee.com/ningmengchongshui/Xiuxian-Plugin-Box) | [@柠檬冲水](https://gitee.com/ningmengchongshui) |   | ✔ | 修仙插件盒V2.0全新的游戏框架与玩法 |
 | [AI语音本地生成 (vits_yunzai_plugin)](https://gitee.com/sumght/vits_yunzai_plugin) | [@sumght-z](https://github.com/sumght-z) | | ✔ | 基于vits本地生成原神/崩三语音 [生成效果演示](https://www.bilibili.com/video/BV1ke4y1p7qq)|
 | [TRSS 插件 (TRSS-Plugin)](../../../../TimeRainStarSky/TRSS-Plugin) | [@时雨🌌星空](../../../../TimeRainStarSky) | | ✔ | 图片修复、原神语音合成、系统信息、文件操作、远程命令、云盘操作 |
 | [windoge-plugin](https://github.com/gxy12345/windoge-plugin) | [@gxy12345](https://github.com/gxy12345) | ✔ | ✔ | 提供一些国际服便捷功能，以及继续维护参考面板数据 |
@@ -42,13 +42,13 @@
 | [白纸插件 (zhi-plugin)](https://github.com/HeadmasterTan/zhi-plugin)    | [@HeadmasterTan](https://github.com/HeadmasterTan) | ✔ | ✔ | 提供B站动态推送。优化云崽的“添加”功能，可在同一触发词下添加多个回复 |
 | [成就插件 (achievements-plugin)](https://gitee.com/zolay-poi/achievements-plugin) | [@zolay-poi](https://gitee.com/zolay-poi) | ✔ | ✔ | 提供成就查漏、成就搜索等功能 |
 | [howe-plugin](https://github.com/howe0116/howe-plugin)       | [@howe0116](https://github.com/howe0116)   | ✔ |   | 提供角色参考面板 |
-| [抽卡插件 (flower-plugin)](https://gitee.com/Nwflower/flower-plugin) | [@西北一枝花](https://gitee.com/Nwflower/) |   | ✔ | 百连、单抽、转生、更新群名片、设置头衔xxx、谁是卧底、#抽卡设置、#设置抽卡、#我的卡池、文字狱 |
+| [抽卡插件 (flower-plugin)](https://gitee.com/Nwflower/flower-plugin) | [@西北一枝花](https://gitee.com/Nwflower/) |   | ✔ | 集百连与单抽于一体的综合性模拟抽卡插件 |
 | [ayaka-plugin](https://github.com/lumie-fx/ayaka-plugin)     | [@lumie-fx](https://github.com/lumie-fx)   | ✔  |  | 模拟抽卡和圣遗物 |
 | [粉酱插件 (fen-plugin)](https://gitee.com/litefen/fen-plugin)           | [@小粉litefen](https://gitee.com/litefen)  | ✔ |   |色色就要挨打，发群主女装要承担代价 |
 | [喵喵插件 (miao-plugin)](https://gitee.com/yoimiya-kokomi/miao-plugin) | [@喵喵](https://gitee.com/yoimiya-kokomi)| ✔ | ✔ | Miao-Plugin是一个Yunzai-Bot的升级插件，提供包括角色面板查询等升级功能 |
 | [伊伊插件 (yiyi-plugin)](https://gitee.com/cv-hunag/yiyi-plugin)|[@煌](https://gitee.com/cv-hunag) | ✔ |   | yiyi-plugin是Yunzai-Bot的垃圾插件.现作者已摆烂，处于废弃状态. |
-<!-- 请不要在此处添加行，请在顶部添加 -->
-<br>
+|<!-- 请不要在此处添加行，请在顶部添加 -->|||||
+|<br>|||||
 
 ## .js插件索引  
 #### *可以点击查看源码，另存为js文件来使用*
