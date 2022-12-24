@@ -11,9 +11,9 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
-| [小叶插件 (xiaoye-plugin)](https://gitee.com/xiaoye12123/xiaoye-plugin)     | [@小叶](https://gitee.com/xiaoye12123)   |   | ✔ | 模拟刷圣遗物和强化,可自定义概率 |
 | [**锅巴插件 (guoba-plugin)**](https://gitee.com/guoba-yunzai/guoba-plugin) | [@zolay-poi](https://github.com/zolay-poi) | ✔ | ✔ | V3主要提供云崽的网页端后台管理界面功能；V2提供丝滑迁移V3功能。 |
-| [戏天插件 (xitian-plugin)](https://gitee.com/XiTianGame/xitian-plugin) | [@戏天](https://github.com/XiTianGame) | | ✔ | 提供js类插件管理功能 |
+| [**戏天插件 (xitian-plugin)**](https://gitee.com/XiTianGame/xitian-plugin) | [@戏天](https://github.com/XiTianGame) | | ✔ | 提供js类插件管理功能 |
+| [小叶插件 (xiaoye-plugin)](https://gitee.com/xiaoye12123/xiaoye-plugin)     | [@小叶](https://gitee.com/xiaoye12123)   |   | ✔ | 模拟刷圣遗物和强化,可自定义概率 |
 | [自动化插件 (auto-plugin)](https://gitee.com/Nwflower/auto-plugin) | [@西北一枝花](https://gitee.com/Nwflower/) |   | ✔ | 可能是史上最强大的群名片更新插件。另外还提供了一些自动化小功能。 |
 | [千羽插件 (qianyu-plugin)](https://gitee.com/think-first-sxs/qianyu-plugin) | [@时先思](https://gitee.com/think-first-sxs) | | ✔ | 提供ai、水群统计、文本/图片api、伪装以及一些云崽配置等功能 |
 | [清凉图插件 (yunzai-c-v-plugin)](https://gitee.com/xwy231321/yunzai-c-v-plugin) | [@xwy](https://gitee.com/xwy231321) | | ✔ | 清凉图插件，发送随机图片(含铯图)、漫画(支持多连发)和 群名片内存占用(来自西北一枝花)！！！ |
@@ -97,7 +97,6 @@
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
-| [喵喵插件面板扩展图库（热门角色）](https://gitee.com/ljs_ice/normal-character2) | [@早餐不要在空腹的时候吃](https://gitee.com/ljs_ice) | 提供由多人制作的miao-plugin的面板背景图库 |
 | [TRSS Yunzai 管理脚本](../../../../TimeRainStarSky/TRSS_Yunzai) | [@时雨🌌星空](../../../../TimeRainStarSky) | 提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Windows / Linux / Mac / Android |
 | [yunzai安装脚本](https://gitee.com/txlx/yunzai-help) | [@溪欣梓](https://gitee.com/txlx) | 手机与ubuntu云崽命令行安装脚本
 | [termux一键安装云崽](https://gitee.com/baihu433/termux-Yunzai) | [@白狐](https://gitee.com/baihu433) | termux一键安装云崽，省去复杂的环境配置(仅适用于termux)
@@ -105,6 +104,7 @@
 | [Yunzai-Bot-Help](https://gitee.com/ningmengchongshui/Yunzai-Bot-Help) | [@柠檬冲水](https://github.com/ningmengchongshui) | Centos/Ubuntu系统轻量型图形化工具 |
 | [体力小组件](https://github.com/OctoberCK/genshinhelper) | [@雁潮](https://github.com/OctoberCK) | 实现ios桌面小组件实时显示体力、派遣、委托情况 |
 | [Yunzai-Bot 文档中心](https://github.com/Xm798/Yunzai-Bot-Docs) | [@Xm798](https://github.com/Xm798) | 正在建设中。[文档地址](https://docs.yunzai.org/) |
+| [喵喵插件面板扩展图库（热门角色）](https://gitee.com/ljs_ice/normal-character2) | [@早餐不要在空腹的时候吃](https://gitee.com/ljs_ice) | 提供由多人制作的miao-plugin的面板背景图库 |
 | [喵喵面板背景图包](https://gitee.com/hbj2457/super-character) | [@hbj2457](https://gitee.com/hbj2457) | 喵喵插件 (miao-plugin)的面板背景图库 |
 | [体力背景图包](https://gitee.com/cv-hunag/BJT) | [@煌](https://gitee.com/cv-hunag) | xiaoyao-cvs-plugin的体力背景图库 |
 | [曉K体力模板2版背景图包](https://gitee.com/SmallK111407/BJT-Template) | [@SunRyK曉K](https://gitee.com/SmallK111407) | xiaoyao-cvs-plugin的体力背景图库 |
