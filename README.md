@@ -114,9 +114,9 @@ _i 提供了关键功能_
 | [Yunzai-Bot 文档中心](https://github.com/Xm798/Yunzai-Bot-Docs) | [@Xm798](https://github.com/Xm798) | 正在建设中。[文档地址](https://docs.yunzai.org/) |
 | [喵喵插件面板扩展图库（热门角色）](https://gitee.com/ljs_ice/normal-character2) | [@早餐不要在空腹的时候吃](https://gitee.com/ljs_ice) | 提供由多人制作的miao-plugin的面板背景图库 |
 | [喵喵面板背景图包](https://gitee.com/hbj2457/super-character) | [@hbj2457](https://gitee.com/hbj2457) | 喵喵插件 (miao-plugin)的面板背景图库 |
+| [喵喵面板背景图包](https://gitee.com/SmallK111407/Miao-Character) | [@SunRyK曉K](https://gitee.com/SmallK111407) | 由多人制作的喵喵插件miao-plugin的面板背景图库 |
 | [体力背景图包](https://gitee.com/cv-hunag/BJT) | [@煌](https://gitee.com/cv-hunag) | xiaoyao-cvs-plugin的体力背景图库 |
 | [曉K体力模板2版背景图包](https://gitee.com/SmallK111407/BJT-Template) | [@SunRyK曉K](https://gitee.com/SmallK111407) | xiaoyao-cvs-plugin的体力背景图库 |
-| [喵喵面板背景图包](https://gitee.com/SmallK111407/Miao-Character) | [@SunRyK曉K](https://gitee.com/SmallK111407) | 由多人制作的喵喵插件miao-plugin的面板背景图库 |
 | [全服(包含国际服)获取Ck或Stoken.apk](https://gitee.com/Divinationhw/Yunzai-Bot-YJHQ) | [@DivinationHW](https://gitee.com/DivinationHW) | Android获取国服国际服Cookie和Stoken软件 |
 | [Yunzai-Bot小助手](https://github.com/ChuYao233/YunzaiBotHelper) | [ChuYao](https://github.com/ChuYao233) | Windows傻瓜式部署Yunzai-Bot,提供插件一键下载等功能。 |
 <!-- 请不要在此处添加新行，请在顶部添加 -->
