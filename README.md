@@ -68,6 +68,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
+| [战地战绩查询插件](https://github.com/ldcivan/bf_info_plugin) | [@YujioNako](https://github.com/ldcivan) | | ✔ | [V3](https://raw.githubusercontent.com/ldcivan/bf_info_plugin/main/bf_info.js) | 提供田野打架™1！5！代战绩查询服务的js插件 |
 | [搜图插件](https://github.com/ldcivan/Yunzai_imgSearcher) | [@YujioNako](https://github.com/ldcivan) | | ✔ | [V3](https://raw.githubusercontent.com/ldcivan/Yunzai_imgSearcher/main/Yunzai_imgSearcher.js) | 一个基于saucenao api的简单识图插件|
 | [日程插件](https://github.com/ldcivan/daily_info_plugin) | [@YujioNako](https://github.com/ldcivan) | | ✔ | [V3](https://raw.githubusercontent.com/ldcivan/daily_info_plugin/main/daily_info.js) | 一个日程（定时）提醒js插件，优先为大学生设计（请从名称处链接进入，因为有额外内容需下载） |
 | [WeLM的ai对话](https://gitee.com/shuciqianye/yunzai-custom-dialogue-welm) | [@JD](https://gitee.com/jd66666) [@书辞千楪](https://gitee.com/shuciqianye) | | ✔ | [V3](https://gitee.com/shuciqianye/yunzai-custom-dialogue-welm/blob/master/WeLM(3.3).js) | 提供个性ai问答和提问(chatgpt下下位替代)功能 |
