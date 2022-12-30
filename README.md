@@ -55,10 +55,7 @@ _i 提供了关键功能_
 | [成就插件 (achievements-plugin)](https://gitee.com/zolay-poi/achievements-plugin) | [@zolay-poi](https://gitee.com/zolay-poi) | ✔ | ✔ | 提供成就查漏、成就搜索等功能 |
 | [howe-plugin](https://github.com/howe0116/howe-plugin)       | [@howe0116](https://github.com/howe0116)   | ✔ |   | 提供角色参考面板 |
 | [抽卡插件 (flower-plugin)](https://gitee.com/Nwflower/flower-plugin) | [@西北一枝花](https://gitee.com/Nwflower/) |   | ✔ | 集百连与单抽于一体的综合性模拟抽卡插件 |
-| [ayaka-plugin](https://github.com/lumie-fx/ayaka-plugin)     | [@lumie-fx](https://github.com/lumie-fx)   | ✔  |  | 模拟抽卡和圣遗物 |
-| [粉酱插件 (fen-plugin)](https://gitee.com/litefen/fen-plugin)           | [@小粉litefen](https://gitee.com/litefen)  | ✔ |   |色色就要挨打，发群主女装要承担代价 |
-| [伊伊插件 (yiyi-plugin)](https://gitee.com/cv-hunag/yiyi-plugin)|[@煌](https://gitee.com/cv-hunag) | ✔ |   | yiyi-plugin是Yunzai-Bot的垃圾插件.现作者已摆烂，处于废弃状态. |
-<!-- 请不要在此处添加行，请在顶部添加 -->
+<!-- 请不要在此处添加行，请在此表格顶部添加 -->
 <br>
 
 ## .js插件索引  
@@ -100,7 +97,7 @@ _i 提供了关键功能_
 | [漂流瓶](https://gitee.com/huangshx2001/yunzai-js-plug-in) | [@癫癫博士](https://gitee.com/huangshx2001) | | ✔ | [v3](https://gitee.com/huangshx2001/yunzai-js-plug-in/raw/master/%E6%BC%82%E6%B5%81%E7%93%B6.js) | 记录当下心情丢出瓶子！或者查看他人分享捞起瓶子！ |
 | [ 戳一戳语音/文字/表情包/禁言](https://gitee.com/huangshx2001/yunzai-js-plug-in) | [@癫癫博士](https://gitee.com/huangshx2001) | | ✔ | [v3](https://gitee.com/huangshx2001/yunzai-js-plug-in/raw/master/%E6%88%B3%E4%B8%80%E6%88%B3%E8%AF%AD%E9%9F%B3%E3%80%81%E6%96%87%E5%AD%97%E3%80%81%E8%A1%A8%E6%83%85%E5%8C%85%E3%80%81%E7%A6%81%E8%A8%80.js) | 可丰富的自定义机器人戳一戳反应的插件，事件，概率都可以调整，随机的就是最好的！ |
 | [更多ai,更多欢乐!](https://gitee.com/huangshx2001/yunzai-js-plug-in) | [@癫癫博士](https://gitee.com/huangshx2001)          |        | ✔      | [v3](https://gitee.com/huangshx2001/yunzai-js-plug-in/raw/master/%E6%9B%B4%E5%A4%9Aai%EF%BC%8C%E6%9B%B4%E5%A4%9A%E5%BF%AB%E4%B9%90!.js) | 欢迎转学生韩国妹妹ai的加入！                                 |
-<!-- 请不要在此处添加新行，请在顶部添加 -->
+<!-- 请不要在此处添加新行，请在此表格顶部添加 -->
 
 <br>
 
@@ -114,7 +111,6 @@ _i 提供了关键功能_
 | [termux一键安装云崽](https://gitee.com/baihu433/termux-Yunzai) | [@白狐](https://gitee.com/baihu433) | termux一键安装云崽，省去复杂的环境配置(仅适用于termux)
 | [Yunzai-Bot Ubuntu CentOS一键脚本](https://github.com/YAOyao5917/Yunzai-Bot-shell) | [@妖云网络-妖妖](https://github.com/YAOyao5917) | 提供 Yunzai-Bot-shell Linux轻量级云崽一键安装脚本 |
 | [Yunzai-Bot-Help](https://gitee.com/ningmengchongshui/Yunzai-Bot-Help) | [@柠檬冲水](https://github.com/ningmengchongshui) | Centos/Ubuntu系统轻量型图形化工具 |
-| [体力小组件](https://github.com/OctoberCK/genshinhelper) | [@雁潮](https://github.com/OctoberCK) | 实现ios桌面小组件实时显示体力、派遣、委托情况 |
 | [Yunzai-Bot 文档中心](https://github.com/Xm798/Yunzai-Bot-Docs) | [@Xm798](https://github.com/Xm798) | 正在建设中。[文档地址](https://docs.yunzai.org/) |
 | [喵喵面板背景图包](https://github.com/lc-hongdou/gallery) | [@早餐不要在空腹的时候吃](https://github.com/lc-hongdou) | 提供由多人制作的miao-plugin的面板背景图库 |
 | [喵喵面板背景图包](https://gitee.com/hbj2457/super-character) | [@hbj2457](https://gitee.com/hbj2457) | 喵喵插件 (miao-plugin)的面板背景图库 |
@@ -123,7 +119,7 @@ _i 提供了关键功能_
 | [曉K体力模板2版背景图包](https://gitee.com/SmallK111407/BJT-Template) | [@SunRyK曉K](https://gitee.com/SmallK111407) | xiaoyao-cvs-plugin的体力背景图库 |
 | [全服(包含国际服)获取Ck或Stoken.apk](https://gitee.com/Divinationhw/Yunzai-Bot-YJHQ) | [@DivinationHW](https://gitee.com/DivinationHW) | Android获取国服国际服Cookie和Stoken软件 |
 | [Yunzai-Bot小助手](https://github.com/ChuYao233/YunzaiBotHelper) | [ChuYao](https://github.com/ChuYao233) | Windows傻瓜式部署Yunzai-Bot,提供插件一键下载等功能。 |
-<!-- 请不要在此处添加新行，请在顶部添加 -->
+<!-- 请不要在此处添加新行，请在此表格顶部添加 -->
 
 
 <br>
@@ -137,6 +133,4 @@ _i 提供了关键功能_
 ## 其他
 
 * Yunzai-Bot插件库：[☞Github](https://github.com/yhArcadia/Yunzai-Bot-plugins-index)/[☞Gitee](https://gitee.com/yhArcadia/Yunzai-Bot-plugins-index)
-* Yunzai-Bot（V3）：[☞Github](https://github.com/Le-niao/Yunzai-Bot)/[☞Gitee](https://gitee.com/Le-niao/Yunzai-Bot) 
-* Yunzai-Bot（V2）：[☞Github](https://github.com/yoimiya-kokomi/Yunzai-Bot)/[☞Gitee](https://gitee.com/yoimiya-kokomi/Yunzai-Bot) 
-* Yunzai-Bot 官方QQ群：213938015（已封闭，暂时不可进入）
+* Yunzai-Bot：[☞Github](https://github.com/Le-niao/Yunzai-Bot)/[☞Gitee](https://gitee.com/Le-niao/Yunzai-Bot) 
