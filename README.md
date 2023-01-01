@@ -106,12 +106,12 @@ _i 提供了关键功能_
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
 | [TRSS Yunzai 管理脚本](../../../../TimeRainStarSky/TRSS_Yunzai) | [@时雨🌌星空](../../../../TimeRainStarSky) | 提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Windows / Linux / Mac / Android |
-| [二次元图库（下载链接）](https://gitee.com/xwy231321/cv-plugins-in-resources/tree/master/%E5%9B%BE%E5%BA%93%E9%93%BE%E6%8E%A5) | [@xwy](https://gitee.com/xwy231321) | 提供近万张二次元图片下载地址，不支持在线查看，请使用软件批量下载 |
 | [yunzai安装脚本](https://gitee.com/txlx/yunzai-help) | [@溪欣梓](https://gitee.com/txlx) | 手机与ubuntu云崽命令行安装脚本
 | [termux一键安装云崽](https://gitee.com/baihu433/termux-Yunzai) | [@白狐](https://gitee.com/baihu433) | termux一键安装云崽，省去复杂的环境配置(仅适用于termux)
 | [Yunzai-Bot Ubuntu CentOS一键脚本](https://github.com/YAOyao5917/Yunzai-Bot-shell) | [@妖云网络-妖妖](https://github.com/YAOyao5917) | 提供 Yunzai-Bot-shell Linux轻量级云崽一键安装脚本 |
 | [Yunzai-Bot-Help](https://gitee.com/ningmengchongshui/Yunzai-Bot-Help) | [@柠檬冲水](https://github.com/ningmengchongshui) | Centos/Ubuntu系统轻量型图形化工具 |
 | [Yunzai-Bot 文档中心](https://github.com/Xm798/Yunzai-Bot-Docs) | [@Xm798](https://github.com/Xm798) | 正在建设中。[文档地址](https://docs.yunzai.org/) |
+| [二次元图库（下载链接）](https://gitee.com/xwy231321/cv-plugins-in-resources/tree/master/%E5%9B%BE%E5%BA%93%E9%93%BE%E6%8E%A5) | [@xwy](https://gitee.com/xwy231321) | 提供近万张二次元图片下载地址，不支持在线查看，请使用软件批量下载 |
 | [喵喵面板背景图包](https://github.com/lc-hongdou/gallery) | [@早餐不要在空腹的时候吃](https://github.com/lc-hongdou) | 提供由多人制作的miao-plugin的面板背景图库 |
 | [喵喵面板背景图包](https://gitee.com/hbj2457/super-character) | [@hbj2457](https://gitee.com/hbj2457) | 喵喵插件 (miao-plugin)的面板背景图库 |
 | [喵喵面板背景图包](https://gitee.com/SmallK111407/Miao-Character) | [@SunRyK曉K](https://gitee.com/SmallK111407) | 由多人制作的喵喵插件miao-plugin的面板背景图库 |
