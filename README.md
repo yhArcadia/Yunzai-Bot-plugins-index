@@ -23,6 +23,7 @@ _i 提供了关键功能_
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
+|枫叶插件 (hs-qiqi-Plugin)](https://gitee.com/kesally/hs-qiqi-cv-plugin) | [@Kesally](https://gitee.com/kesally)  [@huasheng](https://gitee.com/huasheng1999)  [@qiqi](https://gitee.com/fengyeplugin) | | ✔ | 枫叶是Yunzai-Bot的扩展插件，可能提供有用或者没用的功能(?) |
 | [AI绘图插件 (ap-plugin)](https://gitee.com/yhArcadia/ap-plugin)     | [@渔火Arcadia](https://gitee.com/yhArcadia)   |   | ✔ | 提供AI绘图及其衍生功能：#以文生图、#以图生图、图片清晰术、生成“二次元的我”形象等|
 | [小叶插件 (xiaoye-plugin)](https://gitee.com/xiaoye12123/xiaoye-plugin)     | [@小叶](https://gitee.com/xiaoye12123)   |   | ✔ | 模拟刷圣遗物和强化,可自定义概率 |
 | [自动化插件 (auto-plugin)](https://gitee.com/Nwflower/auto-plugin) | [@西北一枝花](https://gitee.com/Nwflower/) |   | ✔ | 可能是史上最强大的群名片更新插件。另外还提供了一些自动化小功能。 |
