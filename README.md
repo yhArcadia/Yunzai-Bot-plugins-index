@@ -37,7 +37,6 @@ _i 提供了关键功能_
 | [花生插件 (huasheng)](https://gitee.com/huasheng1999/huasheng) | [@huasheng](https://gitee.com/huasheng1999) | | ✔ |  各种角色的语音（4类），bot拉黑词，小爱ai，计算睡眠时间等功能. |
 | [虚空插件 (akasha-terminal-plugin)](https://gitee.com/go-farther-and-farther/akasha-terminal-plugin) | [@越追越远](https://gitee.com/go-farther-and-farther) | | ✔  | 提供企鹅群游戏,目前实现了群内决斗,娶群友等有趣的小游戏 |
 | [Recreation-plugin](https://github.com/QiuLing0/recreation-plugin) | [@QiuLing0](https://github.com/QiuLing0) | | ✔ | 基于YunzaiV3.0版本衍生娱乐插件，插件将不断集成娱乐工具 |
-| [冰祈插件 (Icepray)](https://gitee.com/koinori/Icepray) | [@koinori](https://gitee.com/koinori) | | ✔ | 用于冰祈bot的插件集合 |
 | [Python插件 (py-plugin)](https://gitee.com/realhuhu/py-plugin) | [@realhuhu](https://gitee.com/realhuhu) | | ✔ | 主要提供nonebot2机器人服务|
 | [修仙插件盒 (Xiuxian-Plugin-Box)](https://gitee.com/ningmengchongshui/Xiuxian-Plugin-Box) | [@三点水](https://gitee.com/ningmengchongshui) |   | ✔ | 多人在线文游 |
 | [绝云间修仙V1.2.4「银花造福盈」 (原修仙模拟器DD斩首魔改版)](https://gitee.com/hutao222/DDZS-XIUXIAN-V1.2.4) | [@DD斩首](https://gitee.com/hutao222) |   | ✔ | 功能数量比2.0全插件版本多35个功能以及新年版本活动「银花造福盈」将于1月20日上线 |
