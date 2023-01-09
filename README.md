@@ -41,7 +41,7 @@ _i 提供了关键功能_
 | [修仙插件盒 (Xiuxian-Plugin-Box)](https://gitee.com/ningmengchongshui/Xiuxian-Plugin-Box) | [@三点水](https://gitee.com/ningmengchongshui) |   | ✔ | 多人在线文游 |
 | [绝云间修仙V1.2.4「银花造福盈」 (原修仙模拟器DD斩首魔改版)](https://gitee.com/hutao222/DDZS-XIUXIAN-V1.2.4) | [@DD斩首](https://gitee.com/hutao222) |   | ✔ | 功能数量比2.0全插件版本多35个功能以及新年版本活动「银花造福盈」将于1月20日上线 |
 | [AI语音本地生成 (vits_yunzai_plugin)](https://gitee.com/sumght/vits_yunzai_plugin) | [@sumght-z](https://github.com/sumght-z) | | ✔ | 基于vits本地生成原神/崩三语音 [生成效果演示](https://www.bilibili.com/video/BV1ke4y1p7qq)|
-| [TRSS 插件 (TRSS-Plugin)](../../../../TimeRainStarSky/TRSS-Plugin) | [@时雨🌌星空](../../../../TimeRainStarSky) | | ✔ | 图片修复、原神语音合成、系统信息、二维码生成、米哈游登录、Markdown、远程命令、文件操作、云盘操作 |
+| [TRSS 插件 (TRSS-Plugin)](https://Yunzai.TRSS.me) | [@时雨🌌星空](../../../../TimeRainStarSky) | | ✔ | 图片修复、原神语音合成、系统信息、二维码生成、米哈游登录、Markdown、远程命令、文件操作、云盘操作 |
 | [windoge-plugin](https://github.com/gxy12345/windoge-plugin) | [@gxy12345](https://github.com/gxy12345) | ✔ | ✔ | 提供一些国际服便捷功能，以及继续维护参考面板数据 |
 | [椰奶插件 (yenai-plugin)](https://gitee.com/yeyang52/yenai-plugin) | [@椰羊](https://gitee.com/yeyang52)| | ✔ | 提供对bot的一些便携操作 |
 | [小飞插件 (xiaofei-plugin)](https://gitee.com/xfdown/xiaofei-plugin) | [@小飞](https://gitee.com/xfdown) | | ✔ | Yunzai-Bot插件 |
@@ -106,7 +106,7 @@ _i 提供了关键功能_
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
-| [TRSS Yunzai 管理脚本](../../../../TimeRainStarSky/TRSS_Yunzai) | [@时雨🌌星空](../../../../TimeRainStarSky) | 提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Windows / Linux / Mac / Android |
+| [TRSS Yunzai 管理脚本](https://TRSS.me) | [@时雨🌌星空](../../../../TimeRainStarSky) | 提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Windows / Linux / Mac / Android |
 | [服务器软件安装](https://gitee.com/WinterChocolates/software-installation) | [@冬季巧克力](https://github.com/WinterChocolates) | 提供centos与ubuntu服务器git，python等等的软件安装 |
 | [yunzai安装脚本](https://gitee.com/txlx/yunzai-help) | [@溪欣梓](https://gitee.com/txlx) | 手机与ubuntu云崽命令行安装脚本 |
 | [termux一键安装云崽](https://gitee.com/baihu433/termux-Yunzai) | [@白狐](https://gitee.com/baihu433) | termux一键安装云崽，省去复杂的环境配置(仅适用于termux) |
