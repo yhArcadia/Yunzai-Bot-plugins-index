@@ -23,7 +23,8 @@ _i 提供了关键功能_
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
-|[枫叶插件 (hs-qiqi-Plugin)](https://gitee.com/kesally/hs-qiqi-cv-plugin) | [@Kesally](https://gitee.com/kesally)  [@huasheng](https://gitee.com/huasheng1999)  [@qiqi](https://gitee.com/fengyeplugin) | | ✔ | 枫叶是Yunzai-Bot的扩展插件，可能提供有用或者没用的功能(?) |
+| [WeLM对话插件 (WeLM-plugin)](https://gitee.com/shuciqianye/yunzai-custom-dialogue-welm) | [@JD](https://gitee.com/jd66666) [@兰罗摩](https://gitee.com/Arama_admin) [@书辞千楪](https://gitee.com/shuciqianye) | | ✔ | 提供个性ai问答、提问和续写(chatgpt下下下位替代)功能 |
+| [枫叶插件 (hs-qiqi-Plugin)](https://gitee.com/kesally/hs-qiqi-cv-plugin) | [@Kesally](https://gitee.com/kesally)  [@huasheng](https://gitee.com/huasheng1999)  [@qiqi](https://gitee.com/fengyeplugin) | | ✔ | 枫叶是Yunzai-Bot的扩展插件，可能提供有用或者没用的功能(?) |
 | [AI绘图插件 (ap-plugin)](https://gitee.com/yhArcadia/ap-plugin)     | [@渔火Arcadia](https://gitee.com/yhArcadia) [@苏苏](https://nahida.com.cn) |   | ✔ | 提供AI绘图及其衍生功能：#以文生图、#以图生图、图片清晰术、生成“二次元的我”形象等|
 | [小叶插件 (xiaoye-plugin)](https://gitee.com/xiaoye12123/xiaoye-plugin)     | [@小叶](https://gitee.com/xiaoye12123)   |   | ✔ | 模拟刷圣遗物和强化,可自定义概率 |
 | [自动化插件 (auto-plugin)](https://gitee.com/Nwflower/auto-plugin) | [@西北一枝花](https://gitee.com/Nwflower/) |   | ✔ | 可能是史上最强大的群名片更新插件。另外还提供了一些自动化小功能。 |
@@ -69,7 +70,7 @@ _i 提供了关键功能_
 | [战地战绩查询插件](https://github.com/ldcivan/bf_info_plugin) | [@YujioNako](https://github.com/ldcivan) | | ✔ | [V3](https://raw.githubusercontent.com/ldcivan/bf_info_plugin/main/bf_info.js) | 提供田野打架™1！5！代战绩查询服务的js插件 |
 | [搜图插件](https://github.com/ldcivan/Yunzai_imgSearcher) | [@YujioNako](https://github.com/ldcivan) | | ✔ | [V3](https://raw.githubusercontent.com/ldcivan/Yunzai_imgSearcher/main/Yunzai_imgSearcher.js) | 一个基于saucenao api的轻量化识图插件，并提供QQ图片取直链功能|
 | [日程插件](https://github.com/ldcivan/daily_info_plugin) | [@YujioNako](https://github.com/ldcivan) | | ✔ | [V3](https://raw.githubusercontent.com/ldcivan/daily_info_plugin/main/daily_info.js) | 一个日程（定时）提醒js插件，优先为大学生设计（请从名称处链接进入，因为有额外内容需下载） |
-| [WeLM的ai对话](https://gitee.com/shuciqianye/yunzai-custom-dialogue-welm) | [@JD](https://gitee.com/jd66666) [@兰罗摩](https://gitee.com/Arama_admin) [@书辞千楪](https://gitee.com/shuciqianye) | | ✔ | [V3](https://gitee.com/shuciqianye/yunzai-custom-dialogue-welm/blob/master/WeLM(3.3).js) | 提供个性ai问答和提问(chatgpt下下位替代)功能 |
+| [WeLM的ai对话](https://gitee.com/shuciqianye/yunzai-custom-dialogue-welm) | [@JD](https://gitee.com/jd66666) [@兰罗摩](https://gitee.com/Arama_admin) [@书辞千楪](https://gitee.com/shuciqianye) | | ✔ | [V3](https://gitee.com/shuciqianye/yunzai-custom-dialogue-welm/blob/js-version/welm(JS).js) | 提供个性ai问答、提问和续写(chatgpt下下下位替代)功能 |
 | [群管插件](https://gitee.com/clarlotte/Yunzai-Bot-V3-plugin) | [@clarlotte](https://gitee.com/clarlotte) | | ✔ | [v3](https://gitee.com/clarlotte/Yunzai-Bot-V3-plugin/raw/master/GroupSettings.js) | 提供Yunzai-Bot-V3的群管，部分功能仅支持Bot为群主，建议Bot为群主时使用该插件 |
 | [云崽Bot账号管理插件](https://gitee.com/CUZNIL/Yunzai-QQmanager) | [@硫酸钡Barite](https://gitee.com/CUZNIL) | | ✔ | [v3](https://gitee.com/CUZNIL/Yunzai-QQmanager/raw/master/QQmanager.js) | 账号管理插件改写自[BeterKing的账号管理插件](https://gitee.com/zhxhx/Yunzai-Bot-js)，针对网络抖动造成的token丢失问题作出了临时解决，并大量优化了使用体验 |
 | [须弥地图](https://gitee.com/txlx/resell-mapjs) | [@溪欣梓](https://gitee.com/txlx) | | ✔ |[v3](https://gitee.com/txlx/resell-mapjs/raw/tx/mapmax.js)| 倒卖榴莲插件中的地图功能,某大佬帮助修改升级 |
