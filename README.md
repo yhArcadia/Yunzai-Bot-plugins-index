@@ -67,6 +67,7 @@ _i 提供了关键功能_
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
 | [成分姬](https://github.com/ldcivan/ddcheck_plugin) | [@YujioNako](https://github.com/ldcivan) | | ✔ | [V3](https://raw.githubusercontent.com/ldcivan/ddcheck_plugin/main/%E6%9F%A5%E6%88%90%E5%88%86.js) | 看看你的B站成分，对比数据来自vtbs.moe |
+| [wocplus视频解析插件](https://gitee.com/txlx/woc) | [@yhArcadia](https://gitee.com/yhArcadia) [@溪欣梓](https://gitee.com/txlx) [@yeyang52](https://gitee.com/yeyang52) | | ✔ | [V3](https://gitee.com/txlx/woc/raw/master/wocplus.js) | 解析抖音快手哔哩哔哩视频,详细发送 #plus帮助 |
 | [真实评分](https://github.com/ldcivan/true_ranking_plugin) | [@YujioNako](https://github.com/ldcivan) | | ✔ | [V3](https://raw.githubusercontent.com/ldcivan/true_ranking_plugin/main/true_ranking.js) | 获取b站番剧长短评来手动计算实际的评分数据 |
 | [战地战绩查询插件](https://github.com/ldcivan/bf_info_plugin) | [@YujioNako](https://github.com/ldcivan) | | ✔ | [V3](https://raw.githubusercontent.com/ldcivan/bf_info_plugin/main/bf_info.js) | 提供田野打架™1！5！代战绩查询服务的js插件 |
 | [搜图插件](https://github.com/ldcivan/Yunzai_imgSearcher) | [@YujioNako](https://github.com/ldcivan) | | ✔ | [V3](https://raw.githubusercontent.com/ldcivan/Yunzai_imgSearcher/main/Yunzai_imgSearcher.js) | 一个基于saucenao api的轻量化识图插件，并提供QQ图片取直链功能|
