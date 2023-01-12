@@ -29,7 +29,7 @@ _i 提供了关键功能_
 | [小叶插件 (xiaoye-plugin)](https://gitee.com/xiaoye12123/xiaoye-plugin)     | [@小叶](https://gitee.com/xiaoye12123)   |   | ✔ | 模拟刷圣遗物和强化,可自定义概率 |
 | [自动化插件 (auto-plugin)](https://gitee.com/Nwflower/auto-plugin) | [@西北一枝花](https://gitee.com/Nwflower/) |   | ✔ | 可能是史上最强大的群名片更新插件。另外还提供了一些自动化小功能。 |
 | [千羽插件 (qianyu-plugin)](https://gitee.com/think-first-sxs/qianyu-plugin) | [@时先思](https://gitee.com/think-first-sxs) | | ✔ | 提供ai、水群统计、文本/图片api、伪装以及一些云崽配置等功能 |
-| [清凉图插件 (yunzai-c-v-plugin)](https://gitee.com/xwy231321/yunzai-c-v-plugin) | [@xwy](https://gitee.com/xwy231321) | | ✔ | 图片转卡片,体力等卡片，发送随机图(18-和18 +均有，二三次元均有)、两种戳一戳 |
+| [清凉图插件 (yunzai-c-v-plugin)](https://gitee.com/xwy231321/yunzai-c-v-plugin) | [@xwy](https://gitee.com/xwy231321) | | ✔ | 卡片类消息，发送随机图(你目前能找到的最最最~涩的插件了[(应该)],仓库更新提醒,两种戳一戳 |
 | [小月插件 (tangxi-plugin)](https://gitee.com/txlx/tangxi-plugin) | [@溪欣梓](https://gitee.com/txlx) | | ✔ | 发送云溪院色图，本地图库，api图库,可以当作帮助插件使用需自行配置 |
 | [ChatGPT问答插件（chatgpt-plugin）](https://github.com/ikechan8370/chatgpt-plugin) | [@ikechan8370](https://github.com/ikechan8370) |  | ✔ | 简单纯粹的基于OpenAI最新推出的chatgpt api进行问答的插件，需自备openai账号 |
 | [榴莲插件 (liulian-plugin)](https://gitee.com/huifeidemangguomao/liulian-plugin) |[@会飞的芒果猫](https://gitee.com/huifeidemangguomao) | ✔ | ✔ | 提供须弥地下地图、B站推送、插件管理、猜角色、猜歌名、等一些拓展功能 |
