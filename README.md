@@ -23,6 +23,7 @@ _i 提供了关键功能_
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
+| [脆脆鲨插件 (Jinmaocuicuisha-plugin)](https://gitee.com/JMCCS/jinmaocuicuisha) | [@JMCCS](https://gitee.com/JMCCS) | | ✔ | 提供bot便携管理、bot被骂、和一些娱乐功能|
 | [WeLM对话插件 (WeLM-plugin)](https://gitee.com/shuciqianye/yunzai-custom-dialogue-welm) | [@JD](https://gitee.com/jd66666) [@兰罗摩](https://gitee.com/Arama_admin) [@书辞千楪](https://gitee.com/shuciqianye) | | ✔ | 提供个性ai问答、提问和续写(chatgpt下下下位替代)功能 |
 | [枫叶插件 (hs-qiqi-Plugin)](https://gitee.com/kesally/hs-qiqi-cv-plugin) | [@Kesally](https://gitee.com/kesally)  [@huasheng](https://gitee.com/huasheng1999)  [@qiqi](https://gitee.com/fengyeplugin) | | ✔ | 枫叶是Yunzai-Bot的扩展插件，可能提供有用或者没用的功能(?) |
 | [AI绘图插件 (ap-plugin)](https://gitee.com/yhArcadia/ap-plugin)     | [@渔火Arcadia](https://gitee.com/yhArcadia) [@苏苏](https://nahida.com.cn) |   | ✔ | 提供AI绘图及其衍生功能：#以文生图、#以图生图、图片清晰术、生成“二次元的我”形象等|
@@ -66,6 +67,7 @@ _i 提供了关键功能_
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
 | [随机网易邮箱](https://gitee.com/Tloml-Starry/random-netease-small) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | | ✔ | [V3](https://gitee.com/Tloml-Starry/random-netease-small/raw/master/%E3%80%8C%E9%9A%8F%E6%9C%BA%E3%80%8D%E7%BD%91%E6%98%93%E5%B0%8F%E5%8F%B7.js) | 玩网易游戏没有号？来获取一个吧！ |
+| [查qq权重](https://gitee.com/Ivanyang725/qqqz) | [@长野原烟花批发商](https://gitee.com/Ivanyang725) | | ✔ | [V3](https://gitee.com/Ivanyang725/qqqz/raw/master/%E6%9F%A5%E6%9D%83%E9%87%8D.js) | 查询qq账号权重，使用tfkapi获取数据 |
 | [成分姬](https://github.com/ldcivan/ddcheck_plugin) | [@YujioNako](https://github.com/ldcivan) | | ✔ | [V3](https://raw.githubusercontent.com/ldcivan/ddcheck_plugin/main/%E6%9F%A5%E6%88%90%E5%88%86.js) | 看看你的B站成分，对比数据来自vtbs.moe |
 | [wocplus视频解析插件](https://gitee.com/txlx/woc) | [@yhArcadia](https://gitee.com/yhArcadia) [@溪欣梓](https://gitee.com/txlx) [@yeyang52](https://gitee.com/yeyang52) | | ✔ | [V3](https://gitee.com/txlx/woc/raw/master/wocplus.js) | 解析抖音快手哔哩哔哩视频,详细发送 #plus帮助 |
 | [真实评分](https://github.com/ldcivan/true_ranking_plugin) | [@YujioNako](https://github.com/ldcivan) | | ✔ | [V3](https://raw.githubusercontent.com/ldcivan/true_ranking_plugin/main/true_ranking.js) | 获取b站番剧长短评来手动计算实际的评分数据 |
