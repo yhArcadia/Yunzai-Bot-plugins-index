@@ -33,7 +33,7 @@ _i 提供了关键功能_
 | [千羽插件 (qianyu-plugin)](https://gitee.com/think-first-sxs/qianyu-plugin) | [@时先思](https://gitee.com/think-first-sxs) | | ✔ | 提供ai、水群统计、文本/图片api、伪装以及一些云崽配置等功能 |
 | [清凉图插件 (yunzai-c-v-plugin)](https://gitee.com/xwy231321/yunzai-c-v-plugin) | [@xwy](https://gitee.com/xwy231321) | | ✔ | 卡片类消息，发送随机图(你目前能找到的最最最~涩的插件了[(应该)],仓库更新提醒,两种戳一戳 |
 | [ChatGPT问答插件（chatgpt-plugin）](https://github.com/ikechan8370/chatgpt-plugin) | [@ikechan8370](https://github.com/ikechan8370) |  | ✔ | 简单纯粹的基于OpenAI最新推出的chatgpt api进行问答的插件，需自备openai账号 |
-| [榴莲插件 (liulian-plugin)](https://gitee.com/huifeidemangguomao/liulian-plugin) |[@会飞的芒果猫](https://gitee.com/huifeidemangguomao) | ✔ | ✔ | 提供须弥地下地图、B站推送、插件管理、猜角色、猜歌名、等一些拓展功能 |
+| [榴莲插件 (liulian-plugin)](https://gitee.com/huifeidemangguomao/liulian-plugin) |[@会飞的芒果猫](https://gitee.com/huifeidemangguomao)[@萧枘](https://gitee.com/xiaoxiaorurui) | ✔ | ✔ | 提供须弥地下地图、B站推送、插件管理、猜角色、猜歌名、等一些拓展功能 |
 | [止水插件 (zhishui-plugin)](https://gitee.com/fjcq/zhishui-plugin) | [@止水](https://gitee.com/fjcq) | | ✔ | 搜剧插件 |
 | [图鉴 (Atlas)](https://gitee.com/Nwflower/atlas) | [@西北一枝花](https://gitee.com/Nwflower/) |   | ✔ | 原神武器、圣遗物、区域特产、七圣召唤与角色材料的图鉴，支持热更新。 |
 | [虚空插件 (akasha-terminal-plugin)](https://gitee.com/go-farther-and-farther/akasha-terminal-plugin) | [@越追越远](https://gitee.com/go-farther-and-farther) | | ✔  | 提供企鹅群游戏,目前实现了群内决斗,娶群友等有趣的小游戏 |
