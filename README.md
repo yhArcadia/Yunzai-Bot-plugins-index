@@ -65,6 +65,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
+| [QQ绑定查询](https://github.com/fuqinghe/Tloml-chabangqq) | [ @Tloml-Starry](https://github.com/fuqinghe) | | ✔ | [v3](https://raw.githubusercontent.com/fuqinghe/Tloml-chabangqq/main/%E3%80%8C%E6%9F%A5%E8%AF%A2%E3%80%8D%E6%9F%A5Q%E7%BB%91.js) | QQ绑定手机查询,使用[TFK](https://tfk.fit/)api获取数据api获取数据 |
 | [王者出装查询](https://gitee.com/Tloml-Starry/WangZhe) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | | ✔ | [V3](https://gitee.com/Tloml-Starry/WangZhe/raw/master/%E3%80%8C%E6%9F%A5%E8%AF%A2%E3%80%8D%E7%8E%8B%E8%80%85%E5%87%BA%E8%A3%85%E6%9F%A5%E8%AF%A2.js) | 王者荣耀英雄最新出装推荐，使用[TFK](https://tfk.fit/)api获取数据 |
 | [查QQ空间访客信息](https://gitee.com/Tloml-Starry/ChaQQKJFK) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | | ✔ | [V3](https://gitee.com/Tloml-Starry/ChaQQKJFK/raw/master/%E3%80%8C%E6%9F%A5%E8%AF%A2%E3%80%8D%E7%A9%BA%E9%97%B4%E8%AE%BF%E5%AE%A2%E6%9F%A5%E8%AF%A2.js) | 查询指定QQ空间访客信息，使用[TFK](https://tfk.fit/)api获取数据 |
 | [随机网易邮箱](https://gitee.com/Tloml-Starry/random-netease-small) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | | ✔ | [V3](https://gitee.com/Tloml-Starry/random-netease-small/raw/master/%E3%80%8C%E9%9A%8F%E6%9C%BA%E3%80%8D%E7%BD%91%E6%98%93%E5%B0%8F%E5%8F%B7.js) | 玩网易游戏没有号？来获取一个吧！使用[TFK](https://tfk.fit/)api获取数据 |
