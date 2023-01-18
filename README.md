@@ -49,7 +49,6 @@ _i 提供了关键功能_
 | [l-plugin](https://github.com/liuly0322/l-plugin) | [@liuly0322](https://github.com/liuly0322) | | ✔ | 塔罗牌，抽签，骰子，今天吃什么，tex图片等 |
 | [土块插件 (earth-k-plugin)](https://gitee.com/SmallK111407/earth-k-plugin) | [@SunRyK曉K](https://gitee.com/SmallK111407)  [@地球生物](https://gitee.com/jiang-zhitao-1)| | ✔ | 提供了猜语音、打我、练习记忆力小游戏，获取游戏内过场动画及角色PV，AI画图，卜卦，图片可视化点歌/视频/小说/漫画，原史（原神角色/圣遗物/武器/NPC等背景故事等）等功能 |
 | [麟插件 (lin-plugin)](https://gitee.com/go-farther-and-farther/lin-plugin) | [@越追越远](https://gitee.com/go-farther-and-farther) | | ✔ | ai接口以及配置了相关设置的功能，全局点赞、复读打断等智能化工具,发送日志文件，一些查询功能等工具 |
-| [ATRI-plugin](https://gitee.com/magical_modoka/ATRI-plugin) | [@70loKirin](https://github.com/70loKirin) |   | ✔ | 生成亚托莉（atri）酱的语音并发送，需本地部署一个项目，配置略显麻烦，返回速度较慢（10s左右） |
 | [碎月插件 (suiyue)](https://gitee.com/Acceleratorsky/suiyue)|[@碎月](https://gitee.com/Acceleratorsky)|   | ✔ |疫情，清晰度提升，搜番，搜磁力，疯狂星期四，计算器 |
 | [闲心插件 (xianxin-plugin)](https://gitee.com/xianxincoder/xianxin-plugin) |[@闲心](https://gitee.com/xianxincoder)|   | ✔ |是一个集米游社cos、米游社wiki攻略、B站up动态推送(支持长图模式)、神秘指令、群战小游戏、五子棋、21点等功能的插件|
 | [白纸插件 (zhi-plugin)](https://github.com/HeadmasterTan/zhi-plugin)    | [@HeadmasterTan](https://github.com/HeadmasterTan) | ✔ | ✔ | 提供B站动态推送。优化云崽的“添加”功能，可在同一触发词下添加多个回复 |
