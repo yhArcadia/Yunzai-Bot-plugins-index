@@ -24,6 +24,7 @@ _i 提供了关键功能_
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
+| [小月插件 (xiaoyue-plugin)](https://gitee.com/txlx/xiaoyue-plugin) | [@溪欣梓](https://gitee.com/txlx) | | ✔ | 提供涩涩,查询删除插件,wocplus，群管等功能|
 | [光遇插件 (SKY-GuangYu-plugin)](https://gitee.com/Tloml-Starry/SKY-GuangYu-plugin) | [@Tloml-Starry](https://giett.com/Tloml-Starry) | | ✔ | 提供光遇的辅助功能,后续内容待更新 |
 | [脆脆鲨插件 (Jinmaocuicuisha-plugin)](https://gitee.com/JMCCS/jinmaocuicuisha) | [@JMCCS](https://gitee.com/JMCCS) | | ✔ | 提供bot便携管理、bot被骂、和一些娱乐功能|
 | [WeLM对话插件 (WeLM-plugin)](https://gitee.com/shuciqianye/yunzai-custom-dialogue-welm) | [@JD](https://gitee.com/jd66666) [@兰罗摩](https://gitee.com/Arama_admin) [@书辞千楪](https://gitee.com/shuciqianye) | | ✔ | 提供个性ai问答、提问和续写(chatgpt下下下位替代)功能 |
@@ -77,7 +78,6 @@ _i 提供了关键功能_
 | [WeLM的ai对话](https://gitee.com/shuciqianye/yunzai-custom-dialogue-welm) | [@JD](https://gitee.com/jd66666) [@兰罗摩](https://gitee.com/Arama_admin) [@书辞千楪](https://gitee.com/shuciqianye) | | ✔ | [V3](https://gitee.com/shuciqianye/yunzai-custom-dialogue-welm/blob/js-version/welm(JS).js) | 提供个性ai问答、提问和续写(chatgpt下下下位替代)功能 |
 | [群管插件](https://gitee.com/clarlotte/Yunzai-Bot-V3-plugin) | [@clarlotte](https://gitee.com/clarlotte) | | ✔ | [v3](https://gitee.com/clarlotte/Yunzai-Bot-V3-plugin/raw/master/GroupSettings.js) | 提供Yunzai-Bot-V3的群管，部分功能仅支持Bot为群主，建议Bot为群主时使用该插件 |
 | [云崽Bot账号管理插件](https://gitee.com/CUZNIL/Yunzai-QQmanager) | [@硫酸钡Barite](https://gitee.com/CUZNIL) | | ✔ | [v3](https://gitee.com/CUZNIL/Yunzai-QQmanager/raw/master/QQmanager.js) | 账号管理插件改写自[BeterKing的账号管理插件](https://gitee.com/zhxhx/Yunzai-Bot-js)，针对网络抖动造成的token丢失问题作出了临时解决，并大量优化了使用体验 |
-| [须弥地图](https://gitee.com/txlx/resell-mapjs) | [@溪欣梓](https://gitee.com/txlx) | | ✔ |[v3](https://gitee.com/txlx/resell-mapjs/raw/tx/mapmax.js)| 倒卖榴莲插件中的地图功能,某大佬帮助修改升级 |
 | [give_me_some_heis](https://gitee.com/koinori/give_me_some_heis) | [@koinori](https://gitee.com/koinori) | ✔  | ✔ | [v2](https://gitee.com/koinori/give_me_some_heis/raw/master/give_me_some_heisV2.js) [v3](https://gitee.com/koinori/give_me_some_heis/raw/master/give_me_some_heisV3.js)| 麻溜滴，来点黑丝/白丝/jk/巨r/网红/足控三次元美图 |
 | [更换节点](https://gitee.com/ThreeYi/sy_js_plugin) | [@sanyi](https://gitee.com/ThreeYi) | | ✔ | [v3](https://gitee.com/ThreeYi/sy_js_plugin/raw/master/%E6%9B%B4%E6%8D%A2%E8%8A%82%E7%82%B9.js)| 更换面板更新服务器 |
 | [摸鱼人日历](https://github.com/AiYuuki/Yuuki-plugin-mini) | [@夕綺Yuuki](https://github.com/AiYuuki) | | ✔ | [v3](https://github.com/AiYuuki/Yuuki-plugin-mini/raw/main/Yuuki-mini-moyu.js)| 获取每日摸鱼人日报，支持自动推送 |
