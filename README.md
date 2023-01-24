@@ -111,6 +111,7 @@ _i 提供了关键功能_
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [Yunzai-Bot指南](https://gitee.com/lin-zhi-xuan/eihei) | [@eihei](https://gitee.com/lin-zhi-xuan) | 提供多系统的Yunzai-Bot安装教程,Yunzai-Bot插件编写教程,Yunzai-Bot问题解答 |
 | [TRSS Yunzai 管理脚本](https://TRSS.me) | [@时雨🌌星空](../../../../TimeRainStarSky) | 提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Windows / Linux / Mac / Android |
 | [服务器软件安装](https://gitee.com/WinterChocolates/software-installation) | [@冬季巧克力](https://github.com/WinterChocolates) | 提供centos与ubuntu服务器git，python等等的软件安装 |
 | [Yunzai-Bot Ubuntu CentOS一键脚本](https://github.com/YAOyao5917/Yunzai-Bot-shell) | [@妖云网络-妖妖](https://github.com/YAOyao5917) | 提供 Yunzai-Bot-shell Linux轻量级云崽一键安装脚本 |
