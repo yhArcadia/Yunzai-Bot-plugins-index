@@ -66,6 +66,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
+| [光遇每日任务](https://gitee.com/xin-closing-fuse/sky-yunzai-v3-plugins) | [@自闭歆](https://gitee.com/xin-closing-fuse) | | ✔ | [v3](https://gitee.com/xin-closing-fuse/sky-yunzai-v3-plugins/raw/master/光遇.js) | 提供光遇每日任务的攻略数据来自[好游快爆](https://www.onebiji.com/hykb_tools/guangyu/rwgl/index.php) |
 | [日群友](https://github.com/MyWifeAsuna/Fuck-QQGroup-Everyone) | [@MyWifeAsuna](https://github.com/MyWifeAsuna) | | ✔ | [V3](https://raw.githubusercontent.com/MyWifeAsuna/Fuck-QQGroup-Everyone/main/%E6%97%A5%E7%BE%A4%E5%8F%8B.js) | 新的一天从随机向群友发情开始 |
 | [王者出装查询](https://gitee.com/Tloml-Starry/WangZhe) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | | ✔ | [V3](https://gitee.com/Tloml-Starry/WangZhe/raw/master/%E3%80%8C%E6%9F%A5%E8%AF%A2%E3%80%8D%E7%8E%8B%E8%80%85%E5%87%BA%E8%A3%85%E6%9F%A5%E8%AF%A2.js) | 王者荣耀英雄最新出装推荐，使用[TFK](https://tfk.fit/)api获取数据 |
 | [查QQ空间访客信息](https://gitee.com/Tloml-Starry/ChaQQKJFK) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | | ✔ | [V3](https://gitee.com/Tloml-Starry/ChaQQKJFK/raw/master/%E3%80%8C%E6%9F%A5%E8%AF%A2%E3%80%8D%E7%A9%BA%E9%97%B4%E8%AE%BF%E5%AE%A2%E6%9F%A5%E8%AF%A2.js) | 查询指定QQ空间访客信息，使用[TFK](https://tfk.fit/)api获取数据 |
