@@ -65,6 +65,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
+| [js/cmd代码运行](https://gitee.com/Ivanyang725/yunzai_jsrun) | [@长野原烟花批发商](https://gitee.com/Ivanyang725) | | ✔ | [V3](https://gitee.com/Ivanyang725/yunzai_jsrun/raw/master/jsrun.js) | 在qq中运行js/cmd代码（有便利也有风险，谨慎使用） |
 | [查询QQ等级信息](https://gitee.com/Tloml-Starry/114514) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | | ✔ | [v3](https://gitee.com/Tloml-Starry/114514/raw/master/%E3%80%8C%E6%9F%A5%E8%AF%A2%E3%80%8DQQ%E7%AD%89%E7%BA%A7%E4%BF%A1%E6%81%AF.js) | 查询QQ等级信息,及入网时间 |
 | [光遇每日任务](https://gitee.com/xin-closing-fuse/sky-yunzai-v3-plugins) | [@自闭歆](https://gitee.com/xin-closing-fuse) | | ✔ | [v3](https://gitee.com/xin-closing-fuse/sky-yunzai-v3-plugins/raw/master/光遇.js) | 提供光遇每日任务的攻略数据来自[好游快爆](https://www.onebiji.com/hykb_tools/guangyu/rwgl/index.php) |
 | [日群友](https://github.com/MyWifeAsuna/Fuck-QQGroup-Everyone) | [@MyWifeAsuna](https://github.com/MyWifeAsuna) | | ✔ | [V3](https://raw.githubusercontent.com/MyWifeAsuna/Fuck-QQGroup-Everyone/main/%E6%97%A5%E7%BE%A4%E5%8F%8B.js) | 新的一天从随机向群友发情开始 |
