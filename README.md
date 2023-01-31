@@ -10,7 +10,7 @@ _i 提供了关键功能_
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
 | [锅巴插件 (guoba-plugin)](https://gitee.com/guoba-yunzai/guoba-plugin) | [@zolay-poi](https://github.com/zolay-poi) | ✔ | ✔ | V3主要提供云崽的网页端后台管理界面功能；V2提供丝滑迁移V3功能。 |
-| [戏天插件 (xitian-plugin)](https://gitee.com/XiTianGame/xitian-plugin) | [@戏天](https://github.com/XiTianGame) | | ✔ | 提供js类插件管理功能 |
+| [戏天插件 (xitian-plugin)](https://gitee.com/XiTianGame/xitian-plugin) | [@戏天](https://github.com/XiTianGame) | | ✔ | [慎装！目前因不明原因会报错]提供js类插件管理功能 |
 | [喵喵插件 (miao-plugin)](https://gitee.com/yoimiya-kokomi/miao-plugin) | [@喵喵](https://gitee.com/yoimiya-kokomi)| ✔ | ✔ | Miao-Plugin是一个Yunzai-Bot的升级插件，提供包括角色面板查询等升级功能 |
 | [半柠檬插件 (a-lemon-plugin)](https://gitee.com/ningmengchongshui/a-lemon-plugin) | [@ningmengchongshui](https://gitee.com/ningmengchongshui)|  | ✔ | Yunzai-Bot开发插件框架（内含游戏开发）致力于降低插件开发门槛 |
 
@@ -24,21 +24,20 @@ _i 提供了关键功能_
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
+| [小雪插件 (XiaoXuePlugin)](https://gitee.com/XueWerY/XiaoXuePlugin) | [@XueWerY](https://gitee.com/XueWerY) | | ✔ | 是一个追求用户体验和完美的插件 |
 | [拓展插件 (expand-plugin)](https://gitee.com/SmallK111407/expand-plugin) | [@SunRyK曉K](https://gitee.com/SmallK111407) | | ✔ | 提供#刻晴攻略5、#艾尔海森攻略6、#明日素材 等在云崽基础上拓展的功能 |
-| [小月插件 (xiaoyue-plugin)](https://gitee.com/txlx/xiaoyue-plugin) | [@溪欣梓](https://gitee.com/txlx) | | ✔ | 提供涩涩,查询删除插件,wocplus，群管等功能|
-| [光遇插件 (SKY-GuangYu-plugin)](https://gitee.com/Tloml-Starry/SKY-GuangYu-plugin) | [@Tloml-Starry](https://giett.com/Tloml-Starry) | | ✔ | 提供光遇查询服务器状态,每日任务,光遇日历,常驻季节兑换图等功能 |
+| [光遇插件 (Tlon-Sky)](https://gitee.com/Tloml-Starry/Tlon-Sky) | [@Tloml-Starry](https://giett.com/Tloml-Starry) | | ✔ | 提供光遇查询服务器状态,每日任务,光遇日历,常驻季节兑换图,查询身高等功能 |
 | [脆脆鲨插件 (Jinmaocuicuisha-plugin)](https://gitee.com/JMCCS/jinmaocuicuisha) | [@JMCCS](https://gitee.com/JMCCS) | | ✔ | 提供bot便携管理、bot被骂、和一些娱乐功能|
-| [WeLM对话插件 (WeLM-plugin)](https://gitee.com/shuciqianye/yunzai-custom-dialogue-welm) | [@JD](https://gitee.com/jd66666) [@兰罗摩](https://gitee.com/Arama_admin) [@书辞千楪](https://gitee.com/shuciqianye) | | ✔ | 提供个性ai问答、提问和续写(chatgpt下下下位替代)功能 |
+| [WeLM对话插件 (WeLM-plugin)](https://github.com/JD1433223/WeLM-plugin) | [@JD](https://gitee.com/jd66666) [@兰罗摩](https://gitee.com/Arama_admin) [@书辞千楪](https://gitee.com/shuciqianye) | | ✔ | 提供个性ai问答、提问和续写(chatgpt下下下位替代)功能 |
 | [枫叶插件 (hs-qiqi-Plugin)](https://gitee.com/kesally/hs-qiqi-cv-plugin) | [@Kesally](https://gitee.com/kesally)  [@qiqi](https://gitee.com/fengyeplugin) | | ✔ | 枫叶是Yunzai-Bot的扩展插件，可能提供有用或者没用的功能(?) |
 | [AI绘图插件 (ap-plugin)](https://gitee.com/yhArcadia/ap-plugin)     | [@渔火Arcadia](https://gitee.com/yhArcadia) [@苏苏](https://nahida.com.cn) |   | ✔ | 提供AI绘图及其衍生功能：#以文生图、#以图生图、图片清晰术、生成“二次元的我”形象等|
 | [小叶插件 (xiaoye-plugin)](https://gitee.com/xiaoye12123/xiaoye-plugin)     | [@小叶](https://gitee.com/xiaoye12123)   |   | ✔ | 模拟刷圣遗物和强化,可自定义概率 |
 | [自动化插件 (auto-plugin)](https://gitee.com/Nwflower/auto-plugin) | [@西北一枝花](https://gitee.com/Nwflower/) |   | ✔ | 可能是史上最强大的群名片更新插件。另外还提供了一些自动化小功能。 |
-| [千羽插件 (qianyu-plugin)](https://gitee.com/think-first-sxs/qianyu-plugin) | [@时先思](https://gitee.com/think-first-sxs) | | ✔ | 提供ai、水群统计、文本/图片api、伪装以及一些云崽配置等功能 |
 | [清凉图插件 (yunzai-c-v-plugin)](https://gitee.com/xwy231321/yunzai-c-v-plugin) | [@xwy](https://gitee.com/xwy231321) | | ✔ | 卡片类消息，发送随机图(你目前能找到的最最最~涩的插件了[(应该)],仓库更新提醒,两种戳一戳 |
 | [ChatGPT问答插件（chatgpt-plugin）](https://github.com/ikechan8370/chatgpt-plugin) | [@ikechan8370](https://github.com/ikechan8370) |  | ✔ | 简单纯粹的基于OpenAI最新推出的chatgpt api进行问答的插件，需自备openai账号 |
-| [榴莲插件 (liulian-plugin)](https://gitee.com/huifeidemangguomao/liulian-plugin) |[@会飞的芒果猫](https://gitee.com/huifeidemangguomao)[@萧枘](https://gitee.com/xiaoxiaorurui) | ✔ | ✔ | 提供须弥地下地图、B站推送、插件管理、猜角色、猜歌名、等一些拓展功能 |
+| [榴莲插件 (liulian-plugin)](https://gitee.com/huifeidemangguomao/liulian-plugin) |[@会飞的芒果猫](https://gitee.com/huifeidemangguomao)[@萧枘](https://gitee.com/xiaoxiaorurui) | ✔ | ✔ | 一个Yunzai-Bot插件，提供原神地下地图、B站推送、插件管理等一些拓展功能(部分功能需要安装ffmpeg或图片加量包以保证正常使用) |
 | [止水插件 (zhishui-plugin)](https://gitee.com/fjcq/zhishui-plugin) | [@止水](https://gitee.com/fjcq) | | ✔ | 搜剧插件 |
-| [图鉴 (Atlas)](https://gitee.com/Nwflower/atlas) | [@西北一枝花](https://gitee.com/Nwflower/) |   | ✔ | 原神武器、圣遗物、区域特产、七圣召唤与角色材料的图鉴，支持热更新。 |
+| [图鉴 (Atlas)](https://gitee.com/Nwflower/atlas) | [@西北一枝花](https://gitee.com/Nwflower/) |   | ✔ | 原神武器、圣遗物、区域特产、七圣召唤与角色材料的图鉴。 |
 | [虚空插件 (akasha-terminal-plugin)](https://gitee.com/go-farther-and-farther/akasha-terminal-plugin) | [@越追越远](https://gitee.com/go-farther-and-farther) | | ✔  | 提供企鹅群游戏,目前实现了群内决斗,娶群友等有趣的小游戏 |
 | [Recreation-plugin](https://github.com/QiuLing0/recreation-plugin) | [@QiuLing0](https://github.com/QiuLing0) | | ✔ | 基于YunzaiV3.0版本衍生娱乐插件，插件将不断集成娱乐工具 |
 | [Python插件 (py-plugin)](https://gitee.com/realhuhu/py-plugin) | [@realhuhu](https://gitee.com/realhuhu) | | ✔ | 主要提供nonebot2机器人服务|
@@ -67,6 +66,8 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
+| [飞花令](https://gitee.com/Nwflower/flower) | [@西北一枝花](https://gitee.com/Nwflower/) |  | ✔ | [V3](https://gitee.com/Nwflower/flower/raw/master/飞花令.js) | 灵感来自于诗词大会。 |
+| [js/cmd代码运行](https://gitee.com/Ivanyang725/yunzai_jsrun) | [@长野原烟花批发商](https://gitee.com/Ivanyang725) | | ✔ | [V3](https://gitee.com/Ivanyang725/yunzai_jsrun/raw/master/jsrun.js) | 在qq中运行js/cmd代码（有便利也有风险，谨慎使用） |
 | [查询QQ等级信息](https://gitee.com/Tloml-Starry/114514) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | | ✔ | [v3](https://gitee.com/Tloml-Starry/114514/raw/master/%E3%80%8C%E6%9F%A5%E8%AF%A2%E3%80%8DQQ%E7%AD%89%E7%BA%A7%E4%BF%A1%E6%81%AF.js) | 查询QQ等级信息,及入网时间 |
 | [光遇每日任务](https://gitee.com/xin-closing-fuse/sky-yunzai-v3-plugins) | [@自闭歆](https://gitee.com/xin-closing-fuse) | | ✔ | [v3](https://gitee.com/xin-closing-fuse/sky-yunzai-v3-plugins/raw/master/光遇.js) | 提供光遇每日任务的攻略数据来自[好游快爆](https://www.onebiji.com/hykb_tools/guangyu/rwgl/index.php) |
 | [日群友](https://github.com/MyWifeAsuna/Fuck-QQGroup-Everyone) | [@MyWifeAsuna](https://github.com/MyWifeAsuna) | | ✔ | [V3](https://raw.githubusercontent.com/MyWifeAsuna/Fuck-QQGroup-Everyone/main/%E6%97%A5%E7%BE%A4%E5%8F%8B.js) | 新的一天从随机向群友发情开始 |
@@ -75,7 +76,6 @@ _i 提供了关键功能_
 | [随机网易邮箱](https://gitee.com/Tloml-Starry/random-netease-small) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | | ✔ | [V3](https://gitee.com/Tloml-Starry/random-netease-small/raw/master/%E3%80%8C%E9%9A%8F%E6%9C%BA%E3%80%8D%E7%BD%91%E6%98%93%E5%B0%8F%E5%8F%B7.js) | 玩网易游戏没有号？来获取一个吧！使用[TFK](https://tfk.fit/)api获取数据 |
 | [查qq权重](https://gitee.com/Ivanyang725/qqqz) | [@长野原烟花批发商](https://gitee.com/Ivanyang725) | | ✔ | [V3](https://gitee.com/Ivanyang725/qqqz/raw/master/%E6%9F%A5%E6%9D%83%E9%87%8D.js) | 查询qq账号权重，使用tfkapi获取数据 |
 | [成分姬](https://github.com/ldcivan/ddcheck_plugin) | [@YujioNako](https://github.com/ldcivan) | | ✔ | [V3](https://raw.githubusercontent.com/ldcivan/ddcheck_plugin/main/%E6%9F%A5%E6%88%90%E5%88%86.js) | 看看你的B站成分，对比数据来自vtbs.moe |
-| [wocplus视频解析插件](https://gitee.com/txlx/woc) | [@yhArcadia](https://gitee.com/yhArcadia) [@溪欣梓](https://gitee.com/txlx) [@yeyang52](https://gitee.com/yeyang52) | | ✔ | [V3](https://gitee.com/txlx/woc/raw/master/wocplus.js) | 解析抖音快手哔哩哔哩视频,详细发送 #plus帮助 |
 | [真实评分](https://github.com/ldcivan/true_ranking_plugin) | [@YujioNako](https://github.com/ldcivan) | | ✔ | [V3](https://raw.githubusercontent.com/ldcivan/true_ranking_plugin/main/true_ranking.js) | 获取b站番剧长短评来手动计算实际的评分数据 |
 | [战地战绩查询插件](https://github.com/ldcivan/bf_info_plugin) | [@YujioNako](https://github.com/ldcivan) | | ✔ | [V3](https://raw.githubusercontent.com/ldcivan/bf_info_plugin/main/bf_info.js) | 提供田野打架™1！5！代战绩查询服务的js插件 |
 | [搜图插件](https://github.com/ldcivan/Yunzai_imgSearcher) | [@YujioNako](https://github.com/ldcivan) | | ✔ | [V3](https://raw.githubusercontent.com/ldcivan/Yunzai_imgSearcher/main/Yunzai_imgSearcher.js) | 一个基于saucenao api的轻量化识图插件，并提供QQ图片取直链功能|
@@ -95,9 +95,7 @@ _i 提供了关键功能_
 | [点歌插件](https://gitee.com/xfdown/yun-zai-robot-plug-in/) | [@小飞](https://gitee.com/xfdown) | | ✔ | [v3](https://gitee.com/xfdown/yun-zai-robot-plug-in/raw/master/%E7%82%B9%E6%AD%8C%E6%8F%92%E4%BB%B6.js) | QQ/网易/酷我/酷狗点歌（支持多选） |
 | [天气插件](https://gitee.com/xfdown/yun-zai-robot-plug-in/) | [@小飞](https://gitee.com/xfdown) | | ✔ | [v3](https://gitee.com/xfdown/yun-zai-robot-plug-in/raw/master/%E5%A4%A9%E6%B0%94%E6%8F%92%E4%BB%B6.js) | 请求腾讯天气网站进行页面截图 |
 | [文案类回复合集](https://gitee.com/huangshx2001/yunzai-js-plug-in) | [@癫癫博士](https://gitee.com/huangshx2001) |  | ✔ | [v3](https://gitee.com/huangshx2001/yunzai-js-plug-in/raw/master/%E6%96%87%E6%A1%88%E7%B1%BB%E5%9B%9E%E5%A4%8D%E5%90%88%E9%9B%86.js) | 比较全的文案类api合集，日后打算整图片/资讯/音视频类合集，就不发在这占空间了，欢迎光临我的仓库查看！ |
-| [帐号管理](https://gitee.com/zhxhx/Yunzai-Bot-js) | [@BeterKing](https://gitee.com/zhxhx) |  | ✔ | [v3](https://gitee.com/zhxhx/Yunzai-Bot-js/raw/main/%E5%B8%90%E5%8F%B7%E7%AE%A1%E7%90%86/%E5%B8%90%E5%8F%B7%E7%AE%A1%E7%90%86.js) | 切换、管理帐号，掉线自动切换账户 |
 | [cp卡片，文章生成](https://gitee.com/huangshx2001/yunzai-js-plug-in) | [@癫癫博士](https://gitee.com/huangshx2001) |  | ✔ | [v3](https://gitee.com/huangshx2001/yunzai-js-plug-in/raw/master/cp%E5%8D%A1%E7%89%87%E3%80%81%E6%96%87%E7%94%9F%E6%88%90%E5%99%A8.js) | 生成cp卡片/文章，可快乐嗑cp或者恶心群友 |
-| [指令拦截](https://gitee.com/zhxhx/Yunzai-Bot-js) | [@BeterKing](https://gitee.com/zhxhx) |  | ✔ | [v3](https://gitee.com/zhxhx/Yunzai-Bot-js/raw/main/%E6%8C%87%E4%BB%A4%E6%8B%A6%E6%88%AA.js) | 禁用指令 |
 | [查委托](https://gitee.com/mofengdada/chaweituo) | [@mofengdada](https://gitee.com/mofengdada) | ✔ | ✔ | [v2](https://gitee.com/mofengdada/chaweituo/raw/master/%E6%9F%A5%E5%A7%94%E6%89%98V2.js) [v3](https://gitee.com/mofengdada/chaweituo/raw/master/%E6%9F%A5%E5%A7%94%E6%89%98V3.js)| 查看原神每日委托是否有隐藏成就 |
 | [打他hithim](https://github.com/huzwu/hithim-plugin) | [@huzwu](https://github.com/huzwu) |  | ✔ | [v3](https://raw.githubusercontent.com/huzwu/hithim-plugin/main/hithim.js) |  提供攻击他人并禁言或回血取消功能 |
 | [谁是卧底](https://gitee.com/Saury-loser/Saury) | [@Saury](https://gitee.com/Saury-loser) |   | ✔ | [v3](https://gitee.com/Saury-loser/Saury/raw/master/%E8%B0%81%E6%98%AF%E5%8D%A7%E5%BA%95.js) | 是一个比拼语言表述能力、知识面与想象力的游戏。  |
@@ -115,8 +113,9 @@ _i 提供了关键功能_
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [Linux Docker安装教程](https://cloud.tencent.com/developer/article/2210852) | [@诺依阁](https://gitee.com/nuoyis) | 从头带你docker安装避坑,新手可下载配置好的docker包 |
 | [TRSS Yunzai 管理脚本](https://TRSS.me) | [@时雨🌌星空](../../../../TimeRainStarSky) | 提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Windows / Linux / Mac / Android |
-| [Yunzai-Bot指南](https://gitee.com/lin-zhi-xuan/eihei) | [@eihei](https://gitee.com/lin-zhi-xuan) | 提供多系统的Yunzai-Bot安装教程,Yunzai-Bot插件编写教程,Yunzai-Bot问题解答 |
+| [Yunzai-Bot指南](https://gitee.com/lin-zhi-xuan/eihei) | [@eihei](https://gitee.com/lin-zhi-xuan) [@qianxinwanjiu](https://gitee.com/qianxinwanjiu)| 提供多系统的Yunzai-Bot安装教程,Yunzai-Bot插件编写教程,Yunzai-Bot问题解答,ffmpeg安装教程 |
 | [服务器软件安装](https://gitee.com/WinterChocolates/software-installation) | [@冬季巧克力](https://github.com/WinterChocolates) | 提供centos与ubuntu服务器git，python等等的软件安装 |
 | [Yunzai-Bot Ubuntu CentOS一键脚本](https://github.com/YAOyao5917/Yunzai-Bot-shell) | [@妖云网络-妖妖](https://github.com/YAOyao5917) | 提供 Yunzai-Bot-shell Linux轻量级云崽一键安装脚本 |
 | [Yunzai-Bot-Help](https://gitee.com/ningmengchongshui/Yunzai-Bot-Help) | [@柠檬冲水](https://github.com/ningmengchongshui) | Centos/Ubuntu系统轻量型图形化工具 |
@@ -126,6 +125,7 @@ _i 提供了关键功能_
 | [喵喵面板背景图包](https://github.com/lc-hongdou/gallery) | [@早餐不要在空腹的时候吃](https://github.com/lc-hongdou) | 提供由多人制作的miao-plugin的面板背景图库 |
 | [喵喵面板背景图包](https://gitee.com/hbj2457/super-character) | [@hbj2457](https://gitee.com/hbj2457) | 喵喵插件 (miao-plugin)的面板背景图库 |
 | [喵喵面板背景图包](https://gitee.com/SmallK111407/Miao-Character) | [@SunRyK曉K](https://gitee.com/SmallK111407) | 由多人制作的喵喵插件miao-plugin的面板背景图库 |
+| [喵喵面板背景图包](https://gitee.com/a200713901/miao-character) | [@寻常](https://gitee.com/a200713901) | 由多人和个人制作的喵喵插件miao-plugin的面板背景图库 |
 | [体力背景图包](https://gitee.com/cv-hunag/BJT) | [@煌](https://gitee.com/cv-hunag) | xiaoyao-cvs-plugin的体力背景图库 |
 | [曉K体力模板2版背景图包](https://gitee.com/SmallK111407/BJT-Template) | [@SunRyK曉K](https://gitee.com/SmallK111407) | xiaoyao-cvs-plugin的体力背景图库 |
 | [全服(包含国际服)获取Ck或Stoken.apk](https://gitee.com/Divinationhw/Yunzai-Bot-YJHQ) | [@DivinationHW](https://gitee.com/DivinationHW) | Android获取国服国际服Cookie和Stoken软件 |
