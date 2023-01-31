@@ -37,7 +37,7 @@ _i 提供了关键功能_
 | [ChatGPT问答插件（chatgpt-plugin）](https://github.com/ikechan8370/chatgpt-plugin) | [@ikechan8370](https://github.com/ikechan8370) |  | ✔ | 简单纯粹的基于OpenAI最新推出的chatgpt api进行问答的插件，需自备openai账号 |
 | [榴莲插件 (liulian-plugin)](https://gitee.com/huifeidemangguomao/liulian-plugin) |[@会飞的芒果猫](https://gitee.com/huifeidemangguomao)[@萧枘](https://gitee.com/xiaoxiaorurui) | ✔ | ✔ | 一个Yunzai-Bot插件，提供原神地下地图、B站推送、插件管理等一些拓展功能(部分功能需要安装ffmpeg或图片加量包以保证正常使用) |
 | [止水插件 (zhishui-plugin)](https://gitee.com/fjcq/zhishui-plugin) | [@止水](https://gitee.com/fjcq) | | ✔ | 搜剧插件 |
-| [图鉴 (Atlas)](https://gitee.com/Nwflower/atlas) | [@西北一枝花](https://gitee.com/Nwflower/) |   | ✔ | 原神武器、圣遗物、区域特产、七圣召唤与角色材料的图鉴，支持热更新。 |
+| [图鉴 (Atlas)](https://gitee.com/Nwflower/atlas) | [@西北一枝花](https://gitee.com/Nwflower/) |   | ✔ | 原神武器、圣遗物、区域特产、七圣召唤与角色材料的图鉴。 |
 | [虚空插件 (akasha-terminal-plugin)](https://gitee.com/go-farther-and-farther/akasha-terminal-plugin) | [@越追越远](https://gitee.com/go-farther-and-farther) | | ✔  | 提供企鹅群游戏,目前实现了群内决斗,娶群友等有趣的小游戏 |
 | [Recreation-plugin](https://github.com/QiuLing0/recreation-plugin) | [@QiuLing0](https://github.com/QiuLing0) | | ✔ | 基于YunzaiV3.0版本衍生娱乐插件，插件将不断集成娱乐工具 |
 | [Python插件 (py-plugin)](https://gitee.com/realhuhu/py-plugin) | [@realhuhu](https://gitee.com/realhuhu) | | ✔ | 主要提供nonebot2机器人服务|
@@ -66,6 +66,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
+| [飞花令](https://gitee.com/Nwflower/flower) | [@西北一枝花](https://gitee.com/Nwflower/) |  | ✔ | [V3](https://gitee.com/Nwflower/flower/raw/master/飞花令.js) | 灵感来自于诗词大会。 |
 | [js/cmd代码运行](https://gitee.com/Ivanyang725/yunzai_jsrun) | [@长野原烟花批发商](https://gitee.com/Ivanyang725) | | ✔ | [V3](https://gitee.com/Ivanyang725/yunzai_jsrun/raw/master/jsrun.js) | 在qq中运行js/cmd代码（有便利也有风险，谨慎使用） |
 | [查询QQ等级信息](https://gitee.com/Tloml-Starry/114514) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | | ✔ | [v3](https://gitee.com/Tloml-Starry/114514/raw/master/%E3%80%8C%E6%9F%A5%E8%AF%A2%E3%80%8DQQ%E7%AD%89%E7%BA%A7%E4%BF%A1%E6%81%AF.js) | 查询QQ等级信息,及入网时间 |
 | [光遇每日任务](https://gitee.com/xin-closing-fuse/sky-yunzai-v3-plugins) | [@自闭歆](https://gitee.com/xin-closing-fuse) | | ✔ | [v3](https://gitee.com/xin-closing-fuse/sky-yunzai-v3-plugins/raw/master/光遇.js) | 提供光遇每日任务的攻略数据来自[好游快爆](https://www.onebiji.com/hykb_tools/guangyu/rwgl/index.php) |
