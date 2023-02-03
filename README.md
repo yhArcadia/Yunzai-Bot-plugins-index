@@ -59,6 +59,18 @@ _i 提供了关键功能_
 <!-- 请不要在此处添加行，请在此表格顶部添加 -->
 <br>
 
+## 游戏类插件
+<details>
+<summary>展开/收起</summary>
+
+| 名称  |  作者  | 简介  |
+|-------| ----- |------ |
+| [插件名 (plugin name)](https://gitee.com/example/example) | [@author](https://gitee.com/author) | 简介 |
+
+</details>
+
+<br>
+
 ## .js插件索引  
 #### *可以点击查看源码，另存为js文件来使用*
 <!-- 在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
