@@ -12,13 +12,13 @@ _i 提供了关键功能_
 | [锅巴插件 (guoba-plugin)](https://gitee.com/guoba-yunzai/guoba-plugin) | [@zolay-poi](https://github.com/zolay-poi) | ✔ | ✔ | V3主要提供云崽的网页端后台管理界面功能；V2提供丝滑迁移V3功能。 |
 | [戏天插件 (xitian-plugin)](https://gitee.com/XiTianGame/xitian-plugin) | [@戏天](https://github.com/XiTianGame) | | ✔ | [慎装！目前因不明原因会报错]提供js类插件管理功能 |
 | [喵喵插件 (miao-plugin)](https://gitee.com/yoimiya-kokomi/miao-plugin) | [@喵喵](https://gitee.com/yoimiya-kokomi)| ✔ | ✔ | Miao-Plugin是一个Yunzai-Bot的升级插件，提供包括角色面板查询等升级功能 |
-| [半柠檬插件 (a-lemon-plugin)](https://gitee.com/ningmengchongshui/a-lemon-plugin) | [@ningmengchongshui](https://gitee.com/ningmengchongshui)|  | ✔ | Yunzai-Bot开发插件框架（内含游戏开发）致力于降低插件开发门槛 |
+| [半柠檬插件 (alemon-plugin)](https://gitee.com/ningmengchongshui/alemon-plugin) | [@ningmengchongshui](https://gitee.com/ningmengchongshui)|  | ✔ | Yunzai-Bot的插件开发框架（内含游戏开发）致力于降低插件开发门槛 |
 
 
 <br>
 
 
-## 插件包(plugin)索引 
+## 功能插件（plugin） 
 
 
 <!-- 请在表首添加新行 -->
@@ -41,8 +41,6 @@ _i 提供了关键功能_
 | [虚空插件 (akasha-terminal-plugin)](https://gitee.com/go-farther-and-farther/akasha-terminal-plugin) | [@越追越远](https://gitee.com/go-farther-and-farther) | | ✔  | 提供企鹅群游戏,目前实现了群内决斗,娶群友等有趣的小游戏 |
 | [Recreation-plugin](https://github.com/QiuLing0/recreation-plugin) | [@QiuLing0](https://github.com/QiuLing0) | | ✔ | 基于YunzaiV3.0版本衍生娱乐插件，插件将不断集成娱乐工具 |
 | [Python插件 (py-plugin)](https://gitee.com/realhuhu/py-plugin) | [@realhuhu](https://gitee.com/realhuhu) | | ✔ | 主要提供nonebot2机器人服务|
-| [修仙插件 (xiuxian-plugin)](https://gitee.com/ningmengchongshui/Xiuxian-Plugin-Box) | [ @游戏开发](https://gitee.com/ningmengchongshui/game-development) |   | ✔ | 多人在线文游 |
-| [绝云间修仙V1.2.4「银花造福盈」 (原修仙模拟器DD斩首魔改版)](https://gitee.com/hutao222/DDZS-XIUXIAN-V1.2.4) | [@DD斩首](https://gitee.com/hutao222) |   | ✔ | 功能数量比2.0全插件版本多35个功能以及新年版本活动「银花造福盈」将于1月20日上线 |
 | [AI语音本地生成 (vits_yunzai_plugin)](https://gitee.com/sumght/vits_yunzai_plugin) | [@sumght-z](https://github.com/sumght-z) | | ✔ | 基于vits本地生成原神/崩三语音 [生成效果演示](https://www.bilibili.com/video/BV1ke4y1p7qq)|
 | [TRSS 插件 (TRSS-Plugin)](https://Yunzai.TRSS.me) | [@时雨🌌星空](../../../../TimeRainStarSky) | | ✔ | 图片修复、原神语音合成、系统信息、二维码生成、米哈游登录、Markdown、远程命令、文件操作、云盘操作 |
 | [windoge-plugin](https://github.com/gxy12345/windoge-plugin) | [@gxy12345](https://github.com/gxy12345) | ✔ | ✔ | 提供一些国际服便捷功能，以及继续维护参考面板数据 |
@@ -59,19 +57,20 @@ _i 提供了关键功能_
 <!-- 请不要在此处添加行，请在此表格顶部添加 -->
 <br>
 
-## 游戏类插件
+## 游戏插件（plugin） 
 <details>
 <summary>展开/收起</summary>
 
 | 名称  |  作者  | 简介  |
 |-------| ----- |------ |
-| [插件名 (plugin name)](https://gitee.com/example/example) | [@author](https://gitee.com/author) | 简介 |
+| [修仙插件(xiuxian-plugin)](https://gitee.com/ningmengchongshui/Xiuxian-Plugin-Box) | [ @三点水](https://gitee.com/ningmengchongshui/game-development) |  多人在线文游 |
+| [绝云间修仙V1.2.4「银花造福盈」 (原修仙模拟器DD斩首魔改版)](https://gitee.com/hutao222/DDZS-XIUXIAN-V1.2.4) | [@DD斩首](https://gitee.com/hutao222) |  功能数量比2.0全插件版本多35个功能以及新年版本活动「银花造福盈」将于1月20日上线 |
 
 </details>
 
 <br>
 
-## .js插件索引  
+## JS插件索引（example）  
 #### *可以点击查看源码，另存为js文件来使用*
 <!-- 在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 <!-- 请在表首添加新行 -->
@@ -130,7 +129,7 @@ _i 提供了关键功能_
 | [Yunzai-Bot指南](https://gitee.com/lin-zhi-xuan/eihei) | [@eihei](https://gitee.com/lin-zhi-xuan) [@qianxinwanjiu](https://gitee.com/qianxinwanjiu)| 提供多系统的Yunzai-Bot安装教程,Yunzai-Bot插件编写教程,Yunzai-Bot问题解答,ffmpeg安装教程 |
 | [服务器软件安装](https://gitee.com/WinterChocolates/software-installation) | [@冬季巧克力](https://github.com/WinterChocolates) | 提供centos与ubuntu服务器git，python等等的软件安装 |
 | [Yunzai-Bot Ubuntu CentOS一键脚本](https://github.com/YAOyao5917/Yunzai-Bot-shell) | [@妖云网络-妖妖](https://github.com/YAOyao5917) | 提供 Yunzai-Bot-shell Linux轻量级云崽一键安装脚本 |
-| [Yunzai-Bot-Help](https://gitee.com/ningmengchongshui/Yunzai-Bot-Help) | [@柠檬冲水](https://github.com/ningmengchongshui) | Centos/Ubuntu系统轻量型图形化工具 |
+| [Yunzai-Bot-Help](https://gitee.com/ningmengchongshui/Yunzai-Bot-Help) | [@ningmengchongshui](https://github.com/ningmengchongshui) | Centos/Ubuntu系统轻量型图形化工具 |
 | [Yunzai-Bot 文档中心](https://github.com/Xm798/Yunzai-Bot-Docs) | [@Xm798](https://github.com/Xm798) | 正在建设中。[文档地址](https://docs.yunzai.org/) |
 | [二次元图库（下载链接）](https://gitee.com/xwy231321/cv-plugins-in-resources/tree/master/%E5%9B%BE%E5%BA%93%E9%93%BE%E6%8E%A5) | [@xwy](https://gitee.com/xwy231321) | 提供近万张二次元图片下载地址，不支持在线查看，请使用软件批量下载 |
 | [喵喵面板背景图包](https://gitee.com/avang2003/miao-character) | [@阿旺](https://gitee.com/avang2003) | 由个人制作的miao-plugin的面板背景图库 |
