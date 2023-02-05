@@ -156,3 +156,4 @@ _i 提供了关键功能_
 
 * Yunzai-Bot插件库：[☞Github](https://github.com/yhArcadia/Yunzai-Bot-plugins-index)/[☞Gitee](https://gitee.com/yhArcadia/Yunzai-Bot-plugins-index)
 * Yunzai-Bot：[☞Github](https://github.com/Le-niao/Yunzai-Bot)/[☞Gitee](https://gitee.com/Le-niao/Yunzai-Bot) 
+* Yunzai-Bot轻量版(无原神功能)：[☞Github](https://github.com/Nwflower/yunzai-bot-lite)/[☞Gitee](https://gitee.com/Nwflower/yunzai-bot-lite)
