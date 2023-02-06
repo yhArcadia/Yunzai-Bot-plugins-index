@@ -64,6 +64,10 @@ _i 提供了关键功能_
 | 名称  |  作者  | 简介  |
 |-------| ----- |------ |
 | [修仙插件(xiuxian-plugin)](https://gitee.com/ningmengchongshui/Xiuxian-Plugin-Box) | [ @三点水](https://gitee.com/ningmengchongshui/game-development) |  多人在线文游 |
+| [修仙黑市 (Dark-Plugin)](https://gitee.com/ningmengchongshui/xiuxian-dark-plugin) | [  @ningmengchongshui ](https://gitee.com/ningmengchongshui)  | 交易系统与...（需装xiuxian-plugin） | 
+| [修仙宗门 (Association-Plugin)](https://gitee.com/mg1105194437/xiuxian-association-plugin) | [@汐颜](https://gitee.com/mg1105194437)   |  此群,唯我独尊（需装xiuxian-plugin） | 
+| [修仙家园 (Home-Plugin)](https://gitee.com/mmmmmddddd/xiuxian-home-plugin) | [@秋雨](https://gitee.com/mmmmmddddd)  |  道友,来偷菜吗（需装xiuxian-plugin） | 
+| [口袋妖怪 (pokemon-simulator-plugin)](https://gitee.com/mg1105194437/pokemon-simulator-plugin) | [@汐颜](https://gitee.com/mmmmmddddd)  |  需安装Mysql数据库后奔放 | 
 | [绝云间修仙V1.2.4「银花造福盈」 (原修仙模拟器DD斩首魔改版)](https://gitee.com/hutao222/DDZS-XIUXIAN-V1.2.4) | [@DD斩首](https://gitee.com/hutao222) |  功能数量比2.0全插件版本多35个功能以及新年版本活动「银花造福盈」将于1月20日上线 |
 
 </details>
