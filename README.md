@@ -26,6 +26,7 @@ _i 提供了关键功能_
 |-------| ----- | ------ | ------|------ |
 | [小雪插件 (XiaoXuePlugin)](https://gitee.com/XueWerY/XiaoXuePlugin) | [@XueWerY](https://gitee.com/XueWerY) | | ✔ | 是一个追求用户体验和完美的插件 |
 | [拓展插件 (expand-plugin)](https://gitee.com/SmallK111407/expand-plugin) | [@SunRyK曉K](https://gitee.com/SmallK111407) | | ✔ | 提供#刻晴攻略5、#艾尔海森攻略6、#明日素材 等在云崽基础上拓展的功能 |
+| [R插件 (rconsole-plugin)](https://gitee.com/kyrzy0416/rconsole-plugin) | [@zhiyu](https://gitee.com/kyrzy0416) | | ✔ | 专门为朋友们写的Yunzai-Bot插件，专注图片分享和生活的插件！ |
 | [光遇插件 (Tlon-Sky)](https://gitee.com/Tloml-Starry/Tlon-Sky) | [@Tloml-Starry](https://giett.com/Tloml-Starry)  [@自闭歆](https://gitee.com/xin-closing-fuse) | | ✔ | 提供光遇查询服务器状态,每日任务,常驻季节兑换图,身高查询等功能 |
 | [脆脆鲨插件 (Jinmaocuicuisha-plugin)](https://gitee.com/JMCCS/jinmaocuicuisha) | [@JMCCS](https://gitee.com/JMCCS) | | ✔ | 提供bot便携管理、bot被骂、和一些娱乐功能|
 | [WeLM对话插件 (WeLM-plugin)](https://github.com/JD1433223/WeLM-plugin) | [@JD](https://gitee.com/jd66666) [@兰罗摩](https://gitee.com/Arama_admin) [@书辞千楪](https://gitee.com/shuciqianye) | | ✔ | 提供个性ai问答、提问和续写(chatgpt下下下位替代)功能 |
