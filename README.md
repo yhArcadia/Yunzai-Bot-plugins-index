@@ -24,6 +24,7 @@ _i 提供了关键功能_
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
+| [屁股肉插件 (phi-plugin)](https://gitee.com/catrong/phi-plugin) | [@Catrong](https://github.com/Catrong) | | ✔ | 提供phigros现有曲目的曲目信息查询、个人rks计算、随机phigros曲目等功能 |
 | [小雪插件 (XiaoXuePlugin)](https://gitee.com/XueWerY/XiaoXuePlugin) | [@XueWerY](https://gitee.com/XueWerY) | | ✔ | 是一个追求用户体验和完美的插件 |
 | [拓展插件 (expand-plugin)](https://gitee.com/SmallK111407/expand-plugin) | [@SunRyK曉K](https://gitee.com/SmallK111407) | | ✔ | 提供#刻晴攻略5、#艾尔海森攻略6、#明日素材 等在云崽基础上拓展的功能 |
 | [R插件 (rconsole-plugin)](https://gitee.com/kyrzy0416/rconsole-plugin) | [@zhiyu](https://gitee.com/kyrzy0416) | | ✔ | 专门为朋友们写的Yunzai-Bot插件，专注图片分享和生活的插件！ |
