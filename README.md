@@ -32,12 +32,12 @@ _i 提供了关键功能_
 | [枫叶插件 (hs-qiqi-Plugin)](https://gitee.com/kesally/hs-qiqi-cv-plugin) | [@Kesally](https://gitee.com/kesally)  [@qiqi](https://gitee.com/fengyeplugin) | | ✔ | 枫叶是Yunzai-Bot的扩展插件，可能提供有用或者没用的功能(?) |
 | [AI绘图插件 (ap-plugin)](https://gitee.com/yhArcadia/ap-plugin)     | [@渔火Arcadia](https://gitee.com/yhArcadia) [@苏苏](https://nahida.com.cn) |   | ✔ | 提供AI绘图及其衍生功能：#以文生图、#以图生图、图片清晰术、生成“二次元的我”形象等|
 | [小叶插件 (xiaoye-plugin)](https://gitee.com/xiaoye12123/xiaoye-plugin)     | [@小叶](https://gitee.com/xiaoye12123)   |   | ✔ | 模拟刷圣遗物和强化,可自定义概率 |
-| [自动化插件 (auto-plugin)](https://gitee.com/Nwflower/auto-plugin) | [@西北一枝花](https://gitee.com/Nwflower/) |   | ✔ | 可能是史上最强大的群名片更新插件。另外还提供了一些自动化小功能。 |
+| [自动化插件 (auto-plugin)](https://gitee.com/Nwflower/auto-plugin) | [@西北一枝花](https://gitee.com/Nwflower/) |   | ✔ | 原神倒计时、自动发说说...可能是史上最强大的群名片更新插件。另外还提供了一些自动化小功能。 |
 | [清凉图插件 (yunzai-c-v-plugin)](https://gitee.com/xwy231321/yunzai-c-v-plugin) | [@xwy](https://gitee.com/xwy231321) | | ✔ | 发送随机图(你目前能找到的最最最~涩的插件了[(应该)],仓库更新提醒,两种戳一戳 |
 | [ChatGPT问答插件（chatgpt-plugin）](https://github.com/ikechan8370/chatgpt-plugin) | [@ikechan8370](https://github.com/ikechan8370) |  | ✔ | 简单纯粹的基于OpenAI最新推出的chatgpt api进行问答的插件，需自备openai账号 |
 | [榴莲插件 (liulian-plugin)](https://gitee.com/huifeidemangguomao/liulian-plugin) |[@会飞的芒果猫](https://gitee.com/huifeidemangguomao)[@萧枘](https://gitee.com/xiaoxiaorurui) | ✔ | ✔ | 一个Yunzai-Bot插件，提供原神地下地图、B站推送、插件管理等一些拓展功能(部分功能需要安装ffmpeg或图片加量包以保证正常使用) |
 | [止水插件 (zhishui-plugin)](https://gitee.com/fjcq/zhishui-plugin) | [@止水](https://gitee.com/fjcq) | | ✔ | 搜剧插件 |
-| [图鉴 (Atlas)](https://gitee.com/Nwflower/atlas) | [@西北一枝花](https://gitee.com/Nwflower/) |   | ✔ | 原神武器、圣遗物、区域特产、七圣召唤与角色材料的图鉴。 |
+| [图鉴 (Atlas)](https://gitee.com/Nwflower/atlas) | [@西北一枝花](https://gitee.com/Nwflower/) |   | ✔ | 原神武器、原魔、食物、圣遗物、区域特产、七圣召唤与角色材料的图鉴。 |
 | [虚空插件 (akasha-terminal-plugin)](https://gitee.com/go-farther-and-farther/akasha-terminal-plugin) | [@越追越远](https://gitee.com/go-farther-and-farther) | | ✔  | 提供企鹅群游戏,目前实现了群内决斗,娶群友等有趣的小游戏 |
 | [Recreation-plugin](https://github.com/QiuLing0/recreation-plugin) | [@QiuLing0](https://github.com/QiuLing0) | | ✔ | 基于YunzaiV3.0版本衍生娱乐插件，插件将不断集成娱乐工具 |
 | [Python插件 (py-plugin)](https://gitee.com/realhuhu/py-plugin) | [@realhuhu](https://gitee.com/realhuhu) | | ✔ | 主要提供nonebot2机器人服务|
@@ -53,7 +53,7 @@ _i 提供了关键功能_
 | [闲心插件 (xianxin-plugin)](https://gitee.com/xianxincoder/xianxin-plugin) |[@闲心](https://gitee.com/xianxincoder)|   | ✔ |是一个集米游社cos、米游社wiki攻略、B站up动态推送(支持长图模式)、神秘指令、群战小游戏、五子棋、21点等功能的插件|
 | [白纸插件 (zhi-plugin)](https://github.com/HeadmasterTan/zhi-plugin)    | [@HeadmasterTan](https://github.com/HeadmasterTan) | ✔ | ✔ | 提供B站动态推送。优化云崽的“添加”功能，可在同一触发词下添加多个回复 |
 | [成就插件 (achievements-plugin)](https://gitee.com/zolay-poi/achievements-plugin) | [@zolay-poi](https://gitee.com/zolay-poi) | ✔ | ✔ | 提供成就查漏、成就搜索等功能 |
-| [抽卡插件 (flower-plugin)](https://gitee.com/Nwflower/flower-plugin) | [@西北一枝花](https://gitee.com/Nwflower/) |   | ✔ | 集百连与单抽于一体的综合性模拟抽卡插件 |
+| [抽卡插件 (flower-plugin)](https://gitee.com/Nwflower/flower-plugin) | [@西北一枝花](https://gitee.com/Nwflower/) |   | ✔ | 百连、单抽、文字狱、转生、隐形拉黑等 |
 <!-- 请不要在此处添加行，请在此表格顶部添加 -->
 <br>
 
