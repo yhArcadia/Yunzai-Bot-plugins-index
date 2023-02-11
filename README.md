@@ -132,6 +132,7 @@ _i 提供了关键功能_
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [Quadratic element_photos](https://gitee.com/ejgk/Quadratic_element_photos) | [@ejgk](https://gitee.com/ejgk) | 提供一些图片，支持在线查看 |
 | [TRSS Yunzai 管理脚本](https://TRSS.me) | [@时雨🌌星空](../../../../TimeRainStarSky) | 提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Windows / Linux / Mac / Android |
 | [Linux Docker安装教程](https://gitee.com/nuoyis/yunzai-docker-main) | [@诺依阁](https://gitee.com/nuoyis) | 从头带你docker安装避坑,新手可下载配置好的docker包 |
 | [Yunzai-Bot指南](https://gitee.com/lin-zhi-xuan/eihei) | [@eihei](https://gitee.com/lin-zhi-xuan) [@qianxinwanjiu](https://gitee.com/qianxinwanjiu)| 提供多系统的Yunzai-Bot安装教程,Yunzai-Bot插件编写教程,Yunzai-Bot问题解答,ffmpeg安装教程 |
