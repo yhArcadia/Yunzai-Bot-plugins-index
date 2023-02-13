@@ -44,7 +44,7 @@ _i 提供了关键功能_
 | [Recreation-plugin](https://github.com/QiuLing0/recreation-plugin) | [@QiuLing0](https://github.com/QiuLing0) | | ✔ | 基于YunzaiV3.0版本衍生娱乐插件，插件将不断集成娱乐工具 |
 | [Python插件 (py-plugin)](https://gitee.com/realhuhu/py-plugin) | [@realhuhu](https://gitee.com/realhuhu) | | ✔ | 主要提供nonebot2机器人服务|
 | [AI语音本地生成 (vits_yunzai_plugin)](https://gitee.com/sumght/vits_yunzai_plugin) | [@sumght-z](https://github.com/sumght-z) | | ✔ | 基于vits本地生成原神/崩三语音 [生成效果演示](https://www.bilibili.com/video/BV1ke4y1p7qq)|
-| [TRSS 插件 (TRSS-Plugin)](https://Yunzai.TRSS.me) | [@时雨🌌星空](../../../../TimeRainStarSky) | | ✔ | 图片修复、原神语音合成、系统信息、二维码生成、米哈游登录、Markdown、远程命令、文件操作、云盘操作 |
+| [TRSS 插件 (TRSS-Plugin)](https://Yunzai.TRSS.me) | [@时雨🌌星空](../../../../TimeRainStarSky) | | ✔ | 图片修复、图片背景去除、原神语音合成、系统信息、二维码生成、米哈游登录、Markdown、代码高亮、远程命令、文件操作、云盘操作 |
 | [windoge-plugin](https://github.com/gxy12345/windoge-plugin) | [@gxy12345](https://github.com/gxy12345) | ✔ | ✔ | 提供一些国际服便捷功能，以及继续维护参考面板数据 |
 | [椰奶插件 (yenai-plugin)](https://gitee.com/yeyang52/yenai-plugin) | [@椰羊](https://gitee.com/yeyang52)| | ✔ | 提供对bot的一些便携操作 |
 | [小飞插件 (xiaofei-plugin)](https://gitee.com/xfdown/xiaofei-plugin) | [@小飞](https://gitee.com/xfdown) | | ✔ | Yunzai-Bot插件 |
@@ -57,21 +57,6 @@ _i 提供了关键功能_
 | [成就插件 (achievements-plugin)](https://gitee.com/zolay-poi/achievements-plugin) | [@zolay-poi](https://gitee.com/zolay-poi) | ✔ | ✔ | 提供成就查漏、成就搜索等功能 |
 | [抽卡插件 (flower-plugin)](https://gitee.com/Nwflower/flower-plugin) | [@听语惊花](https://gitee.com/Nwflower/) |   | ✔ | 百连、单抽、文字狱、转生、隐形拉黑等 |
 <!-- 请不要在此处添加行，请在此表格顶部添加 -->
-<br>
-
-## 游戏插件（plugin） 
-<details>
-<summary>展开/收起</summary>
-
-| 名称  |  作者  | 简介  |
-|-------| ----- |------ |
-| [修仙插件 (Xiuxian-Plugin) ](https://gitee.com/ningmengchongshui/Xiuxian-Plugin-Box) | [ @三点水](https://gitee.com/ningmengchongshui/game-development) |  多人在线文游,自由的世界 |
-| [修仙黑市 (Dark-Plugin) ](https://gitee.com/ningmengchongshui/xiuxian-dark-plugin) | [   @ningmengchongshui ](https://gitee.com/ningmengchongshui)  | 交易系统（需装xiuxian-plugin） | 
-| [修仙宗门 (Association-Plugin) ](https://gitee.com/mg1105194437/xiuxian-association-plugin) | [@汐颜](https://gitee.com/mg1105194437)   |  此群,唯我独尊（需装xiuxian-plugin） | 
-| [修仙家园 (Home-Plugin) ](https://gitee.com/mmmmmddddd/xiuxian-home-plugin) | [@秋雨](https://gitee.com/mmmmmddddd)  |  道友,来偷菜吗（需装xiuxian-plugin） | 
-| [口袋妖怪 (Pokemon-Plugin) ](https://gitee.com/mg1105194437/pokemon-simulator-plugin) | [@汐颜](https://gitee.com/mmmmmddddd)  |  经典游戏再现 |
-
-</details>
 
 <br>
 
@@ -132,8 +117,8 @@ _i 提供了关键功能_
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
-| [Quadratic element_photos](https://gitee.com/ejgk/Quadratic_element_photos) | [@ejgk](https://gitee.com/ejgk) | 提供一些图片，支持在线查看 |
 | [TRSS Yunzai 管理脚本](https://TRSS.me) | [@时雨🌌星空](../../../../TimeRainStarSky) | 提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Windows / Linux / Mac / Android |
+| [Quadratic element_photos](https://gitee.com/ejgk/Quadratic_element_photos) | [@ejgk](https://gitee.com/ejgk) | 提供一些图片，支持在线查看 |
 | [Linux Docker安装教程](https://gitee.com/nuoyis/yunzai-docker-main) | [@诺依阁](https://gitee.com/nuoyis) | 从头带你docker安装避坑,新手可下载配置好的docker包 |
 | [Yunzai-Bot指南](https://gitee.com/lin-zhi-xuan/eihei) | [@eihei](https://gitee.com/lin-zhi-xuan) [@qianxinwanjiu](https://gitee.com/qianxinwanjiu)| 提供多系统的Yunzai-Bot安装教程,Yunzai-Bot插件编写教程,Yunzai-Bot问题解答,ffmpeg安装教程 |
 | [服务器软件安装](https://gitee.com/WinterChocolates/software-installation) | [@冬季巧克力](https://github.com/WinterChocolates) | 提供centos与ubuntu服务器git，python等等的软件安装 |
