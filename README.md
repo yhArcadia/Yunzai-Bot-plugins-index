@@ -60,6 +60,16 @@ _i 提供了关键功能_
 
 <br>
 
+## 游戏插件（plugin）
+
+<!-- 请在表首添加新行 -->
+| 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
+|-------| ----- | ------ | ------|------ |
+| [修仙插件 (Xiuxian-Plugin)](https://gitee.com/ningmengchongshui/xiuxian-plugin) | [@ningmengchongshui](https://gitee.com/ningmengchongshui)|  | ✔ | 文字游戏 |
+<!-- 请不要在此处添加行，请在此表格顶部添加 -->
+
+<br>
+
 ## JS插件索引（example）  
 #### *可以点击查看源码，另存为js文件来使用*
 <!-- 在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
