@@ -130,7 +130,7 @@ _i 提供了关键功能_
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
 | [TRSS Yunzai 管理脚本](https://TRSS.me) | [@时雨🌌星空](../../../../TimeRainStarSky) | 提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Windows / Linux / Mac / Android |
-| [Quadratic element_photos](https://gitee.com/ejgk/Quadratic_element_photos) | [@ejgk](https://gitee.com/ejgk) | 提供一些图片，支持在线查看 |
+| [Quadratic element_photos1.1](https://gitee.com/ejgk/quadratic-element_photos1.1) | [@ejgk](https://gitee.com/ejgk) | 提供一些二次元图片，支持在线查看，正在持续更新中... |
 | [Linux Docker安装教程](https://gitee.com/nuoyis/yunzai-docker-main) | [@诺依阁](https://gitee.com/nuoyis) | 从头带你docker安装避坑,新手可下载配置好的docker包 |
 | [Yunzai-Bot指南](https://gitee.com/lin-zhi-xuan/eihei) | [@eihei](https://gitee.com/lin-zhi-xuan) [@qianxinwanjiu](https://gitee.com/qianxinwanjiu)| 提供多系统的Yunzai-Bot安装教程,Yunzai-Bot插件编写教程,Yunzai-Bot问题解答,ffmpeg安装教程 |
 | [服务器软件安装](https://gitee.com/WinterChocolates/software-installation) | [@冬季巧克力](https://github.com/WinterChocolates) | 提供centos与ubuntu服务器git，python等等的软件安装 |
