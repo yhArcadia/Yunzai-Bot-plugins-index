@@ -78,10 +78,10 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
-| [人物识别](https://gitee.com/shuciqianye/yunzai-AnimeTrace) | [@书辞千楪](https://gitee.com/shuciqianye) |  | ✔ | [V3](https://gitee.com/shuciqianye/yunzai-AnimeTrace/raw/master/%E4%BA%BA%E7%89%A9%E8%AF%86%E5%88%AB.js) |可根据您提供的图片识别出图片中的日漫人物或游戏角色
-| [寸幼萱二维码生成](https://gitee.com/cunyx/cunyx/tree/Yunzai-Bot/Yunzai-Bot/js/生成二维码) | [@寸幼萱](https://gitee.com/cunyx)|  | ✔ |[V3](https://gitee.com/cunyx/cunyx/raw/Yunzai-Bot/Yunzai-Bot/js/%E7%94%9F%E6%88%90%E4%BA%8C%E7%BB%B4%E7%A0%81/%E5%AF%B8%E5%B9%BC%E8%90%B1%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%94%9F%E6%88%90.js) | 生成出来的二维码无法在QQ识别，其他平台通用。
-| [祈愿概率计算器(python版)](https://github.com/MSIsunny/GenshinWishCalculator-py) | [@荧之空](https://github.com/MSIsunny) |  | ✔ | V3 |可以根据当前粉球数和角色池、武器池的水位、保底情况计算实现预期抽卡目标的概率(该版本计算所需的时间约为纯js版的十分之一)
-| [祈愿概率计算器（纯js版）](https://github.com/MSIsunny/GenshinWishCalculator) | [@荧之空](https://github.com/MSIsunny) |  | ✔ | [V3](https://raw.githubusercontent.com/MSIsunny/GenshinWishCalculator/main/WishCalculator.js) |可以根据当前粉球数和角色池、武器池的水位、保底情况计算实现预期抽卡目标的概率
+| [人物识别](https://gitee.com/shuciqianye/yunzai-AnimeTrace) | [@书辞千楪](https://gitee.com/shuciqianye) |  | ✔ | [V3](https://gitee.com/shuciqianye/yunzai-AnimeTrace/raw/master/%E4%BA%BA%E7%89%A9%E8%AF%86%E5%88%AB.js) |可根据您提供的图片识别出图片中的日漫人物或游戏角色 |
+| [寸幼萱二维码生成](https://gitee.com/cunyx/cunyx/tree/Yunzai-Bot/Yunzai-Bot/js/生成二维码) | [@寸幼萱](https://gitee.com/cunyx)|  | ✔ |[V3](https://gitee.com/cunyx/cunyx/raw/Yunzai-Bot/Yunzai-Bot/js/%E7%94%9F%E6%88%90%E4%BA%8C%E7%BB%B4%E7%A0%81/%E5%AF%B8%E5%B9%BC%E8%90%B1%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%94%9F%E6%88%90.js) | 生成出来的二维码无法在QQ识别，其他平台通用。 |
+| [祈愿概率计算器(python版)](https://github.com/MSIsunny/GenshinWishCalculator-py) | [@荧之空](https://github.com/MSIsunny) |  | ✔ | V3 |可以根据当前粉球数和角色池、武器池的水位、保底情况计算实现预期抽卡目标的概率(该版本计算所需的时间约为纯js版的十分之一) |
+| [祈愿概率计算器（纯js版）](https://github.com/MSIsunny/GenshinWishCalculator) | [@荧之空](https://github.com/MSIsunny) |  | ✔ | [V3](https://raw.githubusercontent.com/MSIsunny/GenshinWishCalculator/main/WishCalculator.js) |可以根据当前粉球数和角色池、武器池的水位、保底情况计算实现预期抽卡目标的概率 |
 | [飞花令](https://gitee.com/Nwflower/flower) | [@西北一枝花](https://gitee.com/Nwflower/) |  | ✔ | [V3](https://gitee.com/Nwflower/flower/raw/master/飞花令.js) | 灵感来自于诗词大会。 |
 | [js/cmd代码运行](https://gitee.com/Ivanyang725/yunzai_jsrun) | [@长野原烟花批发商](https://gitee.com/Ivanyang725) | | ✔ | [V3](https://gitee.com/Ivanyang725/yunzai_jsrun/raw/master/jsrun.js) | 在qq中运行js/cmd代码（有便利也有风险，谨慎使用） |
 | [查询QQ等级信息](https://gitee.com/Tloml-Starry/114514) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | | ✔ | [v3](https://gitee.com/Tloml-Starry/114514/raw/master/%E3%80%8C%E6%9F%A5%E8%AF%A2%E3%80%8DQQ%E7%AD%89%E7%BA%A7%E4%BF%A1%E6%81%AF.js) | 查询QQ等级信息,及入网时间 |
@@ -133,7 +133,6 @@ _i 提供了关键功能_
 | [Quadratic element_photos1.1](https://gitee.com/ejgk/quadratic-element_photos1.1) | [@ejgk](https://gitee.com/ejgk) | 提供一些二次元图片，支持在线查看，正在持续更新中... |
 | [Linux Docker安装教程](https://gitee.com/nuoyis/yunzai-docker-main) | [@诺依阁](https://gitee.com/nuoyis) | 从头带你docker安装避坑,新手可下载配置好的docker包 |
 | [Yunzai-Bot指南](https://gitee.com/lin-zhi-xuan/eihei) | [@eihei](https://gitee.com/lin-zhi-xuan) [@qianxinwanjiu](https://gitee.com/qianxinwanjiu)| 提供多系统的Yunzai-Bot安装教程,Yunzai-Bot插件编写教程,Yunzai-Bot问题解答,ffmpeg安装教程 |
-| [服务器软件安装](https://gitee.com/WinterChocolates/software-installation) | [@冬季巧克力](https://github.com/WinterChocolates) | 提供centos与ubuntu服务器git，python等等的软件安装 |
 | [Yunzai-Bot Ubuntu CentOS一键脚本](https://github.com/YAOyao5917/Yunzai-Bot-shell) | [@妖云网络-妖妖](https://github.com/YAOyao5917) | 提供 Yunzai-Bot-shell Linux轻量级云崽一键安装脚本 |
 | [Yunzai-Bot 文档中心](https://github.com/Xm798/Yunzai-Bot-Docs) | [@Xm798](https://github.com/Xm798) | 正在建设中。[文档地址](https://docs.yunzai.org/) |
 | [二次元图库（下载链接）](https://gitee.com/xwy231321/cv-plugins-in-resources/tree/master/%E5%9B%BE%E5%BA%93%E9%93%BE%E6%8E%A5) | [@xwy](https://gitee.com/xwy231321) | 提供近万张二次元图片下载地址，不支持在线查看，请使用软件批量下载 |
