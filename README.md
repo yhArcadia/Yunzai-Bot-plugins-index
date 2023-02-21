@@ -27,7 +27,7 @@ _i 提供了关键功能_
 | [宫司插件(Yae Miko-plugin)](https://gitee.com/liu-chujie/gongsi-plugin) | [@宫司喜欢坏事](https://gitee.com/liu-chujie) | | ✔ | 提供QQ群小游戏，小雪插件拓展|
 | [冰祈插件 (Icepray)](https://gitee.com/koinori/Icepray) | [@koinori](https://gitee.com/koinori) | | ✔ | 提供碧蓝档案角色查询，档案抽卡，签到，钓鱼游戏等图鉴及娱乐玩法 |
 | [屁股肉插件 (phi-plugin)](https://github.com/catrong/phi-plugin) | [@Catrong](https://github.com/Catrong) | | ✔ | 提供phigros现有曲目的曲目信息查询、个人rks计算、随机phigros曲目等功能 |
-| [小雪插件 (XiaoXuePlugin)](https://gitee.com/XueWerY/XiaoXuePlugin) | [@XueWerY](https://gitee.com/XueWerY) | | ✔ | 是一个追求用户体验和完美的插件 |
+| [小雪插件 (XiaoXuePlugin)](https://gitee.com/XueWerY/XiaoXuePlugin) | [@XueWerY](https://gitee.com/XueWerY) | | ✔ | 让bot变得人性化，提升用户和bot的交互体验，提供bot更多的管理，提供更多的依赖库，拓展新功能效率高 |
 | [拓展插件 (expand-plugin)](https://gitee.com/SmallK111407/expand-plugin) | [@SunRyK曉K](https://gitee.com/SmallK111407) | | ✔ | 提供#刻晴攻略5、#艾尔海森攻略6、#明日素材 等在云崽基础上拓展的功能 |
 | [R插件 (rconsole-plugin)](https://gitee.com/kyrzy0416/rconsole-plugin) | [@zhiyu](https://gitee.com/kyrzy0416) | | ✔ | 专门为朋友们写的Yunzai-Bot插件，专注图片分享和生活的插件！ |
 | [光遇插件 (Tlon-Sky)](https://gitee.com/Tloml-Starry/Tlon-Sky) | [@Tloml-Starry](https://giett.com/Tloml-Starry)  [@自闭歆](https://gitee.com/xin-closing-fuse) | | ✔ | 提供光遇查询服务器状态,每日任务,常驻季节兑换图,身高查询等功能 |
