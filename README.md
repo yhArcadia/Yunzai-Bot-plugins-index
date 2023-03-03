@@ -24,6 +24,7 @@ _i 提供了关键功能_
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
+| [派蒙插件(paimon-plugin)]() | [@作者名](作者主页地址) | 支持版本 | 备注 |
 | [宫司插件 (Icepray)](https://gitee.com/liu-chujie/gongsi-plugin) | [@宫司喜欢坏事](https://gitee.com/liu-chujie) | | ✔ | 提供QQ群小游戏功能，小雪插件拓展块（还在做）|
 | [冰祈插件 (Icepray)](https://gitee.com/koinori/Icepray) | [@koinori](https://gitee.com/koinori) | | ✔ | 提供碧蓝档案角色查询，档案抽卡，签到，钓鱼游戏等图鉴及娱乐玩法 |
 | [屁股肉插件 (phi-plugin)](https://github.com/catrong/phi-plugin) | [@Catrong](https://github.com/Catrong) | | ✔ | 提供phigros现有曲目的曲目信息查询、个人rks计算、随机phigros曲目等功能 |
