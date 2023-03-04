@@ -132,6 +132,7 @@ _i 提供了关键功能_
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [Yunzai-Bot-web](https://github.com/117503445/yunzai-bot-web) | [@117503445](https://github.com/117503445) | 基于 Web 的 Yunzai-Bot 发行版，不依赖 QQ，极易部署！ |
 | [TRSS Yunzai 管理脚本](https://TRSS.me) | [@时雨🌌星空](../../../../TimeRainStarSky) | 提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Windows / Linux / Mac / Android |
 | [Quadratic element_photos](https://gitee.com/ejgk/quadratic-element-photos) | [@ejgk](https://gitee.com/ejgk) | 提供一些二次元图片，支持在线查看，正在持续更新中... |
 | [Linux Docker安装教程](https://gitee.com/nuoyis/yunzai-docker-main) | [@诺依阁](https://gitee.com/nuoyis) | 从头带你docker安装避坑,新手可下载配置好的docker包 |
