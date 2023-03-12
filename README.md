@@ -132,6 +132,7 @@ _i 提供了关键功能_
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [V3云崽手机搭建教程](https://gitee.com/CUZNIL/Yunzai-install/) | [@硫酸钡Barite](../../../../CUZNIL) | 图文并茂地演示安卓手机使用[时雨脚本](https://TRSS.me)搭建V3云崽BOT并安装插件登录使用的过程，也包含手机搭建前后会遇到的各种问题和解决方案。 |
 | [TRSS Yunzai 管理脚本](https://TRSS.me) | [@时雨🌌星空](../../../../TimeRainStarSky) | 提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Windows / Linux / Mac / Android |
 | [Quadratic element_photos](https://gitee.com/ejgk/quadratic-element-photos) | [@ejgk](https://gitee.com/ejgk) | 提供一些二次元图片，支持在线查看，正在持续更新中... |
 | [Linux Docker安装教程](https://gitee.com/nuoyis/yunzai-docker-main) | [@诺依阁](https://gitee.com/nuoyis) | 从头带你docker安装避坑,新手可下载配置好的docker包 |
