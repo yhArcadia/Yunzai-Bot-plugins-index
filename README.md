@@ -20,10 +20,12 @@ _i 提供了关键功能_
 
 ## 功能插件（plugin） 
 
-
 <!-- 请在表首添加新行 -->
+
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
+| [七圣召唤战绩查询（call_of_seven_saints）](https://gitee.com/huangshx2001/call_of_seven_saints) | [@癫癫博士](https://gitee.com/huangshx2001)                  |        | ✔ | 查询自己七圣召唤胜率以及卡牌喜好，目标用户应该是七圣召唤忠实玩家以及牌佬群机器人 |
+| [宫司插件 (Icepray)](https://gitee.com/liu-chujie/gongsi-plugin) | [@宫司喜欢坏事](https://gitee.com/liu-chujie) | | ✔ | 提供QQ群小游戏功能，小雪插件拓展块（还在做）|
 | [冰祈插件 (Icepray)](https://gitee.com/koinori/Icepray) | [@koinori](https://gitee.com/koinori) | | ✔ | 提供碧蓝档案角色查询，档案抽卡，签到，钓鱼游戏等图鉴及娱乐玩法 |
 | [屁股肉插件 (phi-plugin)](https://github.com/catrong/phi-plugin) | [@Catrong](https://github.com/Catrong) | | ✔ | 提供phigros现有曲目的曲目信息查询、个人rks计算、随机phigros曲目等功能 |
 | [小雪插件 (XiaoXuePlugin)](https://gitee.com/XueWerY/XiaoXuePlugin) | [@XueWerY](https://gitee.com/XueWerY) | | ✔ | 让bot变得人性化，提升用户和bot的交互体验，提供bot更多的管理，提供更多的依赖库，拓展新功能效率高 |
@@ -32,7 +34,7 @@ _i 提供了关键功能_
 | [光遇插件 (Tlon-Sky)](https://gitee.com/Tloml-Starry/Tlon-Sky) | [@Tloml-Starry](https://giett.com/Tloml-Starry)  [@自闭歆](https://gitee.com/xin-closing-fuse) | | ✔ | 提供光遇查询服务器状态,每日任务,常驻季节兑换图,身高查询等功能 |
 | [脆脆鲨插件 (Jinmaocuicuisha-plugin)](https://gitee.com/JMCCS/jinmaocuicuisha) | [@JMCCS](https://gitee.com/JMCCS) | | ✔ | 提供bot便携管理、bot被骂、和一些娱乐功能|
 | [WeLM对话插件 (WeLM-plugin)](https://github.com/JD1433223/WeLM-plugin) | [@JD](https://gitee.com/jd66666) [@兰罗摩](https://gitee.com/Arama_admin) [@书辞千楪](https://gitee.com/shuciqianye) | | ✔ | 提供个性ai问答、提问和续写(chatgpt下下下位替代)功能 |
-| [枫叶插件 (hs-qiqi-Plugin)](https://gitee.com/kesally/hs-qiqi-cv-plugin) | [@Kesally](https://gitee.com/kesally)  [@qiqi](https://gitee.com/fengyeplugin) | | ✔ | 枫叶是Yunzai-Bot的扩展插件，可能提供有用或者没用的功能(?) |
+| [枫叶插件 (hs-qiqi-Plugin)](https://gitee.com/kesally/hs-qiqi-cv-plugin) | [@Kesally](https://gitee.com/kesally)  [@qiqi](https://gitee.com/fengyeplugin) | | ✔ | 提供多种ai聊天、睡眠时间计算、角色语音、群名片自动绑定uid、群聊闭嘴、只听我的、视频解析等许多有趣的小功能 |
 | [AI绘图插件 (ap-plugin)](https://gitee.com/yhArcadia/ap-plugin)     | [@渔火Arcadia](https://gitee.com/yhArcadia) [@苏苏](https://nahida.com.cn) |   | ✔ | 提供AI绘图及其衍生功能：#以文生图、#以图生图、图片清晰术、生成“二次元的我”形象等|
 | [小叶插件 (xiaoye-plugin)](https://gitee.com/xiaoye12123/xiaoye-plugin)     | [@小叶](https://gitee.com/xiaoye12123)   |   | ✔ | 模拟刷圣遗物和强化,可自定义概率 |
 | [自动化插件 (auto-plugin)](https://gitee.com/Nwflower/auto-plugin) | [@听语惊花](https://gitee.com/Nwflower/) |   | ✔ | 原神倒计时、自动发说说...可能是史上最强大的群名片更新插件。另外还提供了一些自动化小功能。 |
@@ -79,6 +81,7 @@ _i 提供了关键功能_
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
 | [喜报](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin)|[@bling丶一闪](https://gitee.com/bling_yshs)|   | ✔ | [v3](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin/raw/master/%E5%96%9C%E6%8A%A5.js)|可以生成喜报并发送，[效果图](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin/blob/master/res/%E5%96%9C%E6%8A%A5%E6%95%88%E6%9E%9C%E5%9B%BE.jpg)|
+| [检测骂机器人进行处理](https://gitee.com/xiaoye12123/js) | [@小叶](https://gitee.com/xiaoye12123) |  | ✔ | [V3](https://gitee.com/xiaoye12123/js/raw/master/%E6%BA%90%E7%A0%81%E5%8E%BB%E6%8E%89%E9%AA%82%E4%BA%BA%E8%AF%8D%E6%B1%87%E5%88%AB%E7%94%A8%E8%BF%99%E4%B8%AA.js) |检测群聊的消息,如果有at机器人或者提到机器人名字的消息中包含了违禁词的话就会进行处理 |
 | [人物识别](https://gitee.com/shuciqianye/yunzai-AnimeTrace) | [@书辞千楪](https://gitee.com/shuciqianye) |  | ✔ | [V3](https://gitee.com/shuciqianye/yunzai-AnimeTrace/raw/master/%E4%BA%BA%E7%89%A9%E8%AF%86%E5%88%AB.js) |可根据您提供的图片识别出图片中的日漫人物或游戏角色 |
 | [寸幼萱二维码生成](https://gitee.com/cunyx/cunyx/tree/Yunzai-Bot/Yunzai-Bot/js/生成二维码) | [@寸幼萱](https://gitee.com/cunyx)|  | ✔ |[V3](https://gitee.com/cunyx/cunyx/raw/Yunzai-Bot/Yunzai-Bot/js/%E7%94%9F%E6%88%90%E4%BA%8C%E7%BB%B4%E7%A0%81/%E5%AF%B8%E5%B9%BC%E8%90%B1%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%94%9F%E6%88%90.js) | 生成出来的二维码无法在QQ识别，其他平台通用。 |
 | [祈愿概率计算器(python版)](https://github.com/MSIsunny/GenshinWishCalculator-py) | [@荧之空](https://github.com/MSIsunny) |  | ✔ | V3 |可以根据当前粉球数和角色池、武器池的水位、保底情况计算实现预期抽卡目标的概率(该版本计算所需的时间约为纯js版的十分之一) |
@@ -131,7 +134,7 @@ _i 提供了关键功能_
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
 | [TRSS Yunzai 管理脚本](https://TRSS.me) | [@时雨🌌星空](../../../../TimeRainStarSky) | 提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Windows / Linux / Mac / Android |
-| [Quadratic element_photos1.1](https://gitee.com/ejgk/quadratic-element_photos1.1) | [@ejgk](https://gitee.com/ejgk) | 提供一些二次元图片，支持在线查看，正在持续更新中... |
+| [Quadratic element_photos](https://gitee.com/ejgk/quadratic-element-photos) | [@ejgk](https://gitee.com/ejgk) | 提供一些二次元图片，支持在线查看，正在持续更新中... |
 | [Linux Docker安装教程](https://gitee.com/nuoyis/yunzai-docker-main) | [@诺依阁](https://gitee.com/nuoyis) | 从头带你docker安装避坑,新手可下载配置好的docker包 |
 | [Yunzai-Bot指南](https://gitee.com/lin-zhi-xuan/eihei) | [@eihei](https://gitee.com/lin-zhi-xuan) [@qianxinwanjiu](https://gitee.com/qianxinwanjiu)| 提供多系统的Yunzai-Bot安装教程,Yunzai-Bot插件编写教程,Yunzai-Bot问题解答,ffmpeg安装教程 |
 | [Yunzai-Bot Ubuntu CentOS一键脚本](https://github.com/YAOyao5917/Yunzai-Bot-shell) | [@妖云网络-妖妖](https://github.com/YAOyao5917) | 提供 Yunzai-Bot-shell Linux轻量级云崽一键安装脚本 |
