@@ -80,6 +80,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
+| [寸幼萱encode编码](https://gitee.com/cunyx/cunyx/tree/Yunzai-Bot/Yunzai-Bot/js/encode%E7%BC%96%E7%A0%81) | [寸幼萱](https://gitee.com/cunyx) | V3 | 很水的一次插件，用途不广泛，希望能帮到一些人 |
 | [检测骂机器人进行处理](https://gitee.com/xiaoye12123/js) | [@小叶](https://gitee.com/xiaoye12123) |  | ✔ | [V3](https://gitee.com/xiaoye12123/js/raw/master/%E6%BA%90%E7%A0%81%E5%8E%BB%E6%8E%89%E9%AA%82%E4%BA%BA%E8%AF%8D%E6%B1%87%E5%88%AB%E7%94%A8%E8%BF%99%E4%B8%AA.js) |检测群聊的消息,如果有at机器人或者提到机器人名字的消息中包含了违禁词的话就会进行处理 |
 | [人物识别](https://gitee.com/shuciqianye/yunzai-AnimeTrace) | [@书辞千楪](https://gitee.com/shuciqianye) |  | ✔ | [V3](https://gitee.com/shuciqianye/yunzai-AnimeTrace/raw/master/%E4%BA%BA%E7%89%A9%E8%AF%86%E5%88%AB.js) |可根据您提供的图片识别出图片中的日漫人物或游戏角色 |
 | [寸幼萱二维码生成](https://gitee.com/cunyx/cunyx/tree/Yunzai-Bot/Yunzai-Bot/js/生成二维码) | [@寸幼萱](https://gitee.com/cunyx)|  | ✔ |[V3](https://gitee.com/cunyx/cunyx/raw/Yunzai-Bot/Yunzai-Bot/js/%E7%94%9F%E6%88%90%E4%BA%8C%E7%BB%B4%E7%A0%81/%E5%AF%B8%E5%B9%BC%E8%90%B1%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%94%9F%E6%88%90.js) | 生成出来的二维码无法在QQ识别，其他平台通用。 |
