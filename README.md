@@ -24,7 +24,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
-| [QQ频道插件（QQGuild-Plugin）](https://github.com/2y8e9h22/QQGuild-Plugin)|[@2y8e9h22](https://github.com/2y8e9h22)||✔|[安装本插件可以让你的频道机器人使用云崽的功能. ^_^]|
+| [QQ频道插件（QQGuild-Plugin）](https://github.com/2y8e9h22/QQGuild-Plugin)|[@2y8e9h22](https://github.com/2y8e9h22)||✔|安装本插件可以让你的频道机器人使用云崽的功能. ^_^|
 | [AFanSKyQs插件（FanSky_Qs）](https://github.com/AFanSKyQs/FanSky_Qs) | [ @AFanSKyQs](https://github.com/AFanSKyQs)                  |        |    |[打卡×魔晶系统]、WeChat提瓦特小助手功能实现(开发中、欢迎加入)、OpenAI多模型拓展、票房查询、各图包整合收录触发等...|
 | [七圣召唤战绩查询（call_of_seven_saints）](https://gitee.com/huangshx2001/call_of_seven_saints) | [@癫癫博士](https://gitee.com/huangshx2001)                  |        | ✔ | 查询自己七圣召唤胜率以及卡牌喜好，目标用户应该是七圣召唤忠实玩家以及牌佬群机器人 |
 | [冰祈插件 (Icepray)](https://gitee.com/koinori/Icepray) | [@koinori](https://gitee.com/koinori) | | ✔ | 提供碧蓝档案角色查询，档案抽卡，签到，钓鱼游戏等图鉴及娱乐玩法 |
