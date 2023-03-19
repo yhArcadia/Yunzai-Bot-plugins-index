@@ -70,6 +70,7 @@ _i 提供了关键功能_
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
 | [修仙插件 (Xiuxian-Plugin)](https://gitee.com/ningmengchongshui/xiuxian-plugin) | [@ningmengchongshui](https://gitee.com/ningmengchongshui)|  | ✔ | 文字游戏 |
+| [口袋妖怪 (Pokemon-Plugin)](https://gitee.com/mg1105194437/pokemon-simulator-plugin) | [@汐颜](https://gitee.com/mg1105194437)|  | ✔ | 单机文字游戏,不可直接安装,详细请看仓库介绍 |
 <!-- 请不要在此处添加行，请在此表格顶部添加 -->
 
 <br>
