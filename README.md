@@ -12,7 +12,6 @@ _i 提供了关键功能_
 | [锅巴插件 (guoba-plugin)](https://gitee.com/guoba-yunzai/guoba-plugin) | [@zolay-poi](https://github.com/zolay-poi) | ✔ | ✔ | V3主要提供云崽的网页端后台管理界面功能；V2提供丝滑迁移V3功能。 |
 | [戏天插件 (xitian-plugin)](https://gitee.com/XiTianGame/xitian-plugin) | [@戏天](https://github.com/XiTianGame) | | ✔ |【该插件若报错请见其[issues/I6B5WW](https://gitee.com/XiTianGame/xitian-plugin/issues/I6B5WW)】提供js类插件管理功能 |
 | [喵喵插件 (miao-plugin)](https://gitee.com/yoimiya-kokomi/miao-plugin) | [@喵喵](https://gitee.com/yoimiya-kokomi)| ✔ | ✔ | Miao-Plugin是一个Yunzai-Bot的升级插件，提供包括角色面板查询等升级功能 |
-| [半柠檬插件 (Alemon-Plugin)](https://gitee.com/ningmengchongshui/alemon-plugin) | [@ningmengchongshui](https://gitee.com/ningmengchongshui)|  | ✔ | Yunzai-Bot的插件开发框架（内含游戏开发）致力于降低插件开发门槛(附有开发者文档) |
 
 
 <br>
