@@ -1,7 +1,18 @@
-# Yunzai-Bot插件索引
+# Yunzai-Bot 插件索引
 
 此仓库用于收集 Yunzai-Bot 的第三方插件。
 此仓库仅作为索引查询使用，对索引内容可能不会做全面验证，使用第三方代码前请确保知晓可能存在的风险。
+
+<br>
+
+## Yunzai
+| 名称 | 作者 | GitHub | Gitee | 备注  |
+|------| ---- | ------ | ----- | ----- |
+| Yunzai-Bot 插件库 | [@渔火Arcadia](https://gitee.com/yhArcadia) | [☞GitHub](https://github.com/yhArcadia/Yunzai-Bot-plugins-index) | [☞Gitee](https://gitee.com/yhArcadia/Yunzai-Bot-plugins-index) | 插件库 |
+| Yunzai-Bot | [@Le-niao](https://gitee.com/Le-niao) | [☞GitHub](https://github.com/Le-niao/Yunzai-Bot) | [☞Gitee](https://gitee.com/Le-niao/Yunzai-Bot) | 原版 Yunzai |
+| Yunzai-Bot-lite | [@听语惊花](https://gitee.com/Nwflower) | [☞GitHub](https://github.com/Nwflower/yunzai-bot-lite) | [☞Gitee](https://gitee.com/Nwflower/yunzai-bot-lite) | 轻量版，无原神功能 |
+| Miao-Yunzai | [@喵喵](https://gitee.com/Nwflower) | [☞GitHub](https://github.com/yoimiya-kokomi/Miao-Yunzai) | [☞Gitee](https://gitee.com/yoimiya-kokomi/Miao-Yunzai) | 喵版 Yunzai |
+| TRSS-Yunzai | [@时雨🌌星空](../../../../TimeRainStarSky) | [☞GitHub](https://github.com/TimeRainStarSky/Yunzai) | [☞Gitee](https://gitee.com/TimeRainStarSky/Yunzai) | go-cqhttp 版 Yunzai |
 
 <br>
 
@@ -162,9 +173,3 @@ _i 提供了关键功能_
 请参考☞[贡献指南](./CONTRIBUTING.md)向此仓库发起 pull request
 
 <br>
-
-## 其他
-
-* Yunzai-Bot插件库：[☞Github](https://github.com/yhArcadia/Yunzai-Bot-plugins-index)/[☞Gitee](https://gitee.com/yhArcadia/Yunzai-Bot-plugins-index)
-* Yunzai-Bot：[☞Github](https://github.com/Le-niao/Yunzai-Bot)/[☞Gitee](https://gitee.com/Le-niao/Yunzai-Bot) 
-* Yunzai-Bot轻量版(无原神功能)：[☞Github](https://github.com/Nwflower/yunzai-bot-lite)/[☞Gitee](https://gitee.com/Nwflower/yunzai-bot-lite)
