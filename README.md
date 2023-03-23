@@ -92,6 +92,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
+| [meme](https://github.com/ikechan8370/yunzai-meme) | [ikechan8370](https://github.com/ikechan8370)|   | ✔ | V3 | 基于meme-generator的Yunzai机器人的表情包插件，覆盖162个表情。 |
 | [喜报](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin)|[@bling丶一闪](https://gitee.com/bling_yshs)|   | ✔ | [v3](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin/raw/master/%E5%96%9C%E6%8A%A5.js)|可以生成喜报并发送，[效果图](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin/blob/master/res/%E5%96%9C%E6%8A%A5%E6%95%88%E6%9E%9C%E5%9B%BE.jpg)|
 | [寸幼萱encode编码](https://gitee.com/cunyx/cunyx/tree/Yunzai-Bot/Yunzai-Bot/js/encode%E7%BC%96%E7%A0%81) | [寸幼萱](https://gitee.com/cunyx)|   | ✔ | V3 | 很水的一次插件，用途不广泛，希望能帮到一些人 |
 | [检测骂机器人进行处理](https://gitee.com/xiaoye12123/js) | [@小叶](https://gitee.com/xiaoye12123) |  | ✔ | [V3](https://gitee.com/xiaoye12123/js/raw/master/%E6%BA%90%E7%A0%81%E5%8E%BB%E6%8E%89%E9%AA%82%E4%BA%BA%E8%AF%8D%E6%B1%87%E5%88%AB%E7%94%A8%E8%BF%99%E4%B8%AA.js) |检测群聊的消息,如果有at机器人或者提到机器人名字的消息中包含了违禁词的话就会进行处理 |
