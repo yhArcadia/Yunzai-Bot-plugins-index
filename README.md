@@ -34,7 +34,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
-| [QQ频道插件（QQGuild-Plugin）](https://github.com/2y8e9h22/QQGuild-Plugin)|[@2y8e9h22](https://github.com/2y8e9h22)||✔|安装本插件可以让你的频道机器人使用云崽的功能. ^_^|
+| [QQ频道插件（QQGuild-Plugin）](https://github.com/2y8e9h22/QQGuild-Plugin)|[@2y8e9h22](https://github.com/2y8e9h22)||✔|安装本插件可以让你的频道机器人使用云崽的功能. ^_^跑路了建议使用镜像[QQ频道插件（QQGuild-Plugin）](https://gitee.com/hbj2457/QQGuild-Plugin) |
 | [AFanSKyQs插件（FanSky_Qs）](https://github.com/AFanSKyQs/FanSky_Qs) | [ @AFanSKyQs](https://github.com/AFanSKyQs)                  |        |  ✔  |提瓦特小助手功能实现(队伍伤害等)、[打卡×魔晶系统]、OpenAI多模型拓展、票房查询、各图包整合收录触发等...|
 | [七圣召唤战绩查询（call_of_seven_saints）](https://gitee.com/huangshx2001/call_of_seven_saints) | [@癫癫博士](https://gitee.com/huangshx2001)                  |        | ✔ | 查询自己七圣召唤胜率以及卡牌喜好，目标用户应该是七圣召唤忠实玩家以及牌佬群机器人 |
 | [冰祈插件 (Icepray)](https://gitee.com/koinori/Icepray) | [@koinori](https://gitee.com/koinori) | | ✔ | 提供碧蓝档案角色查询，档案抽卡，签到，钓鱼游戏等图鉴及娱乐玩法 |
@@ -149,6 +149,7 @@ _i 提供了关键功能_
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [Yunzai-Bot签到补丁](https://gitee.com/hbj2457/yunzai-bot-check-in-patch) | [hbj白夜](https://gitee.com/hbj2457) | Yunzai-Bot签到补丁，让Yunzai再次签到 |
 | [向日葵Ubuntu22.04云崽安装脚本](https://gitee.com/xrk114514/shell-Yunzai) | [@向日葵](https://gitee.com/xrk114514) | 最牛逼的适合小白用的脚本，全程无需脑子，Ubuntu22.04极其稳定且适配py，内置版本过低修复，插件安装，重启修复等较为实用的脚本，天天更新！ |
 | [V3云崽手机搭建教程](https://gitee.com/CUZNIL/Yunzai-install/) | [@硫酸钡Barite](../../../../CUZNIL) | 图文并茂地演示安卓手机使用[时雨脚本](https://TRSS.me)搭建V3云崽BOT并安装插件登录使用的过程，也包含手机搭建前后会遇到的各种问题和解决方案。 |
 | [TRSS Yunzai 管理脚本](https://TRSS.me) | [@时雨🌌星空](../../../../TimeRainStarSky) | 提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Windows / Linux / Mac / Android |
@@ -160,7 +161,7 @@ _i 提供了关键功能_
 | [二次元图库（下载链接）](https://gitee.com/xwy231321/cv-plugins-in-resources/tree/master/%E5%9B%BE%E5%BA%93%E9%93%BE%E6%8E%A5) | [@xwy](https://gitee.com/xwy231321) | 提供近万张二次元图片下载地址，不支持在线查看，请使用软件批量下载 |
 | [喵喵面板背景图包](https://gitee.com/avang2003/miao-character) | [@阿旺](https://gitee.com/avang2003) | 由个人制作的miao-plugin的面板背景图库 |
 | [喵喵面板背景图包](https://github.com/lc-hongdou/gallery) | [@早餐不要在空腹的时候吃](https://github.com/lc-hongdou) | 提供由多人制作的miao-plugin的面板背景图库 |
-| [喵喵面板背景图包](https://gitee.com/hbj2457/super-character) | [@hbj2457](https://gitee.com/hbj2457) | 喵喵插件 (miao-plugin)的面板背景图库 |
+| [喵喵面板背景图包](https://gitee.com/hbj2457/super-character) | [@hbj白夜](https://gitee.com/hbj2457) | 喵喵插件 (miao-plugin)的面板背景图库 |
 | [喵喵面板背景图包](https://gitee.com/SmallK111407/Miao-Character) | [@SunRyK曉K](https://gitee.com/SmallK111407) | 由多人制作的喵喵插件miao-plugin的面板背景图库 |
 | [体力背景图包](https://gitee.com/cv-hunag/BJT) | [@煌](https://gitee.com/cv-hunag) | xiaoyao-cvs-plugin的体力背景图库 |
 | [曉K体力模板2版背景图包](https://gitee.com/SmallK111407/BJT-Template) | [@SunRyK曉K](https://gitee.com/SmallK111407) | xiaoyao-cvs-plugin的体力背景图库 |
