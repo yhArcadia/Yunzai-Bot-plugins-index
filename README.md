@@ -35,7 +35,6 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
-|[小吉祥插件 auspicious](https://gitee.com/zhizhang521/auspicious)| [@画个大饼当饭吃?](https://gitee.com/zhizhang521) |  |   ✔  |为云崽提供小米ai，戳一戳，休息时间，等没啥软子用还全是bug的功能 |
 | [QQ频道插件（QQGuild-Plugin）](https://github.com/2y8e9h22/QQGuild-Plugin)|[@2y8e9h22](https://github.com/2y8e9h22)||✔|安装本插件可以让你的频道机器人使用云崽的功能. ^_^|
 | [AFanSKyQs插件（FanSky_Qs）](https://github.com/AFanSKyQs/FanSky_Qs) | [ @AFanSKyQs](https://github.com/AFanSKyQs)                  |        |  ✔  |提瓦特小助手功能实现(队伍伤害等)、[打卡×魔晶系统]、OpenAI多模型拓展、票房查询、各图包整合收录触发等...|
 | [七圣召唤战绩查询（call_of_seven_saints）](https://gitee.com/huangshx2001/call_of_seven_saints) | [@癫癫博士](https://gitee.com/huangshx2001)                  |        | ✔ | 查询自己七圣召唤胜率以及卡牌喜好，目标用户应该是七圣召唤忠实玩家以及牌佬群机器人 |
