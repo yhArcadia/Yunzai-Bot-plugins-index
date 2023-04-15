@@ -80,9 +80,7 @@ _i 提供了关键功能_
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
-| [修仙插件 (xiuxian@1.2.1)](https://gitee.com/three-point-of-water/xiuxian-plugin/tree/xiuxian@1.2.1/) | [@三点水](https://gitee.com/three-point-of-water)|  | ✔ | 怀旧版,经典再现 |
-| [修仙插件 (xiuxian@1.3.0)](https://gitee.com/three-point-of-water/xiuxian-plugin/tree/xiuxian@1.3.0/) | [@三点水](https://gitee.com/three-point-of-water)|  | ✔ | 增强版,玩法丰富 |
-| [修仙插件 (xiuxian@2.0.0)](https://gitee.com/three-point-of-water/xiuxian-plugin/tree/main) | [@三点水](https://gitee.com/three-point-of-water)|  | ✔ | 交互型文字游戏,上班摸鱼必备 |
+| [修仙插件 (xiuxian-plugin)](https://gitee.com/three-point-of-water/xiuxian-plugin) | [@三点水](https://gitee.com/three-point-of-water)|  | ✔ | 云崽正版修仙插件库，包括@1.2.1、@1.3.0、@2.0.0和@3.0.0版本，是一款高交互高自由度文字游戏,上班摸鱼必备插件 |
 | [修仙家园 (xiuxian-Home)](https://gitee.com/mmmmmddddd/xiuxian-home-plugin) | [@秋雨](https://gitee.com/mmmmmddddd)|  | ✔ | 专用于@2.0.0的修仙家园插件 |
 | [修仙宗门 (xiuxian-Association)](https://gitee.com/mg1105194437/xiuxian-association-plugin) | [@汐颜](https://gitee.com/mg1105194437)|  | ✔ | 专用于@2.0.0的修仙宗门插件 |
 | [口袋妖怪 (Pokemon-Plugin)](https://gitee.com/mg1105194437/pokemon-simulator-plugin) | [@汐颜](https://gitee.com/mg1105194437)|  | ✔ | 单机文字游戏,不可直接安装,详细请看仓库介绍 |
