@@ -13,7 +13,7 @@
 | Yunzai-Bot-lite | [@听语惊花](https://gitee.com/Nwflower) | [☞GitHub](https://github.com/Nwflower/yunzai-bot-lite) | [☞Gitee](https://gitee.com/Nwflower/yunzai-bot-lite) | 轻量版，无原神功能 |
 | Miao-Yunzai | [@喵喵](https://gitee.com/yoimiya-kokomi) | [☞GitHub](https://github.com/yoimiya-kokomi/Miao-Yunzai) | [☞Gitee](https://gitee.com/yoimiya-kokomi/Miao-Yunzai) | 喵版 Yunzai |
 | TRSS-Yunzai | [@时雨🌌星空](../../../../TimeRainStarSky) | [☞GitHub](https://github.com/TimeRainStarSky/Yunzai) | [☞Gitee](https://gitee.com/TimeRainStarSky/Yunzai) | Yunzai 服务端，支持 go-cqhttp、ComWeChat、Telegram |
-| Alemon-Bot | [@柠檬冲水](https://github.com/ningmengchongshui/) | [☞GitHub](https://github.com/ningmengchongshui/alemon-bot) | [☞Gitee](https://gitee.com/ningmengchongshui/alemon-bot) | 插件写法借鉴于Yunzai-Bot,支持TS/JS,附有插件文档与例子 |
+| Alemon-Bot | [@柠檬冲水](https://github.com/ningmengchongshui/) | [☞GitHub](https://github.com/ningmengchongshui/alemon-bot) | [☞Gitee](https://gitee.com/ningmengchongshui/alemon-bot) | 基于官方 SDK 的频道机器人，支持TS/JS语言，并提供写法插件 |
 
 <br>
 
