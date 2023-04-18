@@ -95,6 +95,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
+| [清纯图片](https://github.com/ArmstrongO/water)|[@海盐火腿](https://github.com/ArmstrongO)| ✔ | ✔ | [v3](https://github.com/ArmstrongO/water/blob/main/give_me_waterV3.js)|可以回复海量高清图片2023.04|
 | [MC插件](https://gitee.com/Aliorpse/Yunzai-McPlugins) | [@Aliorpse](https://gitee.com/Aliorpse/) |  | ✔ | [V3](http://123.60.141.159/src/McPlugins/) | 提供Minecraft相关功能(服务器状态查询 正版玩家查询等) |
 |[群聊小游戏](http://suancaixianyu.cn/xyjs)| [@酸菜咸鱼](https://gitee.com/suancaixianyu) |  | ✔ |V3|群聊小游戏插件，一些经典游戏等js插件|
 | [喜报](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin)|[@bling丶一闪](https://gitee.com/bling_yshs)|   | ✔ | [v3](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin/raw/master/%E5%96%9C%E6%8A%A5.js)|可以生成喜报并发送，[效果图](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin/blob/master/res/%E5%96%9C%E6%8A%A5%E6%95%88%E6%9E%9C%E5%9B%BE.jpg)|
