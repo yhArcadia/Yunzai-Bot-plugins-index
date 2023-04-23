@@ -55,7 +55,6 @@ _i 提供了关键功能_
 | [榴莲插件 (liulian-plugin)](https://gitee.com/huifeidemangguomao/liulian-plugin) |[@会飞的芒果猫](https://gitee.com/huifeidemangguomao)[@萧枘](https://gitee.com/xiaoxiaorurui) | ✔ | ✔ | 一个Yunzai-Bot插件，提供原神地下地图、B站推送、插件管理等一些拓展功能(部分功能需要安装ffmpeg或图片加量包以保证正常使用) |
 | [止水插件 (zhishui-plugin)](https://gitee.com/fjcq/zhishui-plugin) | [@止水](https://gitee.com/fjcq) | | ✔ | 搜剧插件 |
 | [图鉴 (Atlas)](https://gitee.com/Nwflower/atlas) | [@听语惊花](https://gitee.com/Nwflower/) |   | ✔ | 原神武器、原魔、食物、圣遗物、区域特产、七圣召唤与角色材料的图鉴。 |
-| [虚空插件 (akasha-terminal-plugin)](https://gitee.com/go-farther-and-farther/akasha-terminal-plugin) | [@越追越远](https://gitee.com/go-farther-and-farther) | | ✔  | 提供企鹅群游戏,目前实现了群内决斗,娶群友等有趣的小游戏 |
 | [Recreation-plugin](https://github.com/QiuLing0/recreation-plugin) | [@QiuLing0](https://github.com/QiuLing0) | | ✔ | 基于YunzaiV3.0版本衍生娱乐插件，插件将不断集成娱乐工具 |
 | [Python插件 (py-plugin)](https://gitee.com/realhuhu/py-plugin) | [@realhuhu](https://gitee.com/realhuhu) | | ✔ | 主要提供nonebot2机器人服务|
 | [AI语音本地生成 (vits_yunzai_plugin)](https://gitee.com/sumght/vits_yunzai_plugin) | [@sumght-z](https://github.com/sumght-z) | | ✔ | 基于vits本地生成原神/崩三语音 [生成效果演示](https://www.bilibili.com/video/BV1ke4y1p7qq)|
@@ -80,6 +79,7 @@ _i 提供了关键功能_
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
+| [虚空插件 (akasha-terminal-plugin)](https://gitee.com/go-farther-and-farther/akasha-terminal-plugin) | [@越追越远](https://gitee.com/go-farther-and-farther) | | ✔  | 提供企鹅群游戏,目前实现了群内决斗,娶群友等有趣的小游戏 |
 | [咸鱼插件 (xianyu-plugin)](https://gitee.com/suancaixianyu/xianyu-plugin) | [@酸菜咸鱼](https://gitee.com/suancaixianyu)|  | ✔ | 一些群聊对战小游戏，没有文游的复杂体系，休闲娱乐，老少皆宜 |
 | [修仙插件 (xiuxian-plugin)](https://gitee.com/three-point-of-water/xiuxian-plugin) | [@三点水](https://gitee.com/three-point-of-water)|  | ✔ | 云崽正版修仙插件库，包括@1.2.1、@1.3.0、@2.0.0和@3.0.0版本，是一款高交互高自由度文字游戏,上班摸鱼必备插件 |
 | [修仙家园 (xiuxian-Home)](https://gitee.com/mmmmmddddd/xiuxian-home-plugin) | [@秋雨](https://gitee.com/mmmmmddddd)|  | ✔ | 专用于@2.0.0的修仙家园插件 |
