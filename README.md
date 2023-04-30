@@ -98,6 +98,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
+| [token填充](https://gitee.com/mcat0/tkhelp)  | [@mCat](https://gitee.com/mcat0) | | ✔ | [v3](https://gitee.com/mcat0/tkhelp/blob/master/TokenHelp.js) | 通过监测token和设别信息文件是否缺失来解决机器人掉线问题。 |
 | [面板通用化](../../../../CUZNIL/Yunzai-MiaoToGspanel)  | [@硫酸钡Barite](../../../../CUZNIL/) | | ✔ | [v3](../../../../CUZNIL/Yunzai-MiaoToGspanel/raw/master/MiaoToGspanel.js) | 将[喵喵插件](../../../../yoimiya-kokomi/miao-plugin)产生的面板数据适配到[Gspanel](https://github.com/monsterxcn/nonebot-plugin-gspanel)。 |
 | [给头衔](../../../../CUZNIL/Yunzai-giveTitle) | [@硫酸钡Barite](../../../../CUZNIL/) |  | ✔ | [V3](../../../../CUZNIL/Yunzai-giveTitle/raw/master/giveTitle.js) | 让群友可以自己领想要的专属头衔。兼容QQ头衔长度判定，支持个性化回复。 |
 | [自定义卡池抽卡插件](https://gitee.com/wan13877501248/zdychouka) | [@Hello World](https://gitee.com/wan13877501248) |  | ✔ | [V3](https://gitee.com/wan13877501248/zdychouka/raw/master/%E8%87%AA%E5%AE%9A%E4%B9%89%E5%8D%A1%E6%B1%A0%E6%8A%BD%E5%8D%A1%E6%8F%92%E4%BB%B6.js) | 提供原神自定义卡池抽卡的相关功能 |
