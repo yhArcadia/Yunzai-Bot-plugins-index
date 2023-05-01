@@ -98,6 +98,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
+| [表情包](https://github.com/ikechan8370/yunzai-meme/)|[@ikechan8370](https://github.com/ikechan8370)|   | ✔ | [v3](https://raw.githubusercontent.com/ikechan8370/yunzai-meme/main/meme.js)|基于[meme-generator](https://github.com/MeetWq/meme-generator)的表情包插件。提供了一个默认的免费API，也可自行搭建使用。|
 | [token填充](https://gitee.com/mcat0/tkhelp)  | [@mCat](https://gitee.com/mcat0) | | ✔ | [v3](https://gitee.com/mcat0/tkhelp/blob/master/TokenHelp.js) | 通过监测token和设别信息文件是否缺失来解决机器人掉线问题。 |
 | [面板通用化](../../../../CUZNIL/Yunzai-MiaoToGspanel)  | [@硫酸钡Barite](../../../../CUZNIL/) | | ✔ | [v3](../../../../CUZNIL/Yunzai-MiaoToGspanel/raw/master/MiaoToGspanel.js) | 将[喵喵插件](../../../../yoimiya-kokomi/miao-plugin)产生的面板数据适配到[Gspanel](https://github.com/monsterxcn/nonebot-plugin-gspanel)。 |
 | [给头衔](../../../../CUZNIL/Yunzai-giveTitle) | [@硫酸钡Barite](../../../../CUZNIL/) |  | ✔ | [V3](../../../../CUZNIL/Yunzai-giveTitle/raw/master/giveTitle.js) | 让群友可以自己领想要的专属头衔。兼容QQ头衔长度判定，支持个性化回复。 |
