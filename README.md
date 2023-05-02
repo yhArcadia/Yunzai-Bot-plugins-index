@@ -10,7 +10,7 @@
 |------| ---- | ------ | ----- | ----- |
 | Yunzai-Bot 插件库 | [@渔火Arcadia](https://gitee.com/yhArcadia) | [☞GitHub](https://github.com/yhArcadia/Yunzai-Bot-plugins-index) | [☞Gitee](https://gitee.com/yhArcadia/Yunzai-Bot-plugins-index) | 插件库 |
 | Yunzai-Bot | [@Le-niao](https://gitee.com/Le-niao) | [☞GitHub](https://github.com/Le-niao/Yunzai-Bot) | [☞Gitee](https://gitee.com/Le-niao/Yunzai-Bot) | 原版 Yunzai |
-| Yunzai-Bot-lite | [@听语惊花](https://gitee.com/Nwflower) | [☞GitHub](https://github.com/Nwflower/yunzai-bot-lite) | [☞Gitee](https://gitee.com/Nwflower/yunzai-bot-lite) | 轻量版，无原神功能 |
+| Yunzai-Bot-lite | [@听语惊花](https://github.com/Nwflower) | [☞GitHub](https://github.com/Nwflower/yunzai-bot-lite) | [☞Gitee](https://gitee.com/Nwflower/yunzai-bot-lite) | 轻量版，无原神功能 |
 | Miao-Yunzai | [@喵喵](https://gitee.com/yoimiya-kokomi) | [☞GitHub](https://github.com/yoimiya-kokomi/Miao-Yunzai) | [☞Gitee](https://gitee.com/yoimiya-kokomi/Miao-Yunzai) | 喵版 Yunzai |
 | TRSS-Yunzai | [@时雨🌌星空](../../../../TimeRainStarSky) | [☞GitHub](https://github.com/TimeRainStarSky/Yunzai) | [☞Gitee](https://gitee.com/TimeRainStarSky/Yunzai) | Yunzai 应用端，支持多账号，支持协议端：go-cqhttp、ComWeChat、ICQQ、KOOK、Telegram、Discord |
 | Alemon-Bot | [@柠檬冲水](https://github.com/ningmengchongshui/) | [☞GitHub](https://github.com/ningmengchongshui/alemon-bot) | [☞Gitee](https://gitee.com/ningmengchongshui/alemon-bot) | 基于官方 SDK 的频道机器人，支持TS/JS语言，并提供写法插件 |
@@ -51,12 +51,12 @@ _i 提供了关键功能_
 | [枫叶插件 (hs-qiqi-Plugin)](https://plugin.mapleleaves.cn/) | [@Kesally](https://gitee.com/kesally)  [@qiqi](https://gitee.com/fengyeplugin) | | ✔ | 提供多个AI对话，名片自动绑定uid，坤图等有趣且实用的娱乐小功能 |
 | [AI绘图插件 (ap-plugin)](https://gitee.com/yhArcadia/ap-plugin)     | [@渔火Arcadia](https://gitee.com/yhArcadia) [@苏苏](https://nahida.com.cn) |   | ✔ | 提供AI绘图及其衍生功能：#以文生图、#以图生图、图片清晰术、生成“二次元的我”形象等|
 | [小叶插件 (xiaoye-plugin)](https://gitee.com/xiaoye12123/xiaoye-plugin)     | [@小叶](https://gitee.com/xiaoye12123)   |   | ✔ | 模拟刷圣遗物和强化,可自定义概率 |
-| [自动化插件 (auto-plugin)](https://gitee.com/Nwflower/auto-plugin) | [@听语惊花](https://gitee.com/Nwflower/) |   | ✔ | 原神倒计时、自动发说说...可能是史上最强大的群名片更新插件。另外还提供了一些自动化小功能。 |
+| [自动化插件 (auto-plugin)](https://github.com/Nwflower/auto-plugin) | [@听语惊花](https://github.com/Nwflower/) |   | ✔ | 原神倒计时、自动发说说...可能是史上最强大的群名片更新插件。另外还提供了一些自动化小功能。 |
 | [清凉图插件 (yunzai-c-v-plugin)](https://gitee.com/xwy231321/yunzai-c-v-plugin) | [@xwy](https://gitee.com/xwy231321) | | ✔ | 发送随机图(你目前能找到的最最最~涩的插件了[(应该)],仓库更新提醒,两种戳一戳 |
 | [ChаtGPT问答插件（chаtgpt-plugin）](https://github.com/ikechan8370/chatgpt-plugin) | [@ikechan8370](https://github.com/ikechan8370) |  | ✔ | ChаtGPT问答插件 |
 | [榴莲插件 (liulian-plugin)](https://gitee.com/huifeidemangguomao/liulian-plugin) |[@会飞的芒果猫](https://gitee.com/huifeidemangguomao)[@萧枘](https://gitee.com/xiaoxiaorurui) | ✔ | ✔ | 一个Yunzai-Bot插件，提供原神地下地图、B站推送、插件管理等一些拓展功能(部分功能需要在云崽根目录下执行`pnpm install -P`安装依赖或安装图片加量包以保证正常使用) |
 | [止水插件 (zhishui-plugin)](https://gitee.com/fjcq/zhishui-plugin) | [@止水](https://gitee.com/fjcq) | | ✔ | 搜剧插件 |
-| [图鉴 (Atlas)](https://gitee.com/Nwflower/atlas) | [@听语惊花](https://gitee.com/Nwflower/) |   | ✔ | 原神武器、原魔、食物、圣遗物、区域特产、七圣召唤与角色材料的图鉴。 |
+| [图鉴 (Atlas)](https://github.com/Nwflower/atlas) | [@听语惊花](https://github.com/Nwflower/) |   | ✔ | 支持原神和崩坏：星穹铁道的新一代图鉴插件 |
 | [Recreation-plugin](https://github.com/QiuLing0/recreation-plugin) | [@QiuLing0](https://github.com/QiuLing0) | | ✔ | 基于YunzaiV3.0版本衍生娱乐插件，插件将不断集成娱乐工具 |
 | [Python插件 (py-plugin)](https://gitee.com/realhuhu/py-plugin) | [@realhuhu](https://gitee.com/realhuhu) | | ✔ | 主要提供nonebot2机器人服务|
 | [AI语音本地生成 (vits_yunzai_plugin)](https://gitee.com/sumght/vits_yunzai_plugin) | [@sumght-z](https://github.com/sumght-z) | | ✔ | 基于vits本地生成原神/崩三语音 [生成效果演示](https://www.bilibili.com/video/BV1ke4y1p7qq)|
@@ -71,7 +71,7 @@ _i 提供了关键功能_
 | [闲心插件 (xianxin-plugin)](https://gitee.com/xianxincoder/xianxin-plugin) |[@闲心](https://gitee.com/xianxincoder)|   | ✔ |是一个集米游社cos、米游社wiki攻略、B站up动态推送(支持长图模式)、神秘指令、群战小游戏、五子棋、21点等功能的插件|
 | [白纸插件 (zhi-plugin)](https://github.com/HeadmasterTan/zhi-plugin)    | [@HeadmasterTan](https://github.com/HeadmasterTan) | ✔ | ✔ | 提供B站动态推送。优化云崽的“添加”功能，可在同一触发词下添加多个回复 |
 | [成就插件 (achievements-plugin)](https://gitee.com/zolay-poi/achievements-plugin) | [@zolay-poi](https://gitee.com/zolay-poi) | ✔ | ✔ | 提供成就查漏、成就搜索等功能 |
-| [抽卡插件 (flower-plugin)](https://gitee.com/Nwflower/flower-plugin) | [@听语惊花](https://gitee.com/Nwflower/) |   | ✔ | 百连、单抽、文字狱、转生、隐形拉黑等 |
+| [抽卡插件 (flower-plugin)](https://github.com/Nwflower/flower-plugin) | [@听语惊花](https://github.com/Nwflower/) |   | ✔ | 百连、单抽、文字狱、转生、隐形拉黑等 |
 <!-- 请不要在此处添加行，请在此表格顶部添加 -->
 
 <br>
