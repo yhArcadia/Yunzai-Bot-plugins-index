@@ -35,6 +35,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
+| [崩坏星穹铁道插件（StarRail-plugin）](https://gitee.com/hewang1an/StarRail-plugin)| [@鹤望兰](https://gitee.com/hewang1an)| | ✔ | 一个提供了崩坏星穹铁道部分查询功能的插件，如#星铁卡片 #星铁体力 #星铁收入 等|
 | [阴天插件（Y-Tian-Plugin）](https://gitee.com/wan13877501248/y-tian-plugin)| [@Hello World](https://gitee.com/wan13877501248)  [@yuanpluss](https://gitee.com/yuanpluss) | | ✔ | 一个Yunzai-Bot V3小功能集成的插件包,集AI、娱乐、功能性于一体，让你的机器人变得更为全面且多功能。|
 | [ChatGLM的api插件](https://gitee.com/394911284/chatztc) | [@蓝蓝的青金石](https://gitee.com/394911284) | | ✔ | 这是一个对接ChatGLM的聊天api的云崽bot插件 |
 | [QQ频道插件（QQGuild-Plugin）](https://github.com/2y8e9h22/QQGuild-Plugin)|[@2y8e9h22](https://github.com/2y8e9h22)||✔|安装本插件可以让你的频道机器人使用云崽的功能. ^_^|
