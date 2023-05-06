@@ -100,6 +100,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
+| [表情合成（纯js）](https://gitee.com/qiannqq/yunzai-plugin-bqjs) |[@千奈千祁](https://gitee.com/qiannqq) | | ✔ | [v3](https://gitee.com/qiannqq/yunzai-plugin-bqjs/raw/master/BQHC.js) | 无需Python，通过调用api来实现表情合成。 |
 | [云崽Bot账号管理插件](../../../../CUZNIL/Yunzai-QQmanager) | [@硫酸钡Barite](../../../../CUZNIL) | | ✔ | [v3](https://gitee.com/CUZNIL/Yunzai-QQmanager/raw/master/QQmanager.js) | 管理[icqq云崽](https://gitee.com/yoimiya-kokomi/Yunzai-Bot)的多个BOT账号，支持掉线（封号）自动切换，查看多账号权重等功能。 |
 | [面板通用化](../../../../CUZNIL/Yunzai-MiaoToGspanel)  | [@硫酸钡Barite](../../../../CUZNIL/) | | ✔ | [v3](../../../../CUZNIL/Yunzai-MiaoToGspanel/raw/master/MiaoToGspanel.js) | 将[喵喵插件](../../../../yoimiya-kokomi/miao-plugin)产生的面板数据适配到[Gspanel](https://github.com/monsterxcn/nonebot-plugin-gspanel)。 |
 | [给头衔](../../../../CUZNIL/Yunzai-giveTitle) | [@硫酸钡Barite](../../../../CUZNIL/) |  | ✔ | [V3](../../../../CUZNIL/Yunzai-giveTitle/raw/master/giveTitle.js) | 让群友可以自己领想要的专属头衔。兼容QQ头衔长度判定，支持个性化回复。 |
