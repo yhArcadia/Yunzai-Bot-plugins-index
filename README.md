@@ -160,6 +160,7 @@ _i 提供了关键功能_
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [3QNmoqy-Yunzai.bat Yunzai-Bot管理脚本](https://gitee.com/qiannqq/3QNmoqy-Yunzai-bat) | [@千奈千祁](https://gitee.com/qiannqq) | 在windows运行的Yunzai-Bot管理脚本 |
 | [向日葵Ubuntu22.04云崽安装脚本](https://gitee.com/xrk114514/shell-Yunzai) | [@向日葵](https://gitee.com/xrk114514) | 最牛逼的适合小白用的脚本，全程无需脑子，Ubuntu22.04极其稳定且适配py，内置版本过低修复，插件安装，重启修复等较为实用的脚本，天天更新！ |
 | [V3云崽手机搭建教程](../../../../CUZNIL/Yunzai-install/) | [@硫酸钡Barite](../../../../CUZNIL) | 图文并茂地演示安卓手机使用[时雨脚本](https://TRSS.me)搭建V3云崽BOT并安装插件登录使用的过程，也包含手机搭建前后会遇到的各种问题和解决方案。其他设备搭建遇到问题也可参考尝试解决。 |
 | [TRSS Yunzai 管理脚本](https://TRSS.me) | [@时雨🌌星空](../../../../TimeRainStarSky) | 提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Windows / Linux / Mac / Android |
