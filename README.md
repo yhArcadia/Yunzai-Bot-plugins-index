@@ -35,6 +35,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
+| [yin趴插件(impart-pro-plugin) ](https://gitee.com/sumght/impart-pro-plugin)| [@sumght](https://gitee.com/sumght)| | ✔ | 牛牛大作战先行测试，男人之间细说的互动玩法 |
 | [阿尔萌插件 (armoe-plugin)](https://gitee.com/armoe-project/armoe-plugin)| [@真心](https://github.com/RealHeart)| | ✔ | 提供R6战绩查询、KOOK在线查询等功能|
 | [崩坏星穹铁道插件（StarRail-plugin）](https://gitee.com/hewang1an/StarRail-plugin)| [@鹤望兰](https://gitee.com/hewang1an)| | ✔ | 一个提供了崩坏星穹铁道部分查询功能的插件，如#星铁卡片 #星铁体力 #星铁收入 等|
 | [阴天插件（Y-Tian-Plugin）](https://gitee.com/wan13877501248/y-tian-plugin)| [@Hello World](https://gitee.com/wan13877501248)  [@yuanpluss](https://gitee.com/yuanpluss) | | ✔ | 一个Yunzai-Bot V3小功能集成的插件包,集AI、娱乐、功能性于一体，让你的机器人变得更为全面且多功能。|
