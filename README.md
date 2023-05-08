@@ -101,6 +101,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
+| [vist语音合成](https://gitee.com/eulogyjiajia/vits-speech-synthesis) | [@空梦](https://gitee.com/eulogyjiajia) | | ✔ | [v3](https://gitee.com/eulogyjiajia/vits-speech-synthesis/raw/master/vits%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90.js) | 使用vits接口进行语音合成，高清语音需要安装枫叶插件，支持原神，崩坏3，赛马娘 |
 | [表情合成（纯js）](https://gitee.com/qiannqq/yunzai-plugin-bqjs) |[@千奈千祁](https://gitee.com/qiannqq) | | ✔ | [v3](https://gitee.com/qiannqq/yunzai-plugin-bqjs/raw/master/BQHC.js) | 无需Python，通过调用api来实现表情合成。 |
 | [云崽Bot账号管理插件](../../../../CUZNIL/Yunzai-QQmanager) | [@硫酸钡Barite](../../../../CUZNIL) | | ✔ | [v3](https://gitee.com/CUZNIL/Yunzai-QQmanager/raw/master/QQmanager.js) | 管理[icqq云崽](https://gitee.com/yoimiya-kokomi/Yunzai-Bot)的多个BOT账号，支持掉线（封号）自动切换，查看多账号权重等功能。 |
 | [面板通用化](../../../../CUZNIL/Yunzai-MiaoToGspanel)  | [@硫酸钡Barite](../../../../CUZNIL/) | | ✔ | [v3](../../../../CUZNIL/Yunzai-MiaoToGspanel/raw/master/MiaoToGspanel.js) | 将[喵喵插件](../../../../yoimiya-kokomi/miao-plugin)产生的面板数据适配到[Gspanel](https://github.com/monsterxcn/nonebot-plugin-gspanel)。 |
