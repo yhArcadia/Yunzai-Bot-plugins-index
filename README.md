@@ -176,7 +176,7 @@ _i 提供了关键功能_
 | [Yunzai-Bot 文档中心](https://github.com/Xm798/Yunzai-Bot-Docs) | [@Xm798](https://github.com/Xm798) |提供yunzai相关内容[文档地址](https://docs.yunzai.org/) |
 | [Quadratic element_photos](https://gitee.com/ejgk/quadratic-element-photos) | [@ejgk](https://gitee.com/ejgk) | 提供一些二次元图片，支持在线查看，正在持续更新中... |
 | [二次元图库（下载链接）](https://gitee.com/xwy231321/cv-plugins-in-resources/tree/master/%E5%9B%BE%E5%BA%93%E9%93%BE%E6%8E%A5) | [@xwy](https://gitee.com/xwy231321) | 提供近万张二次元图片下载地址，不支持在线查看，请使用软件批量下载 |
-| [喵喵面板背景图包](https://gitee.com/avang2003/miao-character) | [@阿旺](https://gitee.com/avang2003) | 由个人制作的miao-plugin的面板背景图库 |
+| [⭐][喵喵面板背景图包](https://gitee.com/avang2003/miao-character) | [@阿旺](https://gitee.com/avang2003) | 由个人制作的miao-plugin的原神及星穹铁道面板背景图库 |
 | [喵喵面板背景图包](https://github.com/lc-hongdou/gallery) | [@早餐不要在空腹的时候吃](https://github.com/lc-hongdou) | 提供由多人制作的miao-plugin的面板背景图库 |
 | [喵喵面板背景图包](https://gitee.com/hbj2457/super-character) | [@hbj2457](https://gitee.com/hbj2457) | 喵喵插件 (miao-plugin)的面板背景图库 |
 | 【停更】[喵喵面板背景图包](https://gitee.com/SmallK111407/Miao-Character) | [@SunRyK曉K](https://gitee.com/SmallK111407) | 由多人制作的喵喵插件miao-plugin的面板背景图库 |
