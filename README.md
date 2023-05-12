@@ -102,6 +102,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
+|[原神&星铁抽卡计算器](https://gitee.com/LumineAether/Genshin-StarRail-gacha-calculator)| [@荧之空](https://gitee.com/LumineAether) | |✔|v3|根据玩家拥有的纠缠之缘/星轨专票数目以及角色池、武器/光锥池的水位、保底情况，计算出抽取指定数量的五星up角色和五星up武器/光锥的概率，并绘制出累积概率图|
 | [vist语音合成](https://gitee.com/eulogyjiajia/vits-speech-synthesis) | [@空梦](https://gitee.com/eulogyjiajia) | | ✔ | [v3](https://gitee.com/eulogyjiajia/vits-speech-synthesis/raw/master/vits%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90.js) | 使用vits接口进行语音合成，高清语音需要安装枫叶插件，支持原神，崩坏3，赛马娘 |
 | [表情合成（纯js）](https://gitee.com/qiannqq/yunzai-plugin-bqjs) |[@千奈千祁](https://gitee.com/qiannqq) | | ✔ | [v3](https://gitee.com/qiannqq/yunzai-plugin-bqjs/raw/master/BQHC.js) | 无需Python，通过调用api来实现表情合成。 |
 | [云崽Bot账号管理插件](../../../../CUZNIL/Yunzai-QQmanager) | [@硫酸钡Barite](../../../../CUZNIL) | | ✔ | [v3](https://gitee.com/CUZNIL/Yunzai-QQmanager/raw/master/QQmanager.js) | 管理[icqq云崽](https://gitee.com/yoimiya-kokomi/Yunzai-Bot)的多个BOT账号，支持掉线（封号）自动切换，查看多账号权重等功能。 |
@@ -117,8 +118,6 @@ _i 提供了关键功能_
 | [寸幼萱二维码生成](https://gitee.com/cunyx/cunyx/tree/Yunzai-Bot/Yunzai-Bot/js/生成二维码) | [@寸幼萱](https://gitee.com/cunyx)|  | ✔ |[V3](https://gitee.com/cunyx/cunyx/raw/Yunzai-Bot/Yunzai-Bot/js/%E7%94%9F%E6%88%90%E4%BA%8C%E7%BB%B4%E7%A0%81/%E5%AF%B8%E5%B9%BC%E8%90%B1%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%94%9F%E6%88%90.js) | 生成出来的二维码无法在QQ识别，其他平台通用。 |
 | [检测骂机器人进行处理](https://gitee.com/xiaoye12123/js) | [@小叶](https://gitee.com/xiaoye12123) |  | ✔ | [V3](https://gitee.com/xiaoye12123/js/raw/master/%E6%BA%90%E7%A0%81%E5%8E%BB%E6%8E%89%E9%AA%82%E4%BA%BA%E8%AF%8D%E6%B1%87%E5%88%AB%E7%94%A8%E8%BF%99%E4%B8%AA.js) |检测群聊的消息,如果有at机器人或者提到机器人名字的消息中包含了违禁词的话就会进行处理 |
 | [人物识别](https://gitee.com/shuciqianye/yunzai-AnimeTrace) | [@书辞千楪](https://gitee.com/shuciqianye) |  | ✔ | [V3](https://gitee.com/shuciqianye/yunzai-AnimeTrace/raw/master/%E4%BA%BA%E7%89%A9%E8%AF%86%E5%88%AB.js) |可根据您提供的图片识别出图片中的日漫人物或游戏角色 |
-| [祈愿概率计算器(python版)](https://github.com/MSIsunny/GenshinWishCalculator-py) | [@荧之空](https://github.com/MSIsunny) |  | ✔ | V3 |可以根据当前粉球数和角色池、武器池的水位、保底情况计算实现预期抽卡目标的概率(该版本计算所需的时间约为纯js版的十分之一) |
-| [祈愿概率计算器（纯js版）](https://github.com/MSIsunny/GenshinWishCalculator) | [@荧之空](https://github.com/MSIsunny) |  | ✔ | [V3](https://raw.githubusercontent.com/MSIsunny/GenshinWishCalculator/main/WishCalculator.js) |可以根据当前粉球数和角色池、武器池的水位、保底情况计算实现预期抽卡目标的概率 |
 | [飞花令](https://gitee.com/Nwflower/flower) | [@西北一枝花](https://gitee.com/Nwflower/) |  | ✔ | [V3](https://gitee.com/Nwflower/flower/raw/master/飞花令.js) | 灵感来自于诗词大会。 |
 | [js/cmd代码运行](https://gitee.com/Ivanyang725/yunzai_jsrun) | [@长野原烟花批发商](https://gitee.com/Ivanyang725) | | ✔ | [V3](https://gitee.com/Ivanyang725/yunzai_jsrun/raw/master/jsrun.js) | 在qq中运行js/cmd代码（有便利也有风险，谨慎使用） |
 | [查询QQ等级信息](https://gitee.com/Tloml-Starry/114514) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | | ✔ | [v3](https://gitee.com/Tloml-Starry/114514/raw/master/%E3%80%8C%E6%9F%A5%E8%AF%A2%E3%80%8DQQ%E7%AD%89%E7%BA%A7%E4%BF%A1%E6%81%AF.js) | 查询QQ等级信息,及入网时间 |
