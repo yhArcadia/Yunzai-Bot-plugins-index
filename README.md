@@ -182,6 +182,7 @@ _i 提供了关键功能_
 | 【停更】[喵喵面板背景图包](https://gitee.com/SmallK111407/Miao-Character) | [@SunRyK曉K](https://gitee.com/SmallK111407) | 由多人制作的喵喵插件miao-plugin的面板背景图库 |
 | [曉K体力模板2版背景图包](https://gitee.com/SmallK111407/BJT-Template) | [@SunRyK曉K](https://gitee.com/SmallK111407) | xiaoyao-cvs-plugin的体力背景图库 |
 | [体力背景图包](https://gitee.com/cv-hunag/BJT) | [@煌](https://gitee.com/cv-hunag) | xiaoyao-cvs-plugin的体力背景图库 |
+| [云崽v3一键安装脚本](gitee.com/gainesville-11451411/mao) | [@甘城猫猫](gitee.com/gainesville-11451411) | 推荐Ubuntu18+ | 
 <!-- 请不要在此处添加新行，请在此表格顶部添加 -->
 
 
