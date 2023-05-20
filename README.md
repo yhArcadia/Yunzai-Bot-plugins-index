@@ -87,7 +87,7 @@ _i 提供了关键功能_
 |-------| ----- | ------ | ------|------ |
 | [虚空插件 (akasha-terminal-plugin)](https://gitee.com/go-farther-and-farther/akasha-terminal-plugin) | [@越追越远](https://gitee.com/go-farther-and-farther) | | ✔  | 提供企鹅群游戏,目前实现了群内决斗,娶群友等有趣的小游戏 |
 | [咸鱼插件 (xianyu-plugin)](https://gitee.com/suancaixianyu/xianyu-plugin) | [@酸菜咸鱼](https://gitee.com/suancaixianyu)|  | ✔ | 一些群聊对战小游戏，没有文游的复杂体系，休闲娱乐，老少皆宜 |
-| [修仙插件 (xiuxian-plugin)](https://gitee.com/three-point-of-water/xiuxian-plugin) | [@三点水](https://gitee.com/three-point-of-water)|  | ✔ | 云崽正版修仙插件库，包括@1.2.1、@1.3.0、@2.0.0和@3.0.0版本，是一款高交互高自由度文字游戏,上班摸鱼必备插件 |
+| [修仙插件 (xiuxian-plugin)](https://gitee.com/three-point-of-water/xiuxian-plugin) | [@三点水](https://gitee.com/three-point-of-water)|  | ✔ | 云崽正版修仙插件库，包括@1.2.1、@1.3.0和@2.0.0版本，是一款高交互高自由度文字游戏,上班摸鱼必备插件 |
 | [修仙家园 (xiuxian-Home)](https://gitee.com/mmmmmddddd/xiuxian-home-plugin) | [@秋雨](https://gitee.com/mmmmmddddd)|  | ✔ | 专用于@2.0.0的修仙家园插件 |
 | [修仙宗门 (xiuxian-Association)](https://gitee.com/mg1105194437/xiuxian-association-plugin) | [@汐颜](https://gitee.com/mg1105194437)|  | ✔ | 专用于@2.0.0的修仙宗门插件 |
 | [口袋妖怪 (Pokemon-Plugin)](https://gitee.com/mg1105194437/pokemon-simulator-plugin) | [@汐颜](https://gitee.com/mg1105194437)|  | ✔ | 单机文字游戏,不可直接安装,详细请看仓库介绍 |
