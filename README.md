@@ -1,6 +1,7 @@
 # Yunzai-Bot 相关内容索引
 
-此仓库用于收集 Yunzai-Bot 的相关内容。
+此仓库收集 Yunzai-Bot 的相关内容。
+
 此仓库仅作为索引查询使用，对索引内容可能不会做全面验证，使用第三方代码前请确保知晓可能存在的风险。
 
 <br>
@@ -13,7 +14,7 @@
 | Yunzai-Bot-lite | [@听语惊花](https://github.com/Nwflower) | [☞GitHub](https://github.com/Nwflower/yunzai-bot-lite) | [☞Gitee](https://gitee.com/Nwflower/yunzai-bot-lite) | 轻量版，无原神功能 |
 | Miao-Yunzai | [@喵喵](https://gitee.com/yoimiya-kokomi) | [☞GitHub](https://github.com/yoimiya-kokomi/Miao-Yunzai) | [☞Gitee](https://gitee.com/yoimiya-kokomi/Miao-Yunzai) | 喵版 Yunzai |
 | TRSS-Yunzai | [@时雨🌌星空](../../../../TimeRainStarSky) | [☞GitHub](https://github.com/TimeRainStarSky/Yunzai) | [☞Gitee](https://gitee.com/TimeRainStarSky/Yunzai) | Yunzai 应用端，支持多账号，支持协议端：go-cqhttp、ComWeChat、ICQQ、QQ频道、KOOK、Telegram、Discord |
-| Alemon-Bot | [@柠檬冲水](https://github.com/ningmengchongshui/) | [☞GitHub](https://github.com/ningmengchongshui/alemon-bot) | [☞Gitee](https://gitee.com/ningmengchongshui/alemon-bot) | 基于官方 SDK 的频道机器人，支持TS/JS语言，并提供写法插件 |
+| Alemon-Bot | [@柠檬冲水](https://github.com/ningmengchongshui/) | [☞GitHub](https://github.com/ningmengchongshui/alemon-bot) | [☞Gitee](https://gitee.com/ningmengchongshui/alemon-bot) | [☞Alemon官网](http://three-point-of-water.gitee.io/alemon-bot/) |
 
 <br>
 
