@@ -36,6 +36,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
+| [寸幼萱插件(cunyx-plugin) ](https://plugin.cunyx.cn/cunyx-plugin/download.zip)| [@寸幼萱](http://gitee.com/cunyx) | | ✔ | 爱坤身份证、星铁原神信息查询、二维码生成等(使用前一定要看README.md，现在只能通过下载zip文件解压到plugins文件夹使用，等以后学会上传git之后就开放，我先占个位置) |
 | [ws插件(ws-plugin) ](https://gitee.com/xiaoye12123/ws-plugin)| [@小叶](https://gitee.com/xiaoye12123)| |✔| 提供了云崽通过ws连接onebot标准的机器人 |
 | [文案插件(wenan-plugin) ](https://gitee.com/white-night-fox/wenan-plugin)| [@白夜狐狸](https://gitee.com/white-night-fox/projects)| |✔|提供了云崽回复类文案 |
 | [yin趴插件(impart-pro-plugin) ](https://gitee.com/sumght/impart-pro-plugin)| [@sumght](https://gitee.com/sumght)| | ✔ | 牛牛大作战先行测试，男人之间细说的互动玩法 |
