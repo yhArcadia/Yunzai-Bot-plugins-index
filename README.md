@@ -36,7 +36,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
-| [寸幼萱插件(cunyx-plugin) ](https://plugin.cunyx.cn/cunyx-plugin/download.zip)| [@寸幼萱](http://gitee.com/cunyx) | | ✔ | 爱坤身份证、星铁原神信息查询、二维码生成等(使用前一定要看README.md，现在只能通过下载zip文件解压到plugins文件夹使用，等以后学会上传git之后就开放，我先占个位置) |
+| [寸幼萱插件(cunyx-plugin) ](https://gitee.com/cunyx/cunyx-plugin) | [@寸幼萱](https://gitee.com/cunyx) | | ✔| 爱坤身份证、原神星铁信息查询、星铁原神前瞻内容及兑换码、二维码生成、encode编码等(安装本插件一定要看README.md，本插件和其他插件安装方式不一样！所有的功能也在README.md里面，只要里面没有的功能就一定没有)|
 | [ws插件(ws-plugin) ](https://gitee.com/xiaoye12123/ws-plugin)| [@小叶](https://gitee.com/xiaoye12123)| |✔| 提供了云崽通过ws连接onebot标准的机器人 |
 | [文案插件(wenan-plugin) ](https://gitee.com/white-night-fox/wenan-plugin)| [@白夜狐狸](https://gitee.com/white-night-fox/projects)| |✔|提供了云崽回复类文案 |
 | [yin趴插件(impart-pro-plugin) ](https://gitee.com/sumght/impart-pro-plugin)| [@sumght](https://gitee.com/sumght)| | ✔ | 牛牛大作战先行测试，男人之间细说的互动玩法 |
@@ -118,8 +118,6 @@ _i 提供了关键功能_
 | [MC插件](https://gitee.com/Aliorpse/Yunzai-McPlugins) | [@Aliorpse](https://gitee.com/Aliorpse/) |  | ✔ | [V3](http://123.60.141.159/src/McPlugins/) | 提供Minecraft相关功能(服务器状态查询 正版玩家查询等) |
 |[群聊小游戏](http://suancaixianyu.cn/xyjs)| [@酸菜咸鱼](https://gitee.com/suancaixianyu) |  | ✔ |V3|群聊小游戏插件，一些经典游戏等js插件|
 | [喜报](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin)|[@bling丶一闪](https://gitee.com/bling_yshs)|   | ✔ | [v3](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin/raw/master/%E5%96%9C%E6%8A%A5.js)|可以生成喜报并发送，[效果图](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin/blob/master/res/%E5%96%9C%E6%8A%A5%E6%95%88%E6%9E%9C%E5%9B%BE.jpg)|
-| [寸幼萱encode编码](https://gitee.com/cunyx/cunyx/tree/Yunzai-Bot/Yunzai-Bot/js/encode%E7%BC%96%E7%A0%81) | [@寸幼萱](https://gitee.com/cunyx)|   | ✔ | V3 | 很水的一次插件，用途不广泛，希望能帮到一些人 |
-| [寸幼萱二维码生成](https://gitee.com/cunyx/cunyx/tree/Yunzai-Bot/Yunzai-Bot/js/生成二维码) | [@寸幼萱](https://gitee.com/cunyx)|  | ✔ |[V3](https://gitee.com/cunyx/cunyx/raw/Yunzai-Bot/Yunzai-Bot/js/%E7%94%9F%E6%88%90%E4%BA%8C%E7%BB%B4%E7%A0%81/%E5%AF%B8%E5%B9%BC%E8%90%B1%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%94%9F%E6%88%90.js) | 生成出来的二维码无法在QQ识别，其他平台通用。 |
 | [检测骂机器人进行处理](https://gitee.com/xiaoye12123/js) | [@小叶](https://gitee.com/xiaoye12123) |  | ✔ | [V3](https://gitee.com/xiaoye12123/js/raw/master/%E6%BA%90%E7%A0%81%E5%8E%BB%E6%8E%89%E9%AA%82%E4%BA%BA%E8%AF%8D%E6%B1%87%E5%88%AB%E7%94%A8%E8%BF%99%E4%B8%AA.js) |检测群聊的消息,如果有at机器人或者提到机器人名字的消息中包含了违禁词的话就会进行处理 |
 | [人物识别](https://gitee.com/shuciqianye/yunzai-AnimeTrace) | [@书辞千楪](https://gitee.com/shuciqianye) |  | ✔ | [V3](https://gitee.com/shuciqianye/yunzai-AnimeTrace/raw/master/%E4%BA%BA%E7%89%A9%E8%AF%86%E5%88%AB.js) |可根据您提供的图片识别出图片中的日漫人物或游戏角色 |
 | [飞花令](https://gitee.com/Nwflower/flower) | [@西北一枝花](https://gitee.com/Nwflower/) |  | ✔ | [V3](https://gitee.com/Nwflower/flower/raw/master/飞花令.js) | 灵感来自于诗词大会。 |
