@@ -160,6 +160,7 @@ _i 提供了关键功能_
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [阴天一键安装云崽](https://gitee.com/wan13877501248/yin-tian-tian-script-for-win) | [@Hello World](https://gitee.com/wan13877501248) | 个人电脑一键自动部署喵版云崽和阴天插件的windows简易C#脚本，不推荐服务器用户使用。 |
 | [Bot-Help](https://gitee.com/ningmengchongshui/bot-help) | [@lemonade](https://gitee.com/ningmengchongshui/lemonade) | linux系统环境一键部署脚本 |
 | [Ubuntu一键安装Miao-Yunzai脚本](https://gitee.com/paimon114514/termux-yunzai-cv-script) | [@htadiy](https://gitee.com/paimon114514) | 一个整合了Python和FFmpeg的一键安装Miao-Yunzai脚本。 |
 | [3QNmoqy-Yunzai.bat Yunzai-Bot管理脚本](https://gitee.com/qiannqq/3QNmoqy-Yunzai-bat) | [@千奈千祁](https://gitee.com/qiannqq) | 在windows运行的Yunzai-Bot管理脚本 |
