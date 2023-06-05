@@ -14,7 +14,7 @@
 | Yunzai-Bot-lite | [@听语惊花](https://github.com/Nwflower) | [☞GitHub](https://github.com/Nwflower/yunzai-bot-lite) | [☞Gitee](https://gitee.com/Nwflower/yunzai-bot-lite) | 轻量版，无原神功能 | □□□□□ |
 | Miao-Yunzai | [@喵喵](https://gitee.com/yoimiya-kokomi) | [☞GitHub](https://github.com/yoimiya-kokomi/Miao-Yunzai) | [☞Gitee](https://gitee.com/yoimiya-kokomi/Miao-Yunzai) | 喵版 Yunzai | ■■■■■ |
 | TRSS-Yunzai | [@时雨🌌星空](../../../../TimeRainStarSky) | [☞GitHub](https://github.com/TimeRainStarSky/Yunzai) | [☞Gitee](https://gitee.com/TimeRainStarSky/Yunzai) | Yunzai 应用端，支持多账号，支持协议端：go-cqhttp、ComWeChat、ICQQ、QQ频道、KOOK、Telegram、Discord | ■■■■□ |
-| Alemon-Bot | [@柠檬冲水](https://github.com/ningmengchongshui/) | [☞GitHub](https://github.com/ningmengchongshui/alemon-bot) | [☞Gitee](https://gitee.com/ningmengchongshui/alemon-bot) | 安装npm install alemon-cli -g <br>执行alemon-cli install <br>搞定[alemon](http://three-point-of-water.gitee.io/alemon-bot) | ■■■□□ |
+| Alemon-Bot | [@lemonade](https://github.com/ningmengchongshui/lemonade) | [☞GitHub](https://github.com/ningmengchongshui/alemon-bot) | [☞Gitee](https://gitee.com/ningmengchongshui/alemon-bot) | 安装npm install alemon-cli -g <br>执行alemon-cli install <br>搞定[alemon](http://ningmengchongshui.gitee.io/lemonade) | ■■■□□ |
 
 <br>
 
@@ -90,9 +90,6 @@ _i 提供了关键功能_
 |-------| ----- | ------ | ------|------ |
 | [虚空插件 (akasha-terminal-plugin)](https://gitee.com/go-farther-and-farther/akasha-terminal-plugin) | [@越追越远](https://gitee.com/go-farther-and-farther) | | ✔  | 提供企鹅群游戏,目前实现了群内决斗,娶群友等有趣的小游戏 |
 | [咸鱼插件 (xianyu-plugin)](https://gitee.com/suancaixianyu/xianyu-plugin) | [@酸菜咸鱼](https://gitee.com/suancaixianyu)|  | ✔ | 一些群聊对战小游戏，没有文游的复杂体系，休闲娱乐，老少皆宜 |
-| [修仙插件 (xiuxian-plugin)](https://gitee.com/three-point-of-water/xiuxian-plugin) | [@三点水](https://gitee.com/three-point-of-water)|  | ✔ | 云崽正版修仙插件库，包括@1.2.1、@1.3.0和@2.0.0版本，是一款高交互高自由度文字游戏,上班摸鱼必备插件 |
-| [修仙家园 (xiuxian-Home)](https://gitee.com/mmmmmddddd/xiuxian-home-plugin) | [@秋雨](https://gitee.com/mmmmmddddd)|  | ✔ | 专用于@2.0.0的修仙家园插件 |
-| [修仙宗门 (xiuxian-Association)](https://gitee.com/mg1105194437/xiuxian-association-plugin) | [@汐颜](https://gitee.com/mg1105194437)|  | ✔ | 专用于@2.0.0的修仙宗门插件 |
 | [口袋妖怪 (Pokemon-Plugin)](https://gitee.com/mg1105194437/pokemon-simulator-plugin) | [@汐颜](https://gitee.com/mg1105194437)|  | ✔ | 单机文字游戏,不可直接安装,详细请看仓库介绍 |
 <!-- 请不要在此处添加行，请在此表格顶部添加 -->
 
@@ -162,6 +159,7 @@ _i 提供了关键功能_
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [Bot-Help](https://gitee.com/ningmengchongshui/bot-help) | [@lemonade](https://gitee.com/ningmengchongshui/lemonade) | linux系统环境一键部署脚本 |
 | [Ubuntu一键安装Miao-Yunzai脚本](https://gitee.com/paimon114514/termux-yunzai-cv-script) | [@htadiy](https://gitee.com/paimon114514) | 一个整合了Python和FFmpeg的一键安装Miao-Yunzai脚本。 |
 | [3QNmoqy-Yunzai.bat Yunzai-Bot管理脚本](https://gitee.com/qiannqq/3QNmoqy-Yunzai-bat) | [@千奈千祁](https://gitee.com/qiannqq) | 在windows运行的Yunzai-Bot管理脚本 |
 | [向日葵Ubuntu22.04云崽安装脚本](https://gitee.com/xrk114514/shell-Yunzai) | [@向日葵](https://gitee.com/xrk114514) | 最牛逼的适合小白用的脚本，全程无需脑子，Ubuntu22.04极其稳定且适配py，内置版本过低修复，插件安装，重启修复等较为实用的脚本，天天更新！ |
