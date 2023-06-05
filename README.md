@@ -104,6 +104,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
+| [Faden发癫插件](https://github.com/Pretend-to/Faden_api_server) | [@秋山澪](https://github.com/Pretend-to) | |✔|v3| 一款可以让你的bot对群友说客制化土味情话~~发癫~~的插件 |
 | [MC-Wiki插件](https://github.com/Walkersifolia/mc-wiki) | [@圈圈](https://github.com/Walkersifolia) | |✔|v3| 一款可以快捷查询mcwiki的插件，自动裁切并返回图片，还提供了网络不好情况时的返回链接功能 |
 |[原神&星铁抽卡计算器](https://gitee.com/LumineAether/Genshin-StarRail-gacha-calculator)| [@荧之空](https://gitee.com/LumineAether) | |✔|v3|根据玩家拥有的纠缠之缘/星轨专票数目以及角色池、武器/光锥池的水位、保底情况，计算出抽取指定数量的五星up角色和五星up武器/光锥的概率，并绘制出累积概率图|
 | [vist语音合成](https://gitee.com/eulogyjiajia/vits-speech-synthesis) | [@空梦](https://gitee.com/eulogyjiajia) | | ✔ | [v3](https://gitee.com/eulogyjiajia/vits-speech-synthesis/raw/master/vits%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90.js) | 使用vits接口进行语音合成，高清语音需要安装枫叶插件，支持原神，崩坏3，赛马娘 |
