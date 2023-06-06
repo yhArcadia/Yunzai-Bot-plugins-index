@@ -36,6 +36,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
+| [鳄梨插件 (Avocado-Plugin) ](https://github.com/Qz-Sean/avocado-plugin) | [@Qz-Sean](https://github.com/Qz-Sean) | | ✔ | 支持查询热映电影信息、天气查询、md渲染、灵活的网页预览与翻译、只为一个人疯狂(发癫)、抽象的指令规则|
 | [随机图片](https://gitee.com/xyb12345678qwe/suijitupian) | [@名字](https://gitee.com/xyb12345678qwe) | | ✔ |随机图片插件 |
 | [寸幼萱插件(cunyx-plugin) ](https://gitee.com/cunyx/cunyx-plugin) | [@寸幼萱](https://gitee.com/cunyx) | | ✔| 爱坤身份证、原神星铁信息查询、星铁原神前瞻内容及兑换码、二维码生成、encode编码等(安装本插件一定要看README.md，本插件和其他插件安装方式不一样！所有的功能也在README.md里面，只要里面没有的功能就一定没有)|
 | [ws插件(ws-plugin) ](https://gitee.com/xiaoye12123/ws-plugin)| [@小叶](https://gitee.com/xiaoye12123)| |✔| 提供了云崽通过ws连接onebot标准的机器人 |
