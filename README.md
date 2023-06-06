@@ -36,6 +36,8 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
+群机器人 |
+| [云•冰祈 (Cloud_Icepray)](https://gitee.com/koinori/Icepray) | [@koinori](https://gitee.com/koinori) | | ✔ | 搭建于云端，集娱乐于管理功能于一身的轻量化插件 |
 | [鳄梨插件 (Avocado-Plugin) ](https://github.com/Qz-Sean/avocado-plugin) | [@Qz-Sean](https://github.com/Qz-Sean) | | ✔ | 支持查询热映电影信息、天气查询、md渲染、灵活的网页预览与翻译、只为一个人疯狂(发癫)、抽象的指令规则|
 | [寸幼萱插件(cunyx-plugin) ](https://gitee.com/cunyx/cunyx-plugin) | [@寸幼萱](https://gitee.com/cunyx) | | ✔| 爱坤身份证、原神星铁信息查询、星铁原神前瞻内容及兑换码、二维码生成、encode编码等(安装本插件一定要看README.md，本插件和其他插件安装方式不一样！所有的功能也在README.md里面，只要里面没有的功能就一定没有)|
 | [ws插件(ws-plugin) ](https://gitee.com/xiaoye12123/ws-plugin)| [@小叶](https://gitee.com/xiaoye12123)| |✔| 提供了云崽通过ws连接onebot标准的机器人 |
@@ -48,7 +50,6 @@ _i 提供了关键功能_
 | [QQ频道插件（QQGuild-Plugin）](https://github.com/2y8e9h22/QQGuild-Plugin)|[@2y8e9h22](https://github.com/2y8e9h22)||✔|安装本插件可以让你的频道机器人使用云崽的功能. ^_^|
 | [AFanSKyQs插件（FanSky_Qs）](https://github.com/AFanSKyQs/FanSky_Qs) | [ @AFanSKyQs](https://github.com/AFanSKyQs)                  |        |  ✔  |提瓦特小助手功能实现(队伍伤害等)、[打卡×魔晶系统]、OpenAI多模型拓展、票房查询、各图包整合收录触发等...|
 | [七圣召唤战绩查询（call_of_seven_saints）](https://gitee.com/huangshx2001/call_of_seven_saints) | [@癫癫博士](https://gitee.com/huangshx2001)                  |        | ✔ | 查询自己七圣召唤胜率以及卡牌喜好，目标用户应该是七圣召唤忠实玩家以及牌佬群机器人 |
-| [冰祈插件 (Icepray)](https://gitee.com/koinori/Icepray) | [@koinori](https://gitee.com/koinori) | | ✔ | 提供碧蓝档案角色查询，档案抽卡，签到，钓鱼游戏等图鉴及娱乐玩法 |
 | [屁股肉插件 (phi-plugin)](https://github.com/catrong/phi-plugin) | [@Catrong](https://github.com/Catrong) | | ✔ | 提供phigros现有曲目的曲目信息查询、个人rks计算、随机phigros曲目等功能 |
 | [小雪插件 (XiaoXuePlugin)](https://gitee.com/XueWerY/XiaoXuePlugin) | [@XueWerY](https://gitee.com/XueWerY) | | ✔ | 让bot变得人性化，提升用户和bot的交互体验，提供bot更多的管理，提供更多的依赖库，拓展新功能效率高 |
 | [拓展插件 (expand-plugin)](https://gitee.com/SmallK111407/expand-plugin) | [@SunRyK曉K](https://gitee.com/SmallK111407) | | ✔ | 提供#刻晴攻略5、#艾尔海森攻略6、#明日素材 等在云崽基础上拓展的功能 |
