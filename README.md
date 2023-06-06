@@ -40,7 +40,7 @@ _i 提供了关键功能_
 | [寸幼萱插件(cunyx-plugin) ](https://gitee.com/cunyx/cunyx-plugin) | [@寸幼萱](https://gitee.com/cunyx) | | ✔| 爱坤身份证、原神星铁信息查询、星铁原神前瞻内容及兑换码、二维码生成、encode编码等(安装本插件一定要看README.md，本插件和其他插件安装方式不一样！所有的功能也在README.md里面，只要里面没有的功能就一定没有)|
 | [ws插件(ws-plugin) ](https://gitee.com/xiaoye12123/ws-plugin)| [@小叶](https://gitee.com/xiaoye12123)| |✔| 提供了云崽通过ws连接onebot标准的机器人 |
 | [文案插件(wenan-plugin) ](https://gitee.com/white-night-fox/wenan-plugin)| [@白夜狐狸](https://gitee.com/white-night-fox/projects)| |✔|提供了云崽回复类文案 |
-| [yin趴插件(impart-pro-plugin) ](https://gitee.com/sumght/impart-pro-plugin)| [@sumght](https://gitee.com/sumght)| | ✔ | 牛牛大作战先行测试，男人之间细说的互动玩法 |
+| [牛牛大作战Beta(impart-pro-plugin) ](https://gitee.com/sumght/impart-pro-plugin)| [@sumght](https://gitee.com/sumght)| | ✔ | 牛牛大作战先行测试，男人之间细说的互动玩法(原银趴插件) |
 | [阿尔萌插件 (armoe-plugin)](https://gitee.com/armoe-project/armoe-plugin)| [@真心](https://github.com/RealHeart)| | ✔ | 提供R6战绩查询、KOOK在线查询等功能|
 | [崩坏星穹铁道插件（StarRail-plugin）](https://gitee.com/hewang1an/StarRail-plugin)| [@鹤望兰](https://gitee.com/hewang1an)| | ✔ | 一个提供了崩坏星穹铁道部分查询功能的插件，如#星铁卡片 #星铁体力 #星铁收入 等|
 | [阴天插件（Y-Tian-Plugin）](https://gitee.com/wan13877501248/y-tian-plugin)| [@Hello World](https://gitee.com/wan13877501248)  [@yuanpluss](https://gitee.com/yuanpluss) | | ✔ | 一个Yunzai-Bot V3小功能集成的插件包,集AI、娱乐、功能性于一体，让你的机器人变得更为全面且多功能。|
