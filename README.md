@@ -36,6 +36,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
+| [憨憨插件 (hanhan-Plugin) ](https://github.com/hanhan258/hanhan-plugin) | [@憨憨](https://github.com/hanhan258)  [@ycxom](https://github.com/ycxom) | | ✔ | 支持ping、摩斯、url、base64等工具；JK、黑白丝、小姐姐、买家秀等图片功能；发癫、mc酱、随机柴郡、叼发言、来张叼图，俄罗斯转盘游戏等娱乐功能|
 | [清凉插件 (ql-plugin)](https://gitee.com/xwy231321/ql-plugin) | [@xwy](https://gitee.com/xwy231321) | | ✔ | 测试版,对原清凉图插件进行了重构(还没完就是了),加入了几个新指令,优化了部分逻辑 |
 | [云•冰祈 (Cloud_Icepray)](https://gitee.com/koinori/Icepray) | [@koinori](https://gitee.com/koinori) | | ✔ | 搭建于云端，集娱乐于管理功能于一身的轻量化插件 |
 | [鳄梨插件 (Avocado-Plugin) ](https://github.com/Qz-Sean/avocado-plugin) | [@Qz-Sean](https://github.com/Qz-Sean) | | ✔ | 支持查询热映电影信息、天气查询、md渲染、灵活的网页预览与翻译、只为一个人疯狂(发癫)、抽象的指令规则|
