@@ -167,6 +167,7 @@ _i 提供了关键功能_
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [等风来Linux云崽管理脚本](http://dengfenglai.cloud) | [@等风来](https://gitee.com/Wind-is-so-strong) | 适用ubuntu和手机termux的云崽管理脚本，提供一些有用没用的鸡肋功能，小白鸽子精cv各位大佬写的脚本。 |
 | [Mit_gancm安装QQBot](https://gitee.com/MIt-gancm/Linux-for-QQ-Bot/) | [@Mit_gancm](https://gitee.com/MIt-gancm) | 适用于linux乌班图 注：处于测试阶段 |
 | [阴天一键安装云崽](https://gitee.com/wan13877501248/yin-tian-tian-script-for-win) | [@Hello World](https://gitee.com/wan13877501248) | 个人电脑一键自动部署喵版云崽和阴天插件的windows简易C#脚本，不推荐服务器用户使用。 |
 | [Bot-Help](https://gitee.com/ningmengchongshui/bot-help) | [@lemonade](https://gitee.com/ningmengchongshui/lemonade) | linux系统环境一键部署脚本 |
