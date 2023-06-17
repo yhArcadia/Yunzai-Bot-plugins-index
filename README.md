@@ -36,6 +36,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
+|[Phigros查分插件 (PhigrosLibrary-plugin)](https://github.com/Walkersifolia/PhigrosLibrary-plugin)|[@圈圈](https://github.com/Walkersifolia)| | ✔ |无需手动输入，获取SessionToken并绑定就可以从云端服务器查分，自动生成b19图片，精美的UI设计by[@七星](https://github.com/QiXingQXX)，插件内也给出了获取SessionToken的方式|
 | [面板插件 (panel-plugin)](https://gitee.com/yunzai-panel/README) | [@硫酸钡Barite](../../../../CUZNIL) | | ✔ | 对[喵喵插件](https://gitee.com/yoimiya-kokomi/miao-plugin)的面板数据提供操作：转换旧版圣遗物格式、适配[Gspanel](https://github.com/monsterxcn/nonebot-plugin-gspanel)、备份面板 |
 | [清凉插件 (ql-plugin)](https://gitee.com/xwy231321/ql-plugin) | [@xwy](https://gitee.com/xwy231321) | | ✔ | 测试版,对原清凉图插件进行了重构(还没完就是了),加入了几个新指令,优化了部分逻辑 |
 | [云•冰祈 (Cloud_Icepray)](https://gitee.com/koinori/Icepray) | [@koinori](https://gitee.com/koinori) | | ✔ | 搭建于云端，集娱乐于管理功能于一身的轻量化插件 |
