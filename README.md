@@ -108,6 +108,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
+| [查委托](https://hlhs-nb.cn/DailyTask/item) | [@Hlhs](info@hlhs-nb.cn) | | ✔ | [v3](https://hlhs-nb.cn/download/%E6%9F%A5%E5%A7%94%E6%89%98.js)| 查询原神每日委托任务是否有隐藏成就 |
 | [每日打卡](https://gitee.com/qiannqq/yunzai-plugin-JS) | [@千奈千祁](https://gitee.com/QianNQQ) | |✔| [v3](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/%E6%AF%8F%E6%97%A5%E6%89%93%E5%8D%A1.js)| 每人每天随机幸运值（0-100），查看每天的首个欧皇 |
 | [表情合成（纯js）](https://gitee.com/qiannqq/yunzai-plugin-JS) |[@千奈千祁](https://gitee.com/qiannqq) | | ✔ | [v3](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/BQHC.js) | 无需Python，通过调用api来实现表情合成。 |
 | [PxxnHub文本生成](https://gitee.com/Aliorpse/yunzai-pxxn-hub) | [@Aliorpse](https://gitee.com/Aliorpse) | |✔| [v3](https://gitee.com/Aliorpse/yunzai-pxxn-hub/blob/master/pxxnhub.js) | 奇奇怪怪的文本生成,[效果图](https://gitee.com/Aliorpse/yunzai-pxxn-hub/raw/master/%E6%95%88%E6%9E%9C%E5%9B%BE.gif) |
@@ -148,7 +149,6 @@ _i 提供了关键功能_
 | [今日日报插件](https://github.com/MuXia-0326/YunzaiBotJsPluginMuXia) | [@MuXia](https://github.com/MuXia-0326) | | ✔ | [v3](https://github.com/MuXia-0326/YunzaiBotJsPluginMuXia/raw/master/muxia_get_day_news.js) | 获取易即今日公众号的今日日报，支持自定义公众号（自行查看源码） |
 | [点歌插件](https://gitee.com/xfdown/yun-zai-robot-plug-in/) | [@小飞](https://gitee.com/xfdown) | | ✔ | [v3](https://gitee.com/xfdown/yun-zai-robot-plug-in/raw/master/%E7%82%B9%E6%AD%8C%E6%8F%92%E4%BB%B6.js) | QQ/网易/酷我/酷狗点歌（支持多选） |
 | [天气插件](https://gitee.com/xfdown/yun-zai-robot-plug-in/) | [@小飞](https://gitee.com/xfdown) | | ✔ | [v3](https://gitee.com/xfdown/yun-zai-robot-plug-in/raw/master/%E5%A4%A9%E6%B0%94%E6%8F%92%E4%BB%B6.js) | 请求腾讯天气网站进行页面截图 |
-| [查委托](https://gitee.com/mofengdada/chaweituo) | [@mofengdada](https://gitee.com/mofengdada) | ✔ | ✔ | [v2](https://gitee.com/mofengdada/chaweituo/raw/master/%E6%9F%A5%E5%A7%94%E6%89%98V2.js) [v3](https://gitee.com/mofengdada/chaweituo/raw/master/%E6%9F%A5%E5%A7%94%E6%89%98V3.js)| 查看原神每日委托是否有隐藏成就 |
 | [打他hithim](https://github.com/huzwu/hithim-plugin) | [@huzwu](https://github.com/huzwu) |  | ✔ | [v3](https://raw.githubusercontent.com/huzwu/hithim-plugin/main/hithim.js) |  提供攻击他人并禁言或回血取消功能 |
 | [more js](https://gitee.com/ying_Sailor_uniform/more-js) | [@呆呆的屑荧](https://gitee.com/ying_Sailor_uniform) | ✔ | ✔ | [v2](https://gitee.com/ying_Sailor_uniform/more-js/raw/master/more-js-V2.js) [v3](https://gitee.com/ying_Sailor_uniform/more-js/raw/master/more-js-V3.js)| 为V2云崽添加了随机美图，摸鱼日历，随机头像功能 |
 | [扩展插件](https://gitee.com/Lycofuture/yunzai-plugin) | [@Lycofuture](https://gitee.com/Lycofuture)   |      |    ✔ | [v3](https://gitee.com/lycofuture/yunzai-plugin/raw/main/ChatGTP.js) | GTP-API,网页预览，进退群通知|
