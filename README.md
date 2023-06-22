@@ -42,7 +42,7 @@ _i 提供了关键功能_
 | [云•冰祈 (Cloud_Icepray)](https://gitee.com/koinori/Icepray) | [@koinori](https://gitee.com/koinori) | | ✔ | 搭建于云端，集娱乐于管理功能于一身的轻量化插件 |
 | [憨憨插件 (hanhan-plugin) ](https://github.com/hanhan258/hanhan-plugin) | [@憨憨](https://github.com/hanhan258)  [@ycxom](https://github.com/ycxom) | | ✔ | 支持ping、摩斯、url、base64等工具；JK、黑白丝、小姐姐、买家秀等图片功能；发癫、mc酱、随机柴郡、叼发言、来张叼图，俄罗斯转盘游戏等娱乐功能；还有搜一搜工具，支持市面上绝大部分搜索引擎和网站|
 | [鳄梨插件 (Avocado-Plugin) ](https://github.com/Qz-Sean/avocado-plugin) | [@Qz-Sean](https://github.com/Qz-Sean) | | ✔ | 支持查询热映电影信息、天气查询、md渲染、灵活的网页预览与翻译、只为一个人疯狂(发癫)、抽象的指令规则|
-| [寸幼萱插件(cunyx-plugin) ](https://gitee.com/cunyx/cunyx-plugin) | [@最好喝的小米粥](https://gitee.com/cunyx) [@等风来](https://gitee.com/Wind-is-so-strong) | | ✔| 爱坤身份证、原神星铁信息查询、星铁原神前瞻内容及兑换码、二维码生成、encode编码和游玩淫趴小游戏哦|
+| [寸幼萱插件(cunyx-plugin) ](https://gitee.com/cunyx/cunyx-plugin) | [@最好喝的小米粥](https://gitee.com/cunyx) [@等风来](https://gitee.com/Wind-is-so-strong) | | ✔| 每日60秒、爱坤身份证、原神星铁信息查询、星铁原神前瞻内容及兑换码、二维码生成、encode编码和游玩淫趴小游戏(强烈建议阅读[README.md](https://gitee.com/cunyx/cunyx-plugin/blob/master/README.md)以获得更佳使用体验)|
 | [ws插件(ws-plugin) ](https://gitee.com/xiaoye12123/ws-plugin)| [@小叶](https://gitee.com/xiaoye12123)| |✔| 提供了云崽通过ws连接onebot标准的机器人 |
 | [文案插件(wenan-plugin) ](https://gitee.com/white-night-fox/wenan-plugin)| [@白夜狐狸](https://gitee.com/white-night-fox/projects)| |✔|提供了云崽回复类文案 |
 | [牛牛大作战Beta(impart-pro-plugin) ](https://gitee.com/sumght/impart-pro-plugin)| [@sumght](https://gitee.com/sumght)| | ✔ | 牛牛大作战先行测试，男人之间细说的互动玩法(原银趴插件) |
