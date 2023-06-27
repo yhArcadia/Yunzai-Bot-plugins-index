@@ -109,6 +109,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
+| [LoliconAPI（图片获取）](https://github.com/SakuraTairitsu/LoliconAPI)| [@枫](https://github.com/SakuraTairitsu) | | ✔ | [v3](https://raw.githubusercontent.com/SakuraTairitsu/LoliconAPI/main/LoliconAPI/LoliconAPI%5BV3%5D.js) | 从[Lolicon](https://api.lolicon.app/#/setu)图库获取单/多张随机或指定tag的图片 |
 | [查委托](https://hlhs-nb.cn/DailyTask/item) | [@Hlhs](info@hlhs-nb.cn) | | ✔ | [v3](https://hlhs-nb.cn/download/%E6%9F%A5%E5%A7%94%E6%89%98.js)| 查询原神每日委托任务是否有隐藏成就 |
 | [每日打卡](https://gitee.com/qiannqq/yunzai-plugin-JS) | [@千奈千祁](https://gitee.com/QianNQQ) | |✔| [v3](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/%E6%AF%8F%E6%97%A5%E6%89%93%E5%8D%A1.js)| 每人每天随机幸运值（0-100），查看每天的首个欧皇 |
 | [表情合成（纯js）](https://gitee.com/qiannqq/yunzai-plugin-JS) |[@千奈千祁](https://gitee.com/qiannqq) | | ✔ | [v3](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/BQHC.js) | 无需Python，通过调用api来实现表情合成。 |
