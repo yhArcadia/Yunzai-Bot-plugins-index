@@ -84,6 +84,7 @@ _i 提供了关键功能_
 | [白纸插件 (zhi-plugin)](https://github.com/HeadmasterTan/zhi-plugin)    | [@HeadmasterTan](https://github.com/HeadmasterTan) | ✔ | ✔ | 提供B站动态推送。优化云崽的“添加”功能，可在同一触发词下添加多个回复 |
 | [成就插件 (achievements-plugin)](https://gitee.com/zolay-poi/achievements-plugin) | [@zolay-poi](https://gitee.com/zolay-poi) | ✔ | ✔ | 提供成就查漏、成就搜索等功能 |
 | [抽卡插件 (flower-plugin)](https://github.com/Nwflower/flower-plugin) | [@听语惊花](https://github.com/Nwflower/) |   | ✔ | 百连、单抽、文字狱、转生、隐形拉黑等 |
+| [扩展插件](https://gitee.com/Lycofuture/yunzai-plugin) | [@Lycofuture](https://gitee.com/Lycofuture)   |      |    ✔ | 随心api，GTP-API，网页预览，woc 指令，风控处理 ，广播，QQ 凶吉查询 |
 <!-- 请不要在此处添加行，请在此表格顶部添加 -->
 
 <br>
@@ -151,7 +152,6 @@ _i 提供了关键功能_
 | [天气插件](https://gitee.com/xfdown/yun-zai-robot-plug-in/) | [@小飞](https://gitee.com/xfdown) | | ✔ | [v3](https://gitee.com/xfdown/yun-zai-robot-plug-in/raw/master/%E5%A4%A9%E6%B0%94%E6%8F%92%E4%BB%B6.js) | 请求腾讯天气网站进行页面截图 |
 | [打他hithim](https://github.com/huzwu/hithim-plugin) | [@huzwu](https://github.com/huzwu) |  | ✔ | [v3](https://raw.githubusercontent.com/huzwu/hithim-plugin/main/hithim.js) |  提供攻击他人并禁言或回血取消功能 |
 | [more js](https://gitee.com/ying_Sailor_uniform/more-js) | [@呆呆的屑荧](https://gitee.com/ying_Sailor_uniform) | ✔ | ✔ | [v2](https://gitee.com/ying_Sailor_uniform/more-js/raw/master/more-js-V2.js) [v3](https://gitee.com/ying_Sailor_uniform/more-js/raw/master/more-js-V3.js)| 为V2云崽添加了随机美图，摸鱼日历，随机头像功能 |
-| [扩展插件](https://gitee.com/Lycofuture/yunzai-plugin) | [@Lycofuture](https://gitee.com/Lycofuture)   |      |    ✔ | [v3](https://gitee.com/lycofuture/yunzai-plugin/raw/main/ChatGTP.js) | GTP-API,网页预览，进退群通知|
 | [文案类回复合集](https://gitee.com/huangshx2001/yunzai-js-plug-in) | [@癫癫博士](https://gitee.com/huangshx2001) |  | ✔ | [v3](https://gitee.com/huangshx2001/yunzai-js-plug-in/raw/master/%E6%96%87%E6%A1%88%E7%B1%BB%E5%9B%9E%E5%A4%8D%E5%90%88%E9%9B%86.js) | 比较全的文案类api合集，日后打算整图片/资讯/音视频类合集，就不发在这占空间了，欢迎光临我的仓库查看！ |
 | [cp卡片，文章生成](https://gitee.com/huangshx2001/yunzai-js-plug-in) | [@癫癫博士](https://gitee.com/huangshx2001) |  | ✔ | [v3](https://gitee.com/huangshx2001/yunzai-js-plug-in/raw/master/cp%E5%8D%A1%E7%89%87%E3%80%81%E6%96%87%E7%94%9F%E6%88%90%E5%99%A8.js) | 生成cp卡片/文章，可快乐嗑cp或者恶心群友 |
 | [派蒙一言](https://gitee.com/huangshx2001/yunzai-js-plug-in) | [@癫癫博士](https://gitee.com/huangshx2001) |  | ✔ | [v3](https://gitee.com/huangshx2001/yunzai-js-plug-in/raw/master/%E6%B4%BE%E8%92%99%E4%B8%80%E8%A8%80V3.js) | 让指定的角色随机说一句话并且转换成语音！ |
