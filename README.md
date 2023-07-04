@@ -110,6 +110,12 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
+| [抽签](https://gitee.com/qiannqq/yunzai-plugin-JS) | [@千奈千祁](https://gitee.com/QianNQQ) | |✔| [v3](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/%E6%8A%BD%E7%AD%BE.js) | 随机抽取签文、宜和忌、小故事。每天只能抽一次，重复使用可查看当天抽到的签。 |
+| [关键词提醒](https://gitee.com/qiannqq/yunzai-plugin-JS) | [@千奈千祁](https://gitee.com/QianNQQ) | |✔| [v3](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/%E5%85%B3%E9%94%AE%E8%AF%8D%E6%8F%90%E9%86%92.js) | 在Bot所在的群聊内，如果有人提到了你设置的关键词，比如：屑千奈太屑了，即包含“千奈”关键词，Bot会提示消息至第一个主人（私聊） |
+| [屏蔽指定指令，只有主人才可执行](https://gitee.com/qiannqq/yunzai-plugin-JS) | [@千奈千祁](https://gitee.com/QianNQQ) | |✔| [v3](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/%E5%B1%8F%E8%94%BD%E6%8C%87%E5%AE%9A%E6%8C%87%E4%BB%A4%EF%BC%8C%E5%8F%AA%E6%9C%89%E4%B8%BB%E4%BA%BA%E6%89%8D%E5%8F%AF%E6%89%A7%E8%A1%8C.js) | 屏蔽指定指令，只有主人才可执行 |
+| [模拟高考查分](https://gitee.com/qiannqq/yunzai-plugin-JS) | [@千奈千祁](https://gitee.com/QianNQQ) | |✔| [v3](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/%E6%A8%A1%E6%8B%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86.js) | 模拟紧张刺激的高考查分，看看你的分数能考上什么学校吧~ |
+| [今日老婆](https://gitee.com/qiannqq/yunzai-plugin-JS) | [@千奈千祁](https://gitee.com/QianNQQ) | |✔| [v3](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/%E4%BB%8A%E6%97%A5%E8%80%81%E5%A9%86.js) | 在群中随机抽取一位群友当老婆，每天只能抽一次 |
+| [云崽上下班](https://gitee.com/qiannqq/yunzai-plugin-JS) | [@千奈千祁](https://gitee.com/QianNQQ) | |✔| [v3](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/%E4%BA%91%E5%B4%BD%E4%B8%8A%E4%B8%8B%E7%8F%AD.js) | 云崽上下班，方便调试的时候屏蔽所有指令(想不到其它用途了 |
 | [LoliconAPI（图片获取）](https://github.com/SakuraTairitsu/LoliconAPI)| [@枫](https://github.com/SakuraTairitsu) | | ✔ | [v3](https://raw.githubusercontent.com/SakuraTairitsu/LoliconAPI/main/LoliconAPI/LoliconAPI%5BV3%5D.js) | 从[Lolicon](https://api.lolicon.app/#/setu)图库获取单/多张随机或指定tag的图片 |
 | [查委托](https://hlhs-nb.cn/DailyTask/item) | [@Hlhs](info@hlhs-nb.cn) | | ✔ | [v3](https://hlhs-nb.cn/download/%E6%9F%A5%E5%A7%94%E6%89%98.js)| 查询原神每日委托任务是否有隐藏成就 |
 | [每日打卡](https://gitee.com/qiannqq/yunzai-plugin-JS) | [@千奈千祁](https://gitee.com/QianNQQ) | |✔| [v3](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/%E6%AF%8F%E6%97%A5%E6%89%93%E5%8D%A1.js)| 每人每天随机幸运值（0-100），查看每天的首个欧皇 |
