@@ -96,8 +96,7 @@ _i 提供了关键功能_
 |-------| ----- | ------ | ------|------ |
 | [虚空插件 (akasha-terminal-plugin)](https://gitee.com/go-farther-and-farther/akasha-terminal-plugin) | [@越追越远](https://gitee.com/go-farther-and-farther) | | ✔  | 提供企鹅群游戏,目前实现了群内决斗,娶群友等有趣的小游戏 |
 | [咸鱼插件 (xianyu-plugin)](https://gitee.com/suancaixianyu/xianyu-plugin) | [@酸菜咸鱼](https://gitee.com/suancaixianyu)|  | ✔ | 一些群聊对战小游戏，没有文游的复杂体系，休闲娱乐，老少皆宜 |
-| [凡人修仙 (xiuxian-Plugin)](https://gitee.com/ningmengchongshui/xiuxian-plugin) | [@lemonade](https://gitee.com/ningmengchongshui)|  | ✔ | 多人在线文字游戏 |
-| [口袋妖怪 (Pokemon-Plugin)](https://gitee.com/mg1105194437/pokemon-simulator-plugin) | [@汐颜](https://gitee.com/mg1105194437)|  | ✔ | 单机文字游戏,不可直接安装,详细请看仓库介绍 |
+
 <!-- 请不要在此处添加行，请在此表格顶部添加 -->
 
 <br>
