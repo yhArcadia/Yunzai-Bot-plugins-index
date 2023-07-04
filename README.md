@@ -84,7 +84,7 @@ _i 提供了关键功能_
 | [白纸插件 (zhi-plugin)](https://github.com/HeadmasterTan/zhi-plugin)    | [@HeadmasterTan](https://github.com/HeadmasterTan) | ✔ | ✔ | 提供B站动态推送。优化云崽的“添加”功能，可在同一触发词下添加多个回复 |
 | [成就插件 (achievements-plugin)](https://gitee.com/zolay-poi/achievements-plugin) | [@zolay-poi](https://gitee.com/zolay-poi) | ✔ | ✔ | 提供成就查漏、成就搜索等功能 |
 | [抽卡插件 (flower-plugin)](https://github.com/Nwflower/flower-plugin) | [@听语惊花](https://github.com/Nwflower/) |   | ✔ | 百连、单抽、文字狱、转生、隐形拉黑等 |
-| [扩展插件](https://gitee.com/Lycofuture/yunzai-plugin) | [@Lycofuture](https://gitee.com/Lycofuture)   |      |    ✔ | 随心api，GTP-API，网页预览，woc 指令，风控处理 ，广播，QQ 凶吉查询 |
+| [扩展插件 (Depot-js-plugin)](https://gitee.com/lycofuture/Depot-js-plugin) | [@Lycofuture](https://gitee.com/lycofuture)   |      |    ✔ | 随心api，GTP-API，网页预览，woc 指令，风控处理 ，广播，QQ 凶吉查询 |
 <!-- 请不要在此处添加行，请在此表格顶部添加 -->
 
 <br>
