@@ -175,8 +175,9 @@ _i 提供了关键功能_
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+|【硬件向】[云崽从入门到跑路](https://github.com/XuF163/Yunzai-ran-wrong-run/blob/main/README.md)|[@XuF163](https://github.com/XuF163)|写个新入坑的朋友ps:还没写完，后续重点介绍家里云优化策略与科学跑路教程，先占个坑[gitee镜像](https://gitee.com/xyzqwefd/Yunzai-ran-wrong-run)|
 | [Go_Box_v2频道安装脚本](https://gitee.com/Liplay-1/YBOX_2) | [@Arc图一多](https://gitee.com/Liplay-1/YBOX) | 支持多个发行版Centos Ubuntu Debian 一键部署柠檬崽、TRSS，GoBox目前适配TRSS崽|
-| [简易ubtr崽搭建脚本](https://gitee.com/xyzqwefd/Yunzai-Guild-SimpleLine) | [@xyz](https://gitee.com/xyzqwefd/Yunzai-Guild-SimpleLine) | ubuntu | 高度精简！只有trss崽和QQ频道插件，可在不依赖docker环境的条件下运行|
+| [简易ubtr崽搭建脚本](https://gitee.com/xyzqwefd/Yunzai-Guild-SimpleLine) | [@xyz](https://gitee.com/xyzqwefd) | ubuntu | 高度精简！只有trss崽和QQ频道插件，可在不依赖docker环境的条件下运行|
 | [频道云崽搭建教程](https://gitee.com/cxyqiyue/yunzai-qqguild)|[@cxyqiyue](gitee.com/cxyqiyue)| Ubuntu | 推荐使用原版云崽搭建，qq号寄掉之后不会掉线 |
 | [ub插件测试环境快速创建](https://github.com/XuF163/Yunzai-All)|[@xyz](https://gitee.com/xyzqwefd)| Ubuntu22+ | 一键安装各种版本的崽，无需手动干预安装，快速搭建插件测试环境 |
 | [Go_Box一键安装脚本](https://gitee.com/Liplay-1) | [@Arc图一多](https://gitee.com/Liplay-1/YBOX) | 一键安装喵、云崽支持多个发行版Centos Ubuntu Debian 推荐使用Win子系统去部署，内置Go_Box,支持插件安装、卸载 |
