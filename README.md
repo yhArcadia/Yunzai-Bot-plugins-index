@@ -48,7 +48,7 @@ _i 提供了关键功能_
 | [文案插件(wenan-plugin) ](https://gitee.com/white-night-fox/wenan-plugin)| [@白夜狐狸](https://gitee.com/white-night-fox/projects)| |✔|提供了云崽回复类文案 |
 | [牛牛大作战Beta(impart-pro-plugin) ](https://gitee.com/sumght/impart-pro-plugin)| [@sumght](https://gitee.com/sumght)| | ✔ | 牛牛大作战先行测试，男人之间细说的互动玩法(原银趴插件) |
 | [阿尔萌插件 (armoe-plugin)](https://gitee.com/armoe-project/armoe-plugin)| [@真心](https://github.com/RealHeart)| | ✔ | 提供R6战绩查询、KOOK在线查询等功能|
-| [崩坏星穹铁道插件（StarRail-plugin）](https://gitee.com/hewang1an/StarRail-plugin)| [@鹤望兰](https://gitee.com/hewang1an)| | ✔ | 一个提供了崩坏星穹铁道部分查询功能的插件，如#星铁卡片 #星铁体力 #星铁收入 等|
+| [星铁插件（StarRail-plugin）](https://gitee.com/hewang1an/StarRail-plugin)| [@鹤望兰](https://gitee.com/hewang1an)| | ✔ | 一个提供了崩坏星穹铁道部分查询功能的插件，如#星铁卡片 #星铁体力 #星铁收入 等|
 | [阴天插件（Y-Tian-Plugin）](https://gitee.com/wan13877501248/y-tian-plugin)| [@Hello World](https://gitee.com/wan13877501248)  [@yuanpluss](https://gitee.com/yuanpluss) | | ✔ | 一个Yunzai-Bot V3小功能集成的插件包,集AI、娱乐、功能性于一体，让你的机器人变得更为全面且多功能。|
 | [ChatGLM的api插件](https://gitee.com/394911284/chatztc) | [@蓝蓝的青金石](https://gitee.com/394911284) | | ✔ | 这是一个对接ChatGLM的聊天api的云崽bot插件 |
 | [QQ频道插件（QQGuild-Plugin）](https://github.com/2y8e9h22/QQGuild-Plugin)|[@2y8e9h22](https://github.com/2y8e9h22)||✔|安装本插件可以让你的频道机器人使用云崽的功能. ^_^|
@@ -78,8 +78,8 @@ _i 提供了关键功能_
 | [椰奶插件 (yenai-plugin)](https://www.yenai.ren) | [@椰羊](https://github.com/yeyang52)| | ✔ | 提供Bot事件通知、搜图搜番、群管、Pixiv等功能 |
 | [小飞插件 (xiaofei-plugin)](https://gitee.com/xfdown/xiaofei-plugin) | [@小飞](https://gitee.com/xfdown) | | ✔ | 多选点歌、天气查询、原神注册时间查询 |
 | [l-plugin](https://github.com/liuly0322/l-plugin) | [@liuly0322](https://github.com/liuly0322) | | ✔ | 塔罗牌，抽签，骰子，今天吃什么，tex图片等 |
-| [土块插件（QQ频道版） (earth-k-plugin)](https://gitee.com/diqiushengwu/earth-k-plugin) |  [@地球生物](https://gitee.com/diqiushengwu) [@SunRyK曉K](https://gitee.com/SmallK111407)|   | ✔ | 提供了QQ频道版的土块插件功能 |
-| [土块插件 (earth-k-plugin)](https://gitee.com/SmallK111407/earth-k-plugin) | [@SunRyK曉K](https://gitee.com/SmallK111407)  [@地球生物](https://gitee.com/diqiushengwu)| | ✔ | 提供了猜语音、打我、练习记忆力小游戏，获取游戏内过场动画及角色PV，AI画图，卜卦，图片可视化点歌/视频/小说/漫画，原史（原神角色/圣遗物/武器/NPC等背景故事等）等功能 |
+| [土块插件（QQ频道版） (earth-k-plugin)](https://gitee.com/diqiushengwu/earth-k-plugin) |  [@地球生物](https://gitee.com/diqiushengwu) [@SunRyK曉K](https://gitee.com/SmallK111407)|   | ✔ | 适用于QQ频道的土块插件，功能同下，详见插件帮助 |
+| [土块插件 (earth-k-plugin)](https://gitee.com/SmallK111407/earth-k-plugin) | [@地球生物](https://gitee.com/diqiushengwu) [@SunRyK曉K](https://gitee.com/SmallK111407)| | ✔ | 提供了猜语音、打我、练习记忆力小游戏，获取游戏内过场动画及角色PV，AI画图，卜卦，图片可视化点歌/视频/小说/漫画，原史（原神角色/圣遗物/武器/NPC等背景故事等）等功能 |
 | [麟插件 (lin-plugin)](https://gitee.com/go-farther-and-farther/lin-plugin) | [@越追越远](https://gitee.com/go-farther-and-farther) | | ✔ | ai接口以及配置了相关设置的功能，全局点赞、复读打断等智能化工具,发送日志文件，一些查询功能等工具 |
 | [碎月插件 (suiyue)](https://gitee.com/Acceleratorsky/suiyue)|[@碎月](https://gitee.com/Acceleratorsky)|   | ✔ |疫情，清晰度提升，搜番，搜磁力，疯狂星期四，计算器 |
 | [闲心插件 (xianxin-plugin)](https://gitee.com/xianxincoder/xianxin-plugin) |[@闲心](https://gitee.com/xianxincoder)|   | ✔ |是一个集米游社cos、米游社wiki攻略、B站up动态推送(支持长图模式)、神秘指令、群战小游戏、五子棋、21点等功能的插件|
