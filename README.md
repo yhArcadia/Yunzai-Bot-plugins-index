@@ -41,7 +41,7 @@ _i 提供了关键功能_
 |[天如插件 (TianRu-plugin)](https://github.com/HDTianRu/TianRu-plugin)|[@天如](https://github.com/HDTianRu)| | ✔ |获取"提瓦特小助手"抽卡记录，执行各种语言代码，生成二维码，将数字变成114514组合的恶臭数字....等各种小功能|
 |[Phigros查分插件 (PhigrosLibrary-plugin)](https://github.com/Walkersifolia/PhigrosLibrary-plugin)|[@圈圈](https://github.com/Walkersifolia)| | ✔ |无需手动输入，获取SessionToken并绑定就可以从云端服务器查分，自动生成b19图片，精美的UI设计by[@七星](https://github.com/QiXingQXX)，插件内也给出了获取SessionToken的方式|
 | [面板插件 (panel-plugin)](https://gitee.com/yunzai-panel/README) | [@硫酸钡Barite](../../../../CUZNIL) | | ✔ | 对[喵喵插件](https://gitee.com/yoimiya-kokomi/miao-plugin)的面板数据提供操作：转换旧版圣遗物格式、适配[Gspanel](https://github.com/monsterxcn/nonebot-plugin-gspanel)、备份面板 |
-| [清凉插件 (ql-plugin)](https://gitee.com/xwy231321/ql-plugin) | [@xwy](https://gitee.com/xwy231321) | | ✔ | 测试版,对原清凉图插件进行了重构(还没完就是了),加入了几个新指令,优化了部分逻辑 |
+| [清凉插件 (ql-plugin)](https://gitee.com/xwy231321/ql-plugin) | [@xwy](https://gitee.com/xwy231321) | | ✔ | 随机二三次元图片，含限制级，对清凉图插件进行了重构,优化了部分逻辑 |
 | [云•冰祈 (Cloud_Icepray)](https://gitee.com/koinori/Icepray) | [@koinori](https://gitee.com/koinori) | | ✔ | 搭建于云端，集娱乐于管理功能于一身的轻量化插件 |
 | [憨憨插件 (hanhan-plugin) ](https://github.com/hanhan258/hanhan-plugin) | [@憨憨](https://github.com/hanhan258)  [@ycxom](https://github.com/ycxom) | | ✔ | 支持ping、摩斯、url、base64等工具；JK、黑白丝、小姐姐、买家秀等图片功能；发癫、mc酱、随机柴郡、叼发言、来张叼图，俄罗斯转盘游戏等娱乐功能；还有搜一搜工具，支持市面上绝大部分搜索引擎和网站|
 | [鳄梨插件 (Avocado-Plugin) ](https://github.com/Qz-Sean/avocado-plugin) | [@Qz-Sean](https://github.com/Qz-Sean) | | ✔ | 支持查询热映电影信息、天气查询、md渲染、灵活的网页预览与翻译、只为一个人疯狂(发癫)、抽象的指令规则|
@@ -66,7 +66,6 @@ _i 提供了关键功能_
 | [AI绘图插件 (ap-plugin)](https://gitee.com/yhArcadia/ap-plugin)     | [@渔火Arcadia](https://gitee.com/yhArcadia) [@苏苏](https://nahida.com.cn) |   | ✔ | 提供AI绘图及其衍生功能：#以文生图、#以图生图、图片清晰术、生成“二次元的我”形象等|
 | [小叶插件 (xiaoye-plugin)](https://gitee.com/xiaoye12123/xiaoye-plugin)     | [@小叶](https://gitee.com/xiaoye12123)   |   | ✔ | 模拟刷圣遗物和强化,可自定义概率 |
 | [自动化插件 (auto-plugin)](https://github.com/Nwflower/auto-plugin) | [@听语惊花](https://github.com/Nwflower/) |   | ✔ | 原神倒计时、自动发说说...可能是史上最强大的群名片更新插件。另外还提供了一些自动化小功能。 |
-| [清凉图插件 (yunzai-c-v-plugin)](https://gitee.com/xwy231321/yunzai-c-v-plugin) | [@xwy](https://gitee.com/xwy231321) | | ✔ | 发送随机图,仓库更新提醒,两种戳一戳，已停止维护 |
 | [ChаtGPT问答插件（chаtgpt-plugin）](https://github.com/ikechan8370/chatgpt-plugin) | [@ikechan8370](https://github.com/ikechan8370) |  | ✔ | ChаtGPT问答插件 |
 | [榴莲插件 (liulian-plugin)](https://gitee.com/huifeidemangguomao/liulian-plugin) |[@会飞的芒果猫](https://gitee.com/huifeidemangguomao)[@萧枘](https://gitee.com/xiaoxiaorurui) | ✔ | ✔ | 一个Yunzai-Bot插件，提供原神地下地图、B站推送、插件管理等一些拓展功能(部分功能需要在云崽根目录下执行`pnpm install -P`安装依赖或安装图片加量包以保证正常使用) |
 | [止水插件 (zhishui-plugin)](https://gitee.com/fjcq/zhishui-plugin) | [@止水](https://gitee.com/fjcq) | | ✔ | 搜剧插件 |
