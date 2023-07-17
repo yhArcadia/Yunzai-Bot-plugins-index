@@ -181,7 +181,6 @@ _i 提供了关键功能_
 | [简易ubtr崽搭建脚本](https://gitee.com/xyzqwefd/Yunzai-Guild-SimpleLine) | [@xyz](https://gitee.com/xyzqwefd) | ubuntu | 高度精简！只有trss崽和QQ频道插件，可在不依赖docker环境的条件下运行|
 | [频道云崽搭建教程](https://gitee.com/cxyqiyue/yunzai-qqguild)|[@cxyqiyue](gitee.com/cxyqiyue)| Ubuntu | 推荐使用原版云崽搭建，qq号寄掉之后不会掉线 |
 | [ub插件测试环境快速创建](https://github.com/XuF163/Yunzai-All)|[@xyz](https://gitee.com/xyzqwefd)| Ubuntu22+ | 一键安装各种版本的崽，无需手动干预安装，快速搭建插件测试环境 |
-| [Go_Box一键安装脚本](https://gitee.com/Liplay-1) | [@Arc图一多](https://gitee.com/Liplay-1/YBOX) | 一键安装喵、云崽支持多个发行版Centos Ubuntu Debian 推荐使用Win子系统去部署，内置Go_Box,支持插件安装、卸载（已经停止维护，请使用v2） |
 | [等风来Linux云崽管理脚本](http://dengfenglai.cloud) | [@等风来](https://gitee.com/Wind-is-so-strong) | 适用ubuntu和手机termux的云崽管理脚本，提供一些有用没用的鸡肋功能，小白鸽子精cv各位大佬写的脚本。 |
 | [Mit_gancm安装QQBot](https://gitee.com/MIt-gancm/Linux-for-QQ-Bot/) | [@Mit_gancm](https://gitee.com/MIt-gancm) | 适用于linux乌班图 注：处于测试阶段 |
 | [阴天一键安装云崽](https://gitee.com/wan13877501248/yin-tian-tian-script-for-win) | [@Hello World](https://gitee.com/wan13877501248) | 个人电脑一键自动部署喵版云崽和阴天插件的windows简易C#脚本，不推荐服务器用户使用。 |
@@ -201,7 +200,7 @@ _i 提供了关键功能_
 | [⭐][喵喵面板背景图包](https://gitee.com/avang2003/miao-character) | [@阿旺](https://gitee.com/avang2003) | 由个人制作的miao-plugin的原神及星穹铁道面板背景图库 |
 | [喵喵面板背景图包](https://github.com/lc-hongdou/gallery) | [@早餐不要在空腹的时候吃](https://github.com/lc-hongdou) | 提供由多人制作的miao-plugin的面板背景图库 |
 | [喵喵面板背景图包](https://gitee.com/hbj2457/super-character) | [@hbj2457](https://gitee.com/hbj2457) | 喵喵插件 (miao-plugin)的面板背景图库 |
-| 【停更】[喵喵面板背景图包](https://gitee.com/SmallK111407/Miao-Character) | [@SunRyK曉K](https://gitee.com/SmallK111407) | 由多人制作的喵喵插件miao-plugin的面板背景图库 |
+| [喵喵面板背景图包](https://gitee.com/SmallK111407/Miao-Character) | [@SunRyK曉K](https://gitee.com/SmallK111407) | 由多人制作的喵喵插件miao-plugin的面板背景图库【停更】 |
 | [曉K体力模板2版背景图包](https://gitee.com/SmallK111407/BJT-Template) | [@SunRyK曉K](https://gitee.com/SmallK111407) | xiaoyao-cvs-plugin的体力背景图库 |
 | [体力背景图包](https://gitee.com/cv-hunag/BJT) | [@煌](https://gitee.com/cv-hunag) | xiaoyao-cvs-plugin的体力背景图库 |
 | [星铁插件面板背景图包](https://gitee.com/yuan_hu_sheng/StarRail-plugin-PanelPic) | [@香菜](https://github.com/yhs21241) | StarRail-plugin的面板图库 |
