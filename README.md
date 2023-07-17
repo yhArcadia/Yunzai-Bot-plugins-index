@@ -38,7 +38,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
-|[无用插件 (Useless-Plugin)](https://gitee.com/SmallK111407/useless-plugin)] | [@曉K](https://gitee.com/SmallK111407) | | ✔ | 提供通过云崽随机发送云崽圈子一些人不寻常、逆天、乐子、搞笑、有趣等等的发言的功能 |
+|[无用插件 (Useless-Plugin)](https://gitee.com/SmallK111407/useless-plugin) | [@曉K](https://gitee.com/SmallK111407) | | ✔ | 提供通过云崽随机发送云崽圈子一些人不寻常、逆天、乐子、搞笑、有趣等等的发言的功能 |
 |[天如插件 (TianRu-plugin)](https://gitee.com/HDTianRu/TianRu-plugin)|[@天如](https://github.com/HDTianRu)| | ✔ |获取"提瓦特小助手"抽卡记录，执行各种语言代码，模拟指定QQ执行指令，生成二维码，将数字变成114514组合的恶臭数字....等各种小功能|
 |[Phigros查分插件 (PhigrosLibrary-plugin)](https://github.com/Walkersifolia/PhigrosLibrary-plugin)|[@圈圈](https://github.com/Walkersifolia)| | ✔ |无需手动输入，获取SessionToken并绑定就可以从云端服务器查分，自动生成b19图片，精美的UI设计by[@七星](https://github.com/QiXingQXX)，插件内也给出了获取SessionToken的方式|
 | [面板插件 (panel-plugin)](https://gitee.com/yunzai-panel/README) | [@硫酸钡Barite](../../../../CUZNIL) | | ✔ | 对[喵喵插件](https://gitee.com/yoimiya-kokomi/miao-plugin)的面板数据提供操作：转换旧版圣遗物格式、适配[Gspanel](https://github.com/monsterxcn/nonebot-plugin-gspanel)、备份面板 |
