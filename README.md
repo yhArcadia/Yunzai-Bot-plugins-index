@@ -177,11 +177,11 @@ _i 提供了关键功能_
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
 |【硬件向】[云崽从入门到跑路](https://github.com/XuF163/Yunzai-ran-wrong-run/blob/main/README.md)|[@XuF163](https://github.com/XuF163)|写个新入坑的朋友ps:还没写完，后续重点介绍家里云优化策略与科学跑路教程，先占个坑[gitee镜像](https://gitee.com/xyzqwefd/Yunzai-ran-wrong-run)|
-| [Go_Box_v2频道安装脚本](https://gitee.com/Liplay-1/YBOX_2) | [@Arc图一多](https://gitee.com/Liplay-1/YBOX) | 支持多个发行版Centos Ubuntu Debian 一键部署柠檬崽、TRSS，GoBox目前适配TRSS崽|
+| [Go_Box_v2安装脚本](https://gitee.com/Liplay-1/YBOX_2) | [@Arc图一多](https://gitee.com/Liplay-1/YBOX) | 支持多个发行版Centos Ubuntu Debian 一键安装频道TRSS崽、柠檬崽、新增Docker管理器、适配云崽、喵，新增一键配置API（Docker）  |
 | [简易ubtr崽搭建脚本](https://gitee.com/xyzqwefd/Yunzai-Guild-SimpleLine) | [@xyz](https://gitee.com/xyzqwefd) | ubuntu | 高度精简！只有trss崽和QQ频道插件，可在不依赖docker环境的条件下运行|
 | [频道云崽搭建教程](https://gitee.com/cxyqiyue/yunzai-qqguild)|[@cxyqiyue](gitee.com/cxyqiyue)| Ubuntu | 推荐使用原版云崽搭建，qq号寄掉之后不会掉线 |
 | [ub插件测试环境快速创建](https://github.com/XuF163/Yunzai-All)|[@xyz](https://gitee.com/xyzqwefd)| Ubuntu22+ | 一键安装各种版本的崽，无需手动干预安装，快速搭建插件测试环境 |
-| [Go_Box一键安装脚本](https://gitee.com/Liplay-1) | [@Arc图一多](https://gitee.com/Liplay-1/YBOX) | 一键安装喵、云崽支持多个发行版Centos Ubuntu Debian 推荐使用Win子系统去部署，内置Go_Box,支持插件安装、卸载 |
+| [Go_Box一键安装脚本](https://gitee.com/Liplay-1) | [@Arc图一多](https://gitee.com/Liplay-1/YBOX) | 一键安装喵、云崽支持多个发行版Centos Ubuntu Debian 推荐使用Win子系统去部署，内置Go_Box,支持插件安装、卸载（已经停止维护，请使用v2） |
 | [等风来Linux云崽管理脚本](http://dengfenglai.cloud) | [@等风来](https://gitee.com/Wind-is-so-strong) | 适用ubuntu和手机termux的云崽管理脚本，提供一些有用没用的鸡肋功能，小白鸽子精cv各位大佬写的脚本。 |
 | [Mit_gancm安装QQBot](https://gitee.com/MIt-gancm/Linux-for-QQ-Bot/) | [@Mit_gancm](https://gitee.com/MIt-gancm) | 适用于linux乌班图 注：处于测试阶段 |
 | [阴天一键安装云崽](https://gitee.com/wan13877501248/yin-tian-tian-script-for-win) | [@Hello World](https://gitee.com/wan13877501248) | 个人电脑一键自动部署喵版云崽和阴天插件的windows简易C#脚本，不推荐服务器用户使用。 |
