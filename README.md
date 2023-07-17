@@ -38,6 +38,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
+|[无用插件 (Useless-Plugin)](https://gitee.com/SmallK111407/useless-plugin)] | [@曉K](https://gitee.com/SmallK111407) | | ✔ | 提供通过云崽随机发送云崽圈子一些人不寻常、逆天、乐子、搞笑、有趣等等的发言的功能 |
 |[天如插件 (TianRu-plugin)](https://gitee.com/HDTianRu/TianRu-plugin)|[@天如](https://github.com/HDTianRu)| | ✔ |获取"提瓦特小助手"抽卡记录，执行各种语言代码，模拟指定QQ执行指令，生成二维码，将数字变成114514组合的恶臭数字....等各种小功能|
 |[Phigros查分插件 (PhigrosLibrary-plugin)](https://github.com/Walkersifolia/PhigrosLibrary-plugin)|[@圈圈](https://github.com/Walkersifolia)| | ✔ |无需手动输入，获取SessionToken并绑定就可以从云端服务器查分，自动生成b19图片，精美的UI设计by[@七星](https://github.com/QiXingQXX)，插件内也给出了获取SessionToken的方式|
 | [面板插件 (panel-plugin)](https://gitee.com/yunzai-panel/README) | [@硫酸钡Barite](../../../../CUZNIL) | | ✔ | 对[喵喵插件](https://gitee.com/yoimiya-kokomi/miao-plugin)的面板数据提供操作：转换旧版圣遗物格式、适配[Gspanel](https://github.com/monsterxcn/nonebot-plugin-gspanel)、备份面板 |
@@ -175,6 +176,7 @@ _i 提供了关键功能_
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+|[好活合集](https://gitee.com/SmallK111407/goodjob-img)] | [@曉K](https://gitee.com/SmallK111407) | 用于存储云崽圈子一些人不寻常、逆天、乐子、搞笑、有趣等等的发言。 |
 | [云崽从入门到跑路](https://github.com/XuF163/Yunzai-ran-wrong-run/blob/main/README.md)|[@XuF163](https://github.com/XuF163)|写个新入坑的朋友ps:还没写完，后续重点介绍家里云优化策略与科学跑路教程，先占个坑[gitee镜像](https://gitee.com/xyzqwefd/Yunzai-ran-wrong-run) 【硬件向】 |
 | [Go_Box_v2安装脚本](https://gitee.com/Liplay-1/YBOX_2) | [@Arc图一多](https://gitee.com/Liplay-1/YBOX) | 支持多个发行版Centos Ubuntu Debian 一键安装频道TRSS崽、柠檬崽、新增Docker管理器、适配云崽、喵，新增一键配置API（Docker）  |
 | [简易ubtr崽搭建脚本](https://gitee.com/xyzqwefd/Yunzai-Guild-SimpleLine) | [@xyz](https://gitee.com/xyzqwefd) | ubuntu | 高度精简！只有trss崽和QQ频道插件，可在不依赖docker环境的条件下运行|
