@@ -57,7 +57,6 @@ _i 提供了关键功能_
 | [七圣召唤战绩查询（call_of_seven_saints）](https://gitee.com/huangshx2001/call_of_seven_saints) | [@癫癫博士](https://gitee.com/huangshx2001)                  |        | ✔ | 查询自己七圣召唤胜率以及卡牌喜好，目标用户应该是七圣召唤忠实玩家以及牌佬群机器人 |
 | [屁股肉插件 (phi-plugin)](https://github.com/catrong/phi-plugin) | [@Catrong](https://github.com/Catrong) | | ✔ | 提供phigros现有曲目的曲目信息查询、个人rks计算、随机phigros曲目等功能 |
 | [小雪插件 (XiaoXuePlugin)](https://gitee.com/XueWerY/XiaoXuePlugin) | [@XueWerY](https://gitee.com/XueWerY) | | ✔ | 让bot变得人性化，提升用户和bot的交互体验，提供bot更多的管理，提供更多的依赖库，拓展新功能效率高 |
-| [拓展插件 (expand-plugin)](https://gitee.com/SmallK111407/expand-plugin) | [@SunRyK曉K](https://gitee.com/SmallK111407) | | ✔ | 提供#刻晴攻略5、#艾尔海森攻略6、#明日素材 等在云崽基础上拓展的功能 |
 | [R插件 (rconsole-plugin)](https://gitee.com/kyrzy0416/rconsole-plugin) | [@zhiyu](https://gitee.com/kyrzy0416) | | ✔ | 专门为朋友们写的Yunzai-Bot插件，专注图片分享和生活的插件！ |
 | [光遇插件 (Tlon-Sky)](https://gitee.com/Tloml-Starry/Tlon-Sky) | [@Tloml-Starry](https://giett.com/Tloml-Starry)  [@自闭歆](https://gitee.com/xin-closing-fuse) | | ✔ | 《光·遇》游戏插件，功能列表[点此查看](https://gitee.com/Tloml-Starry/Tlon-Sky/raw/master/resource/%E5%8A%9F%E8%83%BD%E5%88%97%E8%A1%A8.png) |
 | [脆脆鲨插件 (Jinmaocuicuisha-plugin)](https://gitee.com/JMCCS/jinmaocuicuisha) | [@JMCCS](https://gitee.com/JMCCS) [@小雨](https://gitee.com/SHIKEAIXY)  | | ✔ | 提供Bot便捷管理，群内自动撤回消息，打人，回骂，筛子，美图，表情制作等功能|
