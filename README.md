@@ -176,6 +176,7 @@ _i 提供了关键功能_
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+|[签名API一键包](https://gitee.com/Alan_Brown/sign-easy)| [@古都 雨冬 寒夜](https://gitee.com/Alan_Brown)| 提供方便的签名API搭建办法 注：处于测试阶段，且目前仅适用于Linux系统如手机termux |
 |[好活合集](https://gitee.com/SmallK111407/goodjob-img)| [@曉K](https://gitee.com/SmallK111407) | 用于存储云崽圈子一些人不寻常、逆天、乐子、搞笑、有趣等等的发言。 |
 | [云崽从入门到跑路](https://github.com/XuF163/Yunzai-ran-wrong-run/blob/main/README.md)|[@XuF163](https://github.com/XuF163)|一点优化维护体验的小寄能，写个新入坑的朋友[gitee镜像](https://gitee.com/xyzqwefd/Yunzai-ran-wrong-run) 【硬件向】 |
 | [Go_Box_v2安装脚本](https://gitee.com/Liplay-1/YBOX_2) | [@Arc图一多](https://gitee.com/Liplay-1/YBOX) | 支持多个发行版Centos Ubuntu Debian 一键安装频道TRSS崽、柠檬崽、新增Docker管理器、适配云崽、喵，新增一键配置API（Docker）  |
