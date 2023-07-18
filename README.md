@@ -6,6 +6,12 @@
 
 <br>
 
+## 发布内容
+
+请参考☞[贡献指南](./CONTRIBUTING.md)向此仓库发起 pull request
+
+<br>
+
 ## Yunzai
 | 名称 | 作者 | GitHub | Gitee | 备注  | 推荐使用优先级 |
 |------| ---- | ------ | ----- | ----- | ----- |
@@ -77,8 +83,8 @@ _i 提供了关键功能_
 | [椰奶插件 (yenai-plugin)](https://www.yenai.ren) | [@椰羊](https://github.com/yeyang52)| | ✔ | 提供Bot事件通知、搜图搜番、群管、Pixiv等功能 |
 | [小飞插件 (xiaofei-plugin)](https://gitee.com/xfdown/xiaofei-plugin) | [@小飞](https://gitee.com/xfdown) | | ✔ | 多选点歌、天气查询、原神注册时间查询 |
 | [l-plugin](https://github.com/liuly0322/l-plugin) | [@liuly0322](https://github.com/liuly0322) | | ✔ | 塔罗牌，抽签，骰子，今天吃什么，tex图片等 |
-| [土块插件（QQ频道版） (earth-k-plugin)](https://gitee.com/diqiushengwu/earth-k-plugin) |  [@地球生物](https://gitee.com/diqiushengwu) [@SunRyK曉K](https://gitee.com/SmallK111407)|   | ✔ | 适用于QQ频道的土块插件，功能同下，详见插件帮助 |
-| [土块插件 (earth-k-plugin)](https://gitee.com/SmallK111407/earth-k-plugin) | [@地球生物](https://gitee.com/diqiushengwu) [@SunRyK曉K](https://gitee.com/SmallK111407)| | ✔ | 提供了猜语音、打我、练习记忆力小游戏，获取游戏内过场动画及角色PV，AI画图，卜卦，图片可视化点歌/视频/小说/漫画，原史（原神角色/圣遗物/武器/NPC等背景故事等）等功能 |
+| [土块插件（QQ频道版） (earth-k-plugin)](https://gitee.com/diqiushengwu/earth-k-plugin) |  [@地球生物](https://gitee.com/diqiushengwu) [@曉K](https://gitee.com/SmallK111407)|   | ✔ | 适用于QQ频道的土块插件，功能同下，详见插件帮助 |
+| [土块插件 (earth-k-plugin)](https://gitee.com/SmallK111407/earth-k-plugin) | [@地球生物](https://gitee.com/diqiushengwu) [@曉K](https://gitee.com/SmallK111407)| | ✔ | 提供了猜语音、打我、练习记忆力小游戏，获取游戏内过场动画及角色PV，AI画图，卜卦，图片可视化点歌/视频/小说/漫画，原史（原神角色/圣遗物/武器/NPC等背景故事等）等功能 |
 | [麟插件 (lin-plugin)](https://gitee.com/go-farther-and-farther/lin-plugin) | [@越追越远](https://gitee.com/go-farther-and-farther) | | ✔ | ai接口以及配置了相关设置的功能，全局点赞、复读打断等智能化工具,发送日志文件，一些查询功能等工具 |
 | [碎月插件 (suiyue)](https://gitee.com/Acceleratorsky/suiyue)|[@碎月](https://gitee.com/Acceleratorsky)|   | ✔ |疫情，清晰度提升，搜番，搜磁力，疯狂星期四，计算器 |
 | [闲心插件 (xianxin-plugin)](https://gitee.com/xianxincoder/xianxin-plugin) |[@闲心](https://gitee.com/xianxincoder)|   | ✔ |是一个集米游社cos、米游社wiki攻略、B站up动态推送(支持长图模式)、神秘指令、群战小游戏、五子棋、21点等功能的插件|
@@ -202,18 +208,9 @@ _i 提供了关键功能_
 | [⭐][喵喵面板背景图包](https://gitee.com/avang2003/miao-character) | [@阿旺](https://gitee.com/avang2003) | 由个人制作的miao-plugin的原神及星穹铁道面板背景图库 |
 | [喵喵面板背景图包](https://github.com/lc-hongdou/gallery) | [@早餐不要在空腹的时候吃](https://github.com/lc-hongdou) | 提供由多人制作的miao-plugin的面板背景图库 |
 | [喵喵面板背景图包](https://gitee.com/hbj2457/super-character) | [@hbj2457](https://gitee.com/hbj2457) | 喵喵插件 (miao-plugin)的面板背景图库 |
-| [喵喵面板背景图包](https://gitee.com/SmallK111407/Miao-Character) | [@SunRyK曉K](https://gitee.com/SmallK111407) | 由多人制作的喵喵插件miao-plugin的面板背景图库【停更】 |
-| [曉K体力模板2版背景图包](https://gitee.com/SmallK111407/BJT-Template) | [@SunRyK曉K](https://gitee.com/SmallK111407) | xiaoyao-cvs-plugin的体力背景图库 |
+| [喵喵面板背景图包](https://gitee.com/SmallK111407/Miao-Character) | [@曉K](https://gitee.com/SmallK111407) | 由多人制作的喵喵插件miao-plugin的面板背景图库【停更】 |
+| [曉K体力模板2版背景图包](https://gitee.com/SmallK111407/BJT-Template) | [@曉K](https://gitee.com/SmallK111407) | xiaoyao-cvs-plugin的体力背景图库 |
 | [体力背景图包](https://gitee.com/cv-hunag/BJT) | [@煌](https://gitee.com/cv-hunag) | xiaoyao-cvs-plugin的体力背景图库 |
 | [星铁插件面板背景图包](https://gitee.com/yuan_hu_sheng/StarRail-plugin-PanelPic) | [@香菜](https://github.com/yhs21241) | StarRail-plugin的面板图库 |
 | [云崽v3一键安装脚本](https://gitee.com/gainesville-11451411/mao) | [@甘城猫猫](https:/$gitee.com/gainesville-11451411) | 推荐Ubuntu18+ | 
 <!-- 请不要在此处添加新行，请在此表格顶部添加 -->
-
-
-<br>
-
-## 发布内容
-
-请参考☞[贡献指南](./CONTRIBUTING.md)向此仓库发起 pull request
-
-<br>
