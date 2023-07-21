@@ -23,7 +23,7 @@
 | Yunzai-Bot-lite | [@听语惊花](https://github.com/Nwflower) | [☞GitHub](https://github.com/Nwflower/yunzai-bot-lite) | [☞Gitee](https://gitee.com/Nwflower/yunzai-bot-lite) | 轻量版，无原神功能 | □□□□□ |
 | Miao-Yunzai | [@喵喵](https://gitee.com/yoimiya-kokomi) | [☞GitHub](https://github.com/yoimiya-kokomi/Miao-Yunzai) | [☞Gitee](https://gitee.com/yoimiya-kokomi/Miao-Yunzai) | 喵版 Yunzai | ■■■■■ |
 | TRSS-Yunzai | [@时雨🌌星空](../../../../TimeRainStarSky) | [☞GitHub](https://github.com/TimeRainStarSky/Yunzai) | [☞Gitee](https://gitee.com/TimeRainStarSky/Yunzai) | Yunzai 应用端，支持多账号，支持协议端：go-cqhttp、ComWeChat、GSUIDCore、ICQQ、QQ频道、微信、KOOK、Telegram、Discord | ■■■■□ |
-| Alemon-Bot | [@lemonade](https://github.com/ningmengchongshui/lemonade) | [☞GitHub](https://github.com/ningmengchongshui/alemon-bot) | [☞Gitee](https://gitee.com/ningmengchongshui/alemon-bot) | [点击查看Alemon开发框架官方文档](http://ningmengchongshui.gitee.io/lemonade) | ■■■□□ |
+| Alemon-Bot | [@lemonade](https://github.com/ningmengchongshui/alemon) | [☞GitHub](https://github.com/ningmengchongshui/alemon) | [☞Gitee](https://gitee.com/ningmengchongshui/alemon) | [点击查看Alemon开发框架官方文档](http://ningmengchongshui.gitee.io/alemon) | ■■■□□ |
 
 <br>
 
