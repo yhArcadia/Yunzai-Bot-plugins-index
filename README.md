@@ -194,6 +194,7 @@ _i 提供了关键功能_
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+|[面向纯小白的云崽一键搭建脚本](https://gitee.com/cao100/caoyz.sh)| [@百草](https://gitee.com/cao100)| 针对纯小白的简易脚本，注：适用于Ubuntu|
 |[Windows一键搭建签名api](https://gitee.com/touchscale/Qsign)| [@touchscale](https://gitee.com/touchscale_admin)| 提供一键搭建签名API包，注：仅适用于Windows|
 |[签名API一键包](https://gitee.com/Alan_Brown/sign-easy)| [@古都 雨冬 寒夜](https://gitee.com/Alan_Brown)| 提供方便的签名API搭建办法 注：处于测试阶段，且目前仅适用于Linux系统如手机termux |
 |[好活合集](https://gitee.com/SmallK111407/goodjob-img)| [@曉K](https://gitee.com/SmallK111407) | 用于存储云崽圈子一些人不寻常、逆天、乐子、搞笑、有趣等等的发言。 |
