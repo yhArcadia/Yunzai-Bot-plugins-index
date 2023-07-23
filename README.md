@@ -197,7 +197,7 @@ _i 提供了关键功能_
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
-| [⭐][TRSS Yunzai 管理脚本](https://TRSS.me) | [@时雨🌌星空](../../../../TimeRainStarSky) | **【置顶】**提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Windows / Linux / Mac / Android |
+| [⭐][TRSS Yunzai 管理脚本](https://TRSS.me) | [@时雨🌌星空](../../../../TimeRainStarSky) | 【置顶】提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Windows / Linux / Mac / Android |
 |[面向纯小白的云崽一键搭建脚本](https://gitee.com/cao100/caoyz.sh)| [@百草](https://gitee.com/cao100)| 针对纯小白的简易脚本，注：适用于Ubuntu|
 |[Windows一键搭建签名api](https://gitee.com/touchscale/Qsign)| [@touchscale](https://gitee.com/touchscale_admin)| 提供一键搭建签名API包，注：仅适用于Windows|
 |[签名API一键包](https://gitee.com/Alan_Brown/sign-easy)| [@古都 雨冬 寒夜](https://gitee.com/Alan_Brown)| 提供方便的签名API搭建办法 注：处于测试阶段，且目前仅适用于Linux系统如手机termux |
