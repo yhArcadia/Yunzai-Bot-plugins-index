@@ -193,30 +193,39 @@ _i 提供了关键功能_
 
 <br>
 
-## 资源索引
+## 脚本类索引
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [⭐][TRSS Yunzai 管理脚本](https://TRSS.me) | [@时雨🌌星空](../../../../TimeRainStarSky) | **【置顶】**提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Windows / Linux / Mac / Android |
 |[面向纯小白的云崽一键搭建脚本](https://gitee.com/cao100/caoyz.sh)| [@百草](https://gitee.com/cao100)| 针对纯小白的简易脚本，注：适用于Ubuntu|
 |[Windows一键搭建签名api](https://gitee.com/touchscale/Qsign)| [@touchscale](https://gitee.com/touchscale_admin)| 提供一键搭建签名API包，注：仅适用于Windows|
 |[签名API一键包](https://gitee.com/Alan_Brown/sign-easy)| [@古都 雨冬 寒夜](https://gitee.com/Alan_Brown)| 提供方便的签名API搭建办法 注：处于测试阶段，且目前仅适用于Linux系统如手机termux |
-|[好活合集](https://gitee.com/SmallK111407/goodjob-img)| [@曉K](https://gitee.com/SmallK111407) | 用于存储云崽圈子一些人不寻常、逆天、乐子、搞笑、有趣等等的发言。 |
-| [云崽从入门到跑路](http://blog.renranwrong.top)|[@XuF163](https://github.com/XuF163)|一点优化维护体验的小寄能，写个新入坑的朋友[gitee镜像](https://gitee.com/xyzqwefd/Yunzai-ran-wrong-run) 【硬件向】 |
 | [Go_Box_v2安装脚本](https://gitee.com/Liplay-1/YBOX_2) | [@Arc图一多](https://gitee.com/Liplay-1/YBOX) | 支持多个发行版Centos Ubuntu Debian 一键安装频道TRSS崽、柠檬崽、新增Docker管理器、适配云崽、喵，新增一键配置API（Docker）  |
 | [简易ubtr崽搭建脚本](https://gitee.com/xyzqwefd/Yunzai-Guild-SimpleLine) | [@xyz](https://gitee.com/xyzqwefd) | ubuntu | 高度精简！只有trss崽和QQ频道插件，可在不依赖docker环境的条件下运行|
-| [频道云崽搭建教程](https://gitee.com/cxyqiyue/yunzai-qqguild)|[@cxyqiyue](gitee.com/cxyqiyue)| Ubuntu | 推荐使用原版云崽搭建，qq号寄掉之后不会掉线 |
 | [ub插件测试环境快速创建](https://github.com/XuF163/Yunzai-All)|[@xyz](https://gitee.com/xyzqwefd)| Ubuntu22+ | 一键安装各种版本的崽，无需手动干预安装，快速搭建插件测试环境 |
 | [等风来Linux云崽管理脚本](http://dengfenglai.cloud) | [@等风来](https://gitee.com/Wind-is-so-strong) | 适用ubuntu和手机termux的云崽管理脚本，提供一些有用没用的鸡肋功能，小白鸽子精cv各位大佬写的脚本。 |
-| [Mit_gancm安装QQBot](https://gitee.com/MIt-gancm/Linux-for-QQ-Bot/) | [@Mit_gancm](https://gitee.com/MIt-gancm) | 适用于linux乌班图 注：处于测试阶段 |
+| [Mit_gancm安装QQBot](https://gitee.com/MIt-gancm/Linux-for-QQ-Bot/) | [@Mit_gancm](https://gitee.com/MIt-gancm) | 适用于linux乌班图 注：处于测试阶段 
 | [阴天一键安装云崽](https://gitee.com/wan13877501248/yin-tian-tian-script-for-win) | [@Hello World](https://gitee.com/wan13877501248) | 个人电脑一键自动部署喵版云崽和阴天插件的windows简易C#脚本，不推荐服务器用户使用。 |
 | [Bot-Help](https://gitee.com/ningmengchongshui/bot-help) | [@lemonade](https://gitee.com/ningmengchongshui/lemonade) | linux系统环境一键部署脚本 |
 | [Ubuntu一键安装Miao-Yunzai脚本](https://gitee.com/paimon114514/termux-yunzai-cv-script) | [@htadiy](https://gitee.com/paimon114514) | 一个整合了Python和FFmpeg的一键安装Miao-Yunzai脚本。 |
 | [3QNmoqy-Yunzai.bat Yunzai-Bot管理脚本](https://gitee.com/qiannqq/3QNmoqy-Yunzai-bat) | [@千奈千祁](https://gitee.com/qiannqq) | 在windows运行的Yunzai-Bot管理脚本 |
 | [向日葵Ubuntu22.04云崽安装脚本](https://gitee.com/xrk114514/shell-Yunzai) | [@向日葵](https://gitee.com/xrk114514) | 最牛逼的适合小白用的脚本，全程无需脑子，Ubuntu22.04极其稳定且适配py，内置版本过低修复，插件安装，重启修复等较为实用的脚本，天天更新！ |
-| [V3云崽手机搭建教程](../../../../CUZNIL/Yunzai-install/) | [@硫酸钡Barite](../../../../CUZNIL) | 图文并茂地演示安卓手机使用[时雨脚本](https://TRSS.me)搭建V3云崽BOT并安装插件登录使用的过程，也包含手机搭建前后会遇到的各种问题和解决方案。其他设备搭建遇到问题也可参考尝试解决。 |
-| [TRSS Yunzai 管理脚本](https://TRSS.me) | [@时雨🌌星空](../../../../TimeRainStarSky) | 提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Windows / Linux / Mac / Android |
-| [Linux Docker安装教程](https://gitee.com/nuoyis/yunzai-docker-main) | [@诺依阁](https://gitee.com/nuoyis) | 从头带你docker安装避坑,新手可下载配置好的docker包 |
 | [Yunzai-Bot小助手](https://github.com/ChuYao233/YunzaiBotHelper) | [ChuYao](https://github.com/ChuYao233) | Windows傻瓜式部署Yunzai-Bot,提供插件一键下载等功能。 |
+| [云崽v3一键安装脚本](https://gitee.com/gainesville-11451411/mao) | [@甘城猫猫](https:/$gitee.com/gainesville-11451411) | 推荐Ubuntu18+ | 
+<!-- 请不要在此处添加新行，请在此表格顶部添加 -->
+
+<br>
+
+## 资源索引
+<!-- 请在表首添加新行 -->
+| 名称 | 作者 | 备注 |
+| --- | --- | --- |
+|[好活合集](https://gitee.com/SmallK111407/goodjob-img)| [@曉K](https://gitee.com/SmallK111407) | 用于存储云崽圈子一些人不寻常、逆天、乐子、搞笑、有趣等等的发言。 |
+| [云崽从入门到跑路](http://blog.renranwrong.top)|[@XuF163](https://github.com/XuF163)|一点优化维护体验的小寄能，写给新入坑的朋友[gitee镜像](https://gitee.com/xyzqwefd/Yunzai-ran-wrong-run) 【硬件向】 |
+| [频道云崽搭建教程](https://gitee.com/cxyqiyue/yunzai-qqguild)|[@cxyqiyue](gitee.com/cxyqiyue)| Ubuntu | 推荐使用原版云崽搭建，qq号寄掉之后不会掉线 |
+| [V3云崽手机搭建教程](../../../../CUZNIL/Yunzai-install/) | [@硫酸钡Barite](../../../../CUZNIL) | 图文并茂地演示安卓手机使用[时雨脚本](https://TRSS.me)搭建V3云崽BOT并安装插件登录使用的过程，也包含手机搭建前后会遇到的各种问题和解决方案。其他设备搭建遇到问题也可参考尝试解决。 |
+| [Linux Docker安装教程](https://gitee.com/nuoyis/yunzai-docker-main) | [@诺依阁](https://gitee.com/nuoyis) | 从头带你docker安装避坑,新手可下载配置好的docker包 |
 | [全服(包含国际服)获取Ck或Stoken.apk](https://gitee.com/Divinationhw/Yunzai-Bot-YJHQ) | [@DivinationHW](https://gitee.com/DivinationHW) | Android获取国服国际服Cookie和Stoken软件 |
 | [Yunzai-Bot 文档中心](https://github.com/Xm798/Yunzai-Bot-Docs) | [@Xm798](https://github.com/Xm798) |提供yunzai相关内容[文档地址](https://docs.yunzai.org/) |
 | [Quadratic element_photos](https://gitee.com/ejgk/quadratic-element-photos) | [@ejgk](https://gitee.com/ejgk) | 提供一些二次元图片，支持在线查看，正在持续更新中... |
@@ -227,5 +236,4 @@ _i 提供了关键功能_
 | [曉K体力模板2版背景图包](https://gitee.com/SmallK111407/BJT-Template) | [@曉K](https://gitee.com/SmallK111407) | xiaoyao-cvs-plugin的体力背景图库 |
 | [体力背景图包](https://gitee.com/cv-hunag/BJT) | [@煌](https://gitee.com/cv-hunag) | xiaoyao-cvs-plugin的体力背景图库 |
 | [星铁插件面板背景图包](https://gitee.com/yuan_hu_sheng/StarRail-plugin-PanelPic) | [@香菜](https://github.com/yhs21241) | StarRail-plugin的面板图库 |
-| [云崽v3一键安装脚本](https://gitee.com/gainesville-11451411/mao) | [@甘城猫猫](https:/$gitee.com/gainesville-11451411) | 推荐Ubuntu18+ | 
 <!-- 请不要在此处添加新行，请在此表格顶部添加 -->
