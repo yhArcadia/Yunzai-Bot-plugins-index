@@ -130,6 +130,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 源码 | 备注  |
 |-------| ----- | ------ | ------|------|-------|
+| [随机图片、语音、点阵字](https://gitee.com/LostInLinearPast/sangboyunapi) | [@一只戏鸢](https://gitee.com/LostInLinearPast) | |✔| [v3](https://gitee.com/LostInLinearPast/sangboyunapi/blob/master/%E6%A1%91%E5%B8%9Bapi%E7%9A%84%E4%B8%80%E4%BA%9B%E5%A5%BD%E7%8E%A9%E7%9A%84.js) | 好康的图片、著名的语音、点阵字，源自[桑帛云api](https://api.caonm.net/) |
 | [随机二次元壁纸](https://gitee.com/sailuo110/random-anime-wallpaper) | [@赛咯](https://gitee.com/sailuo110) | |✔| [v3](https://gitee.com/sailuo110/random-anime-wallpaper/blob/master/%E9%9A%8F%E6%9C%BA%E4%BA%8C%E6%AC%A1%E5%85%83.js) | 提供调用api随机发送二次元壁纸的功能。  |
 | [抽签](https://gitee.com/qiannqq/yunzai-plugin-JS) | [@千奈千祁](https://gitee.com/QianNQQ) | |✔| [v3](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/%E6%8A%BD%E7%AD%BE.js) | 随机抽取签文、宜和忌、小故事。每天只能抽一次，重复使用可查看当天抽到的签。 |
 | [关键词提醒](https://gitee.com/qiannqq/yunzai-plugin-JS) | [@千奈千祁](https://gitee.com/QianNQQ) | |✔| [v3](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/%E5%85%B3%E9%94%AE%E8%AF%8D%E6%8F%90%E9%86%92.js) | 在Bot所在的群聊内，如果有人提到了你设置的关键词，比如：屑千奈太屑了，即包含“千奈”关键词，Bot会提示消息至第一个主人（私聊） |
