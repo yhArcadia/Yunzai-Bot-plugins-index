@@ -56,6 +56,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 支持v2 | 支持v3 | 备注  |
 |-------| ----- | ------ | ------|------ |
+| [库洛插件<br />(Yunzai-Kuro-Plugin)](https://github.com/TomyJan/Yunzai-Kuro-Plugin) | [@TomyJan](https://github.com/TomyJan) | | ✔ | 库洛游戏插件 |
 |[小月插件 (xiaoyue-Plugin)](https://gitee.com/bule-Tech/xiaoyue-plugin) | [@bule-Tech](https://gitee.com/bule-Tech) | | ✔ | 由云溪院提供的最后一版小月插件,有戳一戳,抖音,blbl解析,插件及插件包安装等功能,现已无法更新 |
 |[无用插件 (Useless-Plugin)](https://gitee.com/SmallK111407/useless-plugin) | [@曉K](https://gitee.com/SmallK111407) | | ✔ | 提供通过云崽随机发送云崽圈子一些人不寻常、逆天、乐子、搞笑、有趣等等的发言的功能 |
 |[天如插件 (TianRu-plugin)](https://gitee.com/HDTianRu/TianRu-plugin)|[@天如](https://github.com/HDTianRu)| | ✔ |获取"提瓦特小助手"抽卡记录，执行各种语言代码，模拟指定QQ执行指令，生成二维码，将数字变成114514组合的恶臭数字....等各种小功能|
