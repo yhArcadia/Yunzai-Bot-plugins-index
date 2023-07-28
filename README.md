@@ -79,7 +79,6 @@ _i 提供了关键功能_
 | [小雪插件 (XiaoXuePlugin)](https://gitee.com/XueWerY/XiaoXuePlugin) | [@XueWerY](https://gitee.com/XueWerY) | | ✔ | 让bot变得人性化，提升用户和bot的交互体验，提供bot更多的管理，提供更多的依赖库，拓展新功能效率高 |
 | [R插件 (rconsole-plugin)](https://gitee.com/kyrzy0416/rconsole-plugin) | [@zhiyu](https://gitee.com/kyrzy0416) | | ✔ | 专门为朋友们写的Yunzai-Bot插件，专注图片分享和生活的插件！ |
 | [光遇插件 (Tlon-Sky)](https://gitee.com/Tloml-Starry/Tlon-Sky) | [@Tloml-Starry](https://giett.com/Tloml-Starry)  [@自闭歆](https://gitee.com/xin-closing-fuse) | | ✔ | 《光·遇》游戏插件，功能列表[点此查看](https://gitee.com/Tloml-Starry/Tlon-Sky/raw/master/resource/%E5%8A%9F%E8%83%BD%E5%88%97%E8%A1%A8.png) |
-| [脆脆鲨插件 (Jinmaocuicuisha-plugin)](https://gitee.com/JMCCS/jinmaocuicuisha) | [@JMCCS](https://gitee.com/JMCCS) [@小雨](https://gitee.com/SHIKEAIXY)  | | ✔ | 提供Bot便捷管理，群内自动撤回消息，打人，回骂，筛子，美图，表情制作等功能|
 | [WeLM对话插件 (WeLM-plugin)](https://github.com/JD1433223/WeLM-plugin) | [@JD](https://gitee.com/jd66666) [@兰罗摩](https://gitee.com/Arama_admin) [@书辞千楪](https://gitee.com/shuciqianye) | | ✔ | 提供个性ai问答、提问和续写(chatgpt下下下位替代)功能 |
 | [枫叶插件 (hs-qiqi-Plugin)](https://plugin.fengye.ink/) | [@Kesally](https://gitee.com/kesally)  [@七七](https://gitee.com/fengyeplugin) | | ✔ | 提供多个AI对话，名片自动绑定uid，坤图，睡眠时间等有趣且实用的娱乐小功能 |
 | [AI绘图插件 (ap-plugin)](https://gitee.com/yhArcadia/ap-plugin)     | [@渔火Arcadia](https://gitee.com/yhArcadia) [@苏苏](https://nahida.com.cn) |   | ✔ | 提供AI绘图及其衍生功能：#以文生图、#以图生图、图片清晰术、生成“二次元的我”形象等|
