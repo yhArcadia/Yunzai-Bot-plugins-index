@@ -56,7 +56,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
-| [BlueArchive-plugin](https://gitee.com/all-thoughts-are-broken/blue-archive) | [@万念断绝](https://gitee.com/all-thoughts-are-broken) | 提供碧蓝档案的一些有用的或没有用的攻略帮助 |
+| [碧蓝档案插件(BlueArchive-plugin)](https://gitee.com/all-thoughts-are-broken/blue-archive) | [@万念断绝](https://gitee.com/all-thoughts-are-broken) | 提供碧蓝档案的一些有用的或没有用的攻略帮助 |
 | [库洛插件<br />(Yunzai-Kuro-Plugin)](https://github.com/TomyJan/Yunzai-Kuro-Plugin) | [@TomyJan](https://github.com/TomyJan) | 库洛游戏插件 |
 |[小月插件 (xiaoyue-Plugin)](https://gitee.com/bule-Tech/xiaoyue-plugin) | [@bule-Tech](https://gitee.com/bule-Tech) | 由云溪院提供的最后一版小月插件,有戳一戳,抖音,blbl解析,插件及插件包安装等功能,现已无法更新 |
 |[无用插件 (Useless-Plugin)](https://gitee.com/SmallK111407/useless-plugin) | [@曉K](https://gitee.com/SmallK111407) | 提供通过云崽随机发送云崽圈子一些人不寻常、逆天、乐子、搞笑、有趣等等的发言的功能 |
@@ -146,17 +146,17 @@ _i 提供了关键功能_
 | [每日打卡](https://gitee.com/qiannqq/yunzai-plugin-JS) | [@千奈千祁](https://gitee.com/QianNQQ) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/%E6%AF%8F%E6%97%A5%E6%89%93%E5%8D%A1.js)| 每人每天随机幸运值（0-100），查看每天的首个欧皇 |
 | [表情合成（纯js）](https://gitee.com/qiannqq/yunzai-plugin-JS) |[@千奈千祁](https://gitee.com/qiannqq) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/BQHC.js) | 无需Python，通过调用api来实现表情合成。 |
 | [PxxnHub文本生成](https://gitee.com/Aliorpse/yunzai-pxxn-hub) | [@Aliorpse](https://gitee.com/Aliorpse) | [查看源码](https://gitee.com/Aliorpse/yunzai-pxxn-hub/blob/master/pxxnhub.js) | 奇奇怪怪的文本生成,[效果图](https://gitee.com/Aliorpse/yunzai-pxxn-hub/raw/master/%E6%95%88%E6%9E%9C%E5%9B%BE.gif) |
-| [Faden发癫插件](https://github.com/Pretend-to/Faden_api_server) | [@秋山澪](https://github.com/Pretend-to) | [查看源码] 一款可以让你的bot对群友说客制化土味情话~~发癫~~的插件 |
-| [MC-Wiki插件](https://github.com/Walkersifolia/mc-wiki) | [@圈圈](https://github.com/Walkersifolia) | [查看源码] 一款可以快捷查询mcwiki的插件，自动裁切并返回图片，还提供了网络不好情况时的返回链接功能 |
-|[原神&星铁抽卡计算器](https://gitee.com/LumineAether/Genshin-StarRail-gacha-calculator)| [@荧之空](https://gitee.com/LumineAether) | [查看源码] 根据玩家拥有的纠缠之缘/星轨专票数目以及角色池、武器/光锥池的水位、保底情况，计算出抽取指定数量的五星up角色和五星up武器/光锥的概率，并绘制出累积概率图|
-| [vist语音合成](https://gitee.com/eulogyjiajia/vits-speech-synthesis) | [@空梦](https://gitee.com/eulogyjiajia) | [查看源码] (https://gitee.com/eulogyjiajia/vits-speech-synthesis/raw/master/vits%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90.js) | 使用vits接口进行语音合成，高清语音需要安装枫叶插件，支持原神，崩坏3，赛马娘 |
+| [Faden发癫插件](https://github.com/Pretend-to/Faden_api_server) | [@秋山澪](https://github.com/Pretend-to) | [查看源码](https://github.com/Pretend-to/Faden_api_server/blob/main/yz-plugin/faden.js) |一款可以让你的bot对群友说客制化土味情话~~发癫~~的插件 |
+| [MC-Wiki插件](https://github.com/Walkersifolia/mc-wiki) | [@圈圈](https://github.com/Walkersifolia) | [查看源码](https://github.com/Walkersifolia/mc-wiki/blob/main/mcwiki.js) |一款可以快捷查询mcwiki的插件，自动裁切并返回图片，还提供了网络不好情况时的返回链接功能 |
+|[原神&星铁抽卡计算器](https://gitee.com/LumineAether/Genshin-StarRail-gacha-calculator)| [@荧之空](https://gitee.com/LumineAether) | [查看源码](https://gitee.com/LumineAether/Genshin-StarRail-gacha-calculator) | 根据玩家拥有的纠缠之缘/星轨专票数目以及角色池、武器/光锥池的水位、保底情况，计算出抽取指定数量的五星up角色和五星up武器/光锥的概率，并绘制出累积概率图|
+| [vist语音合成](https://gitee.com/eulogyjiajia/vits-speech-synthesis) | [@空梦](https://gitee.com/eulogyjiajia) | [查看源码](https://gitee.com/eulogyjiajia/vits-speech-synthesis/raw/master/vits%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90.js) | 使用vits接口进行语音合成，高清语音需要安装枫叶插件，支持原神，崩坏3，赛马娘 |
 | [云崽Bot账号管理插件](../../../../CUZNIL/Yunzai-QQmanager) | [@硫酸钡Barite](../../../../CUZNIL) | [查看源码](https://gitee.com/CUZNIL/Yunzai-QQmanager/raw/master/QQmanager.js) | 管理[icqq云崽](https://gitee.com/yoimiya-kokomi/Yunzai-Bot)的多个BOT账号，支持掉线（封号）自动切换，查看多账号权重等功能。 |
 | [给头衔](../../../../CUZNIL/Yunzai-giveTitle) | [@硫酸钡Barite](../../../../CUZNIL/) | [查看源码](../../../../CUZNIL/Yunzai-giveTitle/raw/master/giveTitle.js) | 让群友可以自己领想要的专属头衔。兼容QQ头衔长度判定，支持个性化回复。 |
 | [表情包](https://github.com/ikechan8370/yunzai-meme/)|[@ikechan8370](https://github.com/ikechan8370)| [查看源码](https://raw.githubusercontent.com/ikechan8370/yunzai-meme/main/meme.js)|基于[meme-generator](https://github.com/MeetWq/meme-generator)的表情包插件。提供了一个默认的免费API，也可自行搭建使用。|
 | [token填充](https://gitee.com/mcat0/tkhelp)  | [@mCat](https://gitee.com/mcat0) | [查看源码](https://gitee.com/mcat0/tkhelp/blob/master/TokenHelp.js) | 通过监测token和设别信息文件是否缺失来解决机器人掉线问题。 |
 | [自定义卡池抽卡插件](https://gitee.com/wan13877501248/zdychouka) | [@Hello World](https://gitee.com/wan13877501248) | [查看源码](https://gitee.com/wan13877501248/zdychouka/raw/master/%E8%87%AA%E5%AE%9A%E4%B9%89%E5%8D%A1%E6%B1%A0%E6%8A%BD%E5%8D%A1%E6%8F%92%E4%BB%B6.js) | 提供原神自定义卡池抽卡的相关功能 |
 | [MC插件](https://gitee.com/Aliorpse/Yunzai-McPlugins) | [@Aliorpse](https://gitee.com/Aliorpse/) | [查看源码](http://123.60.141.159/src/McPlugins/) | 提供Minecraft相关功能(服务器状态查询 正版玩家查询等) |
-|[群聊小游戏](http://suancaixianyu.cn/xyjs)| [@酸菜咸鱼](https://gitee.com/suancaixianyu) | [查看源码]群聊小游戏插件，一些经典游戏等js插件|
+|[群聊小游戏](http://suancaixianyu.cn/xyjs)| [@酸菜咸鱼](https://gitee.com/suancaixianyu) | [查看源码](http://suancaixianyu.cn/xyjs) | 群聊小游戏插件，一些经典游戏等js插件|
 | [喜报](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin)|[@bling丶一闪](https://gitee.com/bling_yshs) | [查看源码](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin/raw/master/%E5%96%9C%E6%8A%A5.js)|可以生成喜报并发送，[效果图](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin/blob/master/res/%E5%96%9C%E6%8A%A5%E6%95%88%E6%9E%9C%E5%9B%BE.jpg)|
 | [检测骂机器人进行处理](https://gitee.com/xiaoye12123/js) | [@小叶](https://gitee.com/xiaoye12123) | [查看源码](https://gitee.com/xiaoye12123/js/raw/master/%E6%BA%90%E7%A0%81%E5%8E%BB%E6%8E%89%E9%AA%82%E4%BA%BA%E8%AF%8D%E6%B1%87%E5%88%AB%E7%94%A8%E8%BF%99%E4%B8%AA.js) |检测群聊的消息,如果有at机器人或者提到机器人名字的消息中包含了违禁词的话就会进行处理 |
 | [人物识别](https://gitee.com/shuciqianye/yunzai-AnimeTrace) | [@书辞千楪](https://gitee.com/shuciqianye) | [查看源码](https://gitee.com/shuciqianye/yunzai-AnimeTrace/raw/master/%E4%BA%BA%E7%89%A9%E8%AF%86%E5%88%AB.js) |可根据您提供的图片识别出图片中的日漫人物或游戏角色 |
@@ -169,7 +169,7 @@ _i 提供了关键功能_
 | [真实评分](https://github.com/ldcivan/true_ranking_plugin) | [@YujioNako](https://github.com/ldcivan) | [查看源码](https://raw.githubusercontent.com/ldcivan/true_ranking_plugin/main/true_ranking.js) | 获取b站番剧长短评来手动计算实际的评分数据 |
 | [战地战绩查询插件](https://github.com/ldcivan/bf_info_plugin) | [@YujioNako](https://github.com/ldcivan) | [查看源码](https://raw.githubusercontent.com/ldcivan/bf_info_plugin/main/bf_info.js) | 提供田野打架™1！5！代战绩查询服务的js插件 |
 | [搜图插件](https://github.com/ldcivan/Yunzai_imgSearcher) | [@YujioNako](https://github.com/ldcivan) | [查看源码](https://raw.githubusercontent.com/ldcivan/Yunzai_imgSearcher/main/Yunzai_imgSearcher.js) | 一个基于saucenao api的轻量化识图插件，并提供QQ图片取直链功能|
-| [WeLM的ai对话](https://gitee.com/shuciqianye/yunzai-custom-dialogue-welm) | [@JD](https://gitee.com/jd66666) [@兰罗摩](https://gitee.com/Arama_admin) [@书辞千楪](https://gitee.com/shuciqianye) | [V3](https://gitee.com/shuciqianye/yunzai-custom-dialogue-welm/blob/js-version/welm(JS).js) | 提供个性ai问答、提问和续写(chatgpt下下下位替代)功能 |
+| [WeLM的ai对话](https://gitee.com/shuciqianye/yunzai-custom-dialogue-welm) | [@JD](https://gitee.com/jd66666) [@兰罗摩](https://gitee.com/Arama_admin) [@书辞千楪](https://gitee.com/shuciqianye) | [查看源码](https://gitee.com/shuciqianye/yunzai-custom-dialogue-welm/blob/js-version/welm(JS).js) | 提供个性ai问答、提问和续写(chatgpt下下下位替代)功能 |
 | [群管插件](https://gitee.com/clarlotte/Yunzai-Bot-V3-plugin) | [@clarlotte](https://gitee.com/clarlotte) | [查看源码](https://gitee.com/clarlotte/Yunzai-Bot-V3-plugin/raw/master/GroupSettings.js) | 提供Yunzai-Bot-V3的群管，代码已经整体进行了重构，使用起来更加方便，建议Bot为群主时使用该插件 |
 | [give_me_some_heis](https://gitee.com/koinori/give_me_some_heis) | [@koinori](https://gitee.com/koinori) | [查看源码V2](https://gitee.com/koinori/give_me_some_heis/raw/master/give_me_some_heisV2.js) [查看源码V3](https://gitee.com/koinori/give_me_some_heis/raw/master/give_me_some_heisV3.js)| 麻溜滴，来点黑丝/白丝/jk/巨r/网红/足控三次元美图 |
 | [更换节点](https://gitee.com/ThreeYi/sy_js_plugin) | [@sanyi](https://gitee.com/ThreeYi) | [查看源码](https://gitee.com/ThreeYi/sy_js_plugin/raw/master/%E6%9B%B4%E6%8D%A2%E8%8A%82%E7%82%B9.js)| 更换面板更新服务器 |
