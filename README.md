@@ -130,7 +130,7 @@ _i 提供了关键功能_
 <!-- 请在表首添加新行 -->
 
 | 名称  |  作者  | 源码 | 备注  |
-|-------| ----- |------|-------|
+|--- | --- | ---| -------|
 | [看看TA是男的女的](https://gitee.com/SmallK111407/onlyJS) | [@曉K](https://gitee.com/SmallK111407) | [查看源码](https://gitee.com/SmallK111407/onlyJS/blob/main/isBoyOrGirl/%5Bv1.3.5%5D%E7%9C%8B%E7%9C%8B%E4%BB%96%E6%98%AF%E7%94%B7%E7%9A%84%E5%A5%B3%E7%9A%84_isBoyOrGirl.js) | 单纯娱乐，如果at询问就是查看被询问人的QQ性别，如果非at就是随机性别 |
 | [多样的ChatGPT](https://gitee.com/LostInLinearPast/sangboyunapi) | [@一只戏鸢](https://gitee.com/LostInLinearPast) | [查看源码](https://gitee.com/LostInLinearPast/sangboyunapi/blob/master/%E5%A4%9A%E6%A0%B7%E7%9A%84ChatGPT.js) | 有/无记忆、版本3.5/4.0，可/不可联网，共5种ChatGPT的api调用。源自[桑帛云api](https://api.lolimi.cn/) |
 | [随机图片、语音、点阵字](https://gitee.com/LostInLinearPast/sangboyunapi) | [@一只戏鸢](https://gitee.com/LostInLinearPast) | [查看源码](https://gitee.com/LostInLinearPast/sangboyunapi/blob/master/%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87%E3%80%81%E8%AF%AD%E9%9F%B3%E3%80%81%E7%82%B9%E9%98%B5%E5%AD%97.js) | 好康的图片、著名的语音、点阵字。源自[桑帛云api](https://api.lolimi.cn/) |
