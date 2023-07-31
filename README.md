@@ -209,7 +209,7 @@ _i 提供了关键功能_
 |[面向纯小白的云崽一键搭建脚本](https://gitee.com/cao100/caoyz.sh)| [@百草](https://gitee.com/cao100)| 针对纯小白的简易脚本，注：适用于Ubuntu|
 |[Windows一键搭建签名api](https://gitee.com/touchscale/Qsign)| [@touchscale](https://gitee.com/touchscale_admin)| 提供一键搭建签名API包，注：仅适用于Windows|
 |[签名API一键包](https://gitee.com/Alan_Brown/sign-easy)| [@古都 雨冬 寒夜](https://gitee.com/Alan_Brown)| 提供方便的签名API搭建办法 注：处于测试阶段，且目前仅适用于Linux系统如手机termux |
-| [Go_Box_v2安装脚本](https://gitee.com/Liplay-1/YBOX_2) | [@Arc图一多](https://gitee.com/Liplay-1/YBOX) | 支持多个发行版Centos Ubuntu Debian 一键安装频道TRSS崽、柠檬崽、新增Docker管理器、适配云崽、喵，新增一键配置API（Docker）  |
+| [Go_Box_v2安装脚本](https://gitee.com/Liplay-1/YBOX_2) | [@Arc图一多](https://gitee.com/Liplay-1/YBOX) | 支持多个发行版Centos Ubuntu Debian 一键安装频道TRSS崽、柠檬崽（已适配）、新增Docker管理器、适配云崽、喵，新增一键配置API，支持插件安装和管理（包含柠檬）（Docker）  |
 | [简易ubtr崽搭建脚本](https://gitee.com/xyzqwefd/Yunzai-Guild-SimpleLine) | [@xyz](https://gitee.com/xyzqwefd) | ubuntu | 高度精简！只有trss崽和QQ频道插件，可在不依赖docker环境的条件下运行|
 | [ub插件测试环境快速创建](https://github.com/XuF163/Yunzai-All)|[@xyz](https://gitee.com/xyzqwefd)| Ubuntu22+ | 一键安装各种版本的崽，无需手动干预安装，快速搭建插件测试环境 |
 | [等风来Linux云崽管理脚本](http://dengfenglai.cloud) | [@等风来](https://gitee.com/Wind-is-so-strong) | 适用ubuntu和手机termux的云崽管理脚本，提供一些有用没用的鸡肋功能，小白鸽子精cv各位大佬写的脚本。 |
