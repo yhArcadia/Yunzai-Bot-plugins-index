@@ -221,6 +221,7 @@ _i 提供了关键功能_
 | [向日葵Ubuntu22.04云崽安装脚本](https://gitee.com/xrk114514/shell-Yunzai) | [@向日葵](https://gitee.com/xrk114514) | 最牛逼的适合小白用的脚本，全程无需脑子，Ubuntu22.04极其稳定且适配py，内置版本过低修复，插件安装，重启修复等较为实用的脚本，天天更新！ |
 | [Yunzai-Bot小助手](https://github.com/ChuYao233/YunzaiBotHelper) | [ChuYao](https://github.com/ChuYao233) | Windows傻瓜式部署Yunzai-Bot,提供插件一键下载等功能。 |
 | [云崽v3一键安装脚本](https://gitee.com/gainesville-11451411/mao) | [@甘城猫猫](https:/$gitee.com/gainesville-11451411) | 推荐Ubuntu18+ | 
+| [云崽脚本便捷部署](https://gitee.com/zhou-ziming-zzm/yz-deployment) |  [@纷沓](gitee.com/zhou-ziming-zzm) | 便捷搭建 |
 <!-- 请不要在此处添加新行，请在此表格顶部添加 -->
 
 <br>
