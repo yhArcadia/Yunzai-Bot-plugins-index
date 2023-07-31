@@ -204,6 +204,7 @@ _i 提供了关键功能_
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
 | [⭐][TRSS Yunzai 管理脚本](https://TRSS.me) | [@时雨🌌星空](../../../../TimeRainStarSky) | 【置顶】提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Windows / Linux / Mac / Android |
+| [白狐管理脚本](https://gitee.com/baihu433/Ubuntu-Yunzai) | [@白狐](https://gitee.com/baihu433) | 使用shell编写的 YZ/MZ/TZ 的一键部署和插件的一键安装与管理功能，支持Ubuntu系统,签名服务器管理脚本支持Linux全系统，插件管理脚本支持Linux和window全系统)
 | [Replit搭建Miao-Yunzai脚本](https://github.com/yzsong06/Replit-Nodejs-MiaoYunzai)| [@一只鬆](https://gitee.com/yzsong06) | 一键在Replit免费在线IDE平台搭建Miao-Yunzai机器人的脚本，完全免费托管与稳定运行 |
 |[阴天图形化win脚本](https://gitee.com/wan13877501248/y-tian-pyscript/tree/master) | [@Hello World](https://gitee.com/wan13877501248) | 基于python编写的喵崽和插件的一键安装以及常见问题修复的win便捷图形化脚本 |
 |[面向纯小白的云崽一键搭建脚本](https://gitee.com/cao100/caoyz.sh)| [@百草](https://gitee.com/cao100)| 针对纯小白的简易脚本，注：适用于Ubuntu|
