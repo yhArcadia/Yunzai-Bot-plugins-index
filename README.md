@@ -58,6 +58,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [卿何插件(qinghe-plugin)](https://gitee.com/Tloml-Starry/qinghe-plugin) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | 提供各种娱乐功能，更多功能持续更新中...详情请看[Wiki](https://gitee.com/Tloml-Starry/qinghe-plugin/wikis/%E5%8A%9F%E8%83%BDWiki) |
 | [碧蓝档案插件(BlueArchive-plugin)](https://gitee.com/all-thoughts-are-broken/blue-archive) | [@万念断绝](https://gitee.com/all-thoughts-are-broken) | 提供碧蓝档案的一些有用的或没有用的攻略帮助 |
 | [库洛插件<br />(Yunzai-Kuro-Plugin)](https://github.com/TomyJan/Yunzai-Kuro-Plugin) | [@TomyJan](https://github.com/TomyJan) | 库洛游戏插件 |
 |[小月插件 (xiaoyue-Plugin)](https://gitee.com/bule-Tech/xiaoyue-plugin) | [@bule-Tech](https://gitee.com/bule-Tech) | 由云溪院提供的最后一版小月插件,有戳一戳,抖音,blbl解析,插件及插件包安装等功能,现已无法更新 |
