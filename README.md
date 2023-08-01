@@ -134,6 +134,12 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [lol战绩查询](https://gitee.com/dungeonmaster/yunzai-example) | [@所有二刺螈都得死](https://gitee.com/dungeonmaster) | [查看源码](https://gitee.com/dungeonmaster/yunzai-example/blob/master/lol%E6%9F%A5%E8%AF%A2%E6%88%98%E7%BB%A9.js) |lol战绩查询，可以查询wegame隐藏战绩的|
+| [搜磁力](https://gitee.com/dungeonmaster/yunzai-example) | [@所有二刺螈都得死](https://gitee.com/dungeonmaster) | [查看源码](https://gitee.com/dungeonmaster/yunzai-example/blob/master/%E6%90%9C%E7%A3%81%E5%8A%9B5.0.js) |搜磁力，帮你找到车牌号链接|
+| [对联](https://gitee.com/dungeonmaster/yunzai-example) | [@所有二刺螈都得死](https://gitee.com/dungeonmaster) | [查看源码](https://gitee.com/dungeonmaster/yunzai-example/blob/master/%E5%AF%B9%E8%81%94.js) |和ai对对联的插件|
+| [ai对比两件事物](https://gitee.com/dungeonmaster/yunzai-example) | [@所有二刺螈都得死](https://gitee.com/dungeonmaster) | [查看源码](https://gitee.com/dungeonmaster/yunzai-example/blob/master/ai%E5%AF%B9%E6%AF%94.js) |让ai锐评两件事物，需要魔法才能用哦~|
+| [b站热搜](https://gitee.com/dungeonmaster/yunzai-example) | [@所有二刺螈都得死](https://gitee.com/dungeonmaster) | [查看源码](https://gitee.com/dungeonmaster/yunzai-example/blob/master/b%E7%AB%99%E7%83%AD%E6%90%9C.js) |b站热搜|
+| [舔狗日记](https://gitee.com/dungeonmaster/yunzai-example) | [@所有二刺螈都得死](https://gitee.com/dungeonmaster) | [查看源码](https://gitee.com/dungeonmaster/yunzai-example/blob/master/%E8%88%94%E7%8B%97%E6%97%A5%E8%AE%B0.js) |舔狗日记|
 | [迫害群友](https://gitee.com/liuhaof/Plugins) | [@Vzx.](https://gitee.com/liuhaof) | [查看源码](https://gitee.com/liuhaof/Plugins/blob/master/%E8%BF%AB%E5%AE%B3%E7%BE%A4%E5%8F%8B.js) | 使用文字魔法来迫害你的群友吧!  |
 | [看看TA是男的女的](https://gitee.com/SmallK111407/onlyJS) | [@曉K](https://gitee.com/SmallK111407) | [查看源码](https://gitee.com/SmallK111407/onlyJS/blob/main/isBoyOrGirl/%5Bv1.3.5%5D%E7%9C%8B%E7%9C%8B%E4%BB%96%E6%98%AF%E7%94%B7%E7%9A%84%E5%A5%B3%E7%9A%84_isBoyOrGirl.js) | 单纯娱乐，如果at询问就是查看被询问人的QQ性别，如果非at就是随机性别 |
 | [多样的ChatGPT](https://gitee.com/LostInLinearPast/sangboyunapi) | [@一只戏鸢](https://gitee.com/LostInLinearPast) | [查看源码](https://gitee.com/LostInLinearPast/sangboyunapi/blob/master/%E5%A4%9A%E6%A0%B7%E7%9A%84ChatGPT.js) | 有/无记忆、版本3.5/4.0，可/不可联网，共5种ChatGPT的api调用。源自[桑帛云api](https://api.lolimi.cn/) |
