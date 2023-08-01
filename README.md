@@ -134,6 +134,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [设置主人](https://gitee.com/Zyy955/Yunzai-Bot-plugin) | [@Zyy955](https://gitee.com/Zyy955) | [查看源码](https://gitee.com/Zyy955/Yunzai-Bot-plugin/raw/main/SetMaster.js) |使用指令快捷设置主人 可在成为主人之后直接将指定用户添加为新的主人|
 | [lol战绩查询](https://gitee.com/dungeonmaster/yunzai-example) | [@所有二刺螈都得死](https://gitee.com/dungeonmaster) | [查看源码](https://gitee.com/dungeonmaster/yunzai-example/blob/master/lol%E6%9F%A5%E8%AF%A2%E6%88%98%E7%BB%A9.js) |lol战绩查询，可以查询wegame隐藏战绩的|
 | [搜磁力](https://gitee.com/dungeonmaster/yunzai-example) | [@所有二刺螈都得死](https://gitee.com/dungeonmaster) | [查看源码](https://gitee.com/dungeonmaster/yunzai-example/blob/master/%E6%90%9C%E7%A3%81%E5%8A%9B5.0.js) |搜磁力，帮你找到车牌号链接|
 | [对联](https://gitee.com/dungeonmaster/yunzai-example) | [@所有二刺螈都得死](https://gitee.com/dungeonmaster) | [查看源码](https://gitee.com/dungeonmaster/yunzai-example/blob/master/%E5%AF%B9%E8%81%94.js) |和ai对对联的插件|
