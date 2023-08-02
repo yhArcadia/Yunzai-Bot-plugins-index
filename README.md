@@ -134,6 +134,7 @@ _i 提供了关键功能_
 
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [读取头像生产踹人表情包](https://gitee.com/Zyy955/Yunzai-Bot-plugin) | [@Zyy955](https://gitee.com/Zyy955) | [查看源码](https://gitee.com/Zyy955/Yunzai-Bot-plugin/blob/main/kick.js) |读取头像生产踹人表情包 适用于`miaozai`的icqq，`trss`的gocq群，私聊，频道插件|
 | [踢人黑名单](https://gitee.com/sinds/yunzai-example) | [ @sinds](https://gitee.com/sinds) | [查看源码](https://gitee.com/sinds/yunzai-example/blob/master/Qinuos.js) |可以在q群上拉黑别人 然后自动检测发送者踢出|
 | [设置主人](https://gitee.com/Zyy955/Yunzai-Bot-plugin) | [@Zyy955](https://gitee.com/Zyy955) | [查看源码](https://gitee.com/Zyy955/Yunzai-Bot-plugin/raw/main/SetMaster.js) |使用指令快捷设置主人 可在成为主人之后直接将指定用户添加为新的主人|
 | [lol战绩查询](https://gitee.com/dungeonmaster/yunzai-example) | [@所有二刺螈都得死](https://gitee.com/dungeonmaster) | [查看源码](https://gitee.com/dungeonmaster/yunzai-example/blob/master/lol%E6%9F%A5%E8%AF%A2%E6%88%98%E7%BB%A9.js) |lol战绩查询，可以查询wegame隐藏战绩的|
