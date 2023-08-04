@@ -53,6 +53,8 @@
 
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [涩图监听插件(nsfwjs-plugin)](https://gitee.com/CikeyQi/nsfwjs-plugin) | [@0卡苏打水](https://github.com/CikeyQi)  [@erzaozi](https://github.com/erzaozi) | 基于本地的免费涩图监听插件，得益于NSFWJS，检测速度极快。使用TensorFlow，低配置服务器也能流畅运行 |
+| [AI绘图插件(mj-plugin)](https://gitee.com/CikeyQi/mj-plugin) | [@0卡苏打水](https://github.com/CikeyQi)  [@erzaozi](https://github.com/erzaozi) | 又一个AI绘图插件，使用Midjourney接口，实现在QQ内使用Midjourney生成图片 |
 | [卿何插件(qinghe-plugin)](https://gitee.com/Tloml-Starry/qinghe-plugin) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | 提供各种娱乐功能，更多功能持续更新中...详情请看[Wiki](https://gitee.com/Tloml-Starry/qinghe-plugin/wikis/%E5%8A%9F%E8%83%BDWiki) |
 | [碧蓝档案插件(BlueArchive-plugin)](https://gitee.com/all-thoughts-are-broken/blue-archive) | [@万念断绝](https://gitee.com/all-thoughts-are-broken) | 提供碧蓝档案的一些有用的或没有用的攻略帮助 |
 | [库洛插件<br />(Yunzai-Kuro-Plugin)](https://github.com/TomyJan/Yunzai-Kuro-Plugin) | [@TomyJan](https://github.com/TomyJan) | 库洛游戏插件 |
@@ -253,6 +255,8 @@
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+|[unidbg-fetch-qsign-gui](https://gitee.com/CikeyQi/unidbg-fetch-qsign-gui)| [@0卡苏打水](https://github.com/CikeyQi) | 适用于Windows端免环境一键启动的签名服务程序 |
+|[HuggingFace部署签名服务](https://gitee.com/CikeyQi/QQsign_docs)| [@0卡苏打水](https://github.com/CikeyQi) | 在云端免费部署签名服务 |
 |[好活合集](https://gitee.com/SmallK111407/goodjob-img)| [@曉K](https://gitee.com/SmallK111407) | 用于存储云崽圈子一些人不寻常、逆天、乐子、搞笑、有趣等等的发言。 |
 | [云崽从入门到跑路](http://blog.renranwrong.top)|[@XuF163](https://github.com/XuF163)|一点优化维护体验的小寄能，写给新入坑的朋友[gitee镜像](https://gitee.com/xyzqwefd/Yunzai-ran-wrong-run) 【硬件向】 |
 | [频道云崽搭建教程](https://gitee.com/cxyqiyue/yunzai-qqguild)|[@cxyqiyue](gitee.com/cxyqiyue)| Ubuntu | 推荐使用原版云崽搭建，qq号寄掉之后不会掉线 |
