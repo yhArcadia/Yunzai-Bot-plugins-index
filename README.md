@@ -12,7 +12,7 @@
 
 <br>
 
-## Yunzai
+## 云崽及其衍生Bot
 
 <details><summary>展开/收起</summary>
 
@@ -29,11 +29,10 @@
 
 <br>
 
-## 置顶内容
+## 置顶内容(为Bot提供了关键功能)
 
 <details><summary>展开/收起</summary>
 
-_i 提供了关键功能_
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
 | [锅巴插件 (guoba-plugin)](https://gitee.com/guoba-yunzai/guoba-plugin) | [@zolay-poi](https://github.com/zolay-poi) | V3主要提供云崽的网页端后台管理界面功能；V2提供丝滑迁移V3功能。 |
