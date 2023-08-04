@@ -241,9 +241,9 @@ _i 提供了关键功能_
 | [云崽v3一键安装脚本](https://gitee.com/gainesville-11451411/mao) | [@甘城猫猫](https:/$gitee.com/gainesville-11451411) | 推荐Ubuntu18+ | 
 <!-- 请不要在此处添加新行，请在此表格顶部添加 -->
 
-<br>
-
 </details>
+
+<br>
 
 ## 资源索引
 
