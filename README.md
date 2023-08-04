@@ -13,6 +13,8 @@
 <br>
 
 ## Yunzai
+<details><summary>▼展开/收起</summary>
+
 | 名称 | 作者 | GitHub | Gitee | 备注  | 推荐使用优先级 |
 |------| ---- | ------ | ----- | ----- | ----- |
 | Yunzai-Bot 索引库 | [@渔火Arcadia](https://gitee.com/yhArcadia) | [☞GitHub](https://github.com/yhArcadia/Yunzai-Bot-plugins-index) | [☞Gitee](https://gitee.com/yhArcadia/Yunzai-Bot-plugins-index) | 云崽相关内容索引库 | - |
@@ -22,9 +24,13 @@
 | TRSS-Yunzai | [@时雨🌌星空](../../../../TimeRainStarSky) | [☞GitHub](https://github.com/TimeRainStarSky/Yunzai) | [☞Gitee](https://gitee.com/TimeRainStarSky/Yunzai) | Yunzai 应用端，支持多账号，支持协议端：go-cqhttp、ComWeChat、GSUIDCore、ICQQ、QQ频道、微信、KOOK、Telegram、Discord | ■■■■□ |
 | Alemon-Bot | [@lemonade](https://github.com/ningmengchongshui/alemon) | [☞GitHub](https://github.com/ningmengchongshui/alemon) | [☞Gitee](https://gitee.com/ningmengchongshui/alemon) | [点击查看Alemon开发框架官方文档](http://ningmengchongshui.gitee.io/alemon) | ■■■□□ |
 
+</details>
+
 <br>
 
-## 置顶
+## 置顶内容
+<details><summary>▼展开/收起</summary>
+
 _i 提供了关键功能_
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
@@ -34,11 +40,12 @@ _i 提供了关键功能_
 | [QQ频道插件（QQGuild-Plugin）](https://github.com/2y8e9h22/QQGuild-Plugin)|[@2y8e9h22](https://github.com/2y8e9h22)|安装本插件可以让你的频道机器人使用云崽的功能. ^_^|
 | [图鉴 (Atlas)](https://github.com/Nwflower/atlas) | [@听语惊花](https://github.com/Nwflower/) | 支持原神和崩坏：星穹铁道的新一代图鉴插件 |
 
+</details>
 
 <br>
 
-
 ## 功能插件（plugin） 
+<details><summary>▼展开/收起</summary>
 
 <!-- 请在表首添加新行 -->
 
@@ -97,9 +104,12 @@ _i 提供了关键功能_
 | [扩展插件 (Depot-js-plugin)](https://gitee.com/lycofuture/Depot-js-plugin) | [@Lycofuture](https://gitee.com/lycofuture) | 随心api，GTP-API，网页预览，woc 指令，风控处理 ，广播，QQ 凶吉查询 |
 <!-- 请不要在此处添加行，请在此表格顶部添加 -->
 
+</details>
+
 <br>
 
 ## 游戏插件（plugin）
+<details><summary>▼展开/收起</summary>
 
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
@@ -109,9 +119,12 @@ _i 提供了关键功能_
 
 <!-- 请不要在此处添加行，请在此表格顶部添加 -->
 
+</details>
+
 <br>
 
-## JS插件索引（example）  
+## JS插件索引（example）
+<details><summary>▼展开/收起</summary>  
 #### *可以点击查看源码，另存为js文件来使用*
 <!-- 在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 <!-- 请在表首添加新行 -->
@@ -191,9 +204,12 @@ _i 提供了关键功能_
 | [更多ai,更多欢乐!](https://gitee.com/huangshx2001/yunzai-js-plug-in) | [@癫癫博士](https://gitee.com/huangshx2001) | [查看源码](https://gitee.com/huangshx2001/yunzai-js-plug-in/raw/master/%E6%9B%B4%E5%A4%9Aai%EF%BC%8C%E6%9B%B4%E5%A4%9A%E5%BF%AB%E4%B9%90!.js) | 欢迎转学生韩国妹妹ai的加入！                                 |
 <!-- 请不要在此处添加新行，请在此表格顶部添加 -->
 
+</details>
+
 <br>
 
 ## 脚本类索引
+<details><summary>▼展开/收起</summary>
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
@@ -221,7 +237,10 @@ _i 提供了关键功能_
 
 <br>
 
+</details>
+
 ## 资源索引
+<details><summary>▼展开/收起</summary>
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
@@ -241,3 +260,5 @@ _i 提供了关键功能_
 | [体力背景图包](https://gitee.com/cv-hunag/BJT) | [@煌](https://gitee.com/cv-hunag) | xiaoyao-cvs-plugin的体力背景图库 |
 | [星铁插件面板背景图包](https://gitee.com/yuan_hu_sheng/StarRail-plugin-PanelPic) | [@香菜](https://github.com/yhs21241) | StarRail-plugin的面板图库 |
 <!-- 请不要在此处添加新行，请在此表格顶部添加 -->
+
+</details>
