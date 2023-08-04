@@ -13,7 +13,8 @@
 <br>
 
 ## Yunzai
-<details><summary>▼展开/收起</summary>
+
+<details><summary>展开/收起</summary>
 
 | 名称 | 作者 | GitHub | Gitee | 备注  | 推荐使用优先级 |
 |------| ---- | ------ | ----- | ----- | ----- |
@@ -29,7 +30,8 @@
 <br>
 
 ## 置顶内容
-<details><summary>▼展开/收起</summary>
+
+<details><summary>展开/收起</summary>
 
 _i 提供了关键功能_
 | 名称  |  作者  | 备注  |
@@ -44,8 +46,9 @@ _i 提供了关键功能_
 
 <br>
 
-## 功能插件（plugin） 
-<details><summary>▼展开/收起</summary>
+## 功能插件（plugin）
+ 
+<details><summary>展开/收起</summary>
 
 <!-- 请在表首添加新行 -->
 
@@ -109,7 +112,8 @@ _i 提供了关键功能_
 <br>
 
 ## 游戏插件（plugin）
-<details><summary>▼展开/收起</summary>
+
+<details><summary>展开/收起</summary>
 
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
@@ -124,7 +128,8 @@ _i 提供了关键功能_
 <br>
 
 ## JS插件索引（example）
-<details><summary>▼展开/收起</summary>  
+
+<details><summary>展开/收起</summary>  
 #### *可以点击查看源码，另存为js文件来使用*
 <!-- 在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 <!-- 请在表首添加新行 -->
@@ -209,7 +214,8 @@ _i 提供了关键功能_
 <br>
 
 ## 脚本类索引
-<details><summary>▼展开/收起</summary>
+
+<details><summary>展开/收起</summary>
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
@@ -240,7 +246,8 @@ _i 提供了关键功能_
 </details>
 
 ## 资源索引
-<details><summary>▼展开/收起</summary>
+
+<details><summary>展开/收起</summary>
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
