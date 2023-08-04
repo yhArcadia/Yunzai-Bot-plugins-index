@@ -29,7 +29,7 @@
 
 <br>
 
-## 置顶内容(为Bot提供了关键功能)
+## 置顶内容（为Bot提供了关键功能）
 
 <details><summary>展开/收起</summary>
 
