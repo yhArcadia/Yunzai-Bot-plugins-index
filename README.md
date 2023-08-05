@@ -232,7 +232,6 @@
 |[Windows一键搭建签名api](https://gitee.com/touchscale/Qsign)| [@touchscale](https://gitee.com/touchscale_admin)| 提供一键搭建签名API包，注：仅适用于Windows|
 |[签名API一键包](https://gitee.com/Alan_Brown/sign-easy)| [@古都 雨冬 寒夜](https://gitee.com/Alan_Brown)| 提供方便的签名API搭建办法 注：处于测试阶段，且目前仅适用于Linux系统如手机termux |
 | [Go_Box_v2安装脚本](https://gitee.com/Liplay-1/YBOX_2) | [@Arc图一多](https://gitee.com/Liplay-1/YBOX) | 支持多个发行版Centos Ubuntu Debian 一键安装频道TRSS崽、柠檬崽（已适配）、新增Docker管理器、适配云崽、喵，新增一键配置API，支持插件安装和管理（包含柠檬）（Docker）  |
-| [ub插件测试环境快速创建](https://github.com/XuF163/Yunzai-All)|[@xyz](https://gitee.com/xyzqwefd)| Ubuntu22+ | 一键安装各种版本的崽，无需手动干预安装，快速搭建插件测试环境 |
 | [等风来Linux云崽管理脚本](http://dengfenglai.cloud) | [@等风来](https://gitee.com/Wind-is-so-strong) | 适用ubuntu和手机termux的云崽管理脚本，提供一些有用没用的鸡肋功能，小白鸽子精cv各位大佬写的脚本。 |
 | [Mit_gancm安装QQBot](https://gitee.com/MIt-gancm/Linux-for-QQ-Bot/) | [@Mit_gancm](https://gitee.com/MIt-gancm) | 适用于linux乌班图 注：处于测试阶段 
 | [阴天一键安装云崽](https://gitee.com/wan13877501248/yin-tian-tian-script-for-win) | [@Hello World](https://gitee.com/wan13877501248) | 个人电脑一键自动部署喵版云崽和阴天插件的windows简易C#脚本，不推荐服务器用户使用。 |
@@ -265,7 +264,6 @@
 | [全服(包含国际服)获取Ck或Stoken.apk](https://gitee.com/Divinationhw/Yunzai-Bot-YJHQ) | [@DivinationHW](https://gitee.com/DivinationHW) | Android获取国服国际服Cookie和Stoken软件 |
 | [Yunzai-Bot 文档中心](https://github.com/Xm798/Yunzai-Bot-Docs) | [@Xm798](https://github.com/Xm798) |提供yunzai相关内容[文档地址](https://docs.yunzai.org/) |
 | [Quadratic element_photos](https://gitee.com/ejgk/quadratic-element-photos) | [@ejgk](https://gitee.com/ejgk) | 提供一些二次元图片，支持在线查看，正在持续更新中... |
-| [二次元图库（下载链接）](https://gitee.com/xwy231321/cv-plugins-in-resources/tree/master/%E5%9B%BE%E5%BA%93%E9%93%BE%E6%8E%A5) | [@xwy](https://gitee.com/xwy231321) | 提供近万张二次元图片下载地址，不支持在线查看，请使用软件批量下载 |
 | [⭐][喵喵面板背景图包](https://gitee.com/avang2003/miao-character) | [@阿旺](https://gitee.com/avang2003) | 由个人制作的miao-plugin的原神及星穹铁道面板背景图库 |
 | [喵喵面板背景图包](https://github.com/lc-hongdou/gallery) | [@早餐不要在空腹的时候吃](https://github.com/lc-hongdou) | 提供由多人制作的miao-plugin的面板背景图库 |
 | [喵喵面板背景图包](https://gitee.com/hbj2457/super-character) | [@hbj2457](https://gitee.com/hbj2457) | 喵喵插件 (miao-plugin)的面板背景图库 |
