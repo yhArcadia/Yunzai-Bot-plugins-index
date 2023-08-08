@@ -227,6 +227,7 @@
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
 | [⭐][TRSS Yunzai 管理脚本](https://TRSS.me) | [@时雨🌌星空](../../../../TimeRainStarSky) | 【置顶】提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Windows / Linux / Mac / Android |
+|[命令行插件安装脚本](https://gitee.com/yunxiyuan/yunzai-plugin-install)| [@云溪院](https://gitee.com/yunxiyuan/) | 适用于拥有git,curl,npm的系统，可多选安装 |
 |[unidbg-fetch-qsign-gui](https://gitee.com/CikeyQi/unidbg-fetch-qsign-gui)| [@0卡苏打水](https://github.com/CikeyQi) | 适用于Windows端免环境一键启动的签名服务程序 |
 | [白狐管理脚本](https://gitee.com/baihu433/Ubuntu-Yunzai) | [@白狐](https://gitee.com/baihu433) | 使用shell编写的 YZ/MZ/TZ 的一键部署和插件的一键安装与管理功能，支持Ubuntu系统,签名服务器管理脚本支持Linux全系统，插件管理脚本支持Linux和window全系统) |
 | [纷沓葵云崽安装脚本](https://gitee.com/xrk114514/shell-Yunzai) | [@向日葵](https://gitee.com/xrk114514)<br>[@纷沓](https://gitee.com/zhou-ziming-zzm) | 更新啦，内置qqsign安装脚本，以及大幅度优化，除了时雨，Ubuntu谁的脚本还敢打？已与纷沓合并 |
