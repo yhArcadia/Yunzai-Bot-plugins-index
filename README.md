@@ -258,6 +258,7 @@
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+|[简单js插件开发模板](https://gitee.com/Yae_Miko_Fox/yunzai_bot-plugin)|[@宫司喜欢坏事](https://gitee.com/Yae_Miko_Fox)|提供JavaScript和Java开发教程和yunzai插件开发模板|
 |[HuggingFace部署签名服务](https://gitee.com/CikeyQi/QQsign_docs)| [@0卡苏打水](https://github.com/CikeyQi) | 在云端免费部署签名服务 |
 |[好活合集](https://gitee.com/SmallK111407/goodjob-img)| [@曉K](https://gitee.com/SmallK111407) | 用于存储云崽圈子一些人不寻常、逆天、乐子、搞笑、有趣等等的发言。 |
 | [云崽从入门到跑路](http://blog.renranwrong.top)|[@XuF163](https://github.com/XuF163)|一点优化维护体验的小寄能，写给新入坑的朋友[gitee镜像](https://gitee.com/xyzqwefd/Yunzai-ran-wrong-run) 【硬件向】 |
