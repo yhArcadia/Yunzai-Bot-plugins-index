@@ -55,6 +55,7 @@
 
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [名字插件(mz-plugin)](https://gitee.com/xyb12345678qwe/mz-plugin/) | [@名字](https://gitee.com/xyb12345678qwe) | 一些丰富的小功能 |
 | [互动插件(Gi-plugin)](https://gitee.com/qiannqq/gi-plugin) | [@千奈千祁](https://gitee.com/qiannqq) | 漂流瓶、每日打卡等群友之间互动的娱乐功能 |
 | [重置版千羽插件(reset-qianyu-plugin)](https://gitee.com/think-first-sxs/reset-qianyu-plugin) | [@think-first-sxs](https://gitee.com/think-first-sxs)   | 对千羽插件进行重置，优化功能，一个咕咕咕插件 |
 | [涩图监听插件(nsfwjs-plugin)](https://gitee.com/CikeyQi/nsfwjs-plugin) | [@0卡苏打水](https://github.com/CikeyQi)  [@erzaozi](https://github.com/erzaozi) | 基于本地的免费涩图监听插件，得益于NSFWJS，检测速度极快。使用TensorFlow，低配置服务器也能流畅运行 |
