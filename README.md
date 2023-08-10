@@ -144,6 +144,7 @@
 
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [查看依赖版本](https://gitee.com/SmallK111407/onlyJS) | [@曉K](https://gitee.com/SmallK111407) | [查看源码](https://gitee.com/SmallK111407/onlyJS/blob/main/checkPackageVersion/%5Bv1.1.0%5DcheckPackageVersion.js) | 可以通过该插件查看机器人单个依赖版本或所有依赖版本，具体请见文件夹内使用说明 |
 | [读取头像生产踹人表情包](https://gitee.com/Zyy955/Yunzai-Bot-plugin) | [@Zyy955](https://gitee.com/Zyy955) | [查看源码](https://gitee.com/Zyy955/Yunzai-Bot-plugin/blob/main/kick.js) |读取头像生产踹人表情包 适用于`miaozai`的icqq，`trss`的gocq群，私聊，频道插件|
 | [踢人黑名单](https://gitee.com/sinds/yunzai-example) | [ @sinds](https://gitee.com/sinds) | [查看源码](https://gitee.com/sinds/yunzai-example/blob/master/Qinuos.js) |可以在q群上拉黑别人 然后自动检测发送者踢出|
 | [设置主人](https://gitee.com/Zyy955/Yunzai-Bot-plugin) | [@Zyy955](https://gitee.com/Zyy955) | [查看源码](https://gitee.com/Zyy955/Yunzai-Bot-plugin/raw/main/SetMaster.js) |使用指令快捷设置主人 可在成为主人之后直接将指定用户添加为新的主人|
