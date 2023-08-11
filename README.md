@@ -238,7 +238,7 @@
 |[阴天图形化win脚本](https://gitee.com/wan13877501248/y-tian-pyscript/tree/master) | [@Hello World](https://gitee.com/wan13877501248) | 基于python编写的喵崽和插件的一键安装以及常见问题修复的win便捷图形化脚本 |
 |[面向纯小白的云崽一键搭建脚本](https://gitee.com/cao100/caoyz.sh)| [@百草](https://gitee.com/cao100)| 针对纯小白的简易脚本，注：适用于Ubuntu|
 |[Windows一键搭建签名api](https://gitee.com/touchscale/Qsign)| [@touchscale](https://gitee.com/touchscale_admin)| 提供一键搭建签名API包，注：仅适用于Windows|
-|[签名API一键包](https://gitee.com/Alan_Brown/sign-easy)| [@古都 雨冬 寒夜](https://gitee.com/Alan_Brown)| 提供方便的签名API搭建办法 注：处于测试阶段，且目前仅适用于Linux系统如手机termux |
+|[签名API一键包](https://gitee.com/Alan_Brown/sign-easy)| [@古都 雨冬 寒夜](https://gitee.com/Alan_Brown)| 提供方便的签名API搭建办法 注：适用于Linux系统（可能全部Linux系统？）如手机termux、部分云服务器、WSL等 |
 | [Go_Box_v2安装脚本](https://gitee.com/Liplay-1/YBOX_2) | [@Arc图一多](https://gitee.com/Liplay-1/YBOX) | 支持多个发行版Centos Ubuntu Debian 一键安装频道TRSS崽、柠檬崽（已适配）、新增Docker管理器、适配云崽、喵，新增一键配置API，支持插件安装和管理（包含柠檬）（Docker）  |
 | [DF-Yunzai管理脚本](http://dengfenglai.cloud) | [@等风来](https://gitee.com/Wind-is-so-strong) | **适用于Ubuntu和Termux**的Yunzai快捷管理脚本，可以一键安装Yunzai、MiaoYunzai、FFmpeg、Python、Pip和自动安装插件库的plugin插件。 |
 | [Mit_gancm安装QQBot](https://gitee.com/MIt-gancm/Linux-for-QQ-Bot/) | [@Mit_gancm](https://gitee.com/MIt-gancm) | 适用于linux乌班图 注：处于测试阶段 
