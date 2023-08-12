@@ -56,6 +56,7 @@
 
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [我的世界插件(SpaceXiao_Minecraft)](https://gitee.com/xiaofei20625/space-xiao_minecraft) | [@晓飞](https://gitee.com/xiaofei20625) | 可以配合minecraft的servertap插件在qq群/qq频道控制mc进行添加白名单，输入指令等操作 |
 | [QQGuild-plugin](https://gitee.com/Zyy955/QQGuild-plugin) | [@Zyy955](https://gitee.com/Zyy955/) | 使用[NodeJS-SDK](https://github.com/tencent-connect/bot-node-sdk)进行交互... |
 | [名字插件(mz-plugin)](https://gitee.com/xyb12345678qwe/mz-plugin/) | [@名字](https://gitee.com/xyb12345678qwe) | 一些丰富的小功能 |
 | [互动插件(Gi-plugin)](https://gitee.com/qiannqq/gi-plugin) | [@千奈千祁](https://gitee.com/qiannqq) | 漂流瓶、每日打卡等群友之间互动的娱乐功能 |
