@@ -58,7 +58,7 @@
 |-------| ----- |------ |
 | [Minecraft插件(mc-plugin)](https://github.com/CikeyQi/mc-plugin) | [@0卡苏打水](https://github.com/CikeyQi)  [@erzaozi](https://github.com/erzaozi) | 基于Yunzai-Bot的与Minecraft Server互通消息的插件，支持双向同步消息与指令操作 |
 | [我的世界插件(SpaceXiao_Minecraft)](https://gitee.com/xiaofei20625/space-xiao_minecraft) | [@晓飞](https://gitee.com/xiaofei20625) | 可以配合minecraft的servertap插件在qq群/qq频道控制mc进行添加白名单，输入指令等操作 |
-| [QQGuild-plugin](https://gitee.com/Zyy955/QQGuild-plugin) | [@Zyy955](https://gitee.com/Zyy955/) | 使用[NodeJS-SDK](https://github.com/tencent-connect/bot-node-sdk)进行交互... |
+| [QQGuild-plugin](https://gitee.com/Zyy955/QQGuild-plugin) | [@Zyy955](https://gitee.com/Zyy955/) | 使用[NodeJS-SDK](https://github.com/tencent-connect/bot-node-sdk)进行交互... 可搭配[apps.js](https://gitee.com/Zyy955/Yunzai-Bot-plugin)插件直接使用频道而无需登录QQ |
 | [名字插件(mz-plugin)](https://gitee.com/xyb12345678qwe/mz-plugin/) | [@名字](https://gitee.com/xyb12345678qwe) | 一些丰富的小功能 |
 | [互动插件(Gi-plugin)](https://gitee.com/qiannqq/gi-plugin) | [@千奈千祁](https://gitee.com/qiannqq) | 漂流瓶、每日打卡等群友之间互动的娱乐功能 |
 | [重置版千羽插件(reset-qianyu-plugin)](https://gitee.com/think-first-sxs/reset-qianyu-plugin) | [@think-first-sxs](https://gitee.com/think-first-sxs)   | 对千羽插件进行重置，优化功能，一个咕咕咕插件 |
@@ -148,8 +148,9 @@
 
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [跳过登录QQ](https://gitee.com/Zyy955/Yunzai-Bot-plugin) | [@Zyy955](https://gitee.com/Zyy955) | [查看源码](https://gitee.com/Zyy955/Yunzai-Bot-plugin/raw/main/apps.js) |无需登录QQ即可使用频道插件|
 | [查看依赖版本](https://gitee.com/SmallK111407/onlyJS) | [@曉K](https://gitee.com/SmallK111407) | [查看源码](https://gitee.com/SmallK111407/onlyJS/blob/main/checkPackageVersion/%5Bv1.1.0%5DcheckPackageVersion.js) | 可以通过该插件查看机器人单个依赖版本或所有依赖版本，具体请见文件夹内使用说明 |
-| [读取头像生产踹人表情包](https://gitee.com/Zyy955/Yunzai-Bot-plugin) | [@Zyy955](https://gitee.com/Zyy955) | [查看源码](https://gitee.com/Zyy955/Yunzai-Bot-plugin/blob/main/kick.js) |读取头像生产踹人表情包 适用于`miaozai`的icqq，`trss`的gocq群，私聊，频道插件|
+| [读取头像生成踹人表情包](https://gitee.com/Zyy955/Yunzai-Bot-plugin) | [@Zyy955](https://gitee.com/Zyy955) | [查看源码](https://gitee.com/Zyy955/Yunzai-Bot-plugin/blob/main/kick.js) |读取头像生成踹人表情包 适用于`miaozai`的icqq，`trss`的gocq群，私聊，频道插件|
 | [踢人黑名单](https://gitee.com/sinds/yunzai-example) | [ @sinds](https://gitee.com/sinds) | [查看源码](https://gitee.com/sinds/yunzai-example/blob/master/Qinuos.js) |可以在q群上拉黑别人 然后自动检测发送者踢出|
 | [设置主人](https://gitee.com/Zyy955/Yunzai-Bot-plugin) | [@Zyy955](https://gitee.com/Zyy955) | [查看源码](https://gitee.com/Zyy955/Yunzai-Bot-plugin/raw/main/SetMaster.js) |使用指令快捷设置主人 可在成为主人之后直接将指定用户添加为新的主人|
 | [lol战绩查询](https://gitee.com/dungeonmaster/yunzai-example) | [@所有二刺螈都得死](https://gitee.com/dungeonmaster) | [查看源码](https://gitee.com/dungeonmaster/yunzai-example/blob/master/lol%E6%9F%A5%E8%AF%A2%E6%88%98%E7%BB%A9.js) |lol战绩查询，可以查询wegame隐藏战绩的|
