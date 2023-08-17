@@ -145,8 +145,10 @@
 <!-- 在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 <!-- 请在表首添加新行 -->
 
+
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [完全免费的ai绘图（四宫格）](https://gitee.com/LostInLinearPast/sangboyunapi) | [@一只戏鸢](https://gitee.com/LostInLinearPast) | [查看源码](https://gitee.com/LostInLinearPast/sangboyunapi/blob/master/js%E6%96%87%E4%BB%B6/4%E6%A0%BCai%E7%BB%98%E5%9B%BE.js) | 完全免费的ai绘图（就是速度有点慢，一次四宫格）。源自[桑帛云api](https://api.caonm.net/) |
 | [同时使用喵喵和星铁插件](https://gitee.com/Zyy955/Yunzai-Bot-plugin) | [@Zyy955](https://gitee.com/Zyy955) | [查看源码](https://gitee.com/Zyy955/Yunzai-Bot-plugin/raw/main/StarRail.js) |兼容更新面板和角色面板|
 | [跳过登录QQ](https://gitee.com/Zyy955/Yunzai-Bot-plugin) | [@Zyy955](https://gitee.com/Zyy955) | [查看源码](https://gitee.com/Zyy955/Yunzai-Bot-plugin/raw/main/apps.js) |无需登录QQ即可使用频道插件|
 | [查看依赖版本](https://gitee.com/SmallK111407/onlyJS) | [@曉K](https://gitee.com/SmallK111407) | [查看源码](https://gitee.com/SmallK111407/onlyJS/blob/main/checkPackageVersion/%5Bv1.1.0%5DcheckPackageVersion.js) | 可以通过该插件查看机器人单个依赖版本或所有依赖版本，具体请见文件夹内使用说明 |
@@ -161,8 +163,8 @@
 | [舔狗日记](https://gitee.com/dungeonmaster/yunzai-example) | [@所有二刺螈都得死](https://gitee.com/dungeonmaster) | [查看源码](https://gitee.com/dungeonmaster/yunzai-example/blob/master/%E8%88%94%E7%8B%97%E6%97%A5%E8%AE%B0.js) |舔狗日记|
 | [迫害群友](https://gitee.com/liuhaof/Plugins) | [@Vzx.](https://gitee.com/liuhaof) | [查看源码](https://gitee.com/liuhaof/Plugins/blob/master/%E8%BF%AB%E5%AE%B3%E7%BE%A4%E5%8F%8B.js) | 使用文字魔法来迫害你的群友吧!  |
 | [看看TA是男的女的](https://gitee.com/SmallK111407/onlyJS) | [@曉K](https://gitee.com/SmallK111407) | [查看源码](https://gitee.com/SmallK111407/onlyJS/blob/main/isBoyOrGirl/%5Bv1.3.5%5D%E7%9C%8B%E7%9C%8B%E4%BB%96%E6%98%AF%E7%94%B7%E7%9A%84%E5%A5%B3%E7%9A%84_isBoyOrGirl.js) | 单纯娱乐，如果at询问就是查看被询问人的QQ性别，如果非at就是随机性别 |
-| [多样的ChatGPT](https://gitee.com/LostInLinearPast/sangboyunapi) | [@一只戏鸢](https://gitee.com/LostInLinearPast) | [查看源码](https://gitee.com/LostInLinearPast/sangboyunapi/blob/master/%E5%A4%9A%E6%A0%B7%E7%9A%84ChatGPT.js) | 有/无记忆、版本3.5/4.0，可/不可联网，共5种ChatGPT的api调用。源自[桑帛云api](https://api.lolimi.cn/) |
-| [随机图片、语音、点阵字](https://gitee.com/LostInLinearPast/sangboyunapi) | [@一只戏鸢](https://gitee.com/LostInLinearPast) | [查看源码](https://gitee.com/LostInLinearPast/sangboyunapi/blob/master/%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87%E3%80%81%E8%AF%AD%E9%9F%B3%E3%80%81%E7%82%B9%E9%98%B5%E5%AD%97.js) | 好康的图片、著名的语音、点阵字。源自[桑帛云api](https://api.lolimi.cn/) |
+| [多样的ChatGPT](https://gitee.com/LostInLinearPast/sangboyunapi) | [@一只戏鸢](https://gitee.com/LostInLinearPast) | [查看源码](https://gitee.com/LostInLinearPast/sangboyunapi/blob/master/js%E6%96%87%E4%BB%B6/%E5%A4%9A%E6%A0%B7%E7%9A%84ChatGPT.js) | 有/无记忆、版本3.5/4.0，可/不可联网，共5种ChatGPT的api调用。源自[桑帛云api](https://api.caonm.net/) |
+| [图片语音，有趣的功能](https://gitee.com/LostInLinearPast/sangboyunapi) | [@一只戏鸢](https://gitee.com/LostInLinearPast) | [查看源码](https://gitee.com/LostInLinearPast/sangboyunapi/blob/master/js%E6%96%87%E4%BB%B6/%E5%9B%BE%E7%89%87%E8%AF%AD%E9%9F%B3%EF%BC%8C%E6%9C%89%E8%B6%A3%E7%9A%84%E5%8A%9F%E8%83%BD.js) | 好康的图片、著名的语音、点阵字、漫剪、每日60秒等。源自[桑帛云api](https://api.caonm.net/)|
 | [随机二次元壁纸](https://gitee.com/sailuo110/random-anime-wallpaper) | [@赛咯](https://gitee.com/sailuo110) | [查看源码](https://gitee.com/sailuo110/random-anime-wallpaper/blob/master/%E9%9A%8F%E6%9C%BA%E4%BA%8C%E6%AC%A1%E5%85%83.js) | 提供调用api随机发送二次元壁纸的功能。  |
 | [抽签](https://gitee.com/qiannqq/yunzai-plugin-JS) | [@千奈千祁](https://gitee.com/QianNQQ) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/%E6%8A%BD%E7%AD%BE.js) | 随机抽取签文、宜和忌、小故事。每天只能抽一次，重复使用可查看当天抽到的签。 |
 | [关键词提醒](https://gitee.com/qiannqq/yunzai-plugin-JS) | [@千奈千祁](https://gitee.com/QianNQQ) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/%E5%85%B3%E9%94%AE%E8%AF%8D%E6%8F%90%E9%86%92.js) | 在Bot所在的群聊内，如果有人提到了你设置的关键词，比如：屑千奈太屑了，即包含“千奈”关键词，Bot会提示消息至第一个主人（私聊） |
