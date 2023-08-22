@@ -148,6 +148,7 @@
 
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [向日葵精品js仓库](https://gitee.com/xrk114514/jsmenu) | [@向日葵](https://gitee.com/xrk114514) | [查看源码](https://gitee.com/xrk114514/jsmenu) |内置向日葵原创插件6个，以及倒卖插件35个左右，都是稳定可用的精品插件，不需要测试，可以用脚本直装，快速敏捷|
 | [完全免费的ai绘图（四宫格）](https://gitee.com/LostInLinearPast/sangboyunapi) | [@一只戏鸢](https://gitee.com/LostInLinearPast) | [查看源码](https://gitee.com/LostInLinearPast/sangboyunapi/blob/master/js%E6%96%87%E4%BB%B6/4%E6%A0%BCai%E7%BB%98%E5%9B%BE.js) | 完全免费的ai绘图（就是速度有点慢，一次四宫格）。源自[桑帛云api](https://api.caonm.net/) |
 | [同时使用喵喵和星铁插件](https://gitee.com/Zyy955/Yunzai-Bot-plugin) | [@Zyy955](https://gitee.com/Zyy955) | [查看源码](https://gitee.com/Zyy955/Yunzai-Bot-plugin/raw/main/StarRail.js) |兼容更新面板和角色面板|
 | [跳过登录QQ](https://gitee.com/Zyy955/Yunzai-Bot-plugin) | [@Zyy955](https://gitee.com/Zyy955) | [查看源码](https://gitee.com/Zyy955/Yunzai-Bot-plugin/raw/main/apps.js) |无需登录QQ即可使用频道插件|
@@ -241,7 +242,7 @@
 |[命令行插件安装脚本](https://gitee.com/yunxiyuan/yunzai-plugin-install)| [@云溪院](https://gitee.com/yunxiyuan/) | 适用于拥有git,curl,npm的系统，可多选安装 |
 |[unidbg-fetch-qsign-gui](https://github.com/CikeyQi/unidbg-fetch-qsign-gui)| [@0卡苏打水](https://github.com/CikeyQi) | 适用于Windows端免环境一键启动的签名服务程序 |
 | [白狐管理脚本](https://gitee.com/baihu433/Ubuntu-Yunzai) | [@白狐](https://gitee.com/baihu433) | 使用shell编写的 YZ/MZ/TZ 的一键部署和插件的一键安装与管理功能，支持Ubuntu系统,签名服务器管理脚本支持Linux全系统，插件管理脚本支持Linux和window全系统) |
-| [纷沓葵云崽安装脚本](https://gitee.com/xrk114514/shell-Yunzai) | [@向日葵](https://gitee.com/xrk114514)<br>[@纷沓](https://gitee.com/zhou-ziming-zzm) | 更新啦，内置qqsign安装脚本，以及大幅度优化，除了时雨，Ubuntu谁的脚本还敢打？已与纷沓合并 |
+| [向日葵云崽安装脚本](https://gitee.com/xrk114514/shell-Yunzai) | [@向日葵](https://gitee.com/xrk114514)| 更新啦，内置qqsign安装脚本，以及大幅度优化，Ubuntu谁的脚本还敢打？|
 | [Replit搭建Miao-Yunzai脚本](https://github.com/yzsong06/Replit-Nodejs-MiaoYunzai)| [@一只鬆](https://gitee.com/yzsong06) | 一键在Replit免费在线IDE平台搭建Miao-Yunzai机器人的脚本，完全免费托管与稳定运行 |
 |[阴天图形化win脚本](https://gitee.com/wan13877501248/y-tian-pyscript/tree/master) | [@Hello World](https://gitee.com/wan13877501248) | 基于python编写的喵崽和插件的一键安装以及常见问题修复的win便捷图形化脚本 |
 |[面向纯小白的云崽一键搭建脚本](https://gitee.com/cao100/caoyz.sh)| [@百草](https://gitee.com/cao100)| 针对纯小白的简易脚本，注：适用于Ubuntu|
