@@ -151,7 +151,7 @@
 
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
-| [原神角色语音生成](https://gitee.com/LostInLinearPast/sangboyunapi) | [@一只戏鸢](https://gitee.com/LostInLinearPast) | [查看源码](https://gitee.com/LostInLinearPast/sangboyunapi/blob/master/js%E6%96%87%E4%BB%B6/%E5%8E%9F%E7%A5%9E%E8%AF%AD%E9%9F%B3%E7%94%9F%E6%88%90.js) | 原神/星铁/崩3 角色语音/一言生成（是生成不是语音包）。源自[桑帛云api](https://api.lolimi.cn/) |
+| [原神角色语音生成](https://gitee.com/LostInLinearPast/sangboyunapi) | [@一只戏鸢](https://gitee.com/LostInLinearPast) | [查看源码](https://gitee.com/LostInLinearPast/sangboyunapi/blob/master/js%E6%96%87%E4%BB%B6/%E5%8E%9F%E7%A5%9E%E8%AF%AD%E9%9F%B3%E7%94%9F%E6%88%90.js) | 原神/星铁/崩3/家人们谁懂啊 角色语音/一言生成（是生成不是语音包）。源自[桑帛云api](https://api.lolimi.cn/) |
 | [向日葵精品js仓库](https://gitee.com/xrk114514/jsmenu) | [@向日葵](https://gitee.com/xrk114514) | [查看源码](https://gitee.com/xrk114514/jsmenu) |内置向日葵原创插件6个，以及倒卖插件35个左右，都是稳定可用的精品插件，不需要测试，可以用脚本直装，快速敏捷|
 | [完全免费的ai绘图（四宫格）](https://gitee.com/LostInLinearPast/sangboyunapi) | [@一只戏鸢](https://gitee.com/LostInLinearPast) | [查看源码](https://gitee.com/LostInLinearPast/sangboyunapi/blob/master/js%E6%96%87%E4%BB%B6/4%E6%A0%BCai%E7%BB%98%E5%9B%BE.js) | 完全免费的ai绘图（就是速度有点慢，一次四宫格）。源自[桑帛云api](https://api.lolimi.cn/) |
 | [同时使用喵喵和星铁插件](https://gitee.com/Zyy955/Yunzai-Bot-plugin) | [@Zyy955](https://gitee.com/Zyy955) | [查看源码](https://gitee.com/Zyy955/Yunzai-Bot-plugin/raw/main/StarRail.js) |兼容更新面板和角色面板|
