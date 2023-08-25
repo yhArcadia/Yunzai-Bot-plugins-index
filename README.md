@@ -128,6 +128,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [三国文游(sanguo-plugin)](https://gitee.com/xyb12345678qwe/sanguo-plugin) | [@名字](https://gitee.com/xyb12345678qwe) | 三国类的游戏插件 |
 | [虚空插件 (akasha-terminal-plugin)](https://gitee.com/go-farther-and-farther/akasha-terminal-plugin) | [@越追越远](https://gitee.com/go-farther-and-farther) | 提供企鹅群游戏,目前实现了群内决斗,娶群友等有趣的小游戏 |
 | [咸鱼插件 (xianyu-plugin)](https://gitee.com/suancaixianyu/xianyu-plugin) | [@酸菜咸鱼](https://gitee.com/suancaixianyu) | 一些群聊对战小游戏，没有文游的复杂体系，休闲娱乐，老少皆宜 |
 
