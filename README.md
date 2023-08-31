@@ -153,6 +153,10 @@
 
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [才字诀](https://gitee.com/wind-trace-typ/wind-js) | [@风の迹](https://gitee.com/wind-trace-typ) | [查看源码](https://gitee.com/wind-trace-typ/wind-js/blob/master/%E6%89%8D%E5%AD%97%E8%AF%80.js) |识别出群友发的'你'开头的句子，然后将'你'替换从成'你才' |
+| [随机图片](https://gitee.com/wind-trace-typ/wind-js) | [@风の迹](https://gitee.com/wind-trace-typ) | [查看源码](https://gitee.com/wind-trace-typ/wind-js/blob/master/%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87.js) | 可以将自己的表情包一股脑的塞进一个文件夹然后通过指令随机出图了 |
+| [自嘲嘲笑](https://gitee.com/wind-trace-typ/wind-js) | [@风の迹](https://gitee.com/wind-trace-typ) | [查看源码](https://gitee.com/wind-trace-typ/wind-js/blob/master/%E8%87%AA%E5%98%B2%E5%98%B2%E7%AC%91.js) | 可以伪装自己或者群友发送自嘲的聊天记录，当然有主人特权(),也可以自定义嘲笑的词条自己被嘲笑时的回复 |
+| [戳我戳他](https://gitee.com/wind-trace-typ/wind-js) | [@风の迹](https://gitee.com/wind-trace-typ) | [查看源码](https://gitee.com/wind-trace-typ/wind-js/blob/master/%E6%88%B3%E6%88%91%E6%88%B3%E4%BB%96.js) | 可以让机器人戳自己或者别人，戳戳的次数和间隔时间可以自定义 |
 | [api插件](https://gitee.com/wind-trace-typ/wind-js) | [@风の迹](https://gitee.com/wind-trace-typ) | [查看源码](https://gitee.com/wind-trace-typ/wind-js/blob/master/api.js) | 根据一些免费的api获取头像,动漫图片,哔哩哔哩周榜，以及一些账号的绑定信息等 |
 | [GH仓库](https://github.com/xiaotian2333/yunzai-plugins-Single-file) | [@小天](https://github.com/xiaotian2333) | [查看源码](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/GH%E4%BB%93%E5%BA%93.js) | 在检测到github链接时发送仓库速览图 |
 | [原神角色语音生成](https://gitee.com/LostInLinearPast/sangboyunapi) | [@一只戏鸢](https://gitee.com/LostInLinearPast) | [查看源码](https://gitee.com/LostInLinearPast/sangboyunapi/blob/master/js%E6%96%87%E4%BB%B6/%E5%8E%9F%E7%A5%9E%E8%AF%AD%E9%9F%B3%E7%94%9F%E6%88%90.js) | 原神/星铁/崩3/家人们谁懂啊 角色语音/一言生成（是生成不是语音包）。源自[桑帛云api](https://api.lolimi.cn/) |
