@@ -153,6 +153,8 @@
 
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [各大榜单及动漫图查询](https://gitee.com/wind-trace-typ/wind-js) | [@风の迹](https://gitee.com/wind-trace-typ) | [查看源码](https://gitee.com/wind-trace-typ/wind-js/blob/master/各大榜单及动漫图查询.js.js) | 根据一些免费的api获取头像,动漫图片,还有bilibili等各大平台热度榜单的查询功能 |
+| [做菜菜谱系统](https://gitee.com/wind-trace-typ/wind-js) | [@风の迹](https://gitee.com/wind-trace-typ) | [查看源码](https://gitee.com/wind-trace-typ/wind-js/blob/master/%E5%81%9A%E8%8F%9C%E7%B3%BB%E7%BB%9F.js) |可以获取到你需要做的菜的做法，以聊天记录的形式发出，配备图片教学过程，且可自定义发送的教程数量 |
 | [才字诀](https://gitee.com/wind-trace-typ/wind-js) | [@风の迹](https://gitee.com/wind-trace-typ) | [查看源码](https://gitee.com/wind-trace-typ/wind-js/blob/master/%E6%89%8D%E5%AD%97%E8%AF%80.js) |识别出群友发的'你'开头的句子，然后将'你'替换从成'你才' |
 | [随机图片](https://gitee.com/wind-trace-typ/wind-js) | [@风の迹](https://gitee.com/wind-trace-typ) | [查看源码](https://gitee.com/wind-trace-typ/wind-js/blob/master/%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87.js) | 可以将自己的表情包一股脑的塞进一个文件夹然后通过指令随机出图了 |
 | [自嘲嘲笑](https://gitee.com/wind-trace-typ/wind-js) | [@风の迹](https://gitee.com/wind-trace-typ) | [查看源码](https://gitee.com/wind-trace-typ/wind-js/blob/master/%E8%87%AA%E5%98%B2%E5%98%B2%E7%AC%91.js) | 可以伪装自己或者群友发送自嘲的聊天记录，当然有主人特权(),也可以自定义嘲笑的词条自己被嘲笑时的回复 |
