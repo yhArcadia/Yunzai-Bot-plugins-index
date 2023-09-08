@@ -56,6 +56,7 @@
 
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [wind-plugin](https://gitee.com/wind-trace-typ/wind-plugin) | [@风の迹](https://gitee.com/wind-trace-typ) | 各大平台热搜榜单，搜索菜谱等功能，还附带轻量的修炼小游戏(适合大群，不会因为游戏功能太多导致刷屏),更多其他功能仍在咕咕咕 |
 | [WeChat-plugin](https://gitee.com/Zyy955/WeChat-plugin) | [@Zyy955](https://gitee.com/Zyy955/) | 应用端仅支持`Windows`，适用于`Miao-Yunzai`和`Yunzai-Bot`的微信机器人插件。可搭配[apps.js](https://gitee.com/Zyy955/Yunzai-Bot-plugin)插件直接使用微信而无需登录QQ |
 | [语音合成api插件(ttsapi-yunzai-Plugin)](https://gitee.com/TsaiXingyu/ttsapi-yunzai-Plugin) | [@古手梨花](https://gitee.com/TsaiXingyu)| vitsapi版现已支持原神4.0角色与svc唱歌 |
 | [Minecraft插件(mc-plugin)](https://github.com/CikeyQi/mc-plugin) | [@0卡苏打水](https://github.com/CikeyQi)  [@erzaozi](https://github.com/erzaozi) | 基于Yunzai-Bot的与Minecraft Server互通消息的插件，支持双向同步消息与指令操作 |
