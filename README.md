@@ -56,6 +56,7 @@
 
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [btc-memz-plugin](https://gitee.com/memz2007/btc-memz-plugin) | [@一只可爱的MEMZ](https://gitee.com/memz2007) [@叶殇](https://gitee.com/maple-leaf-sweeping) [@枫林](https://gitee.com/fenglinit) | 用来查询虚拟货币市场价格，包括一些其他的有趣功能 |
 | [wind-plugin](https://gitee.com/wind-trace-typ/wind-plugin) | [@风の迹](https://gitee.com/wind-trace-typ) | 各大平台热搜榜单，搜索菜谱等功能，还附带轻量的修炼小游戏(适合大群，不会因为游戏功能太多导致刷屏),更多其他功能仍在咕咕咕 |
 | [WeChat-plugin](https://gitee.com/Zyy955/WeChat-plugin) | [@Zyy955](https://gitee.com/Zyy955/) | 应用端仅支持`Windows`，适用于`Miao-Yunzai`和`Yunzai-Bot`的微信机器人插件。可搭配[apps.js](https://gitee.com/Zyy955/Yunzai-Bot-plugin)插件直接使用微信而无需登录QQ |
 | [语音合成api插件(ttsapi-yunzai-Plugin)](https://gitee.com/TsaiXingyu/ttsapi-yunzai-Plugin) | [@古手梨花](https://gitee.com/TsaiXingyu)| vitsapi版现已支持原神4.0角色与svc唱歌 |
