@@ -26,7 +26,7 @@
 | Yunzai-Bot-lite | [@听语惊花](https://github.com/Nwflower) | [☞GitHub](https://github.com/Nwflower/yunzai-bot-lite) | [☞Gitee](https://gitee.com/Nwflower/yunzai-bot-lite) | 轻量版，无原神功能 | □□□□□ |
 | Miao-Yunzai | [@喵喵](https://gitee.com/yoimiya-kokomi) | [☞GitHub](https://github.com/yoimiya-kokomi/Miao-Yunzai) | [☞Gitee](https://gitee.com/yoimiya-kokomi/Miao-Yunzai) | 喵版 Yunzai | ■■■■■ |
 | TRSS-Yunzai | [@时雨🌌星空](../../../../TimeRainStarSky) | [☞GitHub](https://github.com/TimeRainStarSky/Yunzai) | [☞Gitee](https://gitee.com/TimeRainStarSky/Yunzai) | Yunzai 应用端，支持多账号，支持协议端：go-cqhttp、ComWeChat、GSUIDCore、ICQQ、QQ频道、微信、KOOK、Telegram、Discord | ■■■■□ |
-| Alemon-Bot | [@lemonade](https://github.com/ningmengchongshui/alemon) | [☞GitHub](https://github.com/ningmengchongshui/alemon) | [☞Gitee](https://gitee.com/ningmengchongshui/alemon) | 跨频台开发框架机器人,开箱即用,支持QQ/QQ频道/米游社大别野/Discord/KOOK平台,善于开发大型跨平台游戏,更多详细可点击[官方文档](http://ningmengchongshui.gitee.io/alemon) | ■■■□□ |
+| Alemon-Bot | [@LEMONADE](https://github.com/ningmengchongshui/alemon) | [☞GitHub](https://github.com/ningmengchongshui/alemon) | [☞Gitee](https://gitee.com/ningmengchongshui/alemon) | 专注于跨平台开发的框架机器人,开箱即用,支持QQ频道/米游社大别野/Discord/KOOK平台,善于开发大型跨平台游戏,更多详细可点击[官方文档](https://alemonjs.com) | ■■■□□ |
 
 </details>
 
@@ -137,6 +137,7 @@
 | [三国文游(sanguo-plugin)](https://gitee.com/xyb12345678qwe/sanguo-plugin) | [@名字](https://gitee.com/xyb12345678qwe) | 三国类的游戏插件 |
 | [虚空插件 (akasha-terminal-plugin)](https://gitee.com/go-farther-and-farther/akasha-terminal-plugin) | [@越追越远](https://gitee.com/go-farther-and-farther) | 提供企鹅群游戏,目前实现了群内决斗,娶群友等有趣的小游戏 |
 | [咸鱼插件 (xianyu-plugin)](https://gitee.com/suancaixianyu/xianyu-plugin) | [@酸菜咸鱼](https://gitee.com/suancaixianyu) | 一些群聊对战小游戏，没有文游的复杂体系，休闲娱乐，老少皆宜 |
+| [修仙插件 (xiuxian-plugin)](https://gitee.com/ningmengchongshui/xiuxian-plugin) | [@LEMONADE](https://gitee.com/ningmengchongshui) | 多人在线修仙文字游戏 |
 
 <!-- 请不要在此处添加行，请在此表格顶部添加 -->
 
@@ -262,7 +263,7 @@
 | [DF-Yunzai管理脚本](http://dengfenglai.cloud) | [@等风来](https://gitee.com/Wind-is-so-strong) | **适用于Ubuntu和Termux**的Yunzai快捷管理脚本，可以一键安装Yunzai、MiaoYunzai、FFmpeg、Python、Pip和自动安装插件库的plugin插件。 |
 | [Mit_gancm安装QQBot](https://gitee.com/MIt-gancm/Linux-for-QQ-Bot/) | [@Mit_gancm](https://gitee.com/MIt-gancm) | 适用于linux乌班图 注：处于测试阶段 
 | [阴天一键安装云崽](https://gitee.com/wan13877501248/yin-tian-tian-script-for-win) | [@Hello World](https://gitee.com/wan13877501248) | 个人电脑一键自动部署喵版云崽和阴天插件的windows简易C#脚本，不推荐服务器用户使用。 |
-| [Bot-Help](https://gitee.com/ningmengchongshui/bot-help) | [@lemonade](https://gitee.com/ningmengchongshui/lemonade) | linux系统环境一键部署脚本 |
+| [Bot-Help](https://gitee.com/ningmengchongshui/bot-help) | [@LEMONADE](https://gitee.com/ningmengchongshui/lemonade) | linux系统环境一键部署脚本 |
 | [Ubuntu一键安装Miao-Yunzai脚本](https://gitee.com/paimon114514/termux-yunzai-cv-script) | [@htadiy](https://gitee.com/paimon114514) | 一个整合了Python和FFmpeg的一键安装Miao-Yunzai脚本。 |
 | [3QNmoqy-Yunzai.bat Yunzai-Bot管理脚本](https://gitee.com/qiannqq/3QNmoqy-Yunzai-bat) | [@千奈千祁](https://gitee.com/qiannqq) | 在windows运行的Yunzai-Bot管理脚本 |
 | [Yunzai-Bot小助手](https://github.com/ChuYao233/YunzaiBotHelper) | [ChuYao](https://github.com/ChuYao233) | Windows傻瓜式部署Yunzai-Bot,提供插件一键下载等功能。 |
