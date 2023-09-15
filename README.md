@@ -109,7 +109,6 @@
 | [AI语音本地生成 (vits_yunzai_plugin)](https://gitee.com/sumght/vits_yunzai_plugin) | [@sumght-z](https://github.com/sumght-z) | 基于vits本地生成原神/崩三语音 [生成效果演示](https://www.bilibili.com/video/BV1ke4y1p7qq)|
 | [TRSS 插件 (TRSS-Plugin)](https://Yunzai.TRSS.me) | [@时雨🌌星空](../../../../TimeRainStarSky) | 图片修复、图片背景去除、原神语音合成、系统信息、二维码生成、米哈游登录、Markdown、代码高亮、远程命令、文件操作、云盘操作 |
 | [windoge-plugin](https://github.com/gxy12345/windoge-plugin) | [@gxy12345](https://github.com/gxy12345) | **【注意：该插件没有Gitee镜像】**提供一些**国际服**便捷功能，以及继续维护参考面板数据 |
-| [椰奶插件 (yenai-plugin)](https://www.yenai.ren) | [@椰羊](https://github.com/yeyang52)| 提供Bot事件通知、搜图搜番、群管、Pixiv等功能 |
 | [小飞插件 (xiaofei-plugin)](https://gitee.com/xfdown/xiaofei-plugin) | [@小飞](https://gitee.com/xfdown) | 多选点歌、天气查询、原神注册时间查询 |
 | [l-plugin](https://github.com/liuly0322/l-plugin) | [@liuly0322](https://github.com/liuly0322) | 塔罗牌，抽签，骰子，今天吃什么，tex图片等 |
 | [土块插件（QQ频道版） (earth-k-plugin)](https://gitee.com/diqiushengwu/earth-k-plugin) |  [@地球生物](https://gitee.com/diqiushengwu) [@曉K](https://gitee.com/SmallK111407) | 适用于QQ频道的土块插件，功能同下，详见插件帮助 |
