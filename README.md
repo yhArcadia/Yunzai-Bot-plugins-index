@@ -65,7 +65,7 @@
 | [Minecraft插件(mc-plugin)](https://github.com/CikeyQi/mc-plugin) | [@0卡苏打水](https://github.com/CikeyQi)  [@erzaozi](https://github.com/erzaozi) | 基于Yunzai-Bot的与Minecraft Server互通消息的插件，支持双向同步消息与指令操作 |
 | [我的世界插件(SpaceXiao_Minecraft)](https://gitee.com/xiaofei20625/space-xiao_minecraft) | [@晓飞](https://gitee.com/xiaofei20625) | 可以配合minecraft的servertap插件在qq群/qq频道控制mc进行添加白名单，输入指令等操作 |
 | [QQGuild-plugin](https://gitee.com/Zyy955/QQGuild-plugin) | [@Zyy955](https://gitee.com/Zyy955/) | 使用[NodeJS-SDK](https://github.com/tencent-connect/bot-node-sdk)进行交互... 可搭配[apps.js](https://gitee.com/Zyy955/Yunzai-Bot-plugin)插件直接使用频道而无需登录QQ |
-| [名字插件(mz-plugin)](https://gitee.com/xyb12345678qwe/mz-plugin/) | [@名字](https://gitee.com/xyb12345678qwe) | 一些丰富的小功能 |
+| [名字插件(mz-plugin)](https://wz.mzswebs.top/) | [@名字](https://gitee.com/xyb12345678qwe) | 一些丰富的小功能 |
 | [互动插件(Gi-plugin)](https://gitee.com/qiannqq/gi-plugin) | [@千奈千祁](https://gitee.com/qiannqq) | 漂流瓶、每日打卡等群友之间互动的娱乐功能 |
 | [重置版千羽插件(reset-qianyu-plugin)](https://gitee.com/think-first-sxs/reset-qianyu-plugin) | [@think-first-sxs](https://gitee.com/think-first-sxs)   | 对千羽插件进行重置，优化功能，一个咕咕咕插件 |
 | [饼干插件(biscuit-plugin)](https://gitee.com/Yummy-cookie/biscuit-plugin) |[@Yummy-cookie](https://gitee.com/Yummy-cookie) | 一些功能比如ping，ikun音乐 |
@@ -136,9 +136,10 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [武者文游(wuzhe-plugin)](https://wz.mzswebs.top/) | [@名字](https://gitee.com/xyb12345678qwe) | 武者文游~，目前功能较少 |
 | [寸幼萱银帕](https://gitee.com/cunyx/impart_cunyx-plugin)|[@最好喝的小米粥](https://gitee.com/cunyx)|由寸幼萱插件银帕功能单独分离重置的新版银帕插件，云崽圈内自定义性最强的银帕插件。完全免费，功能全部在本地进行(更新相关功能除外)，完全开源，日志详细|
 | [绝云间修仙V1.3.0「龙腾虎跃庆周年」(xiuxian@1.3.0)](https://gitee.com/hutao222/DDZS-XIUXIAN-V1.3.0) | [@DD斩首](https://gitee.com/hutao222) | _周年庆活动限时开启_ |
-| [三国文游(sanguo-plugin)](https://gitee.com/xyb12345678qwe/sanguo-plugin) | [@名字](https://gitee.com/xyb12345678qwe) | 三国类的游戏插件 |
+| [三国文游(sanguo-plugin)](https://wz.mzswebs.top/) | [@名字](https://gitee.com/xyb12345678qwe) | 三国类的游戏插件 |
 | [虚空插件 (akasha-terminal-plugin)](https://gitee.com/go-farther-and-farther/akasha-terminal-plugin) | [@越追越远](https://gitee.com/go-farther-and-farther) | 提供企鹅群游戏,目前实现了群内决斗,娶群友等有趣的小游戏 |
 | [咸鱼插件 (xianyu-plugin)](https://gitee.com/suancaixianyu/xianyu-plugin) | [@酸菜咸鱼](https://gitee.com/suancaixianyu) | 一些群聊对战小游戏，没有文游的复杂体系，休闲娱乐，老少皆宜 |
 | [修仙插件 (xiuxian-plugin)](https://gitee.com/ningmengchongshui/xiuxian-plugin) | [@LEMONADE](https://gitee.com/ningmengchongshui) | 多人在线修仙文字游戏 |
