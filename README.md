@@ -56,6 +56,7 @@
 
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [ICQQ-plugin](https://gitee.com/Zyy955/icqq-plugin) | [@Zyy955](https://gitee.com/Zyy955/) | 应群友要求做的icqq多开插件、测试阶段~如有bug多多包涵~ |
 | [沙雕插件(tg-plugin)](https://gitee.com/misakime/tg-plugin.git) | [@misakime](https://gitee.com/misakime) | 自动推送沙雕图和新番消息的插件|
 | [WeChat-Web-plugin](https://gitee.com/Zyy955/WeChat-Web-plugin) | [@Zyy955](https://gitee.com/Zyy955/) | 支持`Linux`，适用于`Miao-Yunzai`和`Yunzai-Bot`的网页版微信机器人插件。|
 | [btc-memz-plugin](https://gitee.com/memz2007/btc-memz-plugin) | [@一只可爱的MEMZ](https://gitee.com/memz2007) [@叶殇](https://gitee.com/maple-leaf-sweeping) [@枫林](https://gitee.com/fenglinit) | 用来查询虚拟货币市场价格，包括一些其他的有趣功能 |
@@ -286,6 +287,7 @@
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+|[一些基础插件示例](https://gitee.com/Zyy955/Miao-Yunzai-plugin)|[@Zyy955](https://gitee.com/Zyy955)|应群友要求写的一点js插件开发例子，目前咕咕咕中，比较忙~|
 |[简单js插件开发模板](https://gitee.com/Yae_Miko_Fox/yunzai_bot-plugin)|[@宫司喜欢坏事](https://gitee.com/Yae_Miko_Fox)|提供JavaScript和Java开发教程和yunzai插件开发模板|
 |[HuggingFace部署签名服务](https://github.com/CikeyQi/QQsign_docs)| [@0卡苏打水](https://github.com/CikeyQi) | 在云端免费部署签名服务 |
 |[好活合集](https://gitee.com/SmallK111407/goodjob-img)| [@曉K](https://gitee.com/SmallK111407) | 用于存储云崽圈子一些人不寻常、逆天、乐子、搞笑、有趣等等的发言。 |
