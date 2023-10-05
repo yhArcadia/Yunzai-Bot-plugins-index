@@ -164,6 +164,7 @@
 
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [chuochuo](https://gitee.com/Nahida233/js-plugin-collection) | [@纳西妲](https://gitee.com/Nahida233) | [查看源码](https://gitee.com/Nahida233/js-plugin-collection/blob/master/js%E6%8F%92%E4%BB%B6/%E6%88%B3%E4%B8%80%E6%88%B3.js) | 戳机器人触发效果，可自定义文案，图片api以及语言功能 |
 | [各大榜单及动漫图查询](https://gitee.com/wind-trace-typ/wind-js) | [@风の迹](https://gitee.com/wind-trace-typ) | [查看源码](https://gitee.com/wind-trace-typ/wind-js/blob/master/各大榜单及动漫图查询.js.js) | 根据一些免费的api获取头像,动漫图片,还有bilibili等各大平台热度榜单的查询功能 |
 | [做菜菜谱系统](https://gitee.com/wind-trace-typ/wind-js) | [@风の迹](https://gitee.com/wind-trace-typ) | [查看源码](https://gitee.com/wind-trace-typ/wind-js/blob/master/%E5%81%9A%E8%8F%9C%E7%B3%BB%E7%BB%9F.js) |可以获取到你需要做的菜的做法，以聊天记录的形式发出，配备图片教学过程，且可自定义发送的教程数量 |
 | [才字诀](https://gitee.com/wind-trace-typ/wind-js) | [@风の迹](https://gitee.com/wind-trace-typ) | [查看源码](https://gitee.com/wind-trace-typ/wind-js/blob/master/%E6%89%8D%E5%AD%97%E8%AF%80.js) |识别出群友发的'你'开头的句子，然后将'你'替换从成'你才' |
