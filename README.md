@@ -288,6 +288,7 @@
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [limit](https://gitee.com/actually-the-rain-is-good/limit) | [@其实雨很好](https://gitee.com/actually-the-rain-is-good) | 极限面板，支持一键替换，使用方法请查看[README.md](https://gitee.com/actually-the-rain-is-good/limit/blob/master/README.md) |
 |[一些基础插件示例](https://gitee.com/Zyy955/Miao-Yunzai-plugin)|[@Zyy955](https://gitee.com/Zyy955)|应群友要求写的一点js插件开发例子，目前咕咕咕中，比较忙~|
 |[简单js插件开发模板](https://gitee.com/Yae_Miko_Fox/yunzai_bot-plugin)|[@宫司喜欢坏事](https://gitee.com/Yae_Miko_Fox)|提供JavaScript和Java开发教程和yunzai插件开发模板|
 |[HuggingFace部署签名服务](https://github.com/CikeyQi/QQsign_docs)| [@0卡苏打水](https://github.com/CikeyQi) | 在云端免费部署签名服务 |
