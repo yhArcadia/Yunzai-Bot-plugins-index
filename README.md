@@ -137,6 +137,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [文游(Tsai-Plugin)](https://gitee.com/TsaiXingyu/Tsai-Plugin) | [@古手梨花](https://gitee.com/TsaiXingyu) | 目前测试，有不少bug|
 | [武者文游(wuzhe-plugin)](https://wz.mzswebs.top/) | [@名字](https://gitee.com/xyb12345678qwe) | 武者文游~，目前功能较少 |
 | [寸幼萱银帕](https://gitee.com/cunyx/impart_cunyx-plugin)|[@最好喝的小米粥](https://gitee.com/cunyx)|由寸幼萱插件银帕功能单独分离重置的新版银帕插件，云崽圈内自定义性最强的银帕插件。完全免费，功能全部在本地进行(更新相关功能除外)，完全开源，日志详细|
 | [绝云间修仙V1.3.0「龙腾虎跃庆周年」(xiuxian@1.3.0)](https://gitee.com/hutao222/DDZS-XIUXIAN-V1.3.0) | [@DD斩首](https://gitee.com/hutao222) | _周年庆活动限时开启_ |
