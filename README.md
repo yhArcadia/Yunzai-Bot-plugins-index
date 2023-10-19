@@ -138,7 +138,6 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
-| [征途插件 (Tkdream-1.2)](https://gitee.com/AAmiaom/Tkdream-1.2) | [@喵](https://gitee.com/AAmiaom) | 三国类文字游戏 |
 | [文游(Tsai-Plugin)](https://gitee.com/TsaiXingyu/Tsai-Plugin) | [@古手梨花](https://gitee.com/TsaiXingyu) | 目前测试，有不少bug|
 | [武者文游(wuzhe-plugin)](https://wz.mzswebs.top/) | [@名字](https://gitee.com/xyb12345678qwe) | 武者文游~，目前功能较少 |
 | [寸幼萱银帕(impart_cunyx-plugin)](https://gitee.com/cunyx/impart_cunyx-plugin)|[@最好喝的小米粥](https://gitee.com/cunyx)|由寸幼萱插件银帕功能单独分离重置的新版银帕插件，云崽圈内自定义性最强的银帕插件。完全免费，功能全部在本地进行(更新相关功能除外)，完全开源，日志详细|
