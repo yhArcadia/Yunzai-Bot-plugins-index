@@ -296,6 +296,7 @@
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [原神/星铁角色面板图库](https://github.com/GuGuNiu/Miao-Plugin-MBT) | [@咕咕牛](https://github.com/GuGuNiu) | 喵喵插件的角色面板图库 |
 | [星穹铁道攻略图](https://gitee.com/little-flower-flower/sr-strategy)| [@小花花花儿](https://gitee.com/little-flower-flower) | 星穹铁道攻略图库 |
 | [米游社云崽部署教程](https://gitee.com/Nahida233/mysVilla-setting) | [@纳西妲 ](https://gitee.com/Nahida233) | 在米游社也能拥有属于自己的云崽了！！！ |
 | [limit](https://gitee.com/actually-the-rain-is-good/limit) | [@其实雨很好](https://gitee.com/actually-the-rain-is-good) | 极限面板，支持一键替换，使用方法请查看[README.md](https://gitee.com/actually-the-rain-is-good/limit/blob/master/README.md) |
