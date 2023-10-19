@@ -167,6 +167,10 @@
 
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [清理不在群内好友](https://gitee.com/little-flower-flower/yzjs) | [@小花花花儿](https://gitee.com/little-flower-flower) | [查看源码](https://gitee.com/little-flower-flower/yzjs/blob/master/%E5%88%A0%E9%99%A4%E9%9D%9E%E7%BE%A4%E5%86%85%E5%A5%BD%E5%8F%8B.js) | 一键删除不在机器人所在群的好友 |
+| [语音盒](https://gitee.com/little-flower-flower/yzjs) | [@小花花花儿](https://gitee.com/little-flower-flower) | [查看源码](https://gitee.com/little-flower-flower/yzjs/blob/master/%E8%AF%AD%E9%9F%B3%E7%9B%92.js) | 语音盒原作者[@椰羊](https://gitee.com/yeyang52) |
+| [qq估价](https://gitee.com/little-flower-flower/yzjs) | [@小花花花儿](https://gitee.com/little-flower-flower) | [查看源码](https://gitee.com/little-flower-flower/yzjs/blob/master/qq%E4%BC%B0%E4%BB%B7.js) | qq估价无需注册获取token哦! |
+| [米游社大地图资源查询](https://gitee.com/little-flower-flower/yzjs) | [@小花花花儿](https://gitee.com/little-flower-flower) | [查看源码](https://gitee.com/little-flower-flower/yzjs/blob/master/%E7%B1%B3%E6%B8%B8%E7%A4%BE%E5%9C%B0%E5%9B%BE.js) | 原神资源查询原作者[@花里胡哨](https://gitee.com/QQ1146638442) |
 | [chuochuo](https://gitee.com/Nahida233/js-plugin-collection) | [@纳西妲](https://gitee.com/Nahida233) | [查看源码](https://gitee.com/Nahida233/js-plugin-collection/blob/master/js%E6%8F%92%E4%BB%B6/%E6%88%B3%E4%B8%80%E6%88%B3.js) | 戳机器人触发效果，可自定义文案，图片api以及语言功能 |
 | [各大榜单及动漫图查询](https://gitee.com/wind-trace-typ/wind-js) | [@风の迹](https://gitee.com/wind-trace-typ) | [查看源码](https://gitee.com/wind-trace-typ/wind-js/blob/master/各大榜单及动漫图查询.js.js) | 根据一些免费的api获取头像,动漫图片,还有bilibili等各大平台热度榜单的查询功能 |
 | [做菜菜谱系统](https://gitee.com/wind-trace-typ/wind-js) | [@风の迹](https://gitee.com/wind-trace-typ) | [查看源码](https://gitee.com/wind-trace-typ/wind-js/blob/master/%E5%81%9A%E8%8F%9C%E7%B3%BB%E7%BB%9F.js) |可以获取到你需要做的菜的做法，以聊天记录的形式发出，配备图片教学过程，且可自定义发送的教程数量 |
@@ -292,6 +296,7 @@
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [星穹铁道攻略图](https://gitee.com/little-flower-flower/sr-strategy)| [@小花花花儿](https://gitee.com/little-flower-flower) | 星穹铁道攻略图库 |
 | [米游社云崽部署教程](https://gitee.com/Nahida233/mysVilla-setting) | [@纳西妲 ](https://gitee.com/Nahida233) | 在米游社也能拥有属于自己的云崽了！！！ |
 | [limit](https://gitee.com/actually-the-rain-is-good/limit) | [@其实雨很好](https://gitee.com/actually-the-rain-is-good) | 极限面板，支持一键替换，使用方法请查看[README.md](https://gitee.com/actually-the-rain-is-good/limit/blob/master/README.md) |
 |[一些基础插件示例](https://gitee.com/Zyy955/Miao-Yunzai-plugin)|[@Zyy955](https://gitee.com/Zyy955)|应群友要求写的一点js插件开发例子，目前咕咕咕中，比较忙~|
