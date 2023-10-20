@@ -265,7 +265,6 @@
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
 | [⭐][TRSS Yunzai 管理脚本](https://TRSS.me) | [@时雨🌌星空](../../../../TimeRainStarSky) | 【置顶】提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Windows / Linux / Mac / Android |
-| [Linux签名API安装脚本](https://gitee.com/Alan_Brown/sign-easy) | [@古都 雨冬 寒夜](https://gitee.com/Alan_Brown) | 提供用于Linux（云服务器、手机Termux）的签名API安装脚本（可能支持所有Linux版本？） |
 | [Docker安装Yunzai-Bot](https://gitee.com/hbj2457/Yunzai-Bot_on_docker) | [@hbj白夜](https://gitee.com/hbj2457) | 提供docker安装方法以及搭建云崽的镜像，开箱即用近乎一键安装，无需考虑redis和nodejs环境安装问题，可在任意支持任何安装docker的操作系统 |
 |[命令行插件安装脚本](https://gitee.com/yunxiyuan/yunzai-plugin-install)| [@云溪院](https://gitee.com/yunxiyuan/) | 适用于拥有git,curl,npm的系统，可多选安装 |
 |[unidbg-fetch-qsign-gui](https://github.com/CikeyQi/unidbg-fetch-qsign-gui)| [@0卡苏打水](https://github.com/CikeyQi) | 适用于Windows端免环境一键启动的签名服务程序 |
