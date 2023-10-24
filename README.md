@@ -26,7 +26,7 @@
 | Yunzai-Bot-lite | [@听语惊花](https://github.com/Nwflower) | [☞GitHub](https://github.com/Nwflower/yunzai-bot-lite) | [☞Gitee](https://gitee.com/Nwflower/yunzai-bot-lite) | 轻量版，无原神功能 | □□□□□ |
 | Miao-Yunzai | [@喵喵](https://gitee.com/yoimiya-kokomi) | [☞GitHub](https://github.com/yoimiya-kokomi/Miao-Yunzai) | [☞Gitee](https://gitee.com/yoimiya-kokomi/Miao-Yunzai) | 喵版 Yunzai | ■■■■■ |
 | TRSS-Yunzai | [@时雨🌌星空](../../../../TimeRainStarSky) | [☞GitHub](https://github.com/TimeRainStarSky/Yunzai) | [☞Gitee](https://gitee.com/TimeRainStarSky/Yunzai) | Yunzai 应用端，支持多账号，支持协议端：go-cqhttp、ComWeChat、GSUIDCore、ICQQ、QQ频道、微信、KOOK、Telegram、Discord | ■■■■□ |
-| Alemon-Bot | [@LEMONADE](https://github.com/ningmengchongshui/alemon) | [☞GitHub](https://github.com/ningmengchongshui/alemon) | [☞Gitee](https://gitee.com/ningmengchongshui/alemon) | 专注于跨平台开发的框架机器人,开箱即用,支持`QQ频道`/`米游社大别野`/`Discord`/`KOOK`平台,更多详细可点击[官方文档](https://alemonjs.com)，Linux可搭配`bot-help`部署环境 | ■■■□□ |
+| A-Yunzai | [@全体成员](https://github.com/ningmengchongshui) | ---- | [☞Gitee](https://gitee.com/ningmengchongshui/a-yunzai) | 基于Miao-Yunzai制作的频道类平台机器人,支持YunzaiV2&3插件,支持TS/JS,支持高度定制机器人 | ■■■□□ |
 
 </details>
 
