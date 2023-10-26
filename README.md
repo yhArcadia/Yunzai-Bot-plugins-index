@@ -26,7 +26,7 @@
 | Yunzai-Bot-lite | [@听语惊花](https://github.com/Nwflower) | [☞GitHub](https://github.com/Nwflower/yunzai-bot-lite) | [☞Gitee](https://gitee.com/Nwflower/yunzai-bot-lite) | 轻量版，无原神功能 | □□□□□ |
 | Miao-Yunzai | [@喵喵](https://gitee.com/yoimiya-kokomi) | [☞GitHub](https://github.com/yoimiya-kokomi/Miao-Yunzai) | [☞Gitee](https://gitee.com/yoimiya-kokomi/Miao-Yunzai) | 喵版 Yunzai | ■■■■■ |
 | TRSS-Yunzai | [@时雨🌌星空](../../../../TimeRainStarSky) | [☞GitHub](https://github.com/TimeRainStarSky/Yunzai) | [☞Gitee](https://gitee.com/TimeRainStarSky/Yunzai) | Yunzai 应用端，支持多账号，支持协议端：go-cqhttp、ComWeChat、GSUIDCore、ICQQ、QQ频道、微信、KOOK、Telegram、Discord | ■■■■□ |
-| A-Yunzai | [@全体成员](https://github.com/ningmengchongshui) | ---- | [☞Gitee](https://gitee.com/ningmengchongshui/a-yunzai) | 基于Miao-Yunzai制作的频道类平台机器人,支持YunzaiV2&3插件,支持TS/JS,支持高度定制机器人 | ■■■□□ |
+| A-Yunzai | @匿名 | ---- | [☞Gitee](https://gitee.com/ningmengchongshui/a-yunzai) | 老油条的合力制作,基于AlemonJS的Yunzai环境,可加载Yunzai、AlemonJS、npm包插件,可使用JS/TS开发,支持官方NTQQ/QQ-GUILD/VILLA/KOOK/DISCORD...官网接口,稳如老狗 | ■■■■□ |
 
 </details>
 
