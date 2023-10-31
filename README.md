@@ -139,6 +139,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [曲奇点点乐(Cookie-plugin)](https://gitee.com/Tloml-Starry/Cookie-plugin) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | 灵感来源Steam游戏[Cookie Clicker](https://store.steampowered.com/app/1454400/Cookie_Clicker/)功能正在逐步完善 |
 | [征途插件 (Tkdream-1.2)](https://gitee.com/AAmiaom/Tkdream-1.2) | [@喵](https://gitee.com/AAmiaom) | 三国类文字游戏 |
 | [文游(Tsai-Plugin)](https://gitee.com/TsaiXingyu/Tsai-Plugin) | [@古手梨花](https://gitee.com/TsaiXingyu) | 目前测试，有不少bug|
 | [武者文游(wuzhe-plugin)](https://wz.mzswebs.top/) | [@名字](https://gitee.com/xyb12345678qwe) | 武者文游~，目前功能较少 |
