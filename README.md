@@ -169,7 +169,8 @@
 
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
-| [每日一图.js](https://gitee.com/catbos/yunzai_plugins_js) | [@catbos](https://gitee.com/catbos) | [查看源码](https://gitee.com/catbos/yunzai_plugins_js/blob/master/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%9B%BE.js) | 通过api获取bing每日一图与其它二次元图片 |
+| [tts语音生成](https://gitee.com/catbos/yunzai_plugins_js) | [@catbos](https://gitee.com/catbos) | [查看源码](https://gitee.com/catbos/yunzai_plugins_js/blob/master/tts%E8%AF%AD%E9%9F%B3%E7%94%9F%E6%88%90.js) | 提供角色语音合成功能 |
+| [每日一图](https://gitee.com/catbos/yunzai_plugins_js) | [@catbos](https://gitee.com/catbos) | [查看源码](https://gitee.com/catbos/yunzai_plugins_js/blob/master/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%9B%BE.js) | 通过api获取bing每日一图与其它二次元图片 |
 | [戳一戳（纳西妲版）](https://gitee.com/catbos/yunzai_plugins_js) | [@catbos](https://gitee.com/catbos) | [查看源码](https://gitee.com/catbos/yunzai_plugins_js/blob/master/%E6%88%B3%E4%B8%80%E6%88%B3/%E6%88%B3%E4%B8%80%E6%88%B3%EF%BC%88%E7%BA%B3%E8%A5%BF%E5%A6%B2%E7%89%88%EF%BC%89.js) | 戳机器人触发效果，可自定义文案，图片以及语音回复与禁言等功能 |
 | [备份&还原](https://gitee.com/little-flower-flower/yzjs) | [@小花花花儿](https://gitee.com/little-flower-flower) | [查看源码](https://gitee.com/little-flower-flower/yzjs/blob/master/%E5%A4%87%E4%BB%BD&%E8%BF%98%E5%8E%9F.js) | 备份&还原所有插件config,面板数据,stoken,js,礼记数据,喵喵帮助 |
 | [清理不在群内好友](https://gitee.com/little-flower-flower/yzjs) | [@小花花花儿](https://gitee.com/little-flower-flower) | [查看源码](https://gitee.com/little-flower-flower/yzjs/blob/master/%E5%88%A0%E9%99%A4%E9%9D%9E%E7%BE%A4%E5%86%85%E5%A5%BD%E5%8F%8B.js) | 一键删除不在机器人所在群的好友 |
