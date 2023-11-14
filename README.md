@@ -72,7 +72,7 @@
 | [重置版千羽插件(reset-qianyu-plugin)](https://gitee.com/think-first-sxs/reset-qianyu-plugin) | [@think-first-sxs](https://gitee.com/think-first-sxs)   | 对千羽插件进行重置，优化功能，一个咕咕咕插件 |
 | [饼干插件(biscuit-plugin)](https://gitee.com/Yummy-cookie/biscuit-plugin) |[@Yummy-cookie](https://gitee.com/Yummy-cookie) | 一些功能比如ping，ikun音乐 |
 | [向日葵插件(xrk-plugin)](https://gitee.com/xrk114514/xrk-plugin) |[@xrk](https://gitee.com/xrk114514) | 为机器人提供一些冒泡功能，如整点报时，全局表情(可以自定义图库)，还有一些小功能，建议搭配向日葵脚本一起使用 |
-| [Xs-plugin](https://gitee.com/hsxfk/Xs-plugin) | [@其实雨很好](https://gitee.com/actually-the-rain-is-good)[@黄色小方块](https://gitee.com/hsxfk) | 提供动漫语音合成，王者荣耀战力查询，公共签名api以及个人api检测功能。 还有一些简单的娱乐功能 |
+| [Xs-plugin](https://gitee.com/hsxfk/Xs-plugin) | [@黄色小方块](https://gitee.com/hsxfk) | 提供动漫语音合成，王者荣耀战力查询，公共签名api以及个人api检测功能。 还有一些简单的娱乐功能 |
 | [涩图监听插件(nsfwjs-plugin)](https://github.com/CikeyQi/nsfwjs-plugin) | [@0卡苏打水](https://github.com/CikeyQi)  [@erzaozi](https://github.com/erzaozi) | 基于本地的免费涩图监听插件，得益于NSFWJS，检测速度极快。使用TensorFlow，低配置服务器也能流畅运行 |
 | [AI绘图插件(mj-plugin)](https://github.com/ap-plugin/mj-plugin) | [@0卡苏打水](https://github.com/CikeyQi)  [@erzaozi](https://github.com/erzaozi) | 又一个AI绘图插件，使用Midjourney接口，实现在QQ内使用Midjourney生成图片 |
 | [卿何插件(qinghe-plugin)](https://gitee.com/Tloml-Starry/qinghe-plugin) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | 提供各种娱乐功能，更多功能持续更新中...详情请看[Wiki](https://gitee.com/Tloml-Starry/qinghe-plugin/wikis/%E5%8A%9F%E8%83%BDWiki) |
@@ -303,7 +303,6 @@
 | [原神/星铁角色面板图库](https://github.com/GuGuNiu/Miao-Plugin-MBT) | [@咕咕牛](https://github.com/GuGuNiu) | 喵喵插件的角色面板图库 |
 | [星穹铁道攻略图](https://gitee.com/little-flower-flower/sr-strategy)| [@小花花花儿](https://gitee.com/little-flower-flower) | 星穹铁道攻略图库 |
 | [米游社云崽部署教程](https://gitee.com/Nahida233/mysVilla-setting) | [@纳西妲 ](https://gitee.com/Nahida233) | 在米游社也能拥有属于自己的云崽了！！！ |
-| [limit](https://gitee.com/actually-the-rain-is-good/limit) | [@其实雨很好](https://gitee.com/actually-the-rain-is-good) | 极限面板，支持一键替换，使用方法请查看[README.md](https://gitee.com/actually-the-rain-is-good/limit/blob/master/README.md) |
 |[一些基础插件示例](https://gitee.com/Zyy955/Miao-Yunzai-plugin)|[@Zyy955](https://gitee.com/Zyy955)|应群友要求写的一点js插件开发例子，目前咕咕咕中，比较忙~|
 |[简单js插件开发模板](https://gitee.com/Yae_Miko_Fox/yunzai_bot-plugin)|[@宫司喜欢坏事](https://gitee.com/Yae_Miko_Fox)|提供JavaScript和Java开发教程和yunzai插件开发模板|
 |[HuggingFace部署签名服务](https://github.com/CikeyQi/QQsign_docs)| [@0卡苏打水](https://github.com/CikeyQi) | 在云端免费部署签名服务 |
