@@ -8,20 +8,21 @@
 
 将组合好的内容添加到 `README.md` 中，然后发起 `pull request` 
 
-
 提交需合理按分类推送共享,若推送有冲突将拒绝处理。
+
+提交请书写描述以方便管理员判断是否合并该`request`
 
 因过多推送造成严重冲突提示,请自觉撤回推送并解决冲突后再`pull request` 
 
-JS小插件不推荐使用[大写/中文].js等特殊字符
+插件不推荐使用[大写/中文].js等特殊字符造成不同系统出现编码问题
 
-推荐命名为为
-
-name-key.js
-
-name_key.js
+推荐命名为
 
 name.key.js
+
+namekey.js
+
+myname.js
 
 >仓库未及时处理Pull Request时
 
