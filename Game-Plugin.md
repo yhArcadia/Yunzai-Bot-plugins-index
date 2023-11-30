@@ -2,6 +2,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [蛋仔抽奖模拟器(Eggy)](https://gitee.com/Tloml-Starry/Eggy) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | 蛋仔派对抽奖模拟器，正在逐步支持更多盲盒 |
 | [曲奇点点乐(Cookie-plugin)](https://gitee.com/Tloml-Starry/Cookie-plugin) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | 灵感来源Steam游戏[Cookie Clicker](https://store.steampowered.com/app/1454400/Cookie_Clicker/)功能正在逐步完善 |
 | [征途插件 (Tkdream-1.2)](https://gitee.com/AAmiaom/Tkdream-1.2) | [@喵](https://gitee.com/AAmiaom) | 三国类文字游戏 |
 | [文游(Tsai-Plugin)](https://gitee.com/TsaiXingyu/Tsai-Plugin) | [@古手梨花](https://gitee.com/TsaiXingyu) | 目前测试，有不少bug|
