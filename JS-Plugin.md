@@ -4,6 +4,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [原神角色生日推送](https://gitee.com/little-flower-flower/yzjs) | [@小花花花儿](https://gitee.com/little-flower-flower) | [查看源码](https://gitee.com/little-flower-flower/yzjs/blob/master/%E8%A7%92%E8%89%B2%E7%94%9F%E6%97%A5%E6%8E%A8%E9%80%81.js) | 角色生日推送，需安装喵喵插件 |
 | [指令白名单](https://gitee.com/batvbs/Yunzai-Bot-Help) | [@batvbs](https://gitee.com/batvbs) | [查看源码](https://gitee.com/batvbs/Yunzai-Bot-Help/blob/master/%E6%8C%87%E4%BB%A4%E7%99%BD%E5%90%8D%E5%8D%95.js) | 指令白名单，平台机器人审核专用，主人例外 |
 | [tts语音生成](https://gitee.com/catbos/yunzai_plugins_js) | [@catbos](https://gitee.com/catbos) | [查看源码](https://gitee.com/catbos/yunzai_plugins_js/blob/master/tts%E8%AF%AD%E9%9F%B3%E7%94%9F%E6%88%90.js) | 提供角色语音合成功能 |
 | [每日一图](https://gitee.com/catbos/yunzai_plugins_js) | [@catbos](https://gitee.com/catbos) | [查看源码](https://gitee.com/catbos/yunzai_plugins_js/blob/master/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%9B%BE.js) | 通过api获取bing每日一图与其它二次元图片 |
