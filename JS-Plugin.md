@@ -4,6 +4,9 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [emojihub](https://gitee.com/logier/emojihub) | [@logier](https://gitee.com/logier) | [查看源码](https://gitee.com/logier/emojihub/raw/main/emojihub.js) | 发送表情包支持capoo、狗妈、黑白、龙图、柴郡、小黑子 |
+| [定时发图](https://gitee.com/logier/emojihub) | [@logier](https://gitee.com/logier) | [查看源码]( https://gitee.com/logier/emojihub/raw/main/%E5%AE%9A%E6%97%B6%E5%8F%91%E5%9B%BE.js) | 定时发送你的相册 |
+| [maxim](https://gitee.com/logier/emojihub) | [@logier](https://gitee.com/logier) | [查看源码](https://gitee.com/logier/emojihub/raw/main/maxim.js) | 发送带有背景图片的文案，包括一言、人间 |
 | [原神角色生日推送](https://gitee.com/little-flower-flower/yzjs) | [@小花花花儿](https://gitee.com/little-flower-flower) | [查看源码](https://gitee.com/little-flower-flower/yzjs/blob/master/%E8%A7%92%E8%89%B2%E7%94%9F%E6%97%A5%E6%8E%A8%E9%80%81.js) | 角色生日推送，需安装喵喵插件 |
 | [设置主人](https://gitee.com/batvbs/Miao-Yunzai-batvbs) | [@batvbs](https://gitee.com/batvbs) | [查看源码](https://gitee.com/batvbs/Miao-Yunzai-batvbs/blob/master/%E8%AE%BE%E7%BD%AE%E4%B8%BB%E4%BA%BA.js) | 快捷添加主人禁用主人，查询频道ID，禁用私聊 |
 | [指令白名单](https://gitee.com/batvbs/Miao-Yunzai-batvbs) | [@batvbs](https://gitee.com/batvbs) | [查看源码](https://gitee.com/batvbs/Miao-Yunzai-batvbs/blob/master/%E6%8C%87%E4%BB%A4%E7%99%BD%E5%90%8D%E5%8D%95.js) | 指令白名单，平台机器人审核专用，主人例外 |
