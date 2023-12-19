@@ -3,7 +3,6 @@
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
 | [NovelAI绘图插件(nai-plugin)](https://github.com/CikeyQi/nai-plugin) | [@0卡苏打水](https://github.com/CikeyQi)  [@erzaozi](https://github.com/erzaozi) | 再一个AI绘图插件，使用 [NovelAI](https://novelai.net/) 接口，实现在QQ内使用 nai-diffusion-3 生成图片 |
-| [xierapi-plugin](https://gitee.com/nahida22/xierapi-plugin) | [ @nahida ](https://gitee.com/nahida22) | 该插件主要提供娱乐功能 |
 | [1999-plugin](https://gitee.com/fantasy-hx/1999-plugin) | [@fantasy-hx](https://gitee.com/fantasy-hx/) | 重返未来1999相关插件（图鉴，分析，娱乐） |
 | [ICQQ-plugin](https://gitee.com/Zyy955/icqq-plugin) | [@Zyy955](https://gitee.com/Zyy955/) | 应群友要求做的icqq多开插件、测试阶段~如有bug多多包涵~ |
 | [沙雕插件(tg-plugin)](https://gitee.com/misakime/tg-plugin.git) | [@misakime](https://gitee.com/misakime) | 自动推送沙雕图和新番消息的插件|
