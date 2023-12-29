@@ -4,6 +4,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [违规图片监听](https://gitee.com/qiannqq/yunzai-plugin-JS) | [@千奈千祁](https://Gitee.com/QianNQQ) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/%E8%BF%9D%E8%A7%84%E5%9B%BE%E7%89%87%E7%AE%A1%E5%88%B6.js) | 对群友发送的图片进行实时审核，违规的图片将警告并撤回。可自行配置安全策略 |
 | [定时群发](https://gitee.com/batvbs/Miao-Yunzai-batvbs) | [@batvbs](https://gitee.com/batvbs) | [查看源码](https://gitee.com/batvbs/Miao-Yunzai-batvbs/blob/master/%E5%AE%9A%E6%97%B6%E7%BE%A4%E5%8F%91.js) | 定时群发消息、图文、视频、卡片 |
 | [emojihub](https://gitee.com/logier/emojihub) | [@logier](https://gitee.com/logier) | [查看源码](https://gitee.com/logier/emojihub/raw/main/emojihub.js) | 发送表情包支持capoo、狗妈、黑白、龙图、柴郡、小黑子 |
 | [定时发图](https://gitee.com/logier/emojihub) | [@logier](https://gitee.com/logier) | [查看源码]( https://gitee.com/logier/emojihub/raw/main/%E5%AE%9A%E6%97%B6%E5%8F%91%E5%9B%BE.js) | 定时发送你的相册 |
