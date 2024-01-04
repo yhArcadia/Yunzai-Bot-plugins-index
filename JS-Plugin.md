@@ -4,6 +4,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [广播通知](https://gitee.com/qiannqq/yunzai-plugin-JS#%E5%B9%BF%E6%92%AD%E9%80%9A%E7%9F%A5js) | [@千奈千祁](https://Gitee.com/QianNQQ) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/%E5%B9%BF%E6%92%AD%E9%80%9A%E7%9F%A5.js) | 群发消息，可指定白名单、黑名单或是所有群聊 |
 | [次权限管理](https://gitee.com/qiannqq/yunzai-plugin-JS#%E6%AC%A1%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86js) | [@千奈千祁](https://Gitee.com/QianNQQ) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/%E6%AC%A1%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86.js) | 可对指定群聊指定一个“代理人”管理该群的机器人，已实现局部用户黑名单，局部指令黑名单，…… |
 | [违规图片监听](https://gitee.com/qiannqq/yunzai-plugin-JS) | [@千奈千祁](https://Gitee.com/QianNQQ) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/%E8%BF%9D%E8%A7%84%E5%9B%BE%E7%89%87%E7%AE%A1%E5%88%B6.js) | 对群友发送的图片进行实时审核，违规的图片将警告并撤回。可自行配置安全策略 |
 | [定时群发](https://gitee.com/batvbs/Miao-Yunzai-batvbs) | [@batvbs](https://gitee.com/batvbs) | [查看源码](https://gitee.com/batvbs/Miao-Yunzai-batvbs/blob/master/%E5%AE%9A%E6%97%B6%E7%BE%A4%E5%8F%91.js) | 定时群发消息、图文、视频、卡片 |
