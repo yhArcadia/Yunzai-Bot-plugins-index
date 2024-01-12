@@ -50,7 +50,7 @@
 | [光遇插件 (Tlon-Sky)](https://gitee.com/Tloml-Starry/Tlon-Sky) | [@Tloml-Starry](https://giett.com/Tloml-Starry)  [@自闭歆](https://gitee.com/xin-closing-fuse) | 《光·遇》游戏插件，功能列表[点此查看](https://gitee.com/Tloml-Starry/Tlon-Sky/raw/master/resource/%E5%8A%9F%E8%83%BD%E5%88%97%E8%A1%A8.png) |
 | [WeLM对话插件 (WeLM-plugin)](https://github.com/JD1433223/WeLM-plugin) | [@JD](https://gitee.com/jd66666) [@兰罗摩](https://gitee.com/Arama_admin) [@书辞千楪](https://gitee.com/shuciqianye) | 提供个性ai问答、提问和续写(chatgpt下下下位替代)功能 |
 | [枫叶插件 (hs-qiqi-Plugin)](https://plugin.fengye.ink/) | [@Kesally](https://gitee.com/kesally)  [@七七](https://gitee.com/fengyeplugin) | 提供多个AI对话，名片自动绑定uid，坤图，睡眠时间等有趣且实用的娱乐小功能 |
-| [Stable Diffusion绘图插件 (ap-plugin)](https://github.com/AiPreface/ap-plugin)     | [@渔火Arcadia](https://gitee.com/yhArcadia) [@0卡苏打水](https://github.com/CikeyQi)  | 一个AI绘图插件，使用 [Stable Diffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 接口，实现在QQ内使用 Stable Diffusion 生成图片|
+| [Stable Diffusion绘图插件 (ap-plugin)](https://github.com/ap-plugin/ap-plugin)     | [@渔火Arcadia](https://gitee.com/yhArcadia) [@0卡苏打水](https://github.com/CikeyQi)  | 一个AI绘图插件，使用 [Stable Diffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 接口，实现在QQ内使用 Stable Diffusion 生成图片|
 | [小叶插件 (xiaoye-plugin)](https://gitee.com/xiaoye12123/xiaoye-plugin)     | [@小叶](https://gitee.com/xiaoye12123) | 模拟刷圣遗物和强化,可自定义概率 |
 | [自动化插件 (auto-plugin)](https://github.com/Nwflower/auto-plugin) | [@听语惊花](https://github.com/Nwflower/) | 原神倒计时、自动发说说...可能是史上最强大的群名片更新插件。另外还提供了一些自动化小功能。 |
 | [ChаtGPT问答插件（chаtgpt-plugin）](https://github.com/ikechan8370/chatgpt-plugin) | [@ikechan8370](https://github.com/ikechan8370) | ChаtGPT问答插件 |
