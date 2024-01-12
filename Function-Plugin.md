@@ -21,7 +21,7 @@
 | [向日葵插件(xrk-plugin)](https://gitee.com/xrk114514/xrk-plugin) |[@xrk](https://gitee.com/xrk114514) | 为机器人提供一些冒泡功能，如整点报时，全局表情(可以自定义图库)，还有一些小功能，建议搭配向日葵脚本一起使用 |
 | [Xs-plugin](https://gitee.com/hsxfk/Xs-plugin) | [@黄色小方块](https://gitee.com/hsxfk) | 提供动漫语音合成，王者荣耀战力查询，公共签名api以及个人api检测功能。 还有一些简单的娱乐功能 |
 | [涩图监听插件(nsfwjs-plugin)](https://github.com/CikeyQi/nsfwjs-plugin) | [@0卡苏打水](https://github.com/CikeyQi)  [@erzaozi](https://github.com/erzaozi) | 基于本地的免费涩图监听插件，得益于NSFWJS，检测速度极快。使用TensorFlow，低配置服务器也能流畅运行 |
-| [Midjourney绘图插件(mj-plugin)](https://github.com/CikeyQi/mj-plugin) | [@0卡苏打水](https://github.com/CikeyQi)  [@erzaozi](https://github.com/erzaozi) | 又一个AI绘图插件，使用 [Midjourney](https://www.midjourney.com/) 接口，实现在QQ内使用Midjourney生成图片 |
+| [Midjourney绘图插件(mj-plugin)](https://github.com/ap-plugin/mj-plugin) | [@0卡苏打水](https://github.com/CikeyQi)  [@erzaozi](https://github.com/erzaozi) | 又一个AI绘图插件，使用 [Midjourney](https://www.midjourney.com/) 接口，实现在QQ内使用Midjourney生成图片 |
 | [卿何插件(qinghe-plugin)](https://gitee.com/Tloml-Starry/qinghe-plugin) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | 提供各种娱乐功能，更多功能持续更新中...详情请看[Wiki](https://gitee.com/Tloml-Starry/qinghe-plugin/wikis/%E5%8A%9F%E8%83%BDWiki) |
 | [碧蓝档案插件(BlueArchive-plugin)](https://gitee.com/all-thoughts-are-broken/blue-archive) | [@万念断绝](https://gitee.com/all-thoughts-are-broken) | 提供碧蓝档案的一些有用的或没有用的攻略帮助 |
 | [库洛插件<br />(Yunzai-Kuro-Plugin)](https://github.com/TomyJan/Yunzai-Kuro-Plugin) | [@TomyJan](https://github.com/TomyJan) | 库洛游戏插件 |
