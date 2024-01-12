@@ -4,6 +4,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [问候回复](https://gitee.com/oldcitynight/yunzai-js-plugins#%E9%97%AE%E5%80%99%E5%9B%9E%E5%A4%8D) | [@oldcitynight](https://github.com/oldcitynight) | [查看源码](https://gitee.com/oldcitynight/yunzai-js-plugins/raw/master/%E9%97%AE%E5%80%99%E5%9B%9E%E5%A4%8D.js) | 发送早安等问候会根据预设词库随机回复一句话，快捷安装命令请在[问候回复](https://gitee.com/oldcitynight/yunzai-js-plugins#%E9%97%AE%E5%80%99%E5%9B%9E%E5%A4%8D)查看 |
 | [统计QQbot DAU](https://gitee.com/little-flower-flower/yzjs) | [@小花花花儿](https://Gitee.com/QianNQQ) | [查看源码](https://gitee.com/little-flower-flower/yzjs/blob/master/dauchart.js) | 统计QQbot DAU |
 | [广播通知](https://gitee.com/qiannqq/yunzai-plugin-JS#%E5%B9%BF%E6%92%AD%E9%80%9A%E7%9F%A5js) | [@千奈千祁](https://Gitee.com/QianNQQ) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/%E5%B9%BF%E6%92%AD%E9%80%9A%E7%9F%A5.js) | 群发消息，可指定白名单、黑名单或是所有群聊 |
 | [次权限管理](https://gitee.com/qiannqq/yunzai-plugin-JS#%E6%AC%A1%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86js) | [@千奈千祁](https://Gitee.com/QianNQQ) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/%E6%AC%A1%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86.js) | 可对指定群聊指定一个“代理人”管理该群的机器人，已实现局部用户黑名单，局部指令黑名单，…… |
