@@ -34,7 +34,7 @@
 | [KKP插件](https://gitee.com/dungeonmaster/kkp-plugin) | [ @所有二刺螈都得死 ](https://gitee.com/dungeonmaster) | 看看P站图和23次元蛇图和其他小功能 |
 | [云•冰祈 (Cloud_Icepray)](https://gitee.com/koinori/Icepray) | [@koinori](https://gitee.com/koinori) | 搭建于云端，集娱乐于管理功能于一身的轻量化插件 |
 | [鳄梨插件 (Avocado-Plugin) ](https://github.com/Qz-Sean/avocado-plugin) | [@Qz-Sean](https://github.com/Qz-Sean) | 支持查询热映电影信息、天气查询、md渲染、灵活的网页预览与翻译、只为一个人疯狂(发癫)、抽象的指令规则|
-| [寸幼萱插件(cunyx-plugin) ](https://gitee.com/cunyx/cunyx-plugin) | [@最好喝的小米粥](https://gitee.com/cunyx) | 本插件改版已经完成，功能大量上新(克隆本项目前请阅读[README.md](https://gitee.com/cunyx/cunyx-plugin/blob/master/README.md)获得最佳食用体验|
+| [寸幼萱插件(cunyx-plugin) ](https://gitee.com/cunyx/cunyx-plugin) | [@最好喝的小米粥](https://gitee.com/cunyx) | 插件焕新(使用前请先阅读[README.md](https://gitee.com/cunyx/cunyx-plugin/blob/master/README.md)以获得最佳使用体验|
 | [ws插件(ws-plugin) ](https://gitee.com/xiaoye12123/ws-plugin)| [@小叶](https://gitee.com/xiaoye12123) | 提供了云崽通过ws连接onebot标准的机器人 |
 | [文案插件(wenan-plugin) ](https://gitee.com/white-night-fox/wenan-plugin)| [@白夜狐狸](https://gitee.com/white-night-fox/projects)|提供了云崽回复类文案 |
 | [牛牛大作战Beta(impart-pro-plugin) ](https://gitee.com/sumght/impart-pro-plugin)| [@sumght](https://gitee.com/sumght) | 牛牛大作战先行测试，男人之间细说的互动玩法(原银趴插件) |
