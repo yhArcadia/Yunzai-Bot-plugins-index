@@ -2,6 +2,8 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [GPTI插件(gpti-plugin)](https://github.com/CikeyQi/gpti-plugin) | [@0卡苏打水](https://github.com/CikeyQi) | 基于Yunzai-Bot的GPT插件，简化了GPT模型的交互，无需令牌来访问GPT |
+| [米家插件(mijia-plugin)](https://github.com/CikeyQi/mijia-plugin) | [@0卡苏打水](https://github.com/CikeyQi) | 基于Yunzai-Bot的米家插件，在任何地方控制家中米家生态设备 |
 | [NovelAI绘图插件(nai-plugin)](https://github.com/CikeyQi/nai-plugin) | [@0卡苏打水](https://github.com/CikeyQi)  [@erzaozi](https://github.com/erzaozi) | 再一个AI绘图插件，使用 [NovelAI](https://novelai.net/) 接口，实现在QQ内使用 nai-diffusion-3 生成图片 |
 | [1999-plugin](https://gitee.com/fantasy-hx/1999-plugin) | [@fantasy-hx](https://gitee.com/fantasy-hx/) | 重返未来1999相关插件（图鉴，分析，娱乐） |
 | [ICQQ-plugin](https://gitee.com/Zyy955/icqq-plugin) | [@Zyy955](https://gitee.com/Zyy955/) | 应群友要求做的icqq多开插件、测试阶段~如有bug多多包涵~ |
@@ -20,7 +22,7 @@
 | [饼干插件(biscuit-plugin)](https://gitee.com/Yummy-cookie/biscuit-plugin) |[@Yummy-cookie](https://gitee.com/Yummy-cookie) | 一些功能比如ping，ikun音乐 |
 | [向日葵插件(xrk-plugin)](https://gitee.com/xrk114514/xrk-plugin) |[@xrk](https://gitee.com/xrk114514) | 为机器人提供一些冒泡功能，如整点报时，全局表情(可以自定义图库)，还有一些小功能，建议搭配向日葵脚本一起使用 |
 | [Xs-plugin](https://gitee.com/hsxfk/Xs-plugin) | [@黄色小方块](https://gitee.com/hsxfk) | 提供动漫语音合成，王者荣耀战力查询，公共签名api以及个人api检测功能。 还有一些简单的娱乐功能 |
-| [涩图监听插件(nsfwjs-plugin)](https://github.com/CikeyQi/nsfwjs-plugin) | [@0卡苏打水](https://github.com/CikeyQi)  [@erzaozi](https://github.com/erzaozi) | 基于本地的免费涩图监听插件，得益于NSFWJS，检测速度极快。使用TensorFlow，低配置服务器也能流畅运行 |
+| [违规图片监听插件(nsfwjs-plugin)](https://github.com/CikeyQi/nsfwjs-plugin) | [@0卡苏打水](https://github.com/CikeyQi)  [@erzaozi](https://github.com/erzaozi) | 基于本地的免费违规图片监听插件，得益于NSFWJS，检测速度极快。使用TensorFlow，低配置服务器也能流畅运行 |
 | [Midjourney绘图插件(mj-plugin)](https://github.com/ap-plugin/mj-plugin) | [@0卡苏打水](https://github.com/CikeyQi)  [@erzaozi](https://github.com/erzaozi) | 又一个AI绘图插件，使用 [Midjourney](https://www.midjourney.com/) 接口，实现在QQ内使用Midjourney生成图片 |
 | [卿何插件(qinghe-plugin)](https://gitee.com/Tloml-Starry/qinghe-plugin) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | 提供各种娱乐功能，更多功能持续更新中...详情请看[Wiki](https://gitee.com/Tloml-Starry/qinghe-plugin/wikis/%E5%8A%9F%E8%83%BDWiki) |
 | [碧蓝档案插件(BlueArchive-plugin)](https://gitee.com/all-thoughts-are-broken/blue-archive) | [@万念断绝](https://gitee.com/all-thoughts-are-broken) | 提供碧蓝档案的一些有用的或没有用的攻略帮助 |
@@ -34,10 +36,10 @@
 | [KKP插件](https://gitee.com/dungeonmaster/kkp-plugin) | [ @所有二刺螈都得死 ](https://gitee.com/dungeonmaster) | 看看P站图和23次元蛇图和其他小功能 |
 | [云•冰祈 (Cloud_Icepray)](https://gitee.com/koinori/Icepray) | [@koinori](https://gitee.com/koinori) | 搭建于云端，集娱乐于管理功能于一身的轻量化插件 |
 | [鳄梨插件 (Avocado-Plugin) ](https://github.com/Qz-Sean/avocado-plugin) | [@Qz-Sean](https://github.com/Qz-Sean) | 支持查询热映电影信息、天气查询、md渲染、灵活的网页预览与翻译、只为一个人疯狂(发癫)、抽象的指令规则|
-| [寸幼萱插件(cunyx-plugin) ](https://gitee.com/cunyx/cunyx-plugin) | [@最好喝的小米粥](https://gitee.com/cunyx) [@等风来](https://gitee.com/Wind-is-so-strong) | 每日60秒、爱坤身份证、原神星铁信息查询、星铁原神前瞻内容及兑换码、二维码生成、encode编码和游玩淫趴小游戏(强烈建议阅读[README.md](https://gitee.com/cunyx/cunyx-plugin/blob/master/README.md)以获得更佳使用体验)|
+| [寸幼萱插件(cunyx-plugin) ](https://gitee.com/cunyx/cunyx-plugin) | [@最好喝的小米粥](https://gitee.com/cunyx) | 改版完成，欢迎安装(安装前请阅读[README.md](https://gitee.com/cunyx/cunyx-plugin/blob/master/README.md)获得最佳体验|
 | [ws插件(ws-plugin) ](https://gitee.com/xiaoye12123/ws-plugin)| [@小叶](https://gitee.com/xiaoye12123) | 提供了云崽通过ws连接onebot标准的机器人 |
 | [文案插件(wenan-plugin) ](https://gitee.com/white-night-fox/wenan-plugin)| [@白夜狐狸](https://gitee.com/white-night-fox/projects)|提供了云崽回复类文案 |
-| [牛牛大作战Beta(impart-pro-plugin) ](https://gitee.com/sumght/impart-pro-plugin)| [@sumght](https://gitee.com/sumght) | 牛牛大作战先行测试，男人之间细说的互动玩法(原银趴插件) |
+| [牛牛大作战Beta(impart-pro-plugin) ](https://gitee.com/sumght/impart-pro-plugin)| [@sumght](https://gitee.com/sumght) | 牛牛大作战先行测试，男人之间细说的互动玩法(原impart插件) |
 | [阿尔萌插件 (armoe-plugin)](https://gitee.com/armoe-project/armoe-plugin)| [@真心](https://github.com/RealHeart) | 提供R6战绩查询、KOOK在线查询等功能|
 | [星铁插件（StarRail-plugin）](https://gitee.com/hewang1an/StarRail-plugin)| [@鹤望兰](https://gitee.com/hewang1an) | 一个提供了崩坏星穹铁道部分查询功能的插件，如#星铁卡片 #星铁体力 #星铁收入 等|
 | [阴天插件（Y-Tian-Plugin）](https://gitee.com/wan13877501248/y-tian-plugin)| [@Hello World](https://gitee.com/wan13877501248)  [@yuanpluss](https://gitee.com/yuanpluss) | 一个Yunzai-Bot V3小功能集成的插件包,集AI、娱乐、功能性于一体，让你的机器人变得更为全面且多功能。|
