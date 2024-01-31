@@ -4,6 +4,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [图片鉴赏与鉴黄](https://github.com/ldcivan/appreciator_plugin) | [@YujioNako](https://github.com/ldcivan) | [查看源码](https://raw.githubusercontent.com/ldcivan/appreciator_plugin/main/appreciator.js) | 图片Tag鉴赏/鉴黄，可将图片转写为Tag方便AI作画或鉴定图片的色情属性 为原生Yunzai设计 |
 | [我的超能力](https://gitee.com/little-flower-flower/yzjs#%E6%88%91%E7%9A%84%E8%B6%85%E8%83%BD%E5%8A%9Bjs) | [@小花花花儿](https://gitee.com/little-flower-flower) | [查看源码](https://gitee.com/little-flower-flower/yzjs/blob/master/%E6%88%91%E7%9A%84%E8%B6%85%E8%83%BD%E5%8A%9B.js) | 我的超能力 |
 | [问候回复](https://gitee.com/oldcitynight/yunzai-js-plugins#%E9%97%AE%E5%80%99%E5%9B%9E%E5%A4%8D) | [@oldcitynight](https://github.com/oldcitynight) | [查看源码](https://gitee.com/oldcitynight/yunzai-js-plugins/raw/master/%E9%97%AE%E5%80%99%E5%9B%9E%E5%A4%8D.js) | 发送早安等问候会根据预设词库随机回复一句话，快捷安装命令请在[问候回复](https://gitee.com/oldcitynight/yunzai-js-plugins#%E9%97%AE%E5%80%99%E5%9B%9E%E5%A4%8D)查看 |
 | [统计QQbot DAU](https://gitee.com/little-flower-flower/yzjs#dauchartjs) | [@小花花花儿](https://gitee.com/little-flower-flower) | [查看源码](https://gitee.com/little-flower-flower/yzjs/blob/master/dauchart.js) | 统计QQbot DAU |
