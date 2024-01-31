@@ -4,7 +4,7 @@
 | --- | --- | --- |
 | [limit](https://gitee.com/actually-the-rain-is-good/limit) | [@其实雨很好](https://gitee.com/actually-the-rain-is-good) | 原神/星铁极限面板数据,插件支持一键替换、启动自动替换,使用方法查看[README.md](https://gitee.com/actually-the-rain-is-good/limit/blob/master/README.md) |
 | [原神/星铁角色面板图库](https://github.com/GuGuNiu/Miao-Plugin-MBT) | [@咕咕牛](https://github.com/GuGuNiu) | 喵喵插件的角色面板图库 |
-| [星穹铁道攻略图](https://gitee.com/little-flower-flower/sr-strategy)| [@小花花花儿](https://gitee.com/little-flower-flower) | 星穹铁道攻略图库 |
+| [星穹铁道攻略图](https://gitee.com/HanaHimeUnica/sr-strategy)| [@小花花花儿](https://gitee.com/little-flower-flower) | 星穹铁道攻略图库 |
 | [米游社云崽部署教程](https://gitee.com/Nahida233/mysVilla-setting) | [@纳西妲 ](https://gitee.com/Nahida233) | 在米游社也能拥有属于自己的云崽了！！！ |
 | [一些基础插件示例](https://gitee.com/Zyy955/Miao-Yunzai-plugin)|[@Zyy955](https://gitee.com/Zyy955)|应群友要求写的一点js插件开发例子，目前咕咕咕中，比较忙~|
 | [简单js插件开发模板](https://gitee.com/Yae_Miko_Fox/yunzai_bot-plugin)|[@宫司喜欢坏事](https://gitee.com/Yae_Miko_Fox)|提供JavaScript和Java开发教程和yunzai插件开发模板|
