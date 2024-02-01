@@ -2,6 +2,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [鸢尾花插件(logier-plugin)](https://gitee.com/logier/logier-plugins) | [@logier](https://gitee.com/logier) | 表情包仓库、拿群聊表情包、今日运势、算一卦、GPT塔罗牌、定时发图、自带图源（logier严选）、资讯推送 |
 | [反击插件(fanji-plugin)](https://gitee.com/adrae/Fanji-plugin) | [@Admilk](https://gitee.com/adrae) | 被群友戳一戳了？反击！（内含清凉图调用！）更多内容发送#反击帮助 |
 | [GPTI插件(gpti-plugin)](https://github.com/CikeyQi/gpti-plugin) | [@0卡苏打水](https://github.com/CikeyQi) | 基于Yunzai-Bot的GPT插件，简化了GPT模型的交互，无需令牌来访问GPT |
 | [米家插件(mijia-plugin)](https://github.com/CikeyQi/mijia-plugin) | [@0卡苏打水](https://github.com/CikeyQi) | 基于Yunzai-Bot的米家插件，在任何地方控制家中米家生态设备 |
