@@ -12,4 +12,6 @@
 | [三国文游(sanguo-plugin)](https://wz.mzswebs.top/) | [@名字](https://gitee.com/xyb12345678qwe) | 三国类的游戏插件 |
 | [虚空插件 (akasha-terminal-plugin)](https://gitee.com/go-farther-and-farther/akasha-terminal-plugin) | [@越追越远](https://gitee.com/go-farther-and-farther) | 提供企鹅群游戏,目前实现了群内决斗,娶群友等有趣的小游戏 |
 | [咸鱼插件 (xianyu-plugin)](https://gitee.com/suancaixianyu/xianyu-plugin) | [@酸菜咸鱼](https://gitee.com/suancaixianyu) | 一些群聊对战小游戏，没有文游的复杂体系，休闲娱乐，老少皆宜 |
+| [修仙插件 (xiuxian-plugin)](https://gitee.com/ningmengchongshui/xiuxian-plugin) | [@LEMONADE](https://gitee.com/ningmengchongshui) | 修仙文字游戏 |
+
 <!-- 请不要在此处添加行，请在此表格顶部添加 -->
