@@ -4,6 +4,8 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [发言统计](https://gitee.com/qiannqq/yunzai-plugin-JS#%E5%8F%91%E8%A8%80%E7%BB%9F%E8%AE%A1js) | [@千奈千祁](https://gitee.com/qiannqq) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/%E5%8F%91%E8%A8%80%E7%BB%9F%E8%AE%A1.js) | 类似于水群统计，可以查看发言次数排行榜 |
+| [插件安装器](https://gitee.com/qiannqq/yunzai-plugin-JS#%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E5%99%A8js) | [@千奈千祁](https://gitee.com/qiannqq) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/插件安装器.js) | 用于管理插件包，支持卸载、重装、插件列表、已安装插件。 |
 | [唱鸭](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E5%94%B1%E9%B8%AD.js) | [@xiaotian2333](https://github.com/xiaotian2333/) | [查看源码](https://raw.githubusercontent.com/xiaotian2333/yunzai-plugins-Single-file/main/%E5%94%B1%E9%B8%AD.js) | 发送唱鸭即可听唱鸭平台上的歌曲片段（仓库内还有其他更多插件）
 | [我的超能力](https://gitee.com/HanaHimeUnica/yzjs#%E6%88%91%E7%9A%84%E8%B6%85%E8%83%BD%E5%8A%9Bjs) | [@小花花花儿](https://gitee.com/HanaHimeUnica) | [查看源码](https://gitee.com/HanaHimeUnica/yzjs/blob/master/%E6%88%91%E7%9A%84%E8%B6%85%E8%83%BD%E5%8A%9B.js) | 我的超能力 |
 | [问候回复](https://gitee.com/oldcitynight/yunzai-js-plugins#%E9%97%AE%E5%80%99%E5%9B%9E%E5%A4%8D) | [@oldcitynight](https://github.com/oldcitynight) | [查看源码](https://gitee.com/oldcitynight/yunzai-js-plugins/raw/master/%E9%97%AE%E5%80%99%E5%9B%9E%E5%A4%8D.js) | 发送早安等问候会根据预设词库随机回复一句话，快捷安装命令请在[问候回复](https://gitee.com/oldcitynight/yunzai-js-plugins#%E9%97%AE%E5%80%99%E5%9B%9E%E5%A4%8D)查看 |
