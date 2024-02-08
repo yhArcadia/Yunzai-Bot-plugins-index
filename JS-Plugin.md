@@ -4,6 +4,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [自动处理进群事件](https://github.com/Dnyo666/Qxml-Yunzai-js) | [ @浅巷墨黎](https://github.com/dnyo666) | [Github](https://github.com/Dnyo666/Qxml-Yunzai-js)&[Gitee](https://gitee.com/Dnyo666/Qxml-Yunzai-js) | 可以自动根据多个答案自动判断并同意进群 |
 | [发言统计](https://gitee.com/qiannqq/yunzai-plugin-JS#%E5%8F%91%E8%A8%80%E7%BB%9F%E8%AE%A1js) | [@千奈千祁](https://gitee.com/qiannqq) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/%E5%8F%91%E8%A8%80%E7%BB%9F%E8%AE%A1.js) | 类似于水群统计，可以查看发言次数排行榜 |
 | [插件安装器](https://gitee.com/qiannqq/yunzai-plugin-JS#%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E5%99%A8js) | [@千奈千祁](https://gitee.com/qiannqq) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/插件安装器.js) | 用于管理插件包，支持卸载、重装、插件列表、已安装插件。 |
 | [唱鸭](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E5%94%B1%E9%B8%AD.js) | [@xiaotian2333](https://github.com/xiaotian2333/) | [查看源码](https://raw.githubusercontent.com/xiaotian2333/yunzai-plugins-Single-file/main/%E5%94%B1%E9%B8%AD.js) | 发送唱鸭即可听唱鸭平台上的歌曲片段（仓库内还有其他更多插件）
