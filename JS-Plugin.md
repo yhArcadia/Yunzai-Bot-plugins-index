@@ -4,7 +4,14 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+=======
 | [自动处理进群事件](https://github.com/Dnyo666/Qxml-Yunzai-js) | [ @浅巷墨黎](https://github.com/dnyo666) | [Github](https://github.com/Dnyo666/Qxml-Yunzai-js)&[Gitee](https://gitee.com/Dnyo666/Qxml-Yunzai-js) | 可以自动根据多个答案自动判断并同意进群 |
+| [刷听歌时长](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%E5%88%B7%E5%90%AC%E6%AD%8C%E6%97%B6%E9%95%BF.js) | 刷取QQ音乐听歌时长，同时也可以刷取音响力 |
+| [发言榜](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%E5%8F%91%E8%A8%80%E6%A6%9C.js) | 通过机器人实时记录群内成员发言次数，需要机器人在线才可记录 |
+| [抖音AI图生图](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%E6%8A%96%E9%9F%B3AI%E5%9B%BE%E7%94%9F%E5%9B%BE.js) | 借助抖音的免费接口以图生图，不可以有涩涩内容，返回换个图的可能是识别到涩涩了 |
+| [Epic免费游戏](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/Epic%E5%85%8D%E8%B4%B9%E6%B8%B8%E6%88%8F.js) | 查询当前Epic免费游戏和即将推出的免费游戏 |
+| [Steam在线游戏人数排行](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/Steam%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F%E4%BA%BA%E6%95%B0%E6%8E%92%E8%A1%8C.js) | 返回游戏当前在线人数排行 |
+| [文字找茬](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%E6%96%87%E5%AD%97%E6%89%BE%E8%8C%AC.js) | 汉字找不同游戏 |
 | [发言统计](https://gitee.com/qiannqq/yunzai-plugin-JS#%E5%8F%91%E8%A8%80%E7%BB%9F%E8%AE%A1js) | [@千奈千祁](https://gitee.com/qiannqq) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/%E5%8F%91%E8%A8%80%E7%BB%9F%E8%AE%A1.js) | 类似于水群统计，可以查看发言次数排行榜 |
 | [插件安装器](https://gitee.com/qiannqq/yunzai-plugin-JS#%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E5%99%A8js) | [@千奈千祁](https://gitee.com/qiannqq) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/插件安装器.js) | 用于管理插件包，支持卸载、重装、插件列表、已安装插件。 |
 | [唱鸭](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E5%94%B1%E9%B8%AD.js) | [@xiaotian2333](https://github.com/xiaotian2333/) | [查看源码](https://raw.githubusercontent.com/xiaotian2333/yunzai-plugins-Single-file/main/%E5%94%B1%E9%B8%AD.js) | 发送唱鸭即可听唱鸭平台上的歌曲片段（仓库内还有其他更多插件）
