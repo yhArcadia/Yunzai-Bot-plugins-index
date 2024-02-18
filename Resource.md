@@ -2,6 +2,7 @@
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [云崽搭建最全教程](https://gitee.com/fenglinit/Yunzai-Bot-guide) | [@祈杰](https://gitee.com/tangqijie)<br>[@枫林](https://gitee.com/fenglinit)| 十分非常详细的为各位小白讲解从0到1搭建云崽教程 |
 | [原神/星铁角色面板图库](https://github.com/GuGuNiu/Miao-Plugin-MBT) | [@咕咕牛](https://github.com/GuGuNiu) | 喵喵插件的角色面板图库 |
 | [星穹铁道攻略图](https://gitee.com/HanaHimeUnica/sr-strategy)| [@小花花花儿](https://gitee.com/little-flower-flower) | 星穹铁道攻略图库 |
 | [米游社云崽部署教程](https://gitee.com/Nahida233/mysVilla-setting) | [@纳西妲 ](https://gitee.com/Nahida233) | 在米游社也能拥有属于自己的云崽了！！！ |
