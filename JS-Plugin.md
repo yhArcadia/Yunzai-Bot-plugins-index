@@ -4,6 +4,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [自动处理进群事件](https://github.com/Dnyo666/Qxml-Yunzai-js) | [ @浅巷墨黎](https://github.com/dnyo666) | [Github](https://github.com/Dnyo666/Qxml-Yunzai-js)&[Gitee](https://gitee.com/Dnyo666/Qxml-Yunzai-js) | 可以自动根据多个答案自动判断并同意进群 |
 | [刷听歌时长](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%E5%88%B7%E5%90%AC%E6%AD%8C%E6%97%B6%E9%95%BF.js) | 刷取QQ音乐听歌时长，同时也可以刷取音响力 |
 | [发言榜](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%E5%8F%91%E8%A8%80%E6%A6%9C.js) | 通过机器人实时记录群内成员发言次数，需要机器人在线才可记录 |
 | [抖音AI图生图](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%E6%8A%96%E9%9F%B3AI%E5%9B%BE%E7%94%9F%E5%9B%BE.js) | 借助抖音的免费接口以图生图，不可以有涩涩内容，返回换个图的可能是识别到涩涩了 |
