@@ -2,13 +2,14 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [一键换头（地球）插件（egg-plugin）](https://gitee.com/fantasy-hx/egg-plugin) | [@Fantasy](https://gitee.com/fantasy-hx) | 通过使用opencv进行人脸识别从而实现了一键换头的功能，推荐搭配土块插件使用 |
 | [枫叶插件(fengye-plugin)](https://gitee.com/maple-leaf-sweeping/fengye-plugin) | [@叶殇](https://gitee.com/maple-leaf-sweeping) | **与已存在枫叶插件无关**(可共存) 提供一些有用没用的功能 |
 | [鸢尾花插件(logier-plugin)](https://gitee.com/logier/logier-plugins) | [@logier](https://gitee.com/logier) | 表情包仓库、拿群聊表情包、今日运势、算一卦、GPT塔罗牌、定时发图、自带图源（logier严选）、资讯推送 |
 | [反击插件(fanji-plugin)](https://gitee.com/adrae/Fanji-plugin) | [@Admilk](https://gitee.com/adrae) | 被群友戳一戳了？反击！（内含清凉图调用！）更多内容发送#反击帮助 |
 | [GPTI插件(gpti-plugin)](https://github.com/CikeyQi/gpti-plugin) | [@0卡苏打水](https://github.com/CikeyQi) | 基于Yunzai-Bot的GPT插件，简化了GPT模型的交互，无需令牌来访问GPT |
 | [米家插件(mijia-plugin)](https://github.com/CikeyQi/mijia-plugin) | [@0卡苏打水](https://github.com/CikeyQi) | 基于Yunzai-Bot的米家插件，在任何地方控制家中米家生态设备 |
 | [NovelAI绘图插件(nai-plugin)](https://github.com/CikeyQi/nai-plugin) | [@0卡苏打水](https://github.com/CikeyQi)  [@erzaozi](https://github.com/erzaozi) | 再一个AI绘图插件，使用 [NovelAI](https://novelai.net/) 接口，实现在QQ内使用 nai-diffusion-3 生成图片 |
-| [1999-plugin](https://gitee.com/fantasy-hx/1999-plugin) | [@fantasy-hx](https://gitee.com/fantasy-hx/) | 重返未来1999相关插件（图鉴，分析，娱乐） |
+| [1999-plugin](https://gitee.com/fantasy-hx/1999-plugin) | [@Fantasy](https://gitee.com/fantasy-hx/) | 重返未来1999相关插件（图鉴，分析，娱乐） |
 | [ICQQ-plugin](https://gitee.com/Zyy955/icqq-plugin) | [@Zyy955](https://gitee.com/Zyy955/) | 应群友要求做的icqq多开插件、测试阶段~如有bug多多包涵~ |
 | [沙雕插件(tg-plugin)](https://gitee.com/misakime/tg-plugin.git) | [@misakime](https://gitee.com/misakime) | 自动推送沙雕图和新番消息的插件|
 | [WeChat-Web-plugin](https://gitee.com/Zyy955/WeChat-Web-plugin) | [@Zyy955](https://gitee.com/Zyy955/) | 支持`Linux`，适用于`Miao-Yunzai`和`Yunzai-Bot`的网页版微信机器人插件。|
