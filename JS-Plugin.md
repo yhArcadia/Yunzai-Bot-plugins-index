@@ -4,6 +4,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [cp短打生成器](https://github.com/myueqf/yzbot-js-cp-text-generator) | [@明月清风](myueqf.top) | [查看源码](https://github.com/myueqf/yzbot-js-cp-text-generator/blob/main/cp%E7%9F%AD%E6%89%93%E7%94%9F%E6%88%90%E5%99%A8.js) | 本地cp短打生成器 |
 | [coze群聊机器人](https://gitee.com/eulogyjiajia/coze_proxy/tree/master) | [@eulogyjiajia](https://gitee.com/eulogyjiajia) | [查看源码](https://gitee.com/eulogyjiajia/coze_proxy/raw/master/coze.js) | 配合discord和coze机器人聊天，免费试用gpt4模型，支持连续对话和文本转语音 |
 | [自动处理进群事件](https://github.com/Dnyo666/Qxml-Yunzai-js) | [ @浅巷墨黎](https://github.com/dnyo666) | [Github](https://github.com/Dnyo666/Qxml-Yunzai-js)&[Gitee](https://gitee.com/Dnyo666/Qxml-Yunzai-js) | 可以自动根据多个答案自动判断并同意进群 |
 | [刷听歌时长](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%E5%88%B7%E5%90%AC%E6%AD%8C%E6%97%B6%E9%95%BF.js) | 刷取QQ音乐听歌时长，同时也可以刷取音响力 |
