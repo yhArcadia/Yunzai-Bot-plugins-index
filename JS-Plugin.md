@@ -4,6 +4,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [明日素材](https://gitee.com/HanaHimeUnica/yzjs#%E6%98%8E%E6%97%A5%E7%B4%A0%E6%9D%90.js) | [@小花花花儿](https://gitee.com/HanaHimeUnica) | [查看源码](https://gitee.com/HanaHimeUnica/yzjs/blob/master/%E6%98%8E%E6%97%A5%E7%B4%A0%E6%9D%90.js) | 使用喵喵插件模版渲染的明日素材 |
 | [cp短打生成器](https://github.com/myueqf/yzbot-js-cp-text-generator) | [@明月清风](https://myueqf.top) | [查看源码](https://github.com/myueqf/yzbot-js-cp-text-generator/blob/main/cp%E7%9F%AD%E6%89%93%E7%94%9F%E6%88%90%E5%99%A8.js) | 本地cp短打生成器 |
 | [coze群聊机器人](https://gitee.com/eulogyjiajia/coze_proxy/tree/master) | [@eulogyjiajia](https://gitee.com/eulogyjiajia) | [查看源码](https://gitee.com/eulogyjiajia/coze_proxy/raw/master/coze.js) | 配合discord和coze机器人聊天，免费试用gpt4模型，支持连续对话和文本转语音 |
 | [自动处理进群事件](https://github.com/Dnyo666/Qxml-Yunzai-js) | [ @浅巷墨黎](https://github.com/dnyo666) | [Github](https://github.com/Dnyo666/Qxml-Yunzai-js)&[Gitee](https://gitee.com/Dnyo666/Qxml-Yunzai-js) | 可以自动根据多个答案自动判断并同意进群 |
