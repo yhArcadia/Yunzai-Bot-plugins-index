@@ -2,6 +2,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [ UC插件(UC-plugin) ](https://gitee.com/UCPr251/UC-plugin) | [ @UCPr ](https://gitee.com/UCPr251) | 提供各种工具、娱乐、群管等功能 |
 | [一键换头（地球）插件（egg-plugin）](https://gitee.com/fantasy-hx/egg-plugin) | [@Fantasy](https://gitee.com/fantasy-hx) | 通过使用opencv进行人脸识别从而实现了一键换头的功能，推荐搭配土块插件使用 |
 | [枫叶插件(fengye-plugin)](https://gitee.com/maple-leaf-sweeping/fengye-plugin) | [@叶殇](https://gitee.com/maple-leaf-sweeping) | **与已存在枫叶插件无关**(可共存) 提供一些有用没用的功能 |
 | [鸢尾花插件(logier-plugin)](https://gitee.com/logier/logier-plugins) | [@logier](https://gitee.com/logier) | 表情包仓库、运势算卦、AI塔罗牌、资讯推送 |
