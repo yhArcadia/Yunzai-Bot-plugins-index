@@ -71,7 +71,7 @@
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 功能介绍 | 备注  | 
 | --- | --- | --- | --- |
-| 出丑API | [@云溪院](https://gitee.com/yunxiyuan) | [点击查看出丑API使用介绍](https://yunxiyuan.xyz/archives/gaffe) | 收录云崽圈出丑记录[无用插件已自带接口调用] |
+| 出丑API | [@云溪院](https://gitee.com/yunxiyuan) | [点击查看出丑API使用介绍](https://api.yunxiyuanyxy.xyz/index/?url=gaffe) | 收录云崽圈出丑记录[无用插件已自带接口调用] |
 <!-- 请不要在此处添加新行，请在此表格顶部添加 -->  
 
 </details>

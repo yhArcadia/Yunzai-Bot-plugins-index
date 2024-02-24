@@ -2,12 +2,15 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
-| [鸢尾花插件(logier-plugin)](https://gitee.com/logier/logier-plugins) | [@logier](https://gitee.com/logier) | 表情包仓库、拿群聊表情包、今日运势、算一卦、GPT塔罗牌、定时发图、自带图源（logier严选）、资讯推送 |
-| [反击插件(fanji-plugin)](https://gitee.com/adrae/Fanji-plugin) | [@Admilk](https://gitee.com/adrae) | 被群友戳一戳了？反击！（内含清凉图调用！）更多内容发送#反击帮助 |
+| [ UC插件(UC-plugin) ](https://gitee.com/UCPr251/UC-plugin) | [ @UCPr ](https://gitee.com/UCPr251) | 提供各种工具、娱乐、群管等功能 |
+| [一键换头（地球）插件（egg-plugin）](https://gitee.com/fantasy-hx/egg-plugin) | [@Fantasy](https://gitee.com/fantasy-hx) | 通过使用opencv进行人脸识别从而实现了一键换头的功能，推荐搭配土块插件使用 |
+| [枫叶插件(fengye-plugin)](https://gitee.com/maple-leaf-sweeping/fengye-plugin) | [@叶殇](https://gitee.com/maple-leaf-sweeping) | **与已存在枫叶插件无关**(可共存) 提供一些有用没用的功能 |
+| [鸢尾花插件(logier-plugin)](https://gitee.com/logier/logier-plugins) | [@logier](https://gitee.com/logier) | 表情包仓库、运势算卦、AI塔罗牌、资讯推送 |
+| [反击插件(fanji-plugin)](https://gitee.com/adrae/Fanji-plugin) | [@Admilk](https://gitee.com/adrae) | 被群友戳一戳了？反击！（反击不是机器人反击他人的意思！）（内含清凉图调用！）更多内容发送#反击帮助 |
 | [GPTI插件(gpti-plugin)](https://github.com/CikeyQi/gpti-plugin) | [@0卡苏打水](https://github.com/CikeyQi) | 基于Yunzai-Bot的GPT插件，简化了GPT模型的交互，无需令牌来访问GPT |
 | [米家插件(mijia-plugin)](https://github.com/CikeyQi/mijia-plugin) | [@0卡苏打水](https://github.com/CikeyQi) | 基于Yunzai-Bot的米家插件，在任何地方控制家中米家生态设备 |
 | [NovelAI绘图插件(nai-plugin)](https://github.com/CikeyQi/nai-plugin) | [@0卡苏打水](https://github.com/CikeyQi)  [@erzaozi](https://github.com/erzaozi) | 再一个AI绘图插件，使用 [NovelAI](https://novelai.net/) 接口，实现在QQ内使用 nai-diffusion-3 生成图片 |
-| [1999-plugin](https://gitee.com/fantasy-hx/1999-plugin) | [@fantasy-hx](https://gitee.com/fantasy-hx/) | 重返未来1999相关插件（图鉴，分析，娱乐） |
+| [1999-plugin](https://gitee.com/fantasy-hx/1999-plugin) | [@Fantasy](https://gitee.com/fantasy-hx/) | 重返未来1999相关插件（图鉴，分析，娱乐） |
 | [ICQQ-plugin](https://gitee.com/Zyy955/icqq-plugin) | [@Zyy955](https://gitee.com/Zyy955/) | 应群友要求做的icqq多开插件、测试阶段~如有bug多多包涵~ |
 | [沙雕插件(tg-plugin)](https://gitee.com/misakime/tg-plugin.git) | [@misakime](https://gitee.com/misakime) | 自动推送沙雕图和新番消息的插件|
 | [WeChat-Web-plugin](https://gitee.com/Zyy955/WeChat-Web-plugin) | [@Zyy955](https://gitee.com/Zyy955/) | 支持`Linux`，适用于`Miao-Yunzai`和`Yunzai-Bot`的网页版微信机器人插件。|
@@ -33,7 +36,7 @@
 |[天如插件 (TianRu-plugin)](https://gitee.com/HDTianRu/TianRu-plugin)|[@天如](https://github.com/HDTianRu) |获取"提瓦特小助手"抽卡记录，执行各种语言代码，模拟指定QQ执行指令，生成二维码，将数字变成114514组合的恶臭数字....等各种小功能|
 |[Phigros查分插件 (PhigrosLibrary-plugin)](https://github.com/Walkersifolia/PhigrosLibrary-plugin)|[@圈圈](https://github.com/Walkersifolia)|无需手动输入，获取SessionToken并绑定就可以从云端服务器查分，自动生成b19图片，精美的UI设计by[@七星](https://github.com/QiXingQXX)，插件内也给出了获取SessionToken的方式|
 | [面板插件 (panel-plugin)](https://gitee.com/yunzai-panel/README) | [@硫酸钡Barite](../../../../CUZNIL) | 对[喵喵插件](https://gitee.com/yoimiya-kokomi/miao-plugin)的面板数据提供操作：转换旧版圣遗物格式、适配[Gspanel](https://github.com/monsterxcn/nonebot-plugin-gspanel)、备份面板 |
-| [清凉插件 (ql-plugin)](https://gitee.com/xwy231321/ql-plugin) | [@xwy](https://gitee.com/xwy231321) | 随机二三次元图片，含限制级，清凉图插件重构版,并且包含某个神奇的文件,可以___🐴 |
+| [清凉插件 (ql-plugin)](https://gitee.com/xwy231321/ql-plugin) | [@xwy](https://gitee.com/xwy231321) | 随机二三次元图片，含限制级，清凉图插件重构版 |
 | [KKP插件](https://gitee.com/dungeonmaster/kkp-plugin) | [ @所有二刺螈都得死 ](https://gitee.com/dungeonmaster) | 看看P站图和23次元蛇图和其他小功能 |
 | [云•冰祈 (Cloud_Icepray)](https://gitee.com/koinori/Icepray) | [@koinori](https://gitee.com/koinori) | 搭建于云端，集娱乐于管理功能于一身的轻量化插件 |
 | [鳄梨插件 (Avocado-Plugin) ](https://github.com/Qz-Sean/avocado-plugin) | [@Qz-Sean](https://github.com/Qz-Sean) | 支持查询热映电影信息、天气查询、md渲染、灵活的网页预览与翻译、只为一个人疯狂(发癫)、抽象的指令规则|
