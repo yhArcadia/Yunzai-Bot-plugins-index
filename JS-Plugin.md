@@ -4,6 +4,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [王者战绩查询](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%E7%8E%8B%E8%80%85%E6%88%98%E7%BB%A9%E6%9F%A5%E8%AF%A2.js) | 王者荣耀战绩查询 |
 | [戳一戳次数统计](https://gitee.com/adrae/js-plugins/tree/master/%E6%88%B3%E4%B8%80%E6%88%B3%E6%AC%A1%E6%95%B0%E7%BB%9F%E8%AE%A1) | [@Admilk](https://gitee.com/adrae) | [查看源码](https://gitee.com/adrae/js-plugins/raw/master/%E6%88%B3%E4%B8%80%E6%88%B3%E6%AC%A1%E6%95%B0%E7%BB%9F%E8%AE%A1/cyccs.js) | 统计机器人在一个群内被戳的次数并且发送次数显示 |
 | [明日素材](https://gitee.com/HanaHimeUnica/yzjs#%E6%98%8E%E6%97%A5%E7%B4%A0%E6%9D%90js) | [@小花花花儿](https://gitee.com/HanaHimeUnica) | [查看源码](https://gitee.com/HanaHimeUnica/yzjs/blob/master/%E6%98%8E%E6%97%A5%E7%B4%A0%E6%9D%90.js) | 使用喵喵插件模版渲染的明日素材 |
 | [cp短打生成器](https://github.com/myueqf/yzbot-js-cp-text-generator) | [@明月清风](https://myueqf.top) | [查看源码](https://github.com/myueqf/yzbot-js-cp-text-generator/blob/main/cp%E7%9F%AD%E6%89%93%E7%94%9F%E6%88%90%E5%99%A8.js) | 本地cp短打生成器 |
