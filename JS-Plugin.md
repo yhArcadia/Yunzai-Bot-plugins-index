@@ -4,7 +4,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
-| [漂流瓶](https://gitee.com/SmallK111407/onlyJS) | [@曉K](https://gitee.com/SmallK111407) | [查看源码](https://gitee.com/SmallK111407/onlyJS/raw/main/driftBottle/driftBottle.js) | 本地漂流瓶，适配QQBot按钮，可以捡到来自别的群的漂流瓶~配置文件都在插件内，请自行修改哦~ |
+| [漂流瓶](https://gitee.com/SmallK111407/onlyJS) | [@曉K](https://gitee.com/SmallK111407) | [查看源码](https://gitee.com/SmallK111407/onlyJS/raw/main/driftBottle/driftBottle.js) | 本地漂流瓶，适配QQBot按钮，可以捡到来自别的群的漂流瓶，配置文件都在插件内，请自行修改哦~ |
 | [文件复制](https://github.com/NotIvny/yunzai-copyfiles-js/) | [@NotIvny](https://github.com/NotIvny) | [查看源码](https://raw.githubusercontent.com/NotIvny/yunzai-copyfiles-js/main/copyfiles.js) | 便捷替换文件，可用于文件备份或恢复 |
 | [主人被禁言解禁](https://gitee.com/adrae/js-plugins/tree/master/%E4%B8%BB%E4%BA%BA%E8%A2%AB%E7%A6%81%E8%A8%80%E6%89%A7%E8%A1%8C%E6%93%8D%E4%BD%9C) | [@Admilk](https://gitee.com/adrae/) | [查看源码](https://gitee.com/adrae/js-plugins/raw/master/%E4%B8%BB%E4%BA%BA%E8%A2%AB%E7%A6%81%E8%A8%80%E6%89%A7%E8%A1%8C%E6%93%8D%E4%BD%9C/HelpMaster.js) | 主人被禁言之后如果机器人是管理就进行解禁 |
 | [记录帮助](https://gitee.com/HanaHimeUnica/yzjs#%E8%AE%B0%E5%BD%95%E5%B8%AE%E5%8A%A9js) | [@小花花花儿](https://gitee.com/HanaHimeUnica) | [查看源码](https://gitee.com/HanaHimeUnica/yzjs/blob/master/%E8%AE%B0%E5%BD%95%E5%B8%AE%E5%8A%A9.js) | 抽卡记录帮助, 感谢[曉K](https://gitee.com/SmallK111407/expand-plugin/blob/master/resources/RecordHelp/%E8%AE%B0%E5%BD%95%E5%B8%AE%E5%8A%A9.psd)ps图片来源 |
