@@ -4,6 +4,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [随机滑稽](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%E9%9A%8F%E6%9C%BA%E6%BB%91%E7%A8%BD.js) | 随机滑稽表情包[滑稽库](https://gitee.com/Tloml-Starry/resources) |
 | [漂流瓶](https://gitee.com/SmallK111407/onlyJS) | [@曉K](https://gitee.com/SmallK111407) | [查看源码](https://gitee.com/SmallK111407/onlyJS/raw/main/driftBottle/driftBottle.js) | 本地漂流瓶，适配QQBot按钮，可以捡到来自别的群的漂流瓶，配置文件都在插件内，请自行修改哦~ |
 | [文件复制](https://github.com/NotIvny/yunzai-copyfiles-js/) | [@NotIvny](https://github.com/NotIvny) | [查看源码](https://raw.githubusercontent.com/NotIvny/yunzai-copyfiles-js/main/copyfiles.js) | 便捷替换文件，可用于文件备份或恢复 |
 | [主人被禁言解禁](https://gitee.com/adrae/js-plugins/tree/master/%E4%B8%BB%E4%BA%BA%E8%A2%AB%E7%A6%81%E8%A8%80%E6%89%A7%E8%A1%8C%E6%93%8D%E4%BD%9C) | [@Admilk](https://gitee.com/adrae/) | [查看源码](https://gitee.com/adrae/js-plugins/raw/master/%E4%B8%BB%E4%BA%BA%E8%A2%AB%E7%A6%81%E8%A8%80%E6%89%A7%E8%A1%8C%E6%93%8D%E4%BD%9C/HelpMaster.js) | 主人被禁言之后如果机器人是管理就进行解禁 |
