@@ -4,6 +4,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [删除抽卡记录](https://gitee.com/HanaHimeUnica/yzjs#%E5%88%A0%E9%99%A4%E6%8A%BD%E5%8D%A1%E8%AE%B0%E5%BD%95js) | [@小花花花儿](https://gitee.com/HanaHimeUnica) | [查看源码](https://gitee.com/HanaHimeUnica/yzjs/blob/master/%E5%88%A0%E9%99%A4%E6%8A%BD%E5%8D%A1%E8%AE%B0%E5%BD%95.js) | 此功能仅限原神抽卡记录错乱或本地抽卡记录小于一年的玩家使用使用此功能后再使用【#更新抽卡记录】可更新一年内抽卡记录 |
 | [随机滑稽](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%E9%9A%8F%E6%9C%BA%E6%BB%91%E7%A8%BD.js) | 随机滑稽表情包[滑稽库](https://gitee.com/Tloml-Starry/resources) |
 | [漂流瓶](https://gitee.com/SmallK111407/onlyJS) | [@曉K](https://gitee.com/SmallK111407) | [查看源码](https://gitee.com/SmallK111407/onlyJS/raw/main/driftBottle/driftBottle.js) | 本地漂流瓶，适配QQBot按钮，可以捡到来自别的群的漂流瓶，配置文件都在插件内，请自行修改哦~ |
 | [文件复制](https://github.com/NotIvny/yunzai-copyfiles-js/) | [@NotIvny](https://github.com/NotIvny) | [查看源码](https://raw.githubusercontent.com/NotIvny/yunzai-copyfiles-js/main/copyfiles.js) | 便捷替换文件，可用于文件备份或恢复 |
