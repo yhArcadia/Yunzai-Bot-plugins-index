@@ -10,7 +10,7 @@
 
 ## 发布内容
 
-请参考☞[贡献指南](./CONTRIBUTING.md)向此仓库发起 Pull Request
+请参考☞[贡献指南](./indices/CONTRIBUTING.md)向此仓库发起 Pull Request
 
 ---
 
@@ -46,20 +46,20 @@
 
 ## 功能插件（plugin）
 
-[>>>点击此处跳转<<<](Function-Plugin.md)
+[>>>点击此处跳转<<<](./indices/Function-Plugin.md)
 
 ## 游戏插件（plugin）
 
-[>>>点击此处跳转<<<](Game-Plugin.md)
+[>>>点击此处跳转<<<](./indices/Game-Plugin.md)
 
 ## JS插件索引（example）
 
-[>>>点击此处跳转<<<](JS-Plugin.md)
+[>>>点击此处跳转<<<](./indices/JS-Plugin.md)
 
 ## 便捷操作性质类索引
 
-[>>>点击此处跳转<<<](Easy-Use.md)
+[>>>点击此处跳转<<<](./indices/Easy-Use.md)
 
 ## 资源索引
 
-[>>>点击此处跳转<<<](Resource.md)
+[>>>点击此处跳转<<<](./indices/Resource.md)
