@@ -7,6 +7,7 @@
 |[命令行插件安装脚本](https://gitee.com/yunxiyuan/yunzai-plugin-install)| [@云溪院](https://gitee.com/yunxiyuan/) | 适用于拥有git,curl,npm的系统，可多选安装 |
 |[unidbg-fetch-qsign-gui](https://github.com/CikeyQi/unidbg-fetch-qsign-gui)| [@0卡苏打水](https://github.com/CikeyQi) [@浅夜丶星辰](https://github.com/QianYeXingChen) | 适用于Windows端免环境一键启动的图形化签名服务程序 |
 |[unidbg-fetch-qsign-shell](https://github.com/CikeyQi/unidbg-fetch-qsign-shell)| [@0卡苏打水](https://github.com/CikeyQi) | 适用于Linux端一键部署签名服务脚本 |
+| [一键安装&更新OpenShamrock](https://github.com/YuYue-Amatsuki/OpenShamrock_Oneclick_Install_Upgrade) | [@雨月丶Amatsuki](https://github.com/YuYue-Amatsuki) | 给你的Android设备一键安装&更新OpenShamrock |
 |[chronocat-docker-shell](https://github.com/CikeyQi/chronocat-docker-shell)| [@0卡苏打水](https://github.com/CikeyQi) | 适用于Linux端喵崽/TRSS崽快速迁移NTQQ脚本 |
 | [白狐管理脚本](https://gitee.com/baihu433/Ubuntu-Yunzai) | [@白狐](https://gitee.com/baihu433) | 使用shell编写的 YZ/MZ/TZ 的一键部署和插件的一键安装与管理功能，支持Ubuntu系统,签名服务器管理脚本支持Linux全系统，插件管理脚本支持Linux和window全系统) |
 | [向日葵云崽安装脚本](https://gitee.com/xrk114514/shell-Yunzai) | [@向日葵](https://gitee.com/xrk114514)| 更新啦，内置qqsign安装脚本，以及大幅度优化，Ubuntu谁的脚本还敢打？|
