@@ -2,6 +2,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [猫猫状态插件(neko-status-plugin)](https://github.com/erzaozi/neko-status-plugin) | [@erzaozi](https://github.com/erzaozi) [@0卡苏打水](https://github.com/CikeyQi) | 可爱的服务器状态查看插件喵~ |
 | [群管插件（group-plugin）](https://gitee.com/clarlotte/group-plugin) | [@Clarlotte](https://gitee.com/clarlotte) | 群管插件，功能写的很杂，部分功能bug，请多多包涵 |
 | [星点签名（starlight-qsign）](https://gitee.com/wuliya336/starlight-qsign) | [@wuliya336](https://gitee.com/wuliya336) | 向机器发送信息可自动获取可用的免费签名 |
 | [ UC插件(UC-plugin) ](https://gitee.com/UCPr251/UC-plugin) | [ @UCPr ](https://gitee.com/UCPr251) | 提供各种工具、娱乐、群管等功能 |
@@ -9,8 +10,8 @@
 | [枫叶插件(fengye-plugin)](https://gitee.com/maple-leaf-sweeping/fengye-plugin) | [@叶殇](https://gitee.com/maple-leaf-sweeping) | **与已存在枫叶插件无关**(可共存) 提供一些有用没用的功能 |
 | [鸢尾花插件(logier-plugin)](https://gitee.com/logier/logier-plugins) | [@logier](https://gitee.com/logier) | 表情包仓库、运势算卦、AI塔罗牌、资讯推送 |
 | [反击插件(fanji-plugin)](https://gitee.com/adrae/Fanji-plugin) | [@Admilk](https://gitee.com/adrae) | 清凉图调用插件！以及一些机器人有关的操作，更多内容安装插件后发送#反击帮助 |
-| [GPTI插件(gpti-plugin)](https://github.com/CikeyQi/gpti-plugin) | [@0卡苏打水](https://github.com/CikeyQi) | 基于Yunzai-Bot的GPT插件，简化了GPT模型的交互，无需令牌来访问GPT |
-| [米家插件(mijia-plugin)](https://github.com/CikeyQi/mijia-plugin) | [@0卡苏打水](https://github.com/CikeyQi) | 基于Yunzai-Bot的米家插件，在任何地方控制家中米家生态设备 |
+| [GPTI插件(gpti-plugin)](https://github.com/CikeyQi/gpti-plugin) | [@0卡苏打水](https://github.com/CikeyQi) | 一个GPT插件，简化了GPT模型的交互，无需令牌来访问GPT |
+| [米家插件(mijia-plugin)](https://github.com/CikeyQi/mijia-plugin) | [@0卡苏打水](https://github.com/CikeyQi) | 米家插件，在任何地方控制家中米家生态设备 |
 | [NovelAI绘图插件(nai-plugin)](https://github.com/CikeyQi/nai-plugin) | [@0卡苏打水](https://github.com/CikeyQi)  [@erzaozi](https://github.com/erzaozi) | 再一个AI绘图插件，使用 [NovelAI](https://novelai.net/) 接口，实现在QQ内使用 nai-diffusion-3 生成图片 |
 | [1999-plugin](https://gitee.com/fantasy-hx/1999-plugin) | [@Fantasy](https://gitee.com/fantasy-hx/) | 重返未来1999相关插件（图鉴，分析，娱乐） |
 | [ICQQ-plugin](https://gitee.com/Zyy955/icqq-plugin) | [@Zyy955](https://gitee.com/Zyy955/) | 应群友要求做的icqq多开插件、测试阶段~如有bug多多包涵~ |
