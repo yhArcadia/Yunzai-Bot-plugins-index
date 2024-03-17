@@ -4,6 +4,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [签名状态检测](https://github.com/xiaotian2333/yunzai-plugins-Single-file) | [@小天](https://github.com/xiaotian2333) | [查看源码](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E7%AD%BE%E5%90%8D%E7%8A%B6%E6%80%81%E6%A3%80%E6%B5%8B.js) | 检测各签名服务的可用性，可修改插件内的配置自定义要检测的签名接口（仓库内还有其他更多插件） |
 | [删除抽卡记录](https://gitee.com/HanaHimeUnica/yzjs#%E5%88%A0%E9%99%A4%E6%8A%BD%E5%8D%A1%E8%AE%B0%E5%BD%95js) | [@小花花花儿](https://gitee.com/HanaHimeUnica) | [查看源码](https://gitee.com/HanaHimeUnica/yzjs/blob/master/%E5%88%A0%E9%99%A4%E6%8A%BD%E5%8D%A1%E8%AE%B0%E5%BD%95.js) | 此功能仅限原神抽卡记录错乱或本地抽卡记录小于一年的玩家使用使用此功能后再使用【#更新抽卡记录】可更新一年内抽卡记录 |
 | [随机滑稽](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%E9%9A%8F%E6%9C%BA%E6%BB%91%E7%A8%BD.js) | 随机滑稽表情包[滑稽库](https://gitee.com/Tloml-Starry/resources) |
 | [漂流瓶](https://gitee.com/SmallK111407/onlyJS) | [@曉K](https://gitee.com/SmallK111407) | [查看源码](https://gitee.com/SmallK111407/onlyJS/raw/main/driftBottle/driftBottle.js) | 本地漂流瓶，适配QQBot按钮，可以捡到来自别的群的漂流瓶，配置文件都在插件内，请自行修改哦~ |
