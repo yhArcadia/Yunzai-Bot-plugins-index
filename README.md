@@ -63,3 +63,8 @@
 ## 资源索引
 
 [>>>点击此处跳转<<<](./indices/Resource.md)
+
+
+## 招募栏
+
+[>>>点击此处跳转<<<](./indices/recruit.md)
