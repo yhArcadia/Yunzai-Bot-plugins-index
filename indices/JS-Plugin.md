@@ -4,6 +4,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [通义千问](https://gitee.com/qiannqq/yunzai-plugin-JS#%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AEjs) | [@千奈千祁](https://gitee.com/qiannqq) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/JS/tyqw.js) | 对接通义千问API的JS轻量插件，支持上下文、自设定，指定模型等。需要自备sk |
 | [星铁角色素材](https://gitee.com/HanaHimeUnica/yzjs#%E6%98%9F%E9%93%81%E8%A7%92%E8%89%B2%E7%B4%A0%E6%9D%90js) | [@小花花花儿](https://gitee.com/HanaHimeUnica) | [查看源码](https://gitee.com/HanaHimeUnica/yzjs/blob/master/%E6%98%9F%E9%93%81%E8%A7%92%E8%89%B2%E7%B4%A0%E6%9D%90.js) | 星铁角色素材 |
 | [签名状态检测](https://github.com/xiaotian2333/yunzai-plugins-Single-file) | [@小天](https://github.com/xiaotian2333) | [查看源码](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E7%AD%BE%E5%90%8D%E7%8A%B6%E6%80%81%E6%A3%80%E6%B5%8B.js) | 检测各签名服务的可用性，可修改插件内的配置自定义要检测的签名接口（仓库内还有其他更多插件） |
 | [删除抽卡记录](https://gitee.com/HanaHimeUnica/yzjs#%E5%88%A0%E9%99%A4%E6%8A%BD%E5%8D%A1%E8%AE%B0%E5%BD%95js) | [@小花花花儿](https://gitee.com/HanaHimeUnica) | [查看源码](https://gitee.com/HanaHimeUnica/yzjs/blob/master/%E5%88%A0%E9%99%A4%E6%8A%BD%E5%8D%A1%E8%AE%B0%E5%BD%95.js) | 此功能仅限原神抽卡记录错乱或本地抽卡记录小于一年的玩家使用使用此功能后再使用【#更新抽卡记录】可更新一年内抽卡记录 |
