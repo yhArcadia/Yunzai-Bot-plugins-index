@@ -26,7 +26,6 @@
 | Yunzai-Bot-lite | [@听语惊花](https://github.com/Nwflower) | [☞GitHub](https://github.com/Nwflower/yunzai-bot-lite) | [☞Gitee](https://gitee.com/Nwflower/yunzai-bot-lite) | 轻量版，无原神功能 | □□□□□ |
 | Miao-Yunzai | [@喵喵](https://gitee.com/yoimiya-kokomi) | [☞GitHub](https://github.com/yoimiya-kokomi/Miao-Yunzai) | [☞Gitee](https://gitee.com/yoimiya-kokomi/Miao-Yunzai) | 喵版 Yunzai | ■■■■■ |
 | TRSS-Yunzai | [@时雨🌌星空](../../../../TimeRainStarSky) | [☞GitHub](https://github.com/TimeRainStarSky/Yunzai) | [☞Gitee](https://gitee.com/TimeRainStarSky/Yunzai) | Yunzai 应用端，支持多账号，支持协议端：go-cqhttp、ComWeChat、GSUIDCore、ICQQ、QQBot、QQ频道、微信、KOOK、Telegram、Discord、OPQBot | ■■■■■ |
-| A-Yunzai | [@柠檬冲水](https://gitee.com/ningmengchongshui)<br>[@地球生物](https://gitee.com/diqiushengwu) | [☞GitHub](https://github.com/ningmengchongshui/azai-bot) | [☞Gitee](https://gitee.com/ningmengchongshui/azai-bot) | [A崽]基于AlemonJS,使用JS/TS热开发调试,支持登录官方qq(group/guild)/villa(米游社)/kook/discord/icqq/onebot... | ■■■■□ |
 
 </details>
 
