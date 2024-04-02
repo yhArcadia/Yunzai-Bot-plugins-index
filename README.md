@@ -35,11 +35,11 @@
 
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
-| [锅巴插件 (guoba-plugin)](https://gitee.com/guoba-yunzai/guoba-plugin) | [@zolay-poi](https://github.com/zolay-poi) | V3主要提供云崽的网页端后台管理界面功能；V2提供丝滑迁移V3功能。 |
-| [戏天插件 (xitian-plugin)](https://gitee.com/XiTianGame/xitian-plugin) | [@戏天](https://github.com/XiTianGame) | 【该插件若报错请见其[issues/I6B5WW](https://gitee.com/XiTianGame/xitian-plugin/issues/I6B5WW)】提供js类插件管理功能 |
 | [喵喵插件 (miao-plugin)](https://gitee.com/yoimiya-kokomi/miao-plugin) | [@喵喵](https://gitee.com/yoimiya-kokomi)| Miao-Plugin是一个Yunzai-Bot的升级插件，提供包括角色面板查询等升级功能 |
-| [QQ频道插件（QQGuild-Plugin）](https://github.com/2y8e9h22/QQGuild-Plugin)|[@2y8e9h22](https://github.com/2y8e9h22)|安装本插件可以让你的频道机器人使用云崽的功能. ^_^|
+| [梁氏伤害计算 (liangshi-calc)](https://gitee.com/liangshi233/liangshi-calc) | [@梁氏](https://gitee.com/liangshi233)| 为喵喵插件面板提供更丰富的伤害计算，以及极限面板，试用面板等... |
 | [图鉴 (Atlas)](https://github.com/Nwflower/atlas) | [@听语惊花](https://github.com/Nwflower/) | 支持原神和崩坏：星穹铁道的新一代图鉴插件 |
+| [锅巴插件 (guoba-plugin)](https://gitee.com/guoba-yunzai/guoba-plugin) | [@zolay-poi](https://github.com/zolay-poi) | V3主要提供云崽的网页端后台管理界面功能；V2提供丝滑迁移V3功能。 |
+| [戏天插件 (xitian-plugin)](https://gitee.com/XiTianGame/xitian-plugin) | [@戏天](https://github.com/XiTianGame) | 提供js类插件管理功能 |
 
 </details>
 
