@@ -2,6 +2,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [在线语音合成插件(vits-plugin)](https://github.com/erzaozi/vits-plugin) | [@erzaozi](https://github.com/erzaozi) [@0卡苏打水](https://github.com/CikeyQi) | 在线VITS插件，免部署，使用网络上各种各样的在线接口 |
 | [猫猫状态插件(neko-status-plugin)](https://github.com/erzaozi/neko-status-plugin) | [@erzaozi](https://github.com/erzaozi) [@0卡苏打水](https://github.com/CikeyQi) | 可爱的服务器状态查看插件喵~ |
 | [群管插件（group-plugin）](https://gitee.com/clarlotte/group-plugin) | [@Clarlotte](https://gitee.com/clarlotte) | 群管插件，功能写的很杂，部分功能bug，请多多包涵 |
 | [星点签名（starlight-qsign）](https://gitee.com/wuliya336/starlight-qsign) | [@wuliya336](https://gitee.com/wuliya336) | 向机器发送信息可自动获取可用的免费签名 |
