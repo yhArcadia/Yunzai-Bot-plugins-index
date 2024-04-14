@@ -4,6 +4,8 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [原神活动临期推送](https://gitee.com/qiannqq/yunzai-plugin-JS#%E5%8E%9F%E7%A5%9E%E6%B4%BB%E5%8A%A8%E5%88%B0%E6%9C%9F%E6%8E%A8%E9%80%81js) | [@千奈千祁](https://gitee.com/qiannqq) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/JS/hdts.js) | 在指定群推送即将到期关闭的原神活动 |
+| [标准输入](https://gitee.com/qiannqq/yunzai-plugin-JS#%E6%A0%87%E5%87%86%E8%BE%93%E5%85%A5js) | [@千奈千祁](https://gitee.com/qiannqq) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/JS/stdin.js) | 使Miao-Yunzai支持控制台输入指令 |
 | [陈泽丨丁真丨孙笑川语音合成](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%5B%E9%99%88%E6%B3%BD%5D%5B%E4%B8%81%E7%9C%9F%5D%5B%E5%AD%99%E7%AC%91%E5%B7%9D%5D%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90.js) | 合成陈泽丨丁真丨孙笑川语音并发送 |
 | [通义千问](https://gitee.com/qiannqq/yunzai-plugin-JS#%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AEjs) | [@千奈千祁](https://gitee.com/qiannqq) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/JS/tyqw.js) | 对接通义千问API的JS轻量插件，支持上下文、自设定，指定模型等。需要自备sk |
 | [星铁角色素材](https://gitee.com/HanaHimeUnica/yzjs#%E6%98%9F%E9%93%81%E8%A7%92%E8%89%B2%E7%B4%A0%E6%9D%90js) | [@小花花花儿](https://gitee.com/HanaHimeUnica) | [查看源码](https://gitee.com/HanaHimeUnica/yzjs/blob/master/%E6%98%9F%E9%93%81%E8%A7%92%E8%89%B2%E7%B4%A0%E6%9D%90.js) | 星铁角色素材 |
