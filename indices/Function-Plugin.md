@@ -2,6 +2,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [B站内容推送插件(Bilibili-dynamics-push-plugin)](https://github.com/An-314/Bilibili-dynamics-push-plugin) | [@An-314](https://github.com/An-314) | 基于puppeteer绕过风控获取数据，读取从给定UID的用户的动态，并在指定时间向QQ群内推送。 |
 | [SunoAI插件(sunoai-plugin)](https://github.com/erzaozi/sunoai-plugin) | [@erzaozi](https://github.com/erzaozi) [@0卡苏打水](https://github.com/CikeyQi) | 一个AI作曲插件，使用 [SunoAI](https://www.suno.ai/) 接口，实现在QQ内使用 SunoAI V3 生成音乐 |
 | [在线语音合成插件(vits-plugin)](https://github.com/erzaozi/vits-plugin) | [@erzaozi](https://github.com/erzaozi) [@0卡苏打水](https://github.com/CikeyQi) | 在线VITS插件，免部署，使用网络上各种各样的在线接口 |
 | [猫猫状态插件(neko-status-plugin)](https://github.com/erzaozi/neko-status-plugin) | [@erzaozi](https://github.com/erzaozi) [@0卡苏打水](https://github.com/CikeyQi) | 可爱的服务器状态查看插件喵~ |
