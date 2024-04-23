@@ -4,6 +4,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [点赞续火](https://github.com/xiaotian2333/yunzai-plugins-Single-file) | [@小天](https://github.com/xiaotian2333) | [查看源码](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E7%82%B9%E8%B5%9E%E7%BB%AD%E7%81%AB.js) | 自动化点赞和续火，免去每天发“赞我”的麻烦（仓库内还有其他更多插件） |
 | [好游快爆爆米花签到](https://gitee.com/eulogyjiajia/js-feature-collection) | [@空梦](https://gitee.com/eulogyjiajia) | [查看源头
 码](https://gitee.com/eulogyjiajia/js-feature-collection/blob/master/hykb/hykb.js) | 可在群聊内签到好游快爆的爆米花
 | [原神活动临期推送](https://gitee.com/qiannqq/yunzai-plugin-JS#%E5%8E%9F%E7%A5%9E%E6%B4%BB%E5%8A%A8%E5%88%B0%E6%9C%9F%E6%8E%A8%E9%80%81js) | [@千奈千祁](https://gitee.com/qiannqq) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/JS/hdts.js) | 在指定群推送即将到期关闭的原神活动 |
