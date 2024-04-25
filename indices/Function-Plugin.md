@@ -2,9 +2,10 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
-| [SunoAI插件(sunoai-plugin)](https://github.com/erzaozi/sunoai-plugin) | [@erzaozi](https://github.com/erzaozi) [@0卡苏打水](https://github.com/CikeyQi) | 一个AI作曲插件，使用 [SunoAI](https://www.suno.ai/) 接口，实现在QQ内使用 SunoAI V3 生成音乐 |
-| [在线语音合成插件(vits-plugin)](https://github.com/erzaozi/vits-plugin) | [@erzaozi](https://github.com/erzaozi) [@0卡苏打水](https://github.com/CikeyQi) | 在线VITS插件，免部署，使用网络上各种各样的在线接口 |
-| [猫猫状态插件(neko-status-plugin)](https://github.com/erzaozi/neko-status-plugin) | [@erzaozi](https://github.com/erzaozi) [@0卡苏打水](https://github.com/CikeyQi) | 可爱的服务器状态查看插件喵~ |
+| [明日方舟插件(skland-plugin)](https://github.com/erzaozi/skland-plugin) | [@二枣子](https://github.com/erzaozi) [@0卡苏打水](https://github.com/CikeyQi) | 森空岛理智值查询，推送以及自动签到的明日方舟插件 |
+| [SunoAI插件(sunoai-plugin)](https://github.com/erzaozi/sunoai-plugin) | [@二枣子](https://github.com/erzaozi) [@0卡苏打水](https://github.com/CikeyQi) | 一个AI作曲插件，使用 [SunoAI](https://www.suno.ai/) 接口，实现在QQ内使用 SunoAI V3 生成音乐 |
+| [在线语音合成插件(vits-plugin)](https://github.com/erzaozi/vits-plugin) | [@二枣子](https://github.com/erzaozi) [@0卡苏打水](https://github.com/CikeyQi) | 在线VITS插件，免部署，使用网络上各种各样的在线接口 |
+| [猫猫状态插件(neko-status-plugin)](https://github.com/erzaozi/neko-status-plugin) | [@二枣子](https://github.com/erzaozi) [@0卡苏打水](https://github.com/CikeyQi) | 可爱的服务器状态查看插件喵~ |
 | [群管插件（group-plugin）](https://gitee.com/clarlotte/group-plugin) | [@Clarlotte](https://gitee.com/clarlotte) | 群管插件，功能写的很杂，部分功能bug，请多多包涵 |
 | [星点签名（starlight-qsign）](https://gitee.com/wuliya336/starlight-qsign) | [@wuliya336](https://gitee.com/wuliya336) | 向机器发送信息可自动获取可用的免费签名 |
 | [ UC插件(UC-plugin) ](https://gitee.com/UCPr251/UC-plugin) | [ @UCPr ](https://gitee.com/UCPr251) | 提供各种工具、娱乐、群管等功能 |
@@ -12,7 +13,7 @@
 | [反击插件(fanji-plugin)](https://gitee.com/adrae/Fanji-plugin) | [@Admilk](https://gitee.com/adrae) | 清凉图调用插件！以及一些机器人有关的操作，更多内容安装插件后发送#反击帮助 |
 | [GPTI插件(gpti-plugin)](https://github.com/CikeyQi/gpti-plugin) | [@0卡苏打水](https://github.com/CikeyQi) | 一个GPT插件，简化了GPT模型的交互，无需令牌来访问GPT |
 | [米家插件(mijia-plugin)](https://github.com/CikeyQi/mijia-plugin) | [@0卡苏打水](https://github.com/CikeyQi) | 米家插件，在任何地方控制家中米家生态设备 |
-| [NovelAI绘图插件(nai-plugin)](https://github.com/CikeyQi/nai-plugin) | [@0卡苏打水](https://github.com/CikeyQi)  [@erzaozi](https://github.com/erzaozi) | 再一个AI绘图插件，使用 [NovelAI](https://novelai.net/) 接口，实现在QQ内使用 nai-diffusion-3 生成图片 |
+| [NovelAI绘图插件(nai-plugin)](https://github.com/CikeyQi/nai-plugin) | [@0卡苏打水](https://github.com/CikeyQi)  [@二枣子](https://github.com/erzaozi) | 再一个AI绘图插件，使用 [NovelAI](https://novelai.net/) 接口，实现在QQ内使用 nai-diffusion-3 生成图片 |
 | [1999-plugin](https://gitee.com/fantasy-hx/1999-plugin) | [@Fantasy](https://gitee.com/fantasy-hx/) | 重返未来1999相关插件（图鉴，分析，娱乐） |
 | [ICQQ-plugin](https://gitee.com/Zyy955/icqq-plugin) | [@Zyy955](https://gitee.com/Zyy955/) | 应群友要求做的icqq多开插件、测试阶段~如有bug多多包涵~ |
 | [沙雕插件(tg-plugin)](https://gitee.com/misakime/tg-plugin.git) | [@misakime](https://gitee.com/misakime) | 自动推送沙雕图和新番消息的插件|
@@ -20,7 +21,7 @@
 | [wind-plugin](https://gitee.com/wind-trace-typ/wind-plugin) | [@风の迹](https://gitee.com/wind-trace-typ) | 各大平台热搜榜单，搜索菜谱等功能，还附带轻量的修炼小游戏(适合大群，不会因为游戏功能太多导致刷屏),更多其他功能仍在咕咕咕 |
 | [WeChat-plugin](https://gitee.com/Zyy955/WeChat-plugin) | [@Zyy955](https://gitee.com/Zyy955/) | 应用端仅支持`Windows`，适用于`Miao-Yunzai`和`Yunzai-Bot`的微信机器人插件。可搭配[apps.js](https://gitee.com/Zyy955/Yunzai-Bot-plugin)插件直接使用微信而无需登录QQ |
 | [语音合成api插件(ttsapi-yunzai-Plugin)](https://gitee.com/TsaiXingyu/ttsapi-yunzai-Plugin) | [@古手梨花](https://gitee.com/TsaiXingyu)| vitsapi版现已支持原神4.0角色与svc唱歌 |
-| [Minecraft插件(mc-plugin)](https://github.com/CikeyQi/mc-plugin) | [@0卡苏打水](https://github.com/CikeyQi)  [@erzaozi](https://github.com/erzaozi) | 基于Yunzai-Bot的与Minecraft Server互通消息的插件，支持双向同步消息与指令操作 |
+| [Minecraft插件(mc-plugin)](https://github.com/CikeyQi/mc-plugin) | [@0卡苏打水](https://github.com/CikeyQi)  [@二枣子](https://github.com/erzaozi) | 基于Yunzai-Bot的与Minecraft Server互通消息的插件，支持双向同步消息与指令操作 |
 | [我的世界插件(SpaceXiao_Minecraft)](https://gitee.com/xiaofei20625/space-xiao_minecraft) | [@晓飞](https://gitee.com/xiaofei20625) | 可以配合minecraft的servertap插件在qq群/qq频道控制mc进行添加白名单，输入指令等操作 |
 | [QQGuild-plugin](https://gitee.com/Zyy955/QQGuild-plugin) | [@Zyy955](https://gitee.com/Zyy955/) | 使用[NodeJS-SDK](https://github.com/tencent-connect/bot-node-sdk)进行交互... 可搭配[apps.js](https://gitee.com/Zyy955/Yunzai-Bot-plugin)插件直接使用频道而无需登录QQ |
 | [名字插件(mz-plugin)](https://gitee.com/xyb12345678qwe/mz-plugin-alemon) | [@名字](https://gitee.com/xyb12345678qwe) | 一些丰富的小功能 |
@@ -29,8 +30,8 @@
 | [饼干插件(biscuit-plugin)](https://gitee.com/Yummy-cookie/biscuit-plugin) |[@Yummy-cookie](https://gitee.com/Yummy-cookie) | 一些功能比如ping，ikun音乐 |
 | [向日葵插件(xrk-plugin)](https://gitee.com/xrk114514/xrk-plugin) |[@xrk](https://gitee.com/xrk114514) | 为机器人提供一些冒泡功能，如整点报时，全局表情(可以自定义图库)，还有一些小功能，建议搭配向日葵脚本一起使用 |
 | [Xs-plugin](https://gitee.com/hsxfk/Xs-plugin) | [@黄色小方块](https://gitee.com/hsxfk) | 提供动漫语音合成，王者荣耀战力查询，公共签名api以及个人api检测功能。 还有一些简单的娱乐功能 |
-| [违规图片监听插件(nsfwjs-plugin)](https://github.com/CikeyQi/nsfwjs-plugin) | [@0卡苏打水](https://github.com/CikeyQi)  [@erzaozi](https://github.com/erzaozi) | 基于本地的免费违规图片监听插件，得益于NSFWJS，检测速度极快。使用TensorFlow，低配置服务器也能流畅运行 |
-| [Midjourney绘图插件(mj-plugin)](https://github.com/ap-plugin/mj-plugin) | [@0卡苏打水](https://github.com/CikeyQi)  [@erzaozi](https://github.com/erzaozi) | 又一个AI绘图插件，使用 [Midjourney](https://www.midjourney.com/) 接口，实现在QQ内使用Midjourney生成图片 |
+| [违规图片监听插件(nsfwjs-plugin)](https://github.com/CikeyQi/nsfwjs-plugin) | [@0卡苏打水](https://github.com/CikeyQi)  [@二枣子](https://github.com/erzaozi) | 基于本地的免费违规图片监听插件，得益于NSFWJS，检测速度极快。使用TensorFlow，低配置服务器也能流畅运行 |
+| [Midjourney绘图插件(mj-plugin)](https://github.com/ap-plugin/mj-plugin) | [@0卡苏打水](https://github.com/CikeyQi)  [@二枣子](https://github.com/erzaozi) | 又一个AI绘图插件，使用 [Midjourney](https://www.midjourney.com/) 接口，实现在QQ内使用Midjourney生成图片 |
 | [卿何插件(qinghe-plugin)](https://gitee.com/Tloml-Starry/qinghe-plugin) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | 提供各种娱乐功能，更多功能持续更新中...详情请看[Wiki](https://gitee.com/Tloml-Starry/qinghe-plugin/wikis/%E5%8A%9F%E8%83%BDWiki) |
 | [碧蓝档案插件(BlueArchive-plugin)](https://gitee.com/all-thoughts-are-broken/blue-archive) | [@万念断绝](https://gitee.com/all-thoughts-are-broken) | 提供碧蓝档案的一些有用的或没有用的攻略帮助 |
 | [库洛插件<br />(Yunzai-Kuro-Plugin)](https://github.com/TomyJan/Yunzai-Kuro-Plugin) | [@TomyJan](https://github.com/TomyJan) | 库洛游戏插件 |
