@@ -4,6 +4,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [B站内容推送插件(Bilibili-dynamics-push-plugin)](https://github.com/An-314/Bilibili-dynamics-push-plugin) | [@An-314](https://github.com/An-314) | 基于puppeteer绕过风控获取数据，读取从给定UID的用户的动态，并在指定时间向QQ群内推送。 |
 | [好游快爆爆米花签到](https://gitee.com/eulogyjiajia/js-feature-collection) | [@空梦](https://gitee.com/eulogyjiajia) | [查看源码] (https://gitee.com/eulogyjiajia/js-feature-collection/blob/master/hykb/hykb.js) | 可在群聊内签到好游快爆的爆米花
 | [原神活动临期推送](https://gitee.com/qiannqq/yunzai-plugin-JS#%E5%8E%9F%E7%A5%9E%E6%B4%BB%E5%8A%A8%E5%88%B0%E6%9C%9F%E6%8E%A8%E9%80%81js) | [@千奈千祁](https://gitee.com/qiannqq) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/JS/hdts.js) | 在指定群推送即将到期关闭的原神活动 |
 | [标准输入](https://gitee.com/qiannqq/yunzai-plugin-JS#%E6%A0%87%E5%87%86%E8%BE%93%E5%85%A5js) | [@千奈千祁](https://gitee.com/qiannqq) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/JS/stdin.js) | 使Miao-Yunzai支持控制台输入指令 |
