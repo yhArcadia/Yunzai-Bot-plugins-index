@@ -4,6 +4,9 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [沙雕图](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin#%E6%B2%99%E9%9B%95%E5%9B%BE%E6%8F%92%E4%BB%B6)|[@bling丶一闪](https://gitee.com/bling_yshs) | [查看源码](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin/raw/master/ys-%E6%B2%99%E9%9B%95%E5%9B%BE-reborn.js)|发送一张随机沙雕图（图库请看代码内注释）|
+| [今日人品](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin#%E4%BB%8A%E6%97%A5%E4%BA%BA%E5%93%81)|[@bling丶一闪](https://gitee.com/bling_yshs) | [查看源码](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin/raw/master/ys-%E4%BB%8A%E6%97%A5%E4%BA%BA%E5%93%81.js)|计算今日人品（根据时间和QQ号等概率哈希，所以结果仅供参考）|
+| [米游社cos](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin#%E7%B1%B3%E6%B8%B8%E7%A4%BEcos)|[@bling丶一闪](https://gitee.com/bling_yshs) | [查看源码](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin/raw/master/ys-%E7%B1%B3%E6%B8%B8%E7%A4%BEcos.js)|发送随机米游社cos图片|| [点赞续火](https://github.com/xiaotian2333/yunzai-plugins-Single-file) | [@小天](https://github.com/xiaotian2333) | [查看源码](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E7%82%B9%E8%B5%9E%E7%BB%AD%E7%81%AB.js) | 自动化点赞和续火，免去每天发“赞我”的麻烦（仓库内还有其他更多插件） |
 | [点赞续火](https://github.com/xiaotian2333/yunzai-plugins-Single-file) | [@小天](https://github.com/xiaotian2333) | [查看源码](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E7%82%B9%E8%B5%9E%E7%BB%AD%E7%81%AB.js) | 自动化点赞和续火，免去每天发“赞我”的麻烦（仓库内还有其他更多插件） |
 | [好游快爆爆米花签到](https://gitee.com/eulogyjiajia/js-feature-collection) | [@空梦](https://gitee.com/eulogyjiajia) | [查看源码](https://gitee.com/eulogyjiajia/js-feature-collection/blob/master/hykb/hykb.js) | 可在群聊内签到好游快爆的爆米花
 | [原神活动临期推送](https://gitee.com/qiannqq/yunzai-plugin-JS#%E5%8E%9F%E7%A5%9E%E6%B4%BB%E5%8A%A8%E5%88%B0%E6%9C%9F%E6%8E%A8%E9%80%81js) | [@千奈千祁](https://gitee.com/qiannqq) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/JS/hdts.js) | 在指定群推送即将到期关闭的原神活动 |
