@@ -8,7 +8,6 @@
 | [猫猫状态插件(neko-status-plugin)](https://github.com/erzaozi/neko-status-plugin) | [@二枣子](https://github.com/erzaozi) [@0卡苏打水](https://github.com/CikeyQi) | 可爱的服务器状态查看插件喵~ |
 | [群管插件（group-plugin）](https://gitee.com/clarlotte/group-plugin) | [@Clarlotte](https://gitee.com/clarlotte) | 群管插件，功能写的很杂，部分功能bug，请多多包涵 |
 | [星点签名（starlight-qsign）](https://gitee.com/wuliya336/starlight-qsign) | [@wuliya336](https://gitee.com/wuliya336) | 向机器发送信息可自动获取可用的免费签名 |
-| [ UC插件(UC-plugin) ](https://gitee.com/UCPr251/UC-plugin) | [ @UCPr ](https://gitee.com/UCPr251) | 提供各种工具、娱乐、群管等功能 |
 | [鸢尾花插件(logier-plugin)](https://gitee.com/logier/logier-plugins) | [@logier](https://gitee.com/logier) | 表情包仓库、运势算卦、AI塔罗牌、资讯推送 |
 | [反击插件(fanji-plugin)](https://gitee.com/adrae/Fanji-plugin) | [@Admilk](https://gitee.com/adrae) | 清凉图调用插件！以及一些机器人有关的操作，更多内容安装插件后发送#反击帮助 |
 | [GPTI插件(gpti-plugin)](https://github.com/CikeyQi/gpti-plugin) | [@0卡苏打水](https://github.com/CikeyQi) | 一个GPT插件，简化了GPT模型的交互，无需令牌来访问GPT |
