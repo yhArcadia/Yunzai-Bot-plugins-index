@@ -4,6 +4,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [inlinecmd检测](https://github.com/NotIvny/yunzai-catchInlineCmd-js) | [@NotIvny](https://github.com/NotIvny) | [查看源码](https://github.com/NotIvny/yunzai-catchInlineCmd-js) | 检测并提醒群友发的inlinecmd，防止上当
 | [节日查询](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%E6%9C%80%E8%BF%91%E8%8A%82%E6%97%A5%E6%9F%A5%E8%AF%A2.js) | 查询距离当前日期最近的三个节日(可自定义数量)，可设置gid和uid在节日当天推送 |
 | [沙雕图](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin#%E6%B2%99%E9%9B%95%E5%9B%BE%E6%8F%92%E4%BB%B6)|[@bling丶一闪](https://gitee.com/bling_yshs) | [查看源码](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin/raw/master/ys-%E6%B2%99%E9%9B%95%E5%9B%BE-reborn.js)|发送一张随机沙雕图（图库请看代码内注释）|
 | [今日人品](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin#%E4%BB%8A%E6%97%A5%E4%BA%BA%E5%93%81)|[@bling丶一闪](https://gitee.com/bling_yshs) | [查看源码](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin/raw/master/ys-%E4%BB%8A%E6%97%A5%E4%BA%BA%E5%93%81.js)|计算今日人品（根据时间和QQ号等概率哈希，所以结果仅供参考）|
