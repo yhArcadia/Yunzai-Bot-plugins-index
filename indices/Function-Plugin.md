@@ -2,6 +2,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [arknights-plugin](https://github.com/gxy12345/arknights-plugin) | [@gxy12345](https://github.com/gxy12345) |提供明日方舟森空岛社区自动签到、干员练度查询、公招查询、MAA远程控制终端|
 | [以图搜图插件(imgS-plugin)](https://github.com/erzaozi/imgS-plugin) | [@二枣子](https://github.com/erzaozi) [@0卡苏打水](https://github.com/CikeyQi) | 能以图搜插画、搜动漫角色、搜番剧、搜Coser、搜本子的聚合以图搜图插件 |
 | [明日方舟插件(skland-plugin)](https://github.com/erzaozi/skland-plugin) | [@二枣子](https://github.com/erzaozi) [@0卡苏打水](https://github.com/CikeyQi) | 森空岛理智值查询，推送以及自动签到的明日方舟插件 |
 | [SunoAI插件(sunoai-plugin)](https://github.com/erzaozi/sunoai-plugin) | [@二枣子](https://github.com/erzaozi) [@0卡苏打水](https://github.com/CikeyQi) | 一个AI作曲插件，使用 [SunoAI](https://www.suno.ai/) 接口，实现在QQ内使用 SunoAI V3 生成音乐 |
