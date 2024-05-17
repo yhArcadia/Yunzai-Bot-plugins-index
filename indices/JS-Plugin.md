@@ -134,4 +134,6 @@
 | [漂流瓶](https://gitee.com/huangshx2001/yunzai-js-plug-in) | [@癫癫博士](https://gitee.com/huangshx2001) | [查看源码](https://gitee.com/huangshx2001/yunzai-js-plug-in/raw/master/%E6%BC%82%E6%B5%81%E7%93%B6.js) | 记录当下心情丢出瓶子！或者查看他人分享捞起瓶子！ |
 | [ 戳一戳语音/文字/表情包/禁言](https://gitee.com/huangshx2001/yunzai-js-plug-in) | [@癫癫博士](https://gitee.com/huangshx2001) | [查看源码](https://gitee.com/huangshx2001/yunzai-js-plug-in/raw/master/%E6%88%B3%E4%B8%80%E6%88%B3%E8%AF%AD%E9%9F%B3%E3%80%81%E6%96%87%E5%AD%97%E3%80%81%E8%A1%A8%E6%83%85%E5%8C%85%E3%80%81%E7%A6%81%E8%A8%80.js) | 可丰富的自定义机器人戳一戳反应的插件，事件，概率都可以调整，随机的就是最好的！ |
 | [更多ai,更多欢乐!](https://gitee.com/huangshx2001/yunzai-js-plug-in) | [@癫癫博士](https://gitee.com/huangshx2001) | [查看源码](https://gitee.com/huangshx2001/yunzai-js-plug-in/raw/master/%E6%9B%B4%E5%A4%9Aai%EF%BC%8C%E6%9B%B4%E5%A4%9A%E5%BF%AB%E4%B9%90!.js) | 欢迎转学生韩国妹妹ai的加入！                                 |
+| [每日老婆](https://github.com/or6521/dailylife) | [@啊儿](https://github.com/or6521) | [查看源码](https://github.com/or6521/dailylife/blob/main/dailylife.js) | 每天抽取一个新群友做老婆，支持ntr，纯爱锁等功能 |
+| [每日老婆二次元版本](https://github.com/or6521/dailylife) | [@啊儿](https://github.com/or6521) | [查看源码](https://github.com/or6521/dailylife/blob/main/daily2Dlife.js) | 每天抽取一个随机二次元角色做老婆 |
 <!-- 请不要在此处添加新行，请在此表格顶部添加 -->
