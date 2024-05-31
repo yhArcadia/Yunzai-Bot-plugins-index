@@ -4,6 +4,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [网页截图](https://gitee.com/adrae/js-plugins/tree/master/%E7%BD%91%E9%A1%B5%E6%88%AA%E5%9B%BE) | [@Admilk](https://gitee.com/adrae/) | [查看源码](https://gitee.com/adrae/js-plugins/raw/master/%E7%BD%91%E9%A1%B5%E6%88%AA%E5%9B%BE/WebView.js) | 网页截图 |
 | [gpt4o](https://gitee.com/LostInLinearPast/Occasional-updates-js) | [@一只戏鸢](https://gitee.com/LostInLinearPast) | [查看源码](https://gitee.com/LostInLinearPast/Occasional-updates-js/blob/master/gpt4.js) | 提供免费的gpt4o模型，且用且珍惜，坏了不一定修
 | [原神星铁全服排行](https://github.com/NotIvny/yunzai-characterRank-js) | [@NotIvny](https://github.com/NotIvny) | [查看源码](https://github.com/NotIvny/yunzai-characterRank-js) | 提供原神星铁全服角色排行插件
 | [redis便捷操作](https://github.com/NotIvny/yunzai-operateRedis-js) | [@NotIvny](https://github.com/NotIvny) | [查看源码](https://github.com/NotIvny/yunzai-operateRedis-js) | 便捷增删改redis数据库
