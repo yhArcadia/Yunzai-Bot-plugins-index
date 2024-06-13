@@ -4,6 +4,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [ZhiPu AI](https://github.com/Dnyo666/Qxml-Yunzai-js) | [@浅巷墨黎](https://github.com/Dnyo666) | [查看源码](https://github.com/Dnyo666/Qxml-Yunzai-js) | 与GLM4对话，拥有联网，预设功能（无记忆） |
 | [MoonShot AI](https://github.com/Dnyo666/Qxml-Yunzai-js) | [@浅巷墨黎](https://github.com/Dnyo666) | [查看源码](https://github.com/Dnyo666/Qxml-Yunzai-js) | 与kimi ai对话，拥有记忆功能 |
 | [mc服务器列表V2.1](https://github.com/Dnyo666/Qxml-Yunzai-js) | [@浅巷墨黎](https://github.com/Dnyo666) | [查看源码](https://github.com/Dnyo666/Qxml-Yunzai-js) | 添加并列出mc服务器状态 |
 | [电子木鱼](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%E7%94%B5%E5%AD%90%E6%9C%A8%E9%B1%BC.js) | 敲电子木鱼，成赛博圣人 |
