@@ -4,6 +4,9 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [ZhiPu AI](https://github.com/Dnyo666/Qxml-Yunzai-js) | [@浅巷墨黎](https://github.com/Dnyo666) | [查看源码](https://github.com/Dnyo666/Qxml-Yunzai-js) | 与GLM4对话，拥有联网，预设功能（无记忆） |
+| [MoonShot AI](https://github.com/Dnyo666/Qxml-Yunzai-js) | [@浅巷墨黎](https://github.com/Dnyo666) | [查看源码](https://github.com/Dnyo666/Qxml-Yunzai-js) | 与kimi ai对话，拥有记忆功能 |
+| [mc服务器列表V2.1](https://github.com/Dnyo666/Qxml-Yunzai-js) | [@浅巷墨黎](https://github.com/Dnyo666) | [查看源码](https://github.com/Dnyo666/Qxml-Yunzai-js) | 添加并列出mc服务器状态 |
 | [Better-RC](https://gitee.com/Vremq_vperyod/better-rc) | [@Vremq_vperyod](https://gitee.com/Vremq_vperyod) | [查看源码](https://gitee.com/Vremq_vperyod/better-rc/blob/master/main.ts) | 交互式远程命令执行！ |
 | [电子木鱼](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%E7%94%B5%E5%AD%90%E6%9C%A8%E9%B1%BC.js) | 敲电子木鱼，成赛博圣人 |
 | [pixiv令牌获取](https://gitee.com/OvertimeBunny/pixiv-token) | [重装小兔](https://gitee.com/OvertimeBunny) | [查看源码](https://gitee.com/OvertimeBunny/pixiv-token/raw/master/pixiv-token.js) | 获取pixiv令牌，搭配椰奶插件使用 |
