@@ -2,6 +2,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [蛋蛋插件(egg-plugin)](https://gitee.com/fantasy-hx/egg-plugin) | [@Fantasy](https://gitee.com/fantasy-hx) | 一键换头插件（一键地球，一键@,一键...未来会支持更多快捷一键换头，方便制作表情包) |
 | [推送插件(bililivePush-plugin)](https://gitee.com/HDTianRu/bililivePush-plugin) | [@天如](https://gitee.com/HDTianRu) | 简洁易用的b站直播推送插件，代码结构简洁 |
 | [小米粥插件(xmz-plugin)](https://gitee.com/cunyx/xmz-plugin) | [@最好喝的小米粥](https://gitee.com/cunyx) | 一个插件，连帮助都没有；点击查看[功能列表](https://gitee.com/cunyx/xmz-plugin/blob/master/FunctionsList.md) |
 | [鸣潮插件(waves-plugin)](https://github.com/erzaozi/waves-plugin) | [@二枣子](https://github.com/erzaozi) [@0卡苏打水](https://github.com/CikeyQi) | 支持查询游戏内数据，推送波片信息以及库街区自动签到的鸣潮插件 |
