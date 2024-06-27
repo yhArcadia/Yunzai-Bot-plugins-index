@@ -21,7 +21,7 @@
 | 名称 | 作者 | GitHub | Gitee | 备注  | 推荐使用优先级 |
 |------| ---- | ------ | ----- | ----- | ----- |
 | Yunzai-Bot 索引库 | [@渔火Arcadia](https://gitee.com/yhArcadia) | [☞GitHub](https://github.com/yhArcadia/Yunzai-Bot-plugins-index) | [☞Gitee](https://gitee.com/yhArcadia/Yunzai-Bot-plugins-index) | 云崽相关内容索引库 | 就是本库啦！ |
-| Miao-Yunzai | @喵喵 <br>  @时雨 <br>  @柠檬 <br>   @牧星长  | [☞GitHub](https://github.com/yoimiya-kokomi/Miao-Yunzai/tree/dev/) | [☞Gitee](https://gitee.com/yoimiya-kokomi/Miao-Yunzai/tree/dev/) | Yunzai V4 [☞点击阅读文档了解更多](https://ningmengchongshui.github.io/Miao-Yunzai-Docs/) | ■■■■■ |
+| YunzaiJS | @喵喵 <br>  @时雨 <br>  @柠檬 <br>   @牧星长  | [☞GitHub](https://github.com/yunzai-org/yunzaijs) | ☞Gitee(暂无) | Yunzai V4 [☞点击阅读文档了解更多](https://yunzai-org.github.io/docs/) | ■■■■■ |
 | TRSS-Yunzai | [@时雨🌌星空](../../../../TimeRainStarSky) | [☞GitHub](https://github.com/TimeRainStarSky/Yunzai) | [☞Gitee](https://gitee.com/TimeRainStarSky/Yunzai) | Yunzai 应用端，支持多账号，支持协议端：go-cqhttp、ComWeChat、GSUIDCore、ICQQ、QQBot、QQ频道、微信、KOOK、Telegram、Discord、OPQBot | ■■■■■ |
 | Miao-Yunzai | [@喵喵](https://gitee.com/yoimiya-kokomi) | [☞GitHub](https://github.com/yoimiya-kokomi/Miao-Yunzai) | [☞Gitee](https://gitee.com/yoimiya-kokomi/Miao-Yunzai) | 喵版 Yunzai | ■■■■□ |
 | Yunzai-Bot | [@喵喵](https://gitee.com/yoimiya-kokomi) | [☞GitHub](https://github.com/yoimiya-kokomi/Yunzai-Bot) | [☞Gitee](https://gitee.com/yoimiya-kokomi/Yunzai-Bot) | 喵喵维护版 Yunzai | ■■□□□ |
