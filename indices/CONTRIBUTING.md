@@ -3,7 +3,7 @@
 按照如下格式组合：（注意符号都是半角，多个作者请用空格分隔）
 
 ```markdown
-| [插件名称](插件主页地址) | [@作者名](作者主页地址) | 备注 |
+| [帮助插件(https://gitee.com/qianzhi11_admin/help-for-some-plugins.-js) | [@qianzhi11](https://gitee.com/qianzhi11_admin) | 查看一些插件帮助页的js |
 ```
 
 将组合好的内容添加到 `README.md` 中，然后发起 `pull request` 
