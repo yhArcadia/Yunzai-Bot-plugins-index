@@ -4,7 +4,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
-[帮助插件](https://gitee.com/qianzhi11_admin/help-for-some-plugins.-js/) | [@qianzhi11](https://gitee.com/LostInLinearPast) | [查看源码](https://gitee.com/qianzhi11_admin/help-for-some-plugins.-js/) | 查看一些插件的帮助页面
+[帮助插件](https://gitee.com/qianzhi11_admin/help-for-some-plugins.-js/) | [@qianzhi11](https://gitee.com/qianzhi11_admin/) | [查看源码](https://gitee.com/qianzhi11_admin/help-for-some-plugins.-js/) | 查看一些插件的帮助页面
 | [二次元少女](https://gitee.com/LostInLinearPast/Occasional-updates-js) | [@一只戏鸢](https://gitee.com/LostInLinearPast) | [查看源码](https://gitee.com/LostInLinearPast/Occasional-updates-js/blob/master/%E4%BA%8C%E6%AC%A1%E5%85%83%E5%B0%91%E5%A5%B3.js) | 二次元的你/我/他/xxx，每次结果都不一样 |
 | [mc服务器状态](https://github.com/xiaotian2333/yunzai-plugins-Single-file?tab=readme-ov-file#mc%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%8A%B6%E6%80%81) | [@小天](https://github.com/xiaotian2333) | [查看源码](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/mc%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%8A%B6%E6%80%81.js) | 查询mc服务器的状态，可配置默认查询的服务器（仓库内还有其他更多插件） |
 | [ZhiPu AI](https://github.com/Dnyo666/Qxml-Yunzai-js) | [@浅巷墨黎](https://github.com/Dnyo666) | [查看源码](https://github.com/Dnyo666/Qxml-Yunzai-js) | 与GLM4对话，拥有联网，预设功能（无记忆） |
