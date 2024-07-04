@@ -60,7 +60,7 @@
 | [ChatGLM的api插件](https://gitee.com/394911284/chatztc) | [@蓝蓝的青金石](https://gitee.com/394911284) | 这是一个对接ChatGLM的聊天api的云崽bot插件 |
 | [AFanSKyQs插件（FanSky_Qs）](https://github.com/AFanSKyQs/FanSky_Qs) | [ @AFanSKyQs](https://github.com/AFanSKyQs) |提瓦特小助手功能实现(队伍伤害等)、[打卡×魔晶系统]、OpenAI多模型拓展、票房查询、各图包整合收录触发等...|
 | [七圣召唤战绩查询（call_of_seven_saints）](https://gitee.com/huangshx2001/call_of_seven_saints) | [@癫癫博士](https://gitee.com/huangshx2001) | 查询自己七圣召唤胜率以及卡牌喜好，目标用户应该是七圣召唤忠实玩家以及牌佬群机器人 |
-| [屁股肉插件 (phi-plugin)](https://github.com/catrong/phi-plugin) | [@Catrong](https://github.com/Catrong) | 提供phigros现有曲目的曲目信息查询、个人rks计算、随机phigros曲目等功能 |
+| [屁股肉插件 (phi-plugin)](https://github.com/catrong/phi-plugin) | [@Catrong](https://github.com/Catrong) | 提供Phigros现有曲目的曲目信息查询、个人rks计算、云端查分、随机phigros曲目等功能 [Gitee仓库](https://gitee.com/catrong/phi-plugin)|
 | [小雪插件 (XiaoXuePlugin)](https://gitee.com/XueWerY/XiaoXuePlugin) | [@XueWerY](https://gitee.com/XueWerY) | 让bot变得人性化，提升用户和bot的交互体验，提供bot更多的管理，提供更多的依赖库，拓展新功能效率高 |
 | [R插件 (rconsole-plugin)](https://gitee.com/kyrzy0416/rconsole-plugin) | [@zhiyu](https://gitee.com/kyrzy0416) | 专门为朋友们写的Yunzai-Bot插件，专注图片分享和生活的插件！ |
 | [光遇插件 (Tlon-Sky)](https://gitee.com/Tloml-Starry/Tlon-Sky) | [@Tloml-Starry](https://giett.com/Tloml-Starry)  [@自闭歆](https://gitee.com/xin-closing-fuse) | 《光·遇》游戏插件，功能列表[点此查看](https://gitee.com/Tloml-Starry/Tlon-Sky/raw/master/resource/%E5%8A%9F%E8%83%BD%E5%88%97%E8%A1%A8.png) |
