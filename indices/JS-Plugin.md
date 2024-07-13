@@ -4,6 +4,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [消息处理插件](https://gitee.com/Aliorpse/Yunzai-AliorpsePlugins) | [@Aliorpse](https://gitee.com/Aliorpse) | [查看源码](https://gitee.com/Aliorpse/Yunzai-AliorpsePlugins/blob/master/MsgProcess.js) | 处理多段文本消息,使其合并成一段文本,防止一些渲染器出现问题(针对LiteLoaderQQNT) |
 | [卡池信息查询](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%E7%94%B5%E5%AD%90%E6%9C%A8%E9%B1%BC.js) | 原神，星穹铁道和绝区零卡池信息and多久未复刻查询 |
 | [透群友](https://gitee.com/lucky-shower/qun-fuck) | [@玉玉了](https://gitee.com/lucky-shower) | [查看源码](https://gitee.com/lucky-shower/qun-fuck/blob/master/fuck.js) | 透群友/透群主/透管理 |
 | [二次元少女](https://gitee.com/LostInLinearPast/Occasional-updates-js) | [@一只戏鸢](https://gitee.com/LostInLinearPast) | [查看源码](https://gitee.com/LostInLinearPast/Occasional-updates-js/blob/master/%E4%BA%8C%E6%AC%A1%E5%85%83%E5%B0%91%E5%A5%B3.js) | 二次元的你/我/他/xxx，每次结果都不一样 |
@@ -97,7 +98,6 @@
 | [查委托](https://hlhs-nb.cn/DailyTask/item) | [@Hlhs](info@hlhs-nb.cn) | [查看源码](https://hlhs-nb.cn/download/%E6%9F%A5%E5%A7%94%E6%89%98.js)| 查询原神每日委托任务是否有隐藏成就 |
 | [每日打卡](https://gitee.com/qiannqq/yunzai-plugin-JS) | [@千奈千祁](https://gitee.com/QianNQQ) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/%E6%AF%8F%E6%97%A5%E6%89%93%E5%8D%A1.js)| 每人每天随机幸运值（0-100），查看每天的首个欧皇 |
 | [表情合成（纯js）](https://gitee.com/qiannqq/yunzai-plugin-JS) |[@千奈千祁](https://gitee.com/qiannqq) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/BQHC.js) | 无需Python，通过调用api来实现表情合成。 |
-| [PxxnHub文本生成](https://gitee.com/Aliorpse/yunzai-pxxn-hub) | [@Aliorpse](https://gitee.com/Aliorpse) | [查看源码](https://gitee.com/Aliorpse/yunzai-pxxn-hub/blob/master/pxxnhub.js) | 奇奇怪怪的文本生成,[效果图](https://gitee.com/Aliorpse/yunzai-pxxn-hub/raw/master/%E6%95%88%E6%9E%9C%E5%9B%BE.gif) |
 | [Faden发癫插件](https://github.com/Pretend-to/Faden_api_server) | [@秋山澪](https://github.com/Pretend-to) | [查看源码](https://github.com/Pretend-to/Faden_api_server/blob/main/yz-plugin/faden.js) |一款可以让你的bot对群友说客制化土味情话~~发癫~~的插件 |
 | [MC-Wiki插件](https://github.com/Walkersifolia/mc-wiki) | [@圈圈](https://github.com/Walkersifolia) | [查看源码](https://github.com/Walkersifolia/mc-wiki/blob/main/mcwiki.js) |一款可以快捷查询mcwiki的插件，自动裁切并返回图片，还提供了网络不好情况时的返回链接功能[（此插件分支维护版戳这里，更新了wiki地址）](https://github.com/Midnight-2004/mc-wiki) |
 |[原神&星铁抽卡计算器](https://gitee.com/LumineAether/Genshin-StarRail-gacha-calculator)| [@荧之空](https://gitee.com/LumineAether) | [查看源码](https://gitee.com/LumineAether/Genshin-StarRail-gacha-calculator) | 根据玩家拥有的纠缠之缘/星轨专票数目以及角色池、武器/光锥池的水位、保底情况，计算出抽取指定数量的五星up角色和五星up武器/光锥的概率，并绘制出累积概率图|
@@ -107,7 +107,6 @@
 | [表情包](https://github.com/ikechan8370/yunzai-meme/)|[@ikechan8370](https://github.com/ikechan8370)| [查看源码](https://raw.githubusercontent.com/ikechan8370/yunzai-meme/main/meme.js)|基于[meme-generator](https://github.com/MeetWq/meme-generator)的表情包插件。提供了一个默认的免费API，也可自行搭建使用。|
 | [token填充](https://gitee.com/mcat0/tkhelp)  | [@mCat](https://gitee.com/mcat0) | [查看源码](https://gitee.com/mcat0/tkhelp/blob/master/TokenHelp.js) | 通过监测token和设别信息文件是否缺失来解决机器人掉线问题。 |
 | [自定义卡池抽卡插件](https://gitee.com/wan13877501248/zdychouka) | [@Hello World](https://gitee.com/wan13877501248) | [查看源码](https://gitee.com/wan13877501248/zdychouka/raw/master/%E8%87%AA%E5%AE%9A%E4%B9%89%E5%8D%A1%E6%B1%A0%E6%8A%BD%E5%8D%A1%E6%8F%92%E4%BB%B6.js) | 提供原神自定义卡池抽卡的相关功能 |
-| [MC插件](https://gitee.com/Aliorpse/Yunzai-McPlugins) | [@Aliorpse](https://gitee.com/Aliorpse/) | [查看源码](http://123.60.141.159/src/McPlugins/) | 提供Minecraft相关功能(服务器状态查询 正版玩家查询等) |
 | [喜报](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin)|[@bling丶一闪](https://gitee.com/bling_yshs) | [查看源码](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin/raw/master/%E5%96%9C%E6%8A%A5.js)|可以生成喜报并发送，[效果图](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin/blob/master/res/%E5%96%9C%E6%8A%A5%E6%95%88%E6%9E%9C%E5%9B%BE.jpg)|
 | [检测骂机器人进行处理](https://gitee.com/xiaoye12123/js) | [@小叶](https://gitee.com/xiaoye12123) | [查看源码](https://gitee.com/xiaoye12123/js/raw/master/%E6%BA%90%E7%A0%81%E5%8E%BB%E6%8E%89%E9%AA%82%E4%BA%BA%E8%AF%8D%E6%B1%87%E5%88%AB%E7%94%A8%E8%BF%99%E4%B8%AA.js) |检测群聊的消息,如果有at机器人或者提到机器人名字的消息中包含了违禁词的话就会进行处理 |
 | [人物识别](https://gitee.com/shuciqianye/yunzai-AnimeTrace) | [@书辞千楪](https://gitee.com/shuciqianye) | [查看源码](https://gitee.com/shuciqianye/yunzai-AnimeTrace/raw/master/%E4%BA%BA%E7%89%A9%E8%AF%86%E5%88%AB.js) |可根据您提供的图片识别出图片中的日漫人物或游戏角色 |
