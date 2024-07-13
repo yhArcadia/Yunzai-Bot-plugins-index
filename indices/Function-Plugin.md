@@ -2,6 +2,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [绝区零插件(ZZZ-Plugin)](https://github.com/ZZZure/ZZZ-Plugin) | [@bietiaop](https://github.com/bietiaop) | 游戏绝区零查询功能插件，支持玩家信息、角色信息查询，抽卡记录、刷新、分析等功能 |
 | [喵宇插件( miaoyu-plugin)](https://gitee.com/kongkongjiang/miaoyu-plugin) | [@小狐狸空空酱](https://gitee.com/kongkongjiang) | 提供云崽的b站抖音查询功能需要搭配Miaoyuapi本地版使用 |
 | [蛋蛋插件(egg-plugin)](https://gitee.com/fantasy-hx/egg-plugin) | [@Fantasy](https://gitee.com/fantasy-hx) | 一键换头插件（一键地球，一键@,一键...未来会支持更多快捷一键换头，方便制作表情包) |
 | [推送插件(bililivePush-plugin)](https://gitee.com/HDTianRu/bililivePush-plugin) | [@天如](https://gitee.com/HDTianRu) | 简洁易用的b站直播推送插件，代码结构简洁 |
