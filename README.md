@@ -48,9 +48,13 @@
 
 [>>>点击此处跳转<<<](./indices/Function-Plugin.md)
 
-## 游戏插件（plugin）
+## (其他)游戏功能插件（plugin）
 
 [>>>点击此处跳转<<<](./indices/Game-Plugin.md)
+
+## 文游插件（plugin）
+
+[>>>点击此处跳转<<<](./indices/WordGame-Plugin.md)
 
 ## JS插件索引（example）
 
