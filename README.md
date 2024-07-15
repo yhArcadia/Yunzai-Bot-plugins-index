@@ -48,7 +48,7 @@
 
 [>>>点击此处跳转<<<](./indices/Function-Plugin.md)
 
-## (其他)游戏功能插件（plugin）
+## 游戏功能插件（plugin）
 
 [>>>点击此处跳转<<<](./indices/Game-Plugin.md)
 
