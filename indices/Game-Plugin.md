@@ -2,6 +2,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [崩坏三乐土插件(Elysian-Realm-plugin)](https://github.com/zipated/Elysian-Realm-plugin)|[@@zipated](https://github.com/zipated)|崩坏3乐土攻略查询插件
 | [绝区零插件(ZZZ-Plugin)](https://github.com/ZZZure/ZZZ-Plugin) | [@bietiaop](https://github.com/bietiaop) | 游戏绝区零查询功能插件，支持玩家信息、角色信息查询，抽卡记录、刷新、分析等功能 |
 | [鸣潮插件(waves-plugin)](https://github.com/erzaozi/waves-plugin) | [@二枣子](https://github.com/erzaozi) [@0卡苏打水](https://github.com/CikeyQi) | 支持查询游戏内数据，推送波片信息以及库街区自动签到的鸣潮插件 |
 | [arknights-plugin](https://github.com/gxy12345/arknights-plugin) | [@gxy12345](https://github.com/gxy12345) |提供明日方舟森空岛社区自动签到、干员练度查询、公招查询、MAA远程控制终端|
