@@ -4,6 +4,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [今日涩图](https://github.com/MIUKUKANO/yunzai-js) | [@MIUKUKANO](https://github.com/MIUKUKANO) | [查看源码](https://github.com/MIUKUKANO/yunzai-js/blob/main/%E4%BB%8A%E6%97%A5%E6%B6%A9%E5%9B%BE.js) | 涩涩！！！ |
 | [coc鱼情查询](https://gitee.com/lkah/yunzai-js) | [@lkah](https://gitee.com/lkah) | [查看源码](https://gitee.com/lkah/yunzai-js/blob/master/coc%E9%B1%BC%E6%83%85.js) | 部落冲突鱼情查询 |
 | [消息处理插件](https://gitee.com/Aliorpse/Yunzai-AliorpsePlugins) | [@Aliorpse](https://gitee.com/Aliorpse) | [查看源码](https://gitee.com/Aliorpse/Yunzai-AliorpsePlugins/blob/master/MsgProcess.js) | 处理多段文本消息,使其合并成一段文本,防止一些渲染器出现问题(针对LiteLoaderQQNT) |
 | [卡池信息查询](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%E7%94%B5%E5%AD%90%E6%9C%A8%E9%B1%BC.js) | 原神，星穹铁道和绝区零卡池信息and多久未复刻查询 |
