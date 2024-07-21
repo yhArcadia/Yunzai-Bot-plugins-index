@@ -4,6 +4,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [导出面板数据](https://github.com/NotIvny/yunzai-panelData-js) | [@NotIvny](https://github.com/NotIvny) | [查看源码](https://github.com/NotIvny/yunzai-panelData-js/blob/main/panelData.js) | 将个人面板数据导入到另一个Bot上，省去了换Bot后在游戏内换展柜的麻烦 |
 | [B站视频解析](https://gitee.com/Aliorpse/Yunzai-AliorpsePlugins) | [@Aliorpse](https://gitee.com/Aliorpse) | [查看源码](https://gitee.com/Aliorpse/Yunzai-AliorpsePlugins/blob/master/bilitv.js) | 轻量,美观,快速的视频解析,支持链接,BV号,av号,b23.tv短链,未来可能添加分享卡片解析 |
 | [Anosu](https://github.com/MIUKUKANO/yunzai-js) | [@MIUKUKANO](https://github.com/MIUKUKANO) | [查看源码](https://github.com/MIUKUKANO/yunzai-js/blob/main/Anosu.js) | se！！！ |
 | [coc鱼情查询](https://gitee.com/lkah/yunzai-js) | [@lkah](https://gitee.com/lkah) | [查看源码](https://gitee.com/lkah/yunzai-js/blob/master/coc%E9%B1%BC%E6%83%85.js) | 部落冲突鱼情查询 |
