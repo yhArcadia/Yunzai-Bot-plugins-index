@@ -2,37 +2,39 @@
 
 此仓库用于收集 Yunzai-Bot 的相关内容。
 
-此仓库仅作为索引查询使用，对索引内容可能不会做全面验证，使用第三方代码前请确保知晓可能存在的风险。
+此仓库仅作为索引查询使用，对索引内容不会做全面验证，使用第三方代码前请确保您已知晓可能存在的风险。
 
-此仓库已完全以**Yunzai-Bot V3**的内容为主，插件V2和V4插件能否使用请自行判断。
+此仓库完全以 **Yunzai-Bot V3** 的内容为主，V2 和 V4 框架能否使用请自行判断。
 
-此仓库收集的任何与 Yunzai-Bot 的相关内容均无先后顺序，排序以从上到下，新到旧排序（置顶内容除外）。
+此仓库收集的任何与 Yunzai-Bot 的相关内容均无先后顺序，排序以从上到下，新到旧排序（框架以及推荐插件除外）。
 
-## 发布内容
+## 📤 发布内容
 
-请参考☞[贡献指南](./indices/CONTRIBUTING.md)向此仓库发起 Pull Request
+请参考 ☞[贡献指南](./indices/CONTRIBUTING.md) 向此仓库发起 Pull Request
 
----
+## 🤖 云崽框架
 
-## 云崽及其衍生Bot
+这里展示的云崽机器人框架的不同版本。
 
-<details><summary>展开/收起</summary>
+<details><summary>点击此处展开/收起</summary>
 
 | 名称 | 作者 | GitHub | Gitee | 备注  | 推荐使用优先级 |
 |------| ---- | ------ | ----- | ----- | ----- |
 | Yunzai-Bot 索引库 | [@渔火Arcadia](https://gitee.com/yhArcadia) | [☞GitHub](https://github.com/yhArcadia/Yunzai-Bot-plugins-index) | [☞Gitee](https://gitee.com/yhArcadia/Yunzai-Bot-plugins-index) | 云崽相关内容索引库 | 就是本库啦！ |
-| YunzaiJS | @喵喵 <br>  @时雨 <br>  @柠檬 <br>   @牧星长  | [☞GitHub](https://github.com/yunzai-org/yunzaijs) | ☞Gitee(暂无) | Yunzai V4 [☞点击阅读文档了解更多](https://yunzai-org.github.io/docs/) | ■■■■■ |
 | TRSS-Yunzai | [@时雨🌌星空](../../../../TimeRainStarSky) | [☞GitHub](https://github.com/TimeRainStarSky/Yunzai) | [☞Gitee](https://gitee.com/TimeRainStarSky/Yunzai) | Yunzai 应用端，支持多账号，支持协议端：go-cqhttp、ComWeChat、GSUIDCore、ICQQ、QQBot、QQ频道、微信、KOOK、Telegram、Discord、OPQBot | ■■■■■ |
 | Miao-Yunzai | [@喵喵](https://gitee.com/yoimiya-kokomi) | [☞GitHub](https://github.com/yoimiya-kokomi/Miao-Yunzai) | [☞Gitee](https://gitee.com/yoimiya-kokomi/Miao-Yunzai) | 喵版 Yunzai | ■■■■□ |
+| YunzaiJS | [@喵喵](https://gitee.com/yoimiya-kokomi) [@时雨🌌星空](../../../../TimeRainStarSky) [@柠檬冲水](https://github.com/ningmengchongshui) [@牧星长zolay](https://github.com/sjlei) | [☞GitHub](https://github.com/yunzai-org/yunzaijs) | ☞Gitee(暂无) | Yunzai V4 [☞点击阅读文档了解更多](https://yunzai-org.github.io/docs/) | ■■■■□ |
 | Yunzai-Bot | [@喵喵](https://gitee.com/yoimiya-kokomi) | [☞GitHub](https://github.com/yoimiya-kokomi/Yunzai-Bot) | [☞Gitee](https://gitee.com/yoimiya-kokomi/Yunzai-Bot) | 喵喵维护版 Yunzai | ■■□□□ |
 | Yunzai-Bot | [@Le-niao](https://gitee.com/Le-niao) | [☞GitHub](https://github.com/Le-niao/Yunzai-Bot) | [☞Gitee](https://gitee.com/Le-niao/Yunzai-Bot) | 原版 Yunzai | ■□□□□ |
 | Yunzai-Bot-lite | [@听语惊花](https://github.com/Nwflower) | [☞GitHub](https://github.com/Nwflower/yunzai-bot-lite) | [☞Gitee](https://gitee.com/Nwflower/yunzai-bot-lite) | 轻量版，无原神功能 | □□□□□ |
 
 </details>
 
-## 置顶内容（为Bot提供了关键功能）
+## ⭐️ 推荐插件
 
-<details><summary>展开/收起</summary>
+这里展示的是用户使用较为频繁的插件。
+
+<details><summary>点击此处展开/收起</summary>
 
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
@@ -44,30 +46,38 @@
 
 </details>
 
-## 功能插件（plugin）
+## 🛠️ 功能类插件
+
+这里展示的是大多数 plugin 类大插件。
 
 [>>>点击此处跳转<<<](./indices/Function-Plugin.md)
 
-## 游戏功能插件（plugin）
+## 🎮 游戏类插件
+
+这里展示的是专门为指定游戏提供辅助功能的 plugin 类大插件。
 
 [>>>点击此处跳转<<<](./indices/Game-Plugin.md)
 
-## 文游插件（plugin）
+## 🀄 文游类插件
+
+这里展示的是提供文字游戏功能的 plugin 类大插件。
 
 [>>>点击此处跳转<<<](./indices/WordGame-Plugin.md)
 
-## JS插件索引（example）
+## 🧩 单JS类插件
+
+这里展示的是 js 类小插件。
 
 [>>>点击此处跳转<<<](./indices/JS-Plugin.md)
 
-## 便捷操作性质类索引
+## ⚡️ 脚本类资源
+
+这里展示的是为方便用户使用的脚本类资源。
 
 [>>>点击此处跳转<<<](./indices/Easy-Use.md)
 
-## 资源索引
+## 💁 教程类资源
+
+这里展示的是文字或视频教程类资源。
 
 [>>>点击此处跳转<<<](./indices/Resource.md)
-
-## 招募栏
-
-[>>>点击此处跳转<<<](./indices/Recruit.md)

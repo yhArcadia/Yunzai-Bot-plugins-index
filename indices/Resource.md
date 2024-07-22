@@ -1,4 +1,5 @@
-## 资源索引
+## 教程类资源索引
+
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
@@ -15,7 +16,7 @@
 | [云崽从入门到跑路](http://blog.renranwrong.top)|[@XuF163](https://github.com/XuF163)|一点优化维护体验的小寄能，写给新入坑的朋友[gitee镜像](https://gitee.com/xyzqwefd/Yunzai-ran-wrong-run) 【硬件向】 |
 | [频道云崽搭建教程](https://gitee.com/cxyqiyue/yunzai-qqguild)|[@cxyqiyue](gitee.com/cxyqiyue)| Ubuntu | 推荐使用原版云崽搭建，qq号寄掉之后不会掉线 |
 | [V3云崽手机搭建教程](../../../../CUZNIL/Yunzai-install/) | [@硫酸钡Barite](../../../../CUZNIL) | 图文并茂地演示安卓手机使用[时雨脚本](https://TRSS.me)搭建V3云崽BOT并安装插件登录使用的过程，也包含手机搭建前后会遇到的各种问题和解决方案。其他设备搭建遇到问题也可参考尝试解决。 |
-| [Linux Docker安装教程](https://gitee.com/nuoyis/yunzai-docker-main) | [@诺依阁](https://gitee.com/nuoyis) | 从头带你docker安装避坑,新手可下载配置好的docker包 |
+| [Linux Docker安装教程](https://gitee.com/nuoyis/yunzai-docker-main) | [@诺依阁](https://gitee.com/nuoyis) | 从头带你docker安装避坑，新手可下载配置好的docker包 |
 | [全服(包含国际服)获取Ck或Stoken.apk](https://gitee.com/Divinationhw/Yunzai-Bot-YJHQ) | [@DivinationHW](https://gitee.com/DivinationHW) | Android获取国服国际服Cookie和Stoken软件 |
 | [Yunzai-Bot 文档中心](https://github.com/Xm798/Yunzai-Bot-Docs) | [@Xm798](https://github.com/Xm798) |提供yunzai相关内容[文档地址](https://docs.yunzai.org/) |
 | [Quadratic element_photos](https://gitee.com/ejgk/quadratic-element-photos) | [@ejgk](https://gitee.com/ejgk) | 提供一些二次元图片，支持在线查看，正在持续更新中... |
