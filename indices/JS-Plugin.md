@@ -1,6 +1,6 @@
 ## 单JS类插件索引
 
-可以点击查看源码，另存为 `.js` 文件放入 `exammple` 文件夹来使用（有特别说明除外）
+可以点击查看源码，另存为 `.js` 文件放入 `example` 文件夹来使用（有特别说明除外）
 
 <!-- [GUOBA:JS_PLUGIN:BEGIN] 锅巴插件访问标记，请勿移动 -->
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
@@ -21,16 +21,16 @@
 | [Better-RC](https://gitee.com/Vremq_vperyod/better-rc) | [@Vremq_vperyod](https://gitee.com/Vremq_vperyod) | [查看源码](https://gitee.com/Vremq_vperyod/better-rc/blob/master/main.ts) | 交互式远程命令执行！ |
 | [电子木鱼](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%E7%94%B5%E5%AD%90%E6%9C%A8%E9%B1%BC.js) | 敲电子木鱼，成赛博圣人 |
 | [网页截图](https://gitee.com/adrae/js-plugins/tree/master/%E7%BD%91%E9%A1%B5%E6%88%AA%E5%9B%BE) | [@Admilk](https://gitee.com/adrae/) | [查看源码](https://gitee.com/adrae/js-plugins/raw/master/%E7%BD%91%E9%A1%B5%E6%88%AA%E5%9B%BE/WebView.js) | 网页截图 |
-| [gpt4o](https://gitee.com/LostInLinearPast/Occasional-updates-js) | [@一只戏鸢](https://gitee.com/LostInLinearPast) | [查看源码](https://gitee.com/LostInLinearPast/Occasional-updates-js/blob/master/gpt4.js) | 提供免费的gpt4o模型，且用且珍惜，坏了不一定修
-| [原神星铁全服排行](https://github.com/NotIvny/yunzai-characterRank-js) | [@NotIvny](https://github.com/NotIvny) | [查看源码](https://github.com/NotIvny/yunzai-characterRank-js) | 提供原神星铁全服角色排行插件
-| [redis便捷操作](https://github.com/NotIvny/yunzai-operateRedis-js) | [@NotIvny](https://github.com/NotIvny) | [查看源码](https://github.com/NotIvny/yunzai-operateRedis-js) | 便捷增删改redis数据库
-| [inlinecmd检测](https://github.com/NotIvny/yunzai-catchInlineCmd-js) | [@NotIvny](https://github.com/NotIvny) | [查看源码](https://github.com/NotIvny/yunzai-catchInlineCmd-js) | 检测并提醒群友发的inlinecmd，防止上当
+| [gpt4o](https://gitee.com/LostInLinearPast/Occasional-updates-js) | [@一只戏鸢](https://gitee.com/LostInLinearPast) | [查看源码](https://gitee.com/LostInLinearPast/Occasional-updates-js/blob/master/gpt4.js) | 提供免费的gpt4o模型，且用且珍惜，坏了不一定修 |
+| [原神星铁全服排行](https://github.com/NotIvny/yunzai-characterRank-js) | [@NotIvny](https://github.com/NotIvny) | [查看源码](https://github.com/NotIvny/yunzai-characterRank-js) | 提供原神星铁全服角色排行插件 |
+| [redis便捷操作](https://github.com/NotIvny/yunzai-operateRedis-js) | [@NotIvny](https://github.com/NotIvny) | [查看源码](https://github.com/NotIvny/yunzai-operateRedis-js) | 便捷增删改redis数据库 |
+| [inlinecmd检测](https://github.com/NotIvny/yunzai-catchInlineCmd-js) | [@NotIvny](https://github.com/NotIvny) | [查看源码](https://github.com/NotIvny/yunzai-catchInlineCmd-js) | 检测并提醒群友发的inlinecmd，防止上当 |
 | [节日查询](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%E6%9C%80%E8%BF%91%E8%8A%82%E6%97%A5%E6%9F%A5%E8%AF%A2.js) | 查询距离当前日期最近的三个节日(可自定义数量)，可设置gid和uid在节日当天推送 |
 | [沙雕图](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin#%E6%B2%99%E9%9B%95%E5%9B%BE%E6%8F%92%E4%BB%B6)|[@bling丶一闪](https://gitee.com/bling_yshs) | [查看源码](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin/raw/master/ys-%E6%B2%99%E9%9B%95%E5%9B%BE-reborn.js)|发送一张随机沙雕图（图库请看代码内注释）|
 | [今日人品](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin#%E4%BB%8A%E6%97%A5%E4%BA%BA%E5%93%81)|[@bling丶一闪](https://gitee.com/bling_yshs) | [查看源码](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin/raw/master/ys-%E4%BB%8A%E6%97%A5%E4%BA%BA%E5%93%81.js)|计算今日人品（根据时间和QQ号等概率哈希，所以结果仅供参考）|
 | [米游社cos](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin#%E7%B1%B3%E6%B8%B8%E7%A4%BEcos)|[@bling丶一闪](https://gitee.com/bling_yshs) | [查看源码](https://gitee.com/bling_yshs/yunzaiv3-ys-plugin/raw/master/ys-%E7%B1%B3%E6%B8%B8%E7%A4%BEcos.js)|发送随机米游社cos图片|| [点赞续火](https://github.com/xiaotian2333/yunzai-plugins-Single-file) | [@小天](https://github.com/xiaotian2333) | [查看源码](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E7%82%B9%E8%B5%9E%E7%BB%AD%E7%81%AB.js) | 自动化点赞和续火，免去每天发“赞我”的麻烦（仓库内还有其他更多插件） |
 | [点赞续火](https://github.com/xiaotian2333/yunzai-plugins-Single-file?tab=readme-ov-file#%E7%82%B9%E8%B5%9E%E7%BB%AD%E7%81%AB) | [@小天](https://github.com/xiaotian2333) | [查看源码](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E7%82%B9%E8%B5%9E%E7%BB%AD%E7%81%AB.js) | 自动化点赞和续火，免去每天发“赞我”的麻烦（仓库内还有其他更多插件） |
-| [好游快爆爆米花签到](https://gitee.com/eulogyjiajia/js-feature-collection) | [@空梦](https://gitee.com/eulogyjiajia) | [查看源码](https://gitee.com/eulogyjiajia/js-feature-collection/blob/master/hykb/hykb.js) | 可在群聊内签到好游快爆的爆米花
+| [好游快爆爆米花签到](https://gitee.com/eulogyjiajia/js-feature-collection) | [@空梦](https://gitee.com/eulogyjiajia) | [查看源码](https://gitee.com/eulogyjiajia/js-feature-collection/blob/master/hykb/hykb.js) | 可在群聊内签到好游快爆的爆米花 |
 | [原神活动临期推送](https://gitee.com/qiannqq/yunzai-plugin-JS#%E5%8E%9F%E7%A5%9E%E6%B4%BB%E5%8A%A8%E5%88%B0%E6%9C%9F%E6%8E%A8%E9%80%81js) | [@千奈千祁](https://gitee.com/qiannqq) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/JS/hdts.js) | 在指定群推送即将到期关闭的原神活动 |
 | [标准输入](https://gitee.com/qiannqq/yunzai-plugin-JS#%E6%A0%87%E5%87%86%E8%BE%93%E5%85%A5js) | [@千奈千祁](https://gitee.com/qiannqq) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/JS/stdin.js) | 使Miao-Yunzai支持控制台输入指令 |
 | [陈泽丨丁真丨孙笑川语音合成](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%5B%E9%99%88%E6%B3%BD%5D%5B%E4%B8%81%E7%9C%9F%5D%5B%E5%AD%99%E7%AC%91%E5%B7%9D%5D%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90.js) | 合成陈泽丨丁真丨孙笑川语音并发送 |
@@ -57,7 +57,7 @@
 | [文字找茬](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%E6%96%87%E5%AD%97%E6%89%BE%E8%8C%AC.js) | 汉字找不同游戏 |
 | [发言统计](https://gitee.com/qiannqq/yunzai-plugin-JS#%E5%8F%91%E8%A8%80%E7%BB%9F%E8%AE%A1js) | [@千奈千祁](https://gitee.com/qiannqq) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/%E5%8F%91%E8%A8%80%E7%BB%9F%E8%AE%A1.js) | 类似于水群统计，可以查看发言次数排行榜 |
 | [插件安装器](https://gitee.com/qiannqq/yunzai-plugin-JS#%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E5%99%A8js) | [@千奈千祁](https://gitee.com/qiannqq) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/插件安装器.js) | 用于管理插件包，支持卸载、重装、插件列表、已安装插件。 |
-| [唱鸭](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E5%94%B1%E9%B8%AD.js) | [@xiaotian2333](https://github.com/xiaotian2333/) | [查看源码](https://raw.githubusercontent.com/xiaotian2333/yunzai-plugins-Single-file/main/%E5%94%B1%E9%B8%AD.js) | 发送唱鸭即可听唱鸭平台上的歌曲片段（仓库内还有其他更多插件）
+| [唱鸭](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E5%94%B1%E9%B8%AD.js) | [@xiaotian2333](https://github.com/xiaotian2333/) | [查看源码](https://raw.githubusercontent.com/xiaotian2333/yunzai-plugins-Single-file/main/%E5%94%B1%E9%B8%AD.js) | 发送唱鸭即可听唱鸭平台上的歌曲片段（仓库内还有其他更多插件） |
 | [我的超能力](https://gitee.com/HanaHimeUnica/yzjs#%E6%88%91%E7%9A%84%E8%B6%85%E8%83%BD%E5%8A%9Bjs) | [@小花花花儿](https://gitee.com/HanaHimeUnica) | [查看源码](https://gitee.com/HanaHimeUnica/yzjs/blob/master/%E6%88%91%E7%9A%84%E8%B6%85%E8%83%BD%E5%8A%9B.js) | 我的超能力 |
 | [问候回复](https://gitee.com/oldcitynight/yunzai-js-plugins#%E9%97%AE%E5%80%99%E5%9B%9E%E5%A4%8D) | [@oldcitynight](https://github.com/oldcitynight) | [查看源码](https://gitee.com/oldcitynight/yunzai-js-plugins/raw/master/%E9%97%AE%E5%80%99%E5%9B%9E%E5%A4%8D.js) | 发送早安等问候会根据预设词库随机回复一句话，快捷安装命令请在[问候回复](https://gitee.com/oldcitynight/yunzai-js-plugins#%E9%97%AE%E5%80%99%E5%9B%9E%E5%A4%8D)查看 |
 | [统计QQbot DAU](https://gitee.com/HanaHimeUnica/yzjs#dauchartjs) | [@小花花花儿](https://gitee.com/HanaHimeUnica) | [查看源码](https://gitee.com/HanaHimeUnica/yzjs/blob/master/dauchart.js) | 统计QQbot DAU |
