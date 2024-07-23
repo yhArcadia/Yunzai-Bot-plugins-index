@@ -36,6 +36,8 @@
 
 <details><summary>点击此处展开/收起</summary>
 
+<!-- [GUOBA:TOP:BEGIN] 锅巴插件访问标记，请勿移动 -->
+
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
 | [喵喵插件 (miao-plugin)](https://gitee.com/yoimiya-kokomi/miao-plugin) | [@喵喵](https://gitee.com/yoimiya-kokomi)| Miao-Plugin是一个Yunzai-Bot的升级插件，提供包括角色面板查询等升级功能 |
