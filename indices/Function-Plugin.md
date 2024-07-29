@@ -6,7 +6,7 @@
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
 | [dg-play-plugin](https://gitee.com/adrae/dg-lab-play-plugin) | [@Admilk](https://gitee.com/adrae/) | 一种控制插件，正常人一般用不上 |
-| [AIR-plugin](https://gitee.com/lengxihddj/air-plugin) | [@冷曦](https://gitee.com/lengxihddj/) [@TS沂沨](https://gitee.com/Ts-yf/) | 主要适配官方机器人，提供伊蕾娜图片，智能体聊天等娱乐功能，可使用Ark回复 |
+| [AIR-plugin](https://github.com/lengxi-root/air-plugin) | [@冷曦](https://gitee.com/lengxihddj/) [@TS沂沨](https://gitee.com/Ts-yf/) | 主要适配官方机器人，提供伊蕾娜图片，智能体聊天，全局转ark等功能 |
 | [喵宇插件( miaoyu-plugin)](https://gitee.com/kongkongjiang/miaoyu-plugin) | [@小狐狸空空酱](https://gitee.com/kongkongjiang) | 提供云崽的b站抖音查询功能需要搭配Miaoyuapi本地版使用 |
 | [蛋蛋插件(egg-plugin)](https://gitee.com/fantasy-hx/egg-plugin) | [@Fantasy](https://gitee.com/fantasy-hx) | 一键换头插件(一键地球，一键@，一键...未来会支持更多快捷一键换头，方便制作表情包) |
 | [推送插件(bililivePush-plugin)](https://gitee.com/HDTianRu/bililivePush-plugin) | [@天如](https://gitee.com/HDTianRu) | 简洁易用的b站直播推送插件，代码结构简洁 |
