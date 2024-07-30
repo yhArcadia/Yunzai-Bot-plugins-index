@@ -6,7 +6,6 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
-
 | [发言统计](https://gitee.com/KaedeharaLu/yunzai-plugin-example)      | [@KaedeharaLu](https://gitee.com/KaedeharaLu)   |   [查看源码](https://gitee.com/KaedeharaLu/yunzai-plugin-example/blob/master/发言统计.js)   | 统计群内发言排名修改版                                            |
 | [发言统计-TRSS](https://gitee.com/KaedeharaLu/yunzai-plugin-example) | [@KaedeharaLu](https://gitee.com/KaedeharaLu)   |   [查看源码](https://gitee.com/KaedeharaLu/yunzai-plugin-example/blob/master/发言统计-TRSS.js)   | 统计群内发言排名修改版-TRSS版本                                    |
 | [反馈-TRSS](https://gitee.com/KaedeharaLu/yunzai-plugin-example)     | [@FichteHerbst](https://gitee.com/FichteHerbst) |   [查看源码](https://gitee.com/KaedeharaLu/yunzai-plugin-example/blob/master/反馈-TRSS.js)   | 反馈问题，主人可以查看                              |
