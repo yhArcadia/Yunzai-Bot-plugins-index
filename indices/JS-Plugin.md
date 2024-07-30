@@ -6,6 +6,11 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+
+| [发言统计](https://gitee.com/KaedeharaLu/yunzai-plugin-example)      | [@KaedeharaLu](https://gitee.com/KaedeharaLu)   |   [查看源码](https://gitee.com/KaedeharaLu/yunzai-plugin-example/blob/master/发言统计.js)   | 统计群内发言排名修改版                                            |
+| [发言统计-TRSS](https://gitee.com/KaedeharaLu/yunzai-plugin-example) | [@KaedeharaLu](https://gitee.com/KaedeharaLu)   |   [查看源码](https://gitee.com/KaedeharaLu/yunzai-plugin-example/blob/master/发言统计-TRSS.js)   | 统计群内发言排名修改版-TRSS版本                                    |
+| [反馈-TRSS](https://gitee.com/KaedeharaLu/yunzai-plugin-example)     | [@FichteHerbst](https://gitee.com/FichteHerbst) |   [查看源码](https://gitee.com/KaedeharaLu/yunzai-plugin-example/blob/master/反馈-TRSS.js)   | 反馈问题，主人可以查看                              |
+| [简单彩票-TRSS](https://gitee.com/KaedeharaLu/yunzai-plugin-example) | [@KaedeharaLu](https://gitee.com/KaedeharaLu)   |   [查看源码](https://gitee.com/KaedeharaLu/yunzai-plugin-example/blob/master/简单彩票-TRSS.js)   | 做成像买彩票一样的运气比拼插件。注：无任何金钱交易内容 |
 | [爱发电赞助者列表](https://gitee.com/Aliorpse/Yunzai-AliorpsePlugins) | [@Aliorpse](https://gitee.com/Aliorpse) | [查看源码](https://gitee.com/Aliorpse/Yunzai-AliorpsePlugins/blob/master/AfdianSponsorList.js) | 查看爱发电个人项目赞助者列表,展示金额,需要user_id与token
 | [群前缀](https://gitee.com/maple-leaf-sweeping/yunzai-js#%E7%BE%A4%E5%89%8D%E7%BC%80js) | [@maple-leaf-sweeping](https://gitee.com/maple-leaf-sweeping) | [查看源码](https://gitee.com/maple-leaf-sweeping/yunzai-js/raw/master/%E7%BE%A4%E5%89%8D%E7%BC%80.js) | 因为想用千羽的群前缀而又不想安装千羽插件( |
 | [导出面板数据](https://github.com/NotIvny/yunzai-panelData-js) | [@NotIvny](https://github.com/NotIvny) | [查看源码](https://github.com/NotIvny/yunzai-panelData-js/blob/main/panelData.js) | 将个人面板数据导入到另一个Bot上，省去了换Bot后在游戏内换展柜的麻烦 |
