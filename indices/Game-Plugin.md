@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [尘白禁区插件(cb-plugin)](https://github.com/Sakura1618/cb-plugin) | [@Sakura1618](https://github.com/Sakura1618) | 游戏尘白禁区查询功能插件，支持查询角色攻略、养成材料、强度榜等功能 |
 | [上古卷轴OL插件(eso-plugin)](https://github.com/ChicorSun/eso) | [@Chicor和人](https://github.com/ChicorSun) | 游戏上古卷轴OL查询功能插件，支持查询服务器状态、维护公告、装备图鉴、每日日常无畏副本等功能 |
 | [星露谷插件(sv-plugin)](https://gitee.com/xingdonglcy/sv-plugin) | [@LCY星动](https://gitee.com/xingdonglcy) | 简单查询星露谷村民、物品等功能的插件 |
 | [崩坏三乐土插件(Elysian-Realm-plugin)](https://github.com/zipated/Elysian-Realm-plugin)|[@zipated](https://github.com/zipated)|崩坏3乐土攻略查询插件 |
