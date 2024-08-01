@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [种田模拟器(Farming-Simulator)](https://gitee.com/Tloml-Starry/Farming-Simulator) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | 俺是农村来滴，嫩城里人不会欺负农村人吧 |
 | [希腊奶(Shiranai-Plugin)](https://github.com/XasYer/Shiranai-Plugin) | [@小叶](https://github.com/XasYer) | 提供几个小游戏 |
 | [曲奇点点乐(Cookie-plugin)](https://gitee.com/Tloml-Starry/Cookie-plugin) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | 灵感来源Steam游戏[Cookie Clicker](https://store.steampowered.com/app/1454400/Cookie_Clicker/)功能正在逐步完善 |
 | [征途插件 (Tkdream-1.2)](https://gitee.com/AAmiaom/Tkdream-1.2) | [@喵](https://gitee.com/AAmiaom) | 三国类文字游戏 |
