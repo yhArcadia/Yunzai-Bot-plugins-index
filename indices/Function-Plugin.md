@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [olympic-plugin](https://gitee.com/xiaomifan233/olympic-plugin) | [ @小米饭](https://gitee.com/xiaomifan233)| 提供有关巴黎奥运会的一些查询功能 |
 | [DF-Plugin](https://gitee.com/DenFengLai/DF-Plugin) | [@等风来](https://gitee.com/DengFengLai-F) | 提供了用户联系主人、Git仓库更新推送到群聊、随机表情包戳一戳、随机图片、图片自动添加外显等功能，推荐使用[锅巴插件](https://gitee.com/guoba-yunzai/guoba-plugin)进行配置。 |
 | [dg-play-plugin](https://gitee.com/adrae/dg-lab-play-plugin) | [@Admilk](https://gitee.com/adrae/) | 一种控制插件，正常人一般用不上 |
 | [AIR-plugin](https://github.com/lengxi-root/air-plugin) | [@冷曦](https://gitee.com/lengxihddj/) [@TS沂沨](https://gitee.com/Ts-yf/) | 主要适配官方机器人，提供伊蕾娜图片，智能体聊天，全局转ark等功能 |
