@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [MEMZ-Plugin](https://gitee.com/memzjs/memz-plugin) | [@MEMZ](https://gitee.com/memzjs)| 工具类插件,提供了一些便携的工具 |
 | [better-rc](https://gitee.com/Vremq_vperyod/better-rc) | [  @Vremq_vperyod ](https://gitee.com/Vremq_vperyod)| 交互式远程命令执行与定时任务 |
 | [Olympic-plugin](https://gitee.com/xiaomifan233/olympic-plugin) | [ @小米饭](https://gitee.com/xiaomifan233)| 提供有关巴黎奥运会的一些查询功能 |
 | [DF-Plugin](https://gitee.com/DenFengLai/DF-Plugin) | [@等风来](https://gitee.com/DengFengLai-F) | 提供了用户联系主人、Git仓库更新推送到群聊、随机表情包戳一戳、随机图片、图片自动添加外显等功能，推荐使用[锅巴插件](https://gitee.com/guoba-yunzai/guoba-plugin)进行配置。 |
