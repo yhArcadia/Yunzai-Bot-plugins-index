@@ -6,6 +6,7 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [osu!玩家信息查询](https://gitee.com/Aliorpse/Yunzai-AliorpsePlugins) | [@Aliorpse](https://gitee.com/Aliorpse) | [查看源码](https://gitee.com/Aliorpse/Yunzai-AliorpsePlugins/blob/master/osu.js) | osu!玩家信息查询,pp模拟计算(功能不完善)
 | [B站视频,番剧解析](https://gitee.com/Aliorpse/Yunzai-AliorpsePlugins) | [@Aliorpse](https://gitee.com/Aliorpse) | [查看源码](https://gitee.com/Aliorpse/Yunzai-AliorpsePlugins/blob/master/bilitv.js) | 轻量，美观，快速的B站解析，支持链接，BV号，av号，b23.tv短链，ep号，ssid，md号 |
 | [发言统计](https://gitee.com/KaedeharaLu/yunzai-plugin-example)      | [@KaedeharaLu](https://gitee.com/KaedeharaLu)   |   [查看源码](https://gitee.com/KaedeharaLu/yunzai-plugin-example/blob/master/发言统计.js)   | 统计群内发言排名修改版                                            |
 | [发言统计-TRSS](https://gitee.com/KaedeharaLu/yunzai-plugin-example) | [@KaedeharaLu](https://gitee.com/KaedeharaLu)   |   [查看源码](https://gitee.com/KaedeharaLu/yunzai-plugin-example/blob/master/发言统计-TRSS.js)   | 统计群内发言排名修改版-TRSS版本                                    |
