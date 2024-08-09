@@ -5,7 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
-| [Esca-Plugin](https://github.com/hzqlingmou/esca-plugin) | [@逸燧](https://escaped.icu) | 娱乐性插件，提供随机图/视频，备案查询，语音合成等功能 |
+| [Esca-Plugin](https://gitee.com/escaped-spark/esca-plugin) | [@逸燧](https://escaped.icu) | 娱乐性插件，提供随机图/视频，备案查询，语音合成等功能 |
 | [MEMZ-Plugin](https://gitee.com/memzjs/memz-plugin) | [@MEMZ](https://gitee.com/memzjs)| 工具类插件,提供了一些便携的工具 |
 | [better-rc](https://gitee.com/Vremq_vperyod/better-rc) | [  @Vremq_vperyod ](https://gitee.com/Vremq_vperyod)| 交互式远程命令执行与定时任务 |
 | [Olympic-plugin](https://gitee.com/xiaomifan233/olympic-plugin) | [ @小米饭](https://gitee.com/xiaomifan233)| 提供有关巴黎奥运会的一些查询功能 |
