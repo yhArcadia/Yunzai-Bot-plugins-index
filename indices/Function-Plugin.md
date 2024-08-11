@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [Jiaozi-Plugin](https://gitee.com/tu-zhengxiong0925/jiaozi-plugin)  | [@饺子](https://gitee.com/tu-zhengxiong0925)  | 娱乐性插件 提供随机美图，表情，戳一戳，刷步等功能  |
 | [luoluo-Plugin](https://gitee.com/yll0614/luoluo-plugin) | [@叶落落](https://gitee.com/yll0614) | 娱乐性插件 提供随机动漫图 哔哩哔哩视频解析 Ping等功能 |
 | [Esca-Plugin](https://gitee.com/escaped-spark/esca-plugin) | [@逸燧](https://escaped.icu) | 娱乐性插件，提供随机图/视频，备案查询，语音合成等功能 |
 | [MEMZ-Plugin](https://gitee.com/memzjs/memz-plugin) | [@MEMZ](https://gitee.com/memzjs)| 工具类插件,提供了一些便携的工具 |
