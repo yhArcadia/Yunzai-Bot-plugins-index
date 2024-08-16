@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [ark-plugin](https://github.com/NotIvny/ark-plugin)  | [@NotIvny](https://github.com/NotIvny)  | 为喵喵插件提供总排名与排名统计，不再局限于群排名的插件，兼容梁氏  |
 | [优纪插件(yuki-plugin)](https://gitee.com/snowtafir/yuki-plugin)  | [@snowtafir](https://github.com/snowtafir) | 一个适用于 Yunzai (Miao/Trss/Next) 系列机器人框架 的B站动态和微博动态订阅推送插件 |
 | [Jiaozi-Plugin](https://gitee.com/tu-zhengxiong0925/jiaozi-plugin)  | [@饺子](https://gitee.com/tu-zhengxiong0925)  | 娱乐性插件 提供随机美图，表情，戳一戳，刷步等功能  |
 | [luoluo-Plugin](https://gitee.com/yll0614/luoluo-plugin) | [@叶落落](https://gitee.com/yll0614) | 娱乐性插件 提供随机动漫图 哔哩哔哩视频解析 Ping等功能 |
