@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [云崽小破站](https://yunzaibot.cn) | [@岩王帝君](https://gitee.com/fdvhsvg) | Windows云崽启动器，环境包下载，插件索引等内容的聚合站 |
 | [喵喵插件帮助的皮肤包](https://gitee.com/herijian/miaopifu) | [@何日见](https://gitee.com/herijian) | 喵喵插件(miao-plugin)帮助列表的皮肤包 |
 | [云崽的图文搭建教程](https://xn--h5q74xcj0bhth.icu/) | [@重装小兔](https://gitee.com/OvertimeBunny) | 这都看不懂那只能紫砂了 |
 | [pixiv令牌获取](https://gitee.com/OvertimeBunny/pixiv-token) | [@重装小兔](https://gitee.com/OvertimeBunny) | 获取pixiv令牌，搭配椰奶插件使用 |
