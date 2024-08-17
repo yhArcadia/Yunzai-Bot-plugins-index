@@ -5,18 +5,18 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
-| [help-plugin](https://gitee.com/tu-zhengxiong0925/help-plugin)  | [@饺子](https://gitee.com/tu-zhengxiong0925)  | 提供美化帮助菜单，支持DIY，可一键同步喵喵帮助  |
-| [ark-plugin](https://github.com/NotIvny/ark-plugin)  | [@NotIvny](https://github.com/NotIvny)  | 为喵喵插件提供总排名与排名统计，不再局限于群排名的插件，兼容梁氏  |
+| [DIY帮助插件(help-plugin)](https://gitee.com/tu-zhengxiong0925/help-plugin)  | [@饺子](https://gitee.com/tu-zhengxiong0925)  | 提供美化帮助菜单，支持DIY，可一键同步喵喵帮助  |
+| [喵喵排名插件(ark-plugin)](https://github.com/NotIvny/ark-plugin)  | [@NotIvny](https://github.com/NotIvny)  | 为喵喵插件提供总排名与排名统计，不再局限于群排名的插件，兼容梁氏  |
 | [优纪插件(yuki-plugin)](https://gitee.com/snowtafir/yuki-plugin)  | [@snowtafir](https://github.com/snowtafir) | 一个适用于 Yunzai (Miao/Trss/Next) 系列机器人框架 的B站动态和微博动态订阅推送插件 |
-| [luoluo-Plugin](https://gitee.com/yll0614/luoluo-plugin) | [@叶落落](https://gitee.com/yll0614) | 娱乐性插件 提供随机动漫图 哔哩哔哩视频解析 Ping等功能 |
-| [Esca-Plugin](https://gitee.com/escaped-spark/esca-plugin) | [@逸燧](https://escaped.icu) | 娱乐性插件，提供随机图/视频，备案查询，语音合成等功能 |
-| [MEMZ-Plugin](https://gitee.com/memzjs/memz-plugin) | [@MEMZ](https://gitee.com/memzjs)| 工具类插件,提供了一些便携的工具 |
-| [better-rc](https://gitee.com/Vremq_vperyod/better-rc) | [  @Vremq_vperyod ](https://gitee.com/Vremq_vperyod)| 交互式远程命令执行与定时任务 |
-| [Olympic-plugin](https://gitee.com/xiaomifan233/olympic-plugin) | [ @小米饭](https://gitee.com/xiaomifan233)| 提供有关巴黎奥运会的一些查询功能 |
-| [DF-Plugin](https://gitee.com/DenFengLai/DF-Plugin) | [@等风来](https://gitee.com/DengFengLai-F) | 提供了用户联系主人、Git仓库更新推送到群聊、随机表情包戳一戳、随机图片、图片自动添加外显等功能，推荐使用[锅巴插件](https://gitee.com/guoba-yunzai/guoba-plugin)进行配置。 |
-| [dg-play-plugin](https://gitee.com/adrae/dg-lab-play-plugin) | [@Admilk](https://gitee.com/adrae/) | 一种控制插件，正常人一般用不上 |
-| [AIR-plugin](https://github.com/lengxi-root/air-plugin) | [@冷曦](https://gitee.com/lengxihddj/) [@TS沂沨](https://gitee.com/Ts-yf/) | 主要适配官方机器人，提供伊蕾娜图片，智能体聊天，全局转ark等功能 |
-| [喵宇插件( miaoyu-plugin)](https://gitee.com/kongkongjiang/miaoyu-plugin) | [@小狐狸空空酱](https://gitee.com/kongkongjiang) | 提供云崽的b站抖音查询功能需要搭配Miaoyuapi本地版使用 |
+| [落落插件(luoluo-Plugin)](https://gitee.com/yll0614/luoluo-plugin) | [@叶落落](https://gitee.com/yll0614) | 娱乐性插件 提供随机动漫图 哔哩哔哩视频解析 Ping等功能 |
+| [Esca插件(Esca-Plugin)](https://gitee.com/escaped-spark/esca-plugin) | [@逸燧](https://escaped.icu) | 娱乐性插件，提供随机图/视频，备案查询，语音合成等功能 |
+| [MEMZ插件(MEMZ-Plugin)](https://gitee.com/memzjs/memz-plugin) | [@MEMZ](https://gitee.com/memzjs)| 工具类插件,提供了一些便携的工具 |
+| [更好的远程命令插件(better-rc)](https://gitee.com/Vremq_vperyod/better-rc) | [  @Vremq_vperyod ](https://gitee.com/Vremq_vperyod)| 交互式远程命令执行与定时任务 |
+| [奥林匹克插件(Olympic-plugin)](https://gitee.com/xiaomifan233/olympic-plugin) | [ @小米饭](https://gitee.com/xiaomifan233)| 提供有关巴黎奥运会的一些查询功能 |
+| [大风插件(DF-Plugin)](https://gitee.com/DenFengLai/DF-Plugin) | [@等风来](https://gitee.com/DengFengLai-F) | 提供了用户联系主人、Git仓库更新推送到群聊、随机表情包戳一戳、随机图片、图片自动添加外显等功能，推荐使用[锅巴插件](https://gitee.com/guoba-yunzai/guoba-plugin)进行配置。 |
+| [郊狼控制插件(dg-play-plugin)](https://gitee.com/adrae/dg-lab-play-plugin) | [@Admilk](https://gitee.com/adrae/) | 一种控制插件，正常人一般用不上 |
+| [AIR插件(AIR-plugin)](https://github.com/lengxi-root/air-plugin) | [@冷曦](https://gitee.com/lengxihddj/) [@TS沂沨](https://gitee.com/Ts-yf/) | 主要适配官方机器人，提供伊蕾娜图片，智能体聊天，全局转ark等功能 |
+| [喵宇插件(miaoyu-plugin)](https://gitee.com/kongkongjiang/miaoyu-plugin) | [@小狐狸空空酱](https://gitee.com/kongkongjiang) | 提供云崽的b站抖音查询功能需要搭配Miaoyuapi本地版使用 |
 | [蛋蛋插件(egg-plugin)](https://gitee.com/fantasy-hx/egg-plugin) | [@Fantasy](https://gitee.com/fantasy-hx) | 一键换头插件(一键地球，一键@，一键...未来会支持更多快捷一键换头，方便制作表情包) |
 | [推送插件(bililivePush-plugin)](https://gitee.com/HDTianRu/bililivePush-plugin) | [@天如](https://gitee.com/HDTianRu) | 简洁易用的b站直播推送插件，代码结构简洁 |
 | [小米粥插件(xmz-plugin)](https://gitee.com/cunyx/xmz-plugin) | [@最好喝的小米粥](https://gitee.com/cunyx) | 一个插件，连帮助都没有；点击查看[功能列表](https://gitee.com/cunyx/xmz-plugin/blob/master/FunctionsList.md) |
@@ -32,7 +32,7 @@
 | [米家插件(mijia-plugin)](https://github.com/CikeyQi/mijia-plugin) | [@0卡苏打水](https://github.com/CikeyQi) | 米家插件，在任何地方控制家中米家生态设备 |
 | [NovelAI绘图插件(nai-plugin)](https://github.com/CikeyQi/nai-plugin) | [@0卡苏打水](https://github.com/CikeyQi)  [@二枣子](https://github.com/erzaozi) | 再一个AI绘图插件，使用 [NovelAI](https://novelai.net/) 接口，实现在QQ内使用 nai-diffusion-3 生成图片 |
 | [沙雕插件(tg-plugin)](https://gitee.com/misakime/tg-plugin.git) | [@misakime](https://gitee.com/misakime) | 自动推送沙雕图和新番消息的插件|
-| [wind-plugin](https://gitee.com/wind-trace-typ/wind-plugin) | [@风の迹](https://gitee.com/wind-trace-typ) | 各大平台热搜榜单，搜索菜谱等功能，还附带轻量的修炼小游戏(适合大群，不会因为游戏功能太多导致刷屏)，更多其他功能仍在咕咕咕 |
+| [风插件(wind-plugin)](https://gitee.com/wind-trace-typ/wind-plugin) | [@风の迹](https://gitee.com/wind-trace-typ) | 各大平台热搜榜单，搜索菜谱等功能，还附带轻量的修炼小游戏(适合大群，不会因为游戏功能太多导致刷屏)，更多其他功能仍在咕咕咕 |
 | [名字插件(mz-plugin)](https://gitee.com/xyb12345678qwe/mz-plugin-alemon) | [@名字](https://gitee.com/xyb12345678qwe) | 一些丰富的小功能 |
 | [互动插件(Gi-plugin)](https://gitee.com/qiannqq/gi-plugin) | [@千奈千祁](https://gitee.com/qiannqq) | Yunzai娱乐性扩展插件，包含漂流瓶、每日随机幸运值、模拟高考查分、群历史文献、钓鱼小游戏等娱乐功能 |
 | [重置版千羽插件(reset-qianyu-plugin)](https://gitee.com/think-first-sxs/reset-qianyu-plugin) | [@think-first-sxs](https://gitee.com/think-first-sxs)   | 对千羽插件进行重置，优化功能，一个咕咕咕插件 |
