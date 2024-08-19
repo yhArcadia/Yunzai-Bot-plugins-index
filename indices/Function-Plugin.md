@@ -13,7 +13,7 @@
 | [MEMZ插件(MEMZ-Plugin)](https://gitee.com/memzjs/memz-plugin) | [@MEMZ](https://gitee.com/memzjs)| 工具类插件,提供了一些便携的工具 |
 | [更好的远程命令插件(better-rc)](https://gitee.com/Vremq_vperyod/better-rc) | [  @Vremq_vperyod ](https://gitee.com/Vremq_vperyod)| 交互式远程命令执行与定时任务 |
 | [奥林匹克插件(Olympic-plugin)](https://gitee.com/xiaomifan233/olympic-plugin) | [ @小米饭](https://gitee.com/xiaomifan233)| 提供有关巴黎奥运会的一些查询功能 |
-| [大风插件(DF-Plugin)](https://gitee.com/DenFengLai/DF-Plugin) | [@等风来](https://gitee.com/DengFengLai-F) | 提供了用户联系主人、Git仓库更新推送到群聊、随机表情包戳一戳、随机图片、图片自动添加外显等功能，推荐使用[锅巴插件](https://gitee.com/guoba-yunzai/guoba-plugin)进行配置。 |
+| [DF插件(DF-Plugin)](https://gitee.com/DenFengLai/DF-Plugin) | [@等风来](https://gitee.com/DengFengLai-F) | 提供了用户联系主人、Git仓库更新推送到群聊、随机表情包戳一戳、随机图片、图片自动添加外显等功能，推荐使用[锅巴插件](https://gitee.com/guoba-yunzai/guoba-plugin)进行配置。 |
 | [郊狼控制插件(dg-play-plugin)](https://gitee.com/adrae/dg-lab-play-plugin) | [@Admilk](https://gitee.com/adrae/) | 一种控制插件，正常人一般用不上 |
 | [AIR插件(AIR-plugin)](https://github.com/lengxi-root/air-plugin) | [@冷曦](https://gitee.com/lengxihddj/) [@TS沂沨](https://gitee.com/Ts-yf/) | 主要适配官方机器人，提供伊蕾娜图片，智能体聊天，全局转ark等功能 |
 | [喵宇插件(miaoyu-plugin)](https://gitee.com/kongkongjiang/miaoyu-plugin) | [@小狐狸空空酱](https://gitee.com/kongkongjiang) | 提供云崽的b站抖音查询功能需要搭配Miaoyuapi本地版使用 |
