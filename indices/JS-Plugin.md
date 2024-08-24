@@ -6,6 +6,7 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [发癫插件单JS本地版](https://gitee.com/NyaOH/fadian-plugin) | [@香草味的纳西妲](https://gitee.com/NyaOH/) | [查看源码](https://gitee.com/NyaOH/fadian-plugin/raw/master/fadian-plugin.js) | 一个非常简洁的本地版发癫语录插件，内置几十条发癫语录 |
 | [智谱ai视频生成](https://gitee.com/xyzqwefd/aivideo-plugin) | [ @xyz](https://github.com/XuF163) | [查看源码](https://gitee.com/xyzqwefd/yz-js-cogvideox/blob/master/aivideo.js) | 基于智谱ai接口实现的简易文生视频/图生视频功能
 | [McMotd](https://gitee.com/Aliorpse/Yunzai-AliorpsePlugins/) | [@Aliorpse](https://github.com/Aliorpse) | [查看源码](https://gitee.com/Aliorpse/Yunzai-AliorpsePlugins/blob/master/mcplugins/McMotd.js) | JE/BE双版本查询Motd,支持群聊自定义默认,返回图片,[效果图](https://github.com/Aliorpse/personal_html_templates)
 | [osu!玩家信息查询](https://gitee.com/Aliorpse/Yunzai-AliorpsePlugins) | [@Aliorpse](https://github.com/Aliorpse) | [查看源码](https://gitee.com/Aliorpse/Yunzai-AliorpsePlugins/blob/master/osu.js) | osu!玩家信息查询,pp模拟计算(功能不完善)
