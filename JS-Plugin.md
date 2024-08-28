@@ -6,6 +6,7 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [随机超能力](https://github.com/xiaotian2333/yunzai-plugins-Single-file?tab=readme-ov-file#%E9%9A%8F%E6%9C%BA%E8%B6%85%E8%83%BD%E5%8A%9B) | [@小天](https://github.com/xiaotian2333) | [查看源码](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E9%9A%8F%E6%9C%BA%E8%B6%85%E8%83%BD%E5%8A%9B.js) | 获取一个超能力及对应的副作用（仓库内还有其他更多插件） |
 | [黑神话B站wiki查询](https://gitee.com/wzwei1990/wukong)  |  @[wzwei1990](https://gitee.com/wzwei1990) | [查看源码](https://gitee.com/wzwei1990/wukong/blob/master/wukong.js) | 黑神话B站wiki查询，输入#影神图+要查询人物妖怪物品的名称，返回图片  |
 | [网页预览截图](https://gitee.com/tu-zhengxiong0925/JiaoziJS)  |  @[饺子](https://gitee.com/tu-zhengxiong0925) | [查看源码](https://gitee.com/tu-zhengxiong0925/JiaoziJS/raw/main/JavaScript/webPreview.js) | 自适应全屏网页截屏，可自定义屏蔽网址  |
 | [发癫插件单JS本地版](https://gitee.com/NyaOH/fadian-plugin) | [@香草味的纳西妲](https://gitee.com/NyaOH/) | [查看源码](https://gitee.com/NyaOH/fadian-plugin/raw/master/fadian-plugin.js) | 一个非常简洁的本地版发癫语录插件，内置几十条发癫语录 |
