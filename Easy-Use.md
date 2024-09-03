@@ -6,6 +6,7 @@
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
 | [⭐][TRSS Yunzai 管理脚本](https://TRSS.me) | [@时雨🌌星空](../../../../TimeRainStarSky) | 【置顶】提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Windows / Linux / Mac / Android |
+|[TRSS-Yunzai最小安装脚本](https://gitee.com/Vremq_vperyod/yunzai-install-script)|[Vremq_vperyod](https://gitee.com/Vremq_vperyod)|使用systemd-nspawn和alpine linux的Yunzai安装脚本，完美解决docker连不上和占用大的问题|
 | [Pixiv令牌自动获取](https://gitee.com/OvertimeBunny/pixiv-token) | [重装小兔](https://gitee.com/OvertimeBunny) | 方便椰奶插件使用而写的脚本 |
 | [抖音ck自动获取](https://gitee.com/OvertimeBunny/tiktok-ck-douying) | [重装小兔](https://gitee.com/OvertimeBunny) | 方便R插件使用而写的脚本 |
 | [Docker安装Miao-Yunzai](https://gitee.com/hbj2457/Miao-Yunzai_on_docker) | [@hbj白夜](https://gitee.com/hbj2457) | 提供docker安装方法以及搭建miao-yunzai的镜像，开箱即用近乎一键安装，无需考虑redis和nodejs环境安装问题，可在任意支持任何安装docker的操作系统 |
