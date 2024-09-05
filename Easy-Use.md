@@ -14,7 +14,6 @@
 | [unidbg-fetch-qsign-shell](https://github.com/CikeyQi/unidbg-fetch-qsign-shell) | [@0卡苏打水](https://github.com/CikeyQi) | 适用于Linux端一键部署签名服务脚本 |
 | [一键安装&更新OpenShamrock](https://github.com/YuYue-Amatsuki/OpenShamrock_Oneclick_Install_Upgrade) | [@雨月丶Amatsuki](https://github.com/YuYue-Amatsuki) | 给你的Android设备一键安装&更新OpenShamrock |
 | [chronocat-docker-shell](https://github.com/CikeyQi/chronocat-docker-shell) | [@0卡苏打水](https://github.com/CikeyQi) | 适用于Linux端喵崽/TRSS崽快速迁移NTQQ脚本 |
-| [白狐管理脚本](https://gitee.com/baihu433/Yunzai-Bot-Shell) | [@白狐](https://gitee.com/baihu433) | 使用shell编写的 YZ/MZ/TZ 的一键部署和插件的一键安装与管理功能，支持Linux部分系统，签名服务器管理脚本支持Linux全系统，插件管理脚本支持Linux和window全系统) |
 | [向日葵云崽安装脚本](https://gitee.com/xrk114514/shell-Yunzai) | [@向日葵](https://gitee.com/xrk114514) | 更新啦，内置qqsign安装脚本，以及大幅度优化，Ubuntu谁的脚本还敢打？ |
 | [阴天图形化win脚本](https://gitee.com/wan13877501248/y-tian-pyscript/tree/master) | [@Hello World](https://gitee.com/wan13877501248) | 基于python编写的喵崽和插件的一键安装以及常见问题修复的win便捷图形化脚本 |
 | [面向纯小白的云崽/喵崽一键搭建及多路径bot管理脚本](https://gitee.com/gracc/gracbot) | [@百草](https://gitee.com/gracc) | 针对纯小白的简易脚本，注：适用于Ubuntu |
