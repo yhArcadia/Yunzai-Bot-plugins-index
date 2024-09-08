@@ -6,6 +6,7 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [光遇国服身高查询](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%5BSky%5D%E8%BA%AB%E9%AB%98%E6%9F%A5%E8%AF%A2%5B%E7%94%A8%E6%88%B7%E8%87%AA%E5%A1%ABKey%5D.js) | 查询光遇角色身高数据等 |
 | [BOT续火&打卡&抽字符](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%5BTask%5D%E7%BE%A4%E6%89%93%E5%8D%A1&%E8%AF%97%E8%AF%8D%E7%BB%AD%E7%81%AB&%E6%8A%BD%E5%AD%97%E7%AC%A6%20V1.1.js) | 自动续火打卡抽字符 |
 | [鸣潮卡池多久未复刻查询](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%E9%B8%A3%E6%BD%AE%E5%8D%A1%E6%B1%A0%E4%BF%A1%E6%81%AF%E6%9F%A5%E8%AF%A2V1.0.js) | 查询五星限定角色距今多久未复刻等信息 |
 | [随机超能力](https://github.com/xiaotian2333/yunzai-plugins-Single-file?tab=readme-ov-file#%E9%9A%8F%E6%9C%BA%E8%B6%85%E8%83%BD%E5%8A%9B) | [@小天](https://github.com/xiaotian2333) | [查看源码](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E9%9A%8F%E6%9C%BA%E8%B6%85%E8%83%BD%E5%8A%9B.js) | 获取一个超能力及对应的副作用（仓库内还有其他更多插件） |
