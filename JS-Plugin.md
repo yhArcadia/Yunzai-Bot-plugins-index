@@ -6,6 +6,7 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [群消息撤回管理](https://github.com/rainbowwarmth/Recall/blob/main/recall.js) | @[rainbowwarmth](https://github.com/rainbowwarmth) | [查看源码](https://github.com/rainbowwarmth/Recall/blob/main/recall.js) | 消息管理js，管理并撤回群聊内含有群主设定的违禁词的消息|
 | [插件安装器Pro](https://gitee.com/tu-zhengxiong0925/JiaoziJS) | @[饺子](https://gitee.com/tu-zhengxiong0925) | [查看源码](https://gitee.com/tu-zhengxiong0925/JiaoziJS/raw/main/JavaScript/plugins.js) | 由[@千奈千祁](https://gitee.com/qiannqq)的[插件安装器](https://gitee.com/qiannqq/yunzai-plugin-JS#%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E5%99%A8js)二改而成 |
 | [光遇国服身高查询](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%5BSky%5D%E8%BA%AB%E9%AB%98%E6%9F%A5%E8%AF%A2%5B%E7%94%A8%E6%88%B7%E8%87%AA%E5%A1%ABKey%5D.js) | 查询光遇角色身高数据等 |
 | [BOT续火&打卡&抽字符](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%5BTask%5D%E7%BE%A4%E6%89%93%E5%8D%A1&%E8%AF%97%E8%AF%8D%E7%BB%AD%E7%81%AB&%E6%8A%BD%E5%AD%97%E7%AC%A6%20V1.1.js) | 自动续火打卡抽字符 |
