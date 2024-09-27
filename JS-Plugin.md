@@ -6,6 +6,8 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [原神背包查询](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%E5%8E%9F%E7%A5%9E%E8%83%8C%E5%8C%85%E6%9F%A5%E8%AF%A2.js) | 如字面意思，查询原神背包，但不是所有物品 |
+| [CSGO库存查询](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/CS2%E5%BA%93%E5%AD%98%E6%9F%A5%E8%AF%A2.js) | 通过SteamID查询CSGO库存 |
 | [群消息撤回管理](https://github.com/rainbowwarmth/Recall/blob/main/recall.js) | @[rainbowwarmth](https://github.com/rainbowwarmth) | [查看源码](https://github.com/rainbowwarmth/Recall/blob/main/recall.js) | 消息管理js，管理并撤回群聊内含有群主设定的违禁词的消息|
 | [插件安装器Pro](https://gitee.com/tu-zhengxiong0925/JiaoziJS) | @[饺子](https://gitee.com/tu-zhengxiong0925) | [查看源码](https://gitee.com/tu-zhengxiong0925/JiaoziJS/raw/main/JavaScript/plugins.js) | 由[@千奈千祁](https://gitee.com/qiannqq)的[插件安装器](https://gitee.com/qiannqq/yunzai-plugin-JS#%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E5%99%A8js)二改而成 |
 | [光遇国服身高查询](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%5BSky%5D%E8%BA%AB%E9%AB%98%E6%9F%A5%E8%AF%A2%5B%E7%94%A8%E6%88%B7%E8%87%AA%E5%A1%ABKey%5D.js) | 查询光遇角色身高数据等 |
