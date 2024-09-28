@@ -14,7 +14,7 @@
 | [unidbg-fetch-qsign-shell](https://github.com/CikeyQi/unidbg-fetch-qsign-shell) | [@0卡苏打水](https://github.com/CikeyQi) | 适用于Linux端一键部署签名服务脚本 |
 | [一键安装&更新OpenShamrock](https://github.com/YuYue-Amatsuki/OpenShamrock_Oneclick_Install_Upgrade) | [@雨月丶Amatsuki](https://github.com/YuYue-Amatsuki) | 给你的Android设备一键安装&更新OpenShamrock |
 | [chronocat-docker-shell](https://github.com/CikeyQi/chronocat-docker-shell) | [@0卡苏打水](https://github.com/CikeyQi) | 适用于Linux端喵崽/TRSS崽快速迁移NTQQ脚本 |
-| [向日葵云崽安装脚本](https://gitee.com/xrk114514/shell-Yunzai) | [@向日葵](https://gitee.com/xrk114514) | 更新啦，内置qqsign安装脚本，以及大幅度优化，Ubuntu谁的脚本还敢打？ |
+| [向日葵云崽安装脚本](https://gitee.com/xrk114514/sunshell) | [@向日葵](https://gitee.com/xrk114514) | arch与Ubuntu双系统脚本管理，一键脚本，轻量且安装速度巨快，用环境变量书写传奇！ |
 | [阴天图形化win脚本](https://gitee.com/wan13877501248/y-tian-pyscript/tree/master) | [@Hello World](https://gitee.com/wan13877501248) | 基于python编写的喵崽和插件的一键安装以及常见问题修复的win便捷图形化脚本 |
 | [面向纯小白的云崽/喵崽一键搭建及多路径bot管理脚本](https://gitee.com/gracc/gracbot) | [@百草](https://gitee.com/gracc) | 针对纯小白的简易脚本，注：适用于Ubuntu |
 | [Go_Box_v2安装脚本](https://gitee.com/Liplay-1/YBOX_2) | [@Arc图一多](https://gitee.com/Liplay-1/YBOX) | 支持多个发行版Centos Ubuntu Debian 一键安装频道TRSS崽、柠檬崽（已适配）、新增Docker管理器、适配云崽、喵，新增一键配置API，支持插件安装和管理（包含柠檬）（Docker） |
