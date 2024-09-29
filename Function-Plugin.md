@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [文本语音合成(yunzai-fish-speech-plugin)](https://github.com/oldcitynight/yunzai-fish-speech-plugin) | [@oldcitynight](https://github.com/oldcitynight) [@fishaudio](https://github.com/fishaudio) | 本地或远程文本语音合成，支持从任意音源即时学习并推理合成语音，目前处于早期开发阶段。<br> **注意：因 Gitee Reward 无法关闭，本项目无 Gitee 镜像。此外使用前请详细阅读 README 中的声明部分。** |
 | [小微插件(micro-plugin)](https://github.com/V2233/micro-plugin)  | [@Smallv](https://github.com/V2233)  | Yunzai开发管理面板，可在线生成简易插件、编辑图片、仿真QQ沙盒测试、数据库管理、文件管理、代码编辑、配置编辑、onebot连接、终端ssh连接等，详情见[文档](https://v2233.github.io/zh/)  |
 | [DIY帮助插件(help-plugin)](https://gitee.com/tu-zhengxiong0925/help-plugin)  | [@饺子](https://gitee.com/tu-zhengxiong0925)  | 提供美化帮助菜单，支持DIY，可一键同步喵喵帮助  |
 | [喵喵排名插件(ark-plugin)](https://github.com/NotIvny/ark-plugin)  | [@NotIvny](https://github.com/NotIvny)  | 为喵喵插件提供总排名与排名统计，不再局限于群排名的插件，兼容梁氏  |
