@@ -6,7 +6,7 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
-| [原石BOSS击杀次数查询](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%E5%8E%9F%E7%A5%9E%E4%B8%96%E7%95%8CBOSS.js) |查询原神BOSS击杀次数，存储本地与群友进行排行，看谁噶的多，要群友使用功能才能进行排行哦！ | 查询原神BOSS击杀次数，存储本地与群友进行排行，看谁噶的多，要群友使用功能才能进行排行哦！ |
+| [原石BOSS击杀次数查询](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%E5%8E%9F%E7%A5%9E%E4%B8%96%E7%95%8CBOSS.js) |查询原神BOSS击杀次数，存储本地与群友进行排行，看谁噶的多，要群友使用功能才能进行排行哦！ |
 | [原神背包查询](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%E5%8E%9F%E7%A5%9E%E8%83%8C%E5%8C%85%E6%9F%A5%E8%AF%A2.js) | 如字面意思，查询原神背包，但不是所有物品 |
 | [CSGO库存查询](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/CS2%E5%BA%93%E5%AD%98%E6%9F%A5%E8%AF%A2.js) | 通过SteamID查询CSGO库存 |
 | [群消息撤回管理](https://github.com/rainbowwarmth/Recall/blob/main/recall.js) | @[rainbowwarmth](https://github.com/rainbowwarmth) | [查看源码](https://github.com/rainbowwarmth/Recall/blob/main/recall.js) | 消息管理js，管理并撤回群聊内含有群主设定的违禁词的消息|
