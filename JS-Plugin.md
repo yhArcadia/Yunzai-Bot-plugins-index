@@ -6,6 +6,7 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [检查Phira状态插件](https://gitee.com/pimeng/yunzai-simpleplugin) | [@Pimeng](https://gitee.com/pimeng/) | [查看源码](https://gitee.com/pimeng/yunzai-simpleplugin/raw/master/checkphira.js) | 因为近期Phira服务器频频炸服，群友需要，故诞生了本插件 |
 | [快举报](https://github.com/xiaotian2333/yunzai-plugins-Single-file?tab=readme-ov-file#%E5%BF%AB%E4%B8%BE%E6%8A%A5) | [@小天](https://github.com/xiaotian2333) | [查看源码](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E5%BF%AB%E4%B8%BE%E6%8A%A5.js) | 在群内快速便捷地向管理员举报违规行为（仓库内还有其他更多插件） |
 | [原神BOSS击杀次数查询](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%E5%8E%9F%E7%A5%9E%E4%B8%96%E7%95%8CBOSS.js) |查询原神BOSS击杀次数，存储本地与群友进行排行，看谁噶的多，要群友使用功能才能进行排行哦！ |
 | [原神背包查询](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/%E5%8E%9F%E7%A5%9E%E8%83%8C%E5%8C%85%E6%9F%A5%E8%AF%A2.js) | 如字面意思，查询原神背包，但不是所有物品 |
