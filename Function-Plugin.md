@@ -39,7 +39,7 @@
 | [沙雕插件(tg-plugin)](https://gitee.com/misakime/tg-plugin.git) | [@misakime](https://gitee.com/misakime) | 自动推送沙雕图和新番消息的插件|
 | [风插件(wind-plugin)](https://gitee.com/wind-trace-typ/wind-plugin) | [@风の迹](https://gitee.com/wind-trace-typ) | 各大平台热搜榜单，搜索菜谱等功能，还附带轻量的修炼小游戏(适合大群，不会因为游戏功能太多导致刷屏)，更多其他功能仍在咕咕咕 |
 | [名字插件(mz-plugin)](https://gitee.com/xyb12345678qwe/mz-plugin-alemon) | [@名字](https://gitee.com/xyb12345678qwe) | 一些丰富的小功能 |
-| [互动插件(Gi-plugin)](https://gitee.com/qiannqq/gi-plugin) | [@千奈千祁](https://gitee.com/qiannqq) | Yunzai娱乐性扩展插件，包含漂流瓶、每日随机幸运值、模拟高考查分、群历史文献、钓鱼小游戏等娱乐功能 |
+| [互动插件(Gi-plugin)](https://gitee.com/qiannqq/Gi-plugin) | [@千奈千祁](https://gitee.com/qiannqq) | Yunzai娱乐性扩展插件，包含漂流瓶、每日随机幸运值、模拟高考查分、群历史文献、钓鱼小游戏等娱乐功能 |
 | [重置版千羽插件(reset-qianyu-plugin)](https://gitee.com/think-first-sxs/reset-qianyu-plugin) | [@think-first-sxs](https://gitee.com/think-first-sxs)   | 对千羽插件进行重置，优化功能，一个咕咕咕插件 |
 | [饼干插件(biscuit-plugin)](https://github.com/Yummy-cookie/biscuit-plugin) |[@Yummy-cookie](https://github.com/Yummy-cookie) | 全新版本，yunzai的多功能插件 |
 | [向日葵插件(xrk-plugin)](https://gitee.com/xrk114514/xrk-plugin) |[@xrk](https://gitee.com/xrk114514) | 为机器人提供一些冒泡功能，如整点报时，全局表情(可以自定义图库)，还有一些小功能，建议搭配向日葵脚本一起使用 |
