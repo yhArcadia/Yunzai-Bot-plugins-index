@@ -6,6 +6,7 @@
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
 | [SF-插件 (siliconflow-plugin)](https://github.com/AIGC-Yunzai/siliconflow-plugin) | [@Misaka20002](https://github.com/Misaka20002) [@syfantasy](https://github.com/syfantasy) [@eggacheb](https://github.com/eggacheb) | 基于 Yunzai 的 AIGC 插件，可免费使用 FLUX、SD、MJ 等绘图、LLM 推理、Vits语音合成等。|
+| [icqq检测-插件 (icqq-monitoring-plugin)](https://gitee.com/xrk114514/icqq-monitoring-plugin) | [@xrk114514](https://gitee.com/xrk114514) | 基于icqq的自动换签名插件，签名寄了自己换。|
 | [小叶面板 (YePanel)](https://github.com/XasYer/YePanel) | [@小叶](https://github.com/XasYer) | 提供web管理面板 |
 | [鹿管插件 (yunzai-plugin-deer-pipe)](https://gitee.com/kyrzy0416/yunzai-plugin-deer-pipe) | [@zhiyu](https://gitee.com/kyrzy0416) | 一个鹿管签到小插件，纯净、轻量、有且仅有一个每月鹿管签到功能 |
 | [文本语音合成(yunzai-fish-speech-plugin)](https://github.com/oldcitynight/yunzai-fish-speech-plugin) | [@oldcitynight](https://github.com/oldcitynight) [@fishaudio](https://github.com/fishaudio) | 本地或远程文本语音合成，支持从任意音源即时学习并推理合成语音，目前处于早期开发阶段。<br> **注意：因 Gitee Reward 无法关闭，本项目无 Gitee 镜像。此外使用前请详细阅读 README 中的声明部分。** |
