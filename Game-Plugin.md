@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [星铁插件（StarRail-plugin）](https://gitee.com/hewang1an/StarRail-plugin)| [@鹤望兰](https://gitee.com/hewang1an) | 一个提供了崩坏星穹铁道部分查询功能的插件，如#星铁卡片 #星铁体力 #星铁收入 等|
 | [王者荣耀插件(GloryOfKings-Plugin)](https://gitee.com/Tloml-Starry/GloryOfKings-Plugin) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | 通过扫码登录获取王者营地Token来查询战绩和主页信息等，更多功能王者相关功能正在制作 |
 | [永劫无间插件(yjwj-plugin)](https://gitee.com/njmxye/yjwj-plugin) | [@楠寻](https://github.com/njmxye) | 游戏永劫无间查询功能插件，支持查询永劫无间官方影画廊海报与实机截图、查询端游表情包、获取每日60秒新闻早报等功能。大神战绩查询、永劫无间世界观查询、群聊小游戏、Galgame接入kimi对话等功能正在火热开发中 |
 | [尘白禁区插件(cb-plugin)](https://github.com/Sakura1618/cb-plugin) | [@Sakura1618](https://github.com/Sakura1618) | 游戏尘白禁区查询功能插件，支持查询角色攻略、养成材料、强度榜等功能 |
