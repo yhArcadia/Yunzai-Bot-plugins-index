@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [steam插件 (steam-plugin)](https://github.com/XasYer/steam-plugin) | [@小叶](https://github.com/XasYer) | 提供steam相关功能, 如好友状态播报 查看库存 愿望单 搜索 等 |
 | [SF-插件 (siliconflow-plugin)](https://github.com/AIGC-Yunzai/siliconflow-plugin) | [@Misaka20002](https://github.com/Misaka20002) [@syfantasy](https://github.com/syfantasy) [@eggacheb](https://github.com/eggacheb) | 基于 Yunzai 的 AIGC 插件，可免费使用 FLUX、SD、MJ 等绘图、LLM 推理、Vits语音合成等。|
 | [icqq检测-插件 (icqq-monitoring-plugin)](https://gitee.com/xrk114514/icqq-monitoring-plugin) | [@xrk114514](https://gitee.com/xrk114514) | 基于icqq的自动换签名插件，签名寄了自己换。|
 | [小叶面板 (YePanel)](https://github.com/XasYer/YePanel) | [@小叶](https://github.com/XasYer) | 提供web管理面板 |
