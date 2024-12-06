@@ -6,6 +6,7 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [快讯](https://github.com/xiaotian2333/yunzai-plugins-Single-file?tab=readme-ov-file#%E5%BF%AB%E8%AE%AF) | [@小天](https://github.com/xiaotian2333) | [查看源码](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E5%BF%AB%E8%AE%AF.js) | 获取实时快讯，数据来源微信订阅号（仓库内还有其他更多插件） |
 | [留言板](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/messageBoard.js) | 多群共用留言板，可以在上面发布逆天言论，主人可删除指定留言，无留言数量限制，无留言CD，无字数限制，全开放式但只能留言文字，只有部分违禁词限制，可以打开文件自定义删除或添加 |
 | [检查Phira状态插件](https://gitee.com/pimeng/yunzai-simpleplugin) | [@Pimeng](https://gitee.com/pimeng/) | [查看源码](https://gitee.com/pimeng/yunzai-simpleplugin/raw/master/checkphira.js) | 因为近期Phira服务器频频炸服，群友需要，故诞生了本插件 |
 | [快举报](https://github.com/xiaotian2333/yunzai-plugins-Single-file?tab=readme-ov-file#%E5%BF%AB%E4%B8%BE%E6%8A%A5) | [@小天](https://github.com/xiaotian2333) | [查看源码](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E5%BF%AB%E4%B8%BE%E6%8A%A5.js) | 在群内快速便捷地向管理员举报违规行为（仓库内还有其他更多插件） |
