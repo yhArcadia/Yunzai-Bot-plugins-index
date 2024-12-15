@@ -26,7 +26,7 @@
 | [喵宇插件(miaoyu-plugin)](https://gitee.com/kongkongjiang/miaoyu-plugin) | [@小狐狸空空酱](https://gitee.com/kongkongjiang) | 提供云崽的b站抖音查询功能需要搭配Miaoyuapi本地版使用 |
 | [蛋蛋插件(egg-plugin)](https://gitee.com/fantasy-hx/egg-plugin) | [@Fantasy](https://gitee.com/fantasy-hx) | 一键换头插件(一键地球，一键@，一键...未来会支持更多快捷一键换头，方便制作表情包) |
 | [推送插件(bililivePush-plugin)](https://gitee.com/HDTianRu/bililivePush-plugin) | [@天如](https://gitee.com/HDTianRu) | 简洁易用的b站直播推送插件，代码结构简洁 |
-| [小米粥插件(xmz-plugin)](https://gitee.com/cunyx/xmz-plugin) | [@最好喝的小米粥](https://gitee.com/cunyx) | 一个插件，连帮助都没有；点击查看[功能列表](https://gitee.com/cunyx/xmz-plugin/blob/master/FunctionsList.md) |
+| [小米粥插件(xmz-plugin)](https://gitee.com/cunyx/xmz-plugin) | [@最好喝的小米粥](https://gitee.com/cunyx) | 新版小米粥插件，新增许多随机表情包和其他娱乐功能；绝大部分功能不收费，但仍需注册填写核验防止恶意刷取。 |
 | [以图搜图插件(imgS-plugin)](https://github.com/erzaozi/imgS-plugin) | [@二枣子](https://github.com/erzaozi) [@0卡苏打水](https://github.com/CikeyQi) | 能以图搜插画、搜动漫角色、搜番剧、搜Coser、搜本子的聚合以图搜图插件 |
 | [SunoAI插件(sunoai-plugin)](https://github.com/erzaozi/sunoai-plugin) | [@二枣子](https://github.com/erzaozi) [@0卡苏打水](https://github.com/CikeyQi) | 一个AI作曲插件，使用 [SunoAI](https://www.suno.ai/) 接口，实现在QQ内使用 SunoAI V3 生成音乐 |
 | [在线语音合成插件(vits-plugin)](https://github.com/erzaozi/vits-plugin) | [@二枣子](https://github.com/erzaozi) [@0卡苏打水](https://github.com/CikeyQi) | 在线VITS插件，免部署，使用网络上各种各样的在线接口 |
@@ -56,7 +56,6 @@
 | [KKP插件(kkp-plugin)](https://gitee.com/dungeonmaster/kkp-plugin) | [@所有二刺螈都得死](https://gitee.com/dungeonmaster) | 看看P站图和23次元蛇图和其他小功能 |
 | [云•冰祈 (Cloud_Icepray)](https://gitee.com/koinori/Icepray) | [@koinori](https://gitee.com/koinori) | 搭建于云端，集娱乐于管理功能于一身的轻量化插件 |
 | [鳄梨插件 (Avocado-Plugin)](https://github.com/Qz-Sean/avocado-plugin) | [@Qz-Sean](https://github.com/Qz-Sean) | 支持查询热映电影信息、天气查询、md渲染、灵活的网页预览与翻译、只为一个人疯狂(发癫)、抽象的指令规则|
-| [寸幼萱插件(cunyx-plugin)](https://gitee.com/cunyx/cunyx-plugin) | [@最好喝的小米粥](https://gitee.com/cunyx) | 改版完成，欢迎安装(安装前请阅读[README.md](https://gitee.com/cunyx/cunyx-plugin/blob/master/README.md)获得最佳体验)|
 | [ws插件(ws-plugin)](https://gitee.com/xiaoye12123/ws-plugin)| [@小叶](https://gitee.com/xiaoye12123) | 提供了云崽通过ws连接onebot标准的机器人 |
 | [文案插件(wenan-plugin)](https://gitee.com/white-night-fox/wenan-plugin)| [@白夜狐狸](https://gitee.com/white-night-fox/projects)|提供了云崽回复类文案 |
 | [牛牛大作战Beta(impart-pro-plugin)](https://gitee.com/sumght/impart-pro-plugin)| [@sumght](https://gitee.com/sumght) | 牛牛大作战先行测试，男人之间细说的互动玩法(原impart插件) |
