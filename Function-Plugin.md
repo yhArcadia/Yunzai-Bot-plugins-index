@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [云崽YouTube下载插件 (yunzai-yt-dl-plugin)](https://github.com/GangFaDeShenMe/yunzai-yt-dl-plugin) | [@GangFaDeShenMe](https://github.com/GangFaDeShenMe) | 提供YouTube链接，自动解析视频的各种统计数据，然后下载视频发给你 |
 | [steam插件 (steam-plugin)](https://github.com/XasYer/steam-plugin) | [@小叶](https://github.com/XasYer) | 提供steam相关功能, 如好友状态播报 查看库存 愿望单 搜索 等 |
 | [SF-插件 (siliconflow-plugin)](https://github.com/AIGC-Yunzai/siliconflow-plugin) | [@Misaka20002](https://github.com/Misaka20002) [@syfantasy](https://github.com/syfantasy) [@eggacheb](https://github.com/eggacheb) | 基于 Yunzai 的 AIGC 插件，可免费使用 FLUX、SD、MJ 等绘图、LLM 推理、Vits语音合成等。|
 | [icqq检测-插件 (icqq-monitoring-plugin)](https://gitee.com/xrk114514/icqq-monitoring-plugin) | [@xrk114514](https://gitee.com/xrk114514) | 基于icqq的自动换签名插件，签名寄了自己换。|
