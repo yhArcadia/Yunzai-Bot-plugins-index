@@ -6,6 +6,8 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [Double视频插件](https://github.com/DoublexQAQ/Yunzai-Bot-Js-Plugin/blob/main/Double%E8%A7%86%E9%A2%91%E6%8F%92%E4%BB%B6.js)| [@DoubleQAQ](https://github.com/DoublexQAQ)|[查看源码](https://github.com/DoublexQAQ/Yunzai-Bot-Js-Plugin/blob/main/Double%E8%A7%86%E9%A2%91%E6%8F%92%E4%BB%B6.js) |轻量级发送视频的插件|
+| [woc图片二改版本](https://github.com/DoublexQAQ/Yunzai-Bot-Js-Plugin/blob/main/woc%E5%9B%BE%E7%89%87.js)| [@DoubleQAQ](https://github.com/DoublexQAQ)|[查看源码](https://github.com/DoublexQAQ/Yunzai-Bot-Js-Plugin/blob/main/woc%E5%9B%BE%E7%89%87.js) |适配trss云崽二改闲心插件改为本地储存。适配trss云崽|
 | [mc正版用户名验证进群](https://github.com/Dnyo666/Qxml-Yunzai-js?tab=readme-ov-file#mc%E6%AD%A3%E7%89%88%E7%94%A8%E6%88%B7%E5%90%8D%E9%AA%8C%E8%AF%81%E8%BF%9B%E7%BE%A4.js) | [@浅巷墨黎](https://github.com/Dnyo666) | [查看源码](https://github.com/Dnyo666/Qxml-Yunzai-js/raw/refs/heads/main/js/mc%E6%AD%A3%E7%89%88%E7%94%A8%E6%88%B7%E5%90%8D%E9%AA%8C%E8%AF%81%E8%BF%9B%E7%BE%A4.js) |通过填写Minecraft用户名进行判断并自动通过正版 |
 | [快讯](https://github.com/xiaotian2333/yunzai-plugins-Single-file?tab=readme-ov-file#%E5%BF%AB%E8%AE%AF) | [@小天](https://github.com/xiaotian2333) | [查看源码](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E5%BF%AB%E8%AE%AF.js) | 获取实时快讯，数据来源微信订阅号（仓库内还有其他更多插件） |
 | [留言板](https://gitee.com/Tloml-Starry/Plugin-Example) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | [查看源码](https://gitee.com/Tloml-Starry/Plugin-Example/raw/master/JavaScript/messageBoard.js) | 多群共用留言板，可以在上面发布逆天言论，主人可删除指定留言，无留言数量限制，无留言CD，无字数限制，全开放式但只能留言文字，只有部分违禁词限制，可以打开文件自定义删除或添加 |
