@@ -7,7 +7,6 @@
 |-------| ----- |------ |
 | [steam插件 (steam-plugin)](https://github.com/XasYer/steam-plugin) | [@小叶](https://github.com/XasYer) | 提供steam相关功能, 如好友状态播报 查看库存 愿望单 搜索 等 |
 | [SF-插件 (siliconflow-plugin)](https://github.com/AIGC-Yunzai/siliconflow-plugin) | [@Misaka20002](https://github.com/Misaka20002) [@syfantasy](https://github.com/syfantasy) [@eggacheb](https://github.com/eggacheb) | 基于 Yunzai 的 AIGC 插件，可免费使用 FLUX、SD、MJ 等绘图、LLM 推理、Vits语音合成等。|
-| [icqq检测-插件 (icqq-monitoring-plugin)](https://gitee.com/xrk114514/icqq-monitoring-plugin) | [@xrk114514](https://gitee.com/xrk114514) | 基于icqq的自动换签名插件，签名寄了自己换。|
 | [小叶面板 (YePanel)](https://github.com/XasYer/YePanel) | [@小叶](https://github.com/XasYer) | 提供web管理面板 |
 | [鹿管插件 (yunzai-plugin-deer-pipe)](https://gitee.com/kyrzy0416/yunzai-plugin-deer-pipe) | [@zhiyu](https://gitee.com/kyrzy0416) | 一个鹿管签到小插件，纯净、轻量、有且仅有一个每月鹿管签到功能 |
 | [文本语音合成(yunzai-fish-speech-plugin)](https://github.com/oldcitynight/yunzai-fish-speech-plugin) | [@oldcitynight](https://github.com/oldcitynight) [@fishaudio](https://github.com/fishaudio) | 本地或远程文本语音合成，支持从任意音源即时学习并推理合成语音，目前处于早期开发阶段。<br> **注意：因 Gitee Reward 无法关闭，本项目无 Gitee 镜像。此外使用前请详细阅读 README 中的声明部分。** |
@@ -44,7 +43,6 @@
 | [互动插件(Gi-plugin)](https://gitee.com/qiannqq/Gi-plugin) | [@千奈千祁](https://gitee.com/qiannqq) | Yunzai娱乐性扩展插件，包含漂流瓶、每日随机幸运值、模拟高考查分、群历史文献、钓鱼小游戏等娱乐功能 |
 | [重置版千羽插件(reset-qianyu-plugin)](https://gitee.com/think-first-sxs/reset-qianyu-plugin) | [@think-first-sxs](https://gitee.com/think-first-sxs)   | 对千羽插件进行重置，优化功能，一个咕咕咕插件 |
 | [饼干插件(biscuit-plugin)](https://github.com/Yummy-cookie/biscuit-plugin) |[@Yummy-cookie](https://github.com/Yummy-cookie) | 全新版本，yunzai的多功能插件 |
-| [向日葵插件(xrk-plugin)](https://gitee.com/xrk114514/xrk-plugin) |[@xrk](https://gitee.com/xrk114514) | 为机器人提供一些冒泡功能，如整点报时，全局表情(可以自定义图库)，还有一些小功能，建议搭配向日葵脚本一起使用 |
 | [Xs-plugin](https://gitee.com/hsxfk/Xs-plugin) | [@黄色小方块](https://gitee.com/hsxfk) | 提供动漫语音合成，王者荣耀战力查询，公共签名api以及个人api检测功能。 还有一些简单的娱乐功能 |
 | [违规图片监听插件(nsfwjs-plugin)](https://github.com/CikeyQi/nsfwjs-plugin) | [@0卡苏打水](https://github.com/CikeyQi)  [@二枣子](https://github.com/erzaozi) | 基于本地的免费违规图片监听插件，得益于NSFWJS，检测速度极快。使用TensorFlow，低配置服务器也能流畅运行 |
 | [Midjourney绘图插件(mj-plugin)](https://github.com/ap-plugin/mj-plugin) | [@0卡苏打水](https://github.com/CikeyQi)  [@二枣子](https://github.com/erzaozi) | 又一个AI绘图插件，使用 [Midjourney](https://www.midjourney.com/) 接口，实现在QQ内使用Midjourney生成图片 |
