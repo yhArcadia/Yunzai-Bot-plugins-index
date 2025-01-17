@@ -16,7 +16,7 @@
 | [喵喵扩展插件(ark-plugin)](https://github.com/NotIvny/ark-plugin)  | [@NotIvny](https://github.com/NotIvny)  | 为喵喵插件提供总排名、排名统计、独立群设置、帮助图扩展等功能，同时提供文件备份、修改插件优先级等功能。  |
 | [优纪插件(yuki-plugin)](https://gitee.com/snowtafir/yuki-plugin)  | [@snowtafir](https://github.com/snowtafir) | 一个适用于 Yunzai (Miao/Trss/Next) 系列机器人框架 的B站动态和微博动态订阅推送插件 |
 | [落落插件(luoluo-Plugin)](https://gitee.com/yll0614/luoluo-plugin) | [@叶落落](https://gitee.com/yll0614) | 没什么用的小破api娱乐性插件 提供随机动漫图 哔哩哔哩视频解析 Ping等功能 |
-| [Esca插件(Esca-Plugin)](https://gitee.com/escaped-spark/esca-plugin) | [@逸燧](https://escaped.icu) | 娱乐性插件，提供随机图/视频，备案查询，语音合成等功能 |
+| [Esca插件(esca-plugin)](https://gitee.com/escaped-spark/esca-plugin) | [@逸燧](https://escaped.icu) | 功能性插件，提供随机图/视频，备案查询等功能 |
 | [MEMZ插件(MEMZ-Plugin)](https://gitee.com/memzjs/memz-plugin) | [@MEMZ](https://gitee.com/memzjs)| 工具类插件,提供了一些便携的工具 |
 | [更好的远程命令插件(better-rc)](https://gitee.com/Vremq_vperyod/better-rc) | [  @Vremq_vperyod ](https://gitee.com/Vremq_vperyod)| 交互式远程命令执行与定时任务 |
 | [奥林匹克插件(Olympic-plugin)](https://gitee.com/xiaomifan233/olympic-plugin) | [ @小米饭](https://gitee.com/xiaomifan233)| 提供有关巴黎奥运会的一些查询功能 |
