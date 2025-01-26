@@ -6,6 +6,7 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [智谱GLM](https://github.com/xiaotian2333/yunzai-plugins-Single-file?tab=readme-ov-file#%E6%99%BA%E8%B0%B1gml) | [@小天](https://github.com/xiaotian2333) | [查看源码](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E6%99%BA%E8%B0%B1GLM.js) | 基于智谱大模型的聊天插件，支持开箱即用（仓库内还有其他更多插件） |
 | [抢管理](https://gitee.com/Daroach/Yunzai-js/tree/master/) | [@Daroach](https://gitee.com/Daroach) | [查看源码](https://gitee.com/Daroach/Yunzai-js/tree/master/抢管理v4.js) | 群里太无聊？看管理不爽？来抢管理罢（⚠仅推荐在无内鬼的群聊使用！需要将机器人设为群主）！ |
 | [艾特禁言](https://github.com/A1Panda/Yunzai-plugins) | [@A1Panda](https://github.com/A1Panda) | [查看源码](https://raw.githubusercontent.com/A1Panda/Yunzai-plugins/refs/heads/main/%E8%89%BE%E7%89%B9%E7%A6%81%E8%A8%80V0.1.js) | 用于防止特定用户被频繁艾特。它会根据配置在用户艾特特定用户超过设定次数时禁言艾特者，并发送提示消息。插件支持自定义禁言时间、提示消息、最大艾特次数。 |
 | [DeepSeek AI](https://github.com/NotIvny/Yunzai-DeepSeek-JS) | [@NotIvny](https://github.com/NotIvny) | [查看源码](https://raw.githubusercontent.com/NotIvny/Yunzai-DeepSeek-JS/refs/heads/main/deepseek.js) | 提供DeepSeek v3 AI聊天，支持多轮对话、获取聊天记录、at群友 |
