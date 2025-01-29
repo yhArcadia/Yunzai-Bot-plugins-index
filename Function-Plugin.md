@@ -65,7 +65,7 @@
 | [小雪插件 (XiaoXuePlugin)](https://gitee.com/XueWerY/XiaoXuePlugin) | [@XueWerY](https://gitee.com/XueWerY) | 让bot变得人性化，提升用户和bot的交互体验，提供bot更多的管理，提供更多的依赖库，拓展新功能效率高 |
 | [R插件 (rconsole-plugin)](https://gitee.com/kyrzy0416/rconsole-plugin) | [@zhiyu](https://gitee.com/kyrzy0416) | 专门为朋友们写的Yunzai-Bot插件，专注图片分享和生活的插件！ |
 | [WeLM对话插件 (WeLM-plugin)](https://github.com/JD1433223/WeLM-plugin) | [@JD](https://gitee.com/jd66666) [@兰罗摩](https://gitee.com/Arama_admin) [@书辞千楪](https://gitee.com/shuciqianye) | 提供个性ai问答、提问和续写(chatgpt下下下位替代)功能 |
-| [枫叶插件 (hs-qiqi-Plugin)](https://plugin.kesally.ren/) | [@Kesally](https://gitee.com/kesally)  [@七七](https://gitee.com/fengyeplugin) | 提供多个AI对话，名片自动绑定uid，坤图，睡眠时间等有趣且实用的娱乐小功能 |
+| [枫叶插件 (hs-qiqi-Plugin)](https://gitee.com/kesally/hs-qiqi-cv-plugin) | [@Kesally](https://gitee.com/kesally)  [@七七](https://gitee.com/fengyeplugin) | 提供多个AI对话，名片自动绑定uid，坤图，睡眠时间等有趣且实用的娱乐小功能 |
 | [Stable Diffusion绘图插件 (ap-plugin)](https://github.com/ap-plugin/ap-plugin)     | [@渔火Arcadia](https://gitee.com/yhArcadia) [@0卡苏打水](https://github.com/CikeyQi)  | 一个AI绘图插件，使用 [Stable Diffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 接口，实现在QQ内使用 Stable Diffusion 生成图片|
 | [小叶插件 (xiaoye-plugin)](https://gitee.com/xiaoye12123/xiaoye-plugin)     | [@小叶](https://gitee.com/xiaoye12123) | 模拟刷圣遗物和强化，可自定义概率 |
 | [自动化插件 (auto-plugin)](https://github.com/Nwflower/auto-plugin) | [@听语惊花](https://github.com/Nwflower/) | 原神倒计时、自动发说说...可能是史上最强大的群名片更新插件。另外还提供了一些自动化小功能。 |
