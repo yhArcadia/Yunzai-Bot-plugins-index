@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [MEMZ插件(memz-plugin)](https://github.com/MEMLTS/memz-plugin) | [@memzjs](https://github.com/MEMLTS) | 提供了一些web工具等 |
 | [Pixiv插件(pixiv-plugin)](https://github.com/admilkjs/pixiv-plugin) | [@Admilk](https://gitee.com/adrae) | pixiv解析功能 |
 | [Ad插件(ad-plugin)](https://gitee.com/adrae/ad-plugin) | [@Admilk](https://gitee.com/adrae) | 实用功能 |
 | [steam插件 (steam-plugin)](https://github.com/XasYer/steam-plugin) | [@小叶](https://github.com/XasYer) | 提供steam相关功能, 如好友状态播报 查看库存 愿望单 搜索 等 |
@@ -18,7 +19,6 @@
 | [优纪插件(yuki-plugin)](https://gitee.com/snowtafir/yuki-plugin)  | [@snowtafir](https://github.com/snowtafir) | 一个适用于 Yunzai (Miao/Trss/Next) 系列机器人框架 的B站动态和微博动态订阅推送插件 |
 | [落落插件(luoluo-Plugin)](https://gitee.com/yll0614/luoluo-plugin) | [@叶落落](https://gitee.com/yll0614) | 没什么用的小破api娱乐性插件 提供随机动漫图 哔哩哔哩视频解析 Ping等功能 |
 | [Esca插件(esca-plugin)](https://gitee.com/escaped-spark/esca-plugin) | [@逸燧](https://escaped.icu) | 功能性插件，提供随机图/视频，备案查询等功能 |
-| [MEMZ插件(MEMZ-Plugin)](https://gitee.com/memzjs/memz-plugin) | [@MEMZ](https://gitee.com/memzjs)| 工具类插件,提供了一些便携的工具 |
 | [更好的远程命令插件(better-rc)](https://gitee.com/Vremq_vperyod/better-rc) | [  @Vremq_vperyod ](https://gitee.com/Vremq_vperyod)| 交互式远程命令执行与定时任务 |
 | [奥林匹克插件(Olympic-plugin)](https://gitee.com/xiaomifan233/olympic-plugin) | [ @小米饭](https://gitee.com/xiaomifan233)| 提供有关巴黎奥运会的一些查询功能 |
 | [DF插件(DF-Plugin)](https://github.com/DenFengLai/DF-Plugin) | [@等风来](https://gitee.com/DengFengLai-F) | 提供了用户联系主人、Git仓库更新推送到群聊、随机表情包戳一戳、随机图片、图片自动添加外显等功能，推荐使用[锅巴插件](https://gitee.com/guoba-yunzai/guoba-plugin)进行配置。 |
