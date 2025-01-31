@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [清语表情插件(meme-plugin)](https://github.com/ClarityJS/meme-plugin) | [@ClarityJS](https://github.com/ClarityJS) | 提供了表情合成功能 |
 | [MEMZ插件(memz-plugin)](https://github.com/MEMLTS/memz-plugin) | [@memzjs](https://github.com/MEMLTS) | 提供了一些web工具等 |
 | [Pixiv插件(pixiv-plugin)](https://github.com/admilkjs/pixiv-plugin) | [@Admilk](https://gitee.com/adrae) | pixiv解析功能 |
 | [Ad插件(ad-plugin)](https://gitee.com/adrae/ad-plugin) | [@Admilk](https://gitee.com/adrae) | 实用功能 |
@@ -33,7 +34,7 @@
 | [在线语音合成插件(vits-plugin)](https://github.com/erzaozi/vits-plugin) | [@二枣子](https://github.com/erzaozi) [@0卡苏打水](https://github.com/CikeyQi) | 在线VITS插件，免部署，使用网络上各种各样的在线接口 |
 | [猫猫状态插件(neko-status-plugin)](https://github.com/erzaozi/neko-status-plugin) | [@二枣子](https://github.com/erzaozi) [@0卡苏打水](https://github.com/CikeyQi) | 可爱的服务器状态查看插件喵~ |
 | [群管插件（group-plugin）](https://gitee.com/clarlotte/group-plugin) | [@Clarlotte](https://gitee.com/clarlotte) | 群管插件，功能写的很杂，部分功能bug，请多多包涵 |
-| [星点签名（starlight-qsign）](https://gitlab.com/v17360963/starlight-qsign) | [@wuliya336](https://github.com/wuliya336) | 向机器发送信息可自动获取可用的免费签名 |
+| [星点签名（starlight-qsign）](https://github.com/wuliya336/starlight-qsign) | [@wuliya336](https://github.com/wuliya336) | 向机器发送信息可自动获取可用的免费签名 |
 | [鸢尾花插件(logier-plugin)](https://gitee.com/logier/logier-plugins) | [@logier](https://gitee.com/logier) | 表情包仓库、运势算卦、AI塔罗牌、资讯推送 |
 | [GPTI插件(gpti-plugin)](https://github.com/CikeyQi/gpti-plugin) | [@0卡苏打水](https://github.com/CikeyQi) | 一个GPT插件，简化了GPT模型的交互，无需令牌来访问GPT |
 | [米家插件(mijia-plugin)](https://github.com/CikeyQi/mijia-plugin) | [@0卡苏打水](https://github.com/CikeyQi) | 米家插件，在任何地方控制家中米家生态设备 |
