@@ -6,6 +6,7 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [deepseekAI](https://gitee.com/fenglinit/yunzai-deepseekAI/) | [@枫林](https://gitee.com/fenglinit) | [查看源码](https://gitee.com/fenglinit/yunzai-deepseekAI/blob/master/deepseekAI.js) | 对接deepseek的api实现ai功能 |
 | [爱发电赞助](https://github.com/A1Panda/Yunzai-plugins) | [@A1Panda](https://github.com/A1Panda) | [查看源码](https://raw.githubusercontent.com/A1Panda/Yunzai-plugins/refs/heads/main/%E7%88%B1%E5%8F%91%E7%94%B5%E8%B5%9E%E5%8A%A9V1.0.js) | 爱发电赞助工具，自动获取QQ保存在本地，可以供二次开发 |
 | [智谱GLM](https://github.com/xiaotian2333/yunzai-plugins-Single-file?tab=readme-ov-file#%E6%99%BA%E8%B0%B1gml) | [@小天](https://github.com/xiaotian2333) | [查看源码](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E6%99%BA%E8%B0%B1GLM.js) | 基于智谱大模型的聊天插件，支持开箱即用（仓库内还有其他更多插件） |
 | [抢管理](https://gitee.com/Daroach/Yunzai-js/tree/master/) | [@Daroach](https://gitee.com/Daroach) | [查看源码](https://gitee.com/Daroach/Yunzai-js/tree/master/抢管理v4.js) | 群里太无聊？看管理不爽？来抢管理罢（⚠仅推荐在无内鬼的群聊使用！需要将机器人设为群主）！ |
