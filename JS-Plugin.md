@@ -6,6 +6,7 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [随机课题](https://github.com/Sczr0/PhiPluginAdv) | [@Sczr0](https://github.com/Sczr0) | [查看源码](https://github.com/Sczr0/PhiPluginAdv/blob/main/%E9%9A%8F%E6%9C%BA%E8%AF%BE%E9%A2%98.js) | 用于抽取Phigros随机课题的文字版插件 |
 | [siliconflow-deepseek](https://gitee.com/jinseaaahh/siliconflow-deepseek) | [@锦瑟](https://gitee.com/jinseaaahh) | [查看源码](https://gitee.com/jinseaaahh/siliconflow-deepseek/blob/master/siliconflow-deepseek.js) | 对接siliconflow提供的api使用deepseek的js插件，是deepseek官网无法使用时的替代品 |
 | [随机歌词](https://github.com/Sczr0/RandomLyrics/) | [@Sczr0](https://github.com/Sczr0) | [查看源码](https://github.com/Sczr0/RandomLyrics/blob/main/lyrics.js) | 随机歌词抽取实现 |
 | [deepseekAI](https://gitee.com/fenglinit/yunzai-deepseekAI/) | [@枫林](https://gitee.com/fenglinit) | [查看源码](https://gitee.com/fenglinit/yunzai-deepseekAI/blob/master/deepseekAI.js) | 对接deepseek的api实现ai功能 |
