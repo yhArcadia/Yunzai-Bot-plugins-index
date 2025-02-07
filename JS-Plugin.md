@@ -6,6 +6,9 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | -------|
+| [自动处理进群事件](https://gitee.com/a1_panda/Yunzai-Bot-plugins) | [ @A1_Panda ](https://gitee.com/a1_panda) | [查看源码](https://gitee.com/a1_panda/Yunzai-Bot-plugins/raw/main/%E8%87%AA%E5%8A%A8%E5%A4%84%E7%90%86%E8%BF%9B%E7%BE%A4%E4%BA%8B%E4%BB%B6V3.1.js) | 用户加群自动判断答案同意加群，退群自动拉黑 |
+| [针对禁言](https://gitee.com/a1_panda/Yunzai-Bot-plugins) | [ @A1_Panda ](https://gitee.com/a1_panda) | [查看源码](https://gitee.com/a1_panda/Yunzai-Bot-plugins/raw/main/%E9%92%88%E5%AF%B9%E7%A6%81%E8%A8%80V0.1.js) | 被针对的用户发送消息超过指定数量自动禁言 |
+| [网页截图工具](https://gitee.com/a1_panda/Yunzai-Bot-plugins) | [@A1_Panda](https://gitee.com/a1_panda) | [查看源码](https://gitee.com/a1_panda/Yunzai-Bot-plugins/raw/main/%E7%BD%91%E9%A1%B5%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7V1.0.js) | 发送链接自动返回截图 |
 | [反馈](https://gitee.com/tttfff/QingYing-Plugins) | [@QingYing](https://gitee.com/tttfff) | [查看源码](https://gitee.com/tttfff/QingYing-Plugins/raw/master/Feedback.js) | 更好的反馈插件 |
 | [sleepy-for-yunzai](https://gitee.com/WindDrift/sleepy-for-yunzai) | [@WindDrift](https://gitee.com/WindDrift) | [查看源码](https://gitee.com/WindDrift/sleepy-for-yunzai/blob/master/sleepy-for-yunzai.js) | 看看你的主人活着 or 似了 |
 | [随机课题](https://github.com/Sczr0/PhiPluginAdv) | [@Sczr0](https://github.com/Sczr0) | [查看源码](https://github.com/Sczr0/PhiPluginAdv/blob/main/%E9%9A%8F%E6%9C%BA%E8%AF%BE%E9%A2%98.js) | 用于抽取Phigros随机课题的文字版插件 |
