@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [Mcsmanager管理插件(mcsmanager-plugin)](https://github.com/A1Panda/mcsmanager-plugin) | [ @A1_Panda ](https://github.com/A1Panda) | 基于 Yunzai-Bot v3 的 MCSManager 服务器管理插件，提供完整的远程控制和监控功能 |
 | [San插件(San-plugin)](https://gitee.com/San-luo/San-plugin) | [@san-luo](https://gitee.com/San-luo) | 拓展了云崽原有的表情添加功能,以及一些小功能 |
 | [MEMZ插件(memz-plugin)](https://github.com/MEMLTS/memz-plugin) | [@memzjs](https://github.com/MEMLTS) | 提供了一些web工具等 |
 | [Pixiv插件(pixiv-plugin)](https://github.com/admilkjs/pixiv-plugin) | [@Admilk](https://gitee.com/adrae) | pixiv解析功能 |
