@@ -4,7 +4,8 @@
 
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
-| --- | --- | --- |
+| -- | -- | -- |
+| [云崽安装图文教程|(https://gitee.com/lzqmql/bxianx-yunzai-teaching)|[@岩王帝君](https://gitee.com/fdvhsvg)[@不羡仙](https://gitee.com/bxianx)|应该算比较详细的教程了吧|
 | [优质 喵喵原神星铁角色面板图](https://gitee.com/herijian/characterpic)| [@何日见](https://gitee.com/herijian) | 很优质的角色面板图 |
 | [云崽小破站](https://yunzaibot.cn) | [@岩王帝君](https://gitee.com/fdvhsvg) | Windows云崽启动器，环境包下载，插件索引等内容的聚合站 |
 | [喵喵插件帮助的皮肤包](https://gitee.com/herijian/miaopifu) | [@何日见](https://gitee.com/herijian) | 喵喵插件(miao-plugin)帮助列表的皮肤包 |
