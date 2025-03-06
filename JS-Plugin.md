@@ -6,7 +6,8 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | ------- |
-| [表情合成](https://gitee.com/a1_panda/Yunzai-Bot-plugins) | [ @A1_Panda ](https://gitee.com/a1_panda) | [查看源码](https://gitee.com/a1_panda/Yunzai-Bot-plugins/raw/main/%E8%A1%A8%E6%83%85%E5%90%88%E6%88%90.js) | 发送表情调用API合成 |
+| [抽奖抽管理员](https://gitee.com/nahida22/res) | [  @nahida  ](https://gitee.com/nahida22/res/raw/master/JS/cjgly.js) | 没什么用的抽奖 |
+| [表情合成](https://gitee.com/a1_panda/Yunzai-Bot-plugins) | [ @A1_Panda ](https://gitee.com/a1_panda) | [查看源码](https://gitee.com/nahida22/res/blob/master/JS/cjgly.js) | 发送表情调用API合成 |
 | [自动处理进群事件](https://gitee.com/a1_panda/Yunzai-Bot-plugins) | [ @A1_Panda ](https://gitee.com/a1_panda) | [查看源码](https://gitee.com/a1_panda/Yunzai-Bot-plugins/raw/main/%E8%87%AA%E5%8A%A8%E5%A4%84%E7%90%86%E8%BF%9B%E7%BE%A4%E4%BA%8B%E4%BB%B6V3.1.js) | 用户加群自动判断答案同意加群，退群自动拉黑 |
 | [针对禁言](https://gitee.com/a1_panda/Yunzai-Bot-plugins) | [ @A1_Panda ](https://gitee.com/a1_panda) | [查看源码](https://gitee.com/a1_panda/Yunzai-Bot-plugins/raw/main/%E9%92%88%E5%AF%B9%E7%A6%81%E8%A8%80V0.1.js) | 被针对的用户发送消息超过指定数量自动禁言 |
 | [网页截图工具](https://gitee.com/a1_panda/Yunzai-Bot-plugins) | [@A1_Panda](https://gitee.com/a1_panda) | [查看源码](https://gitee.com/a1_panda/Yunzai-Bot-plugins/raw/main/%E7%BD%91%E9%A1%B5%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7V1.0.js) | 发送链接自动返回截图 |
