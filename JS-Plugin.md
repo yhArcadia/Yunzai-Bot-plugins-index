@@ -5,8 +5,7 @@
 <!-- [GUOBA:JS_PLUGIN:BEGIN] 锅巴插件访问标记，请勿移动 -->
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
-| --- | --- | ---- | -------|
-| [WebScreenshop250](https://gitee.com/buling_jian/web-screenshop.las.js) | [ @buling_jian ](https://gitee.com/buling_jian) | [查看源码](https://raw.githubusercontent.com/buling-jian/WebScreenshop.las.js/refs/heads/main/WebScreenshop.las.js) | 高性能截图美化输出 |
+| --- | --- | ---- | ------- |
 | [表情合成](https://gitee.com/a1_panda/Yunzai-Bot-plugins) | [ @A1_Panda ](https://gitee.com/a1_panda) | [查看源码](https://gitee.com/a1_panda/Yunzai-Bot-plugins/raw/main/%E8%A1%A8%E6%83%85%E5%90%88%E6%88%90.js) | 发送表情调用API合成 |
 | [自动处理进群事件](https://gitee.com/a1_panda/Yunzai-Bot-plugins) | [ @A1_Panda ](https://gitee.com/a1_panda) | [查看源码](https://gitee.com/a1_panda/Yunzai-Bot-plugins/raw/main/%E8%87%AA%E5%8A%A8%E5%A4%84%E7%90%86%E8%BF%9B%E7%BE%A4%E4%BA%8B%E4%BB%B6V3.1.js) | 用户加群自动判断答案同意加群，退群自动拉黑 |
 | [针对禁言](https://gitee.com/a1_panda/Yunzai-Bot-plugins) | [ @A1_Panda ](https://gitee.com/a1_panda) | [查看源码](https://gitee.com/a1_panda/Yunzai-Bot-plugins/raw/main/%E9%92%88%E5%AF%B9%E7%A6%81%E8%A8%80V0.1.js) | 被针对的用户发送消息超过指定数量自动禁言 |
