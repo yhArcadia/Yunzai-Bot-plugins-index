@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [简单插件 (jiandam-Plugin)](https://github.com/dmmdekkd) | [@dmmdekkd](https://github.com/dmmdekkd/jiandan-plugin) | Yunzai-Bot V3的功能插件 |
 | [B站插件 (Bili-Plugin)](https://gitee.com/nennen-cn/Bili-Plugin) | [@NenNen_CN](https://gitee.com/nennen-cn) | 支持B站账号管理/签到/直播监听/QQBot等功能 |
 | [清语表情插件 (meme-plugin)](https://github.com/ClarityJS/meme-plugin) | [@ClarityJS](https://github.com/ClarityJS) | 清语表情， 一个Yunzai-Bot V3插件,表情包合成 |
 | [综合插件 (juhkff-plugin)](https://github.com/juhkff/juhkff-plugin) | [@扎克芙芙](https://github.com/juhkff) | 主动回复群聊、表情偷取、日报推送等综合功能插件 |
