@@ -2,7 +2,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
-| [简单插件(jiandam-Plugin)](https://github.com/dmmdekkd) | [@dmmdekkd](https://github.com/dmmdekkd/jiandan-plugin) | Yunzai-Bot V3的功能插件 |
+| [简单插件(jiandam-Plugin)](https://github.com/dmmdekkd/jiandan-plugin) | [@dmmdekkd](https://github.com/dmmdekkd) | Yunzai-Bot V3的功能插件 |
 | [喵宇插件( miaoyu-plugin)](https://gitee.com/kongkongjiang/miaoyu-plugin) | [@小狐狸空空酱](https://gitee.com/kongkongjiang) | 提供云崽的b站抖音查询功能需要搭配Miaoyuapi本地版使用 |
 | [蛋蛋插件(egg-plugin)](https://gitee.com/fantasy-hx/egg-plugin) | [@Fantasy](https://gitee.com/fantasy-hx) | 一键换头插件（一键地球，一键@,一键...未来会支持更多快捷一键换头，方便制作表情包) |
 | [推送插件(bililivePush-plugin)](https://gitee.com/HDTianRu/bililivePush-plugin) | [@天如](https://gitee.com/HDTianRu) | 简洁易用的b站直播推送插件，代码结构简洁 |
