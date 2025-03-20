@@ -6,6 +6,8 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | ------- |
+| [今天吃什么promax](https://gitee.com/Daroach/Yunzai-js/tree/master/) | [ @花澤立花理香菜 ](https://gitee.com/Daroach/) | [查看源码](https://gitee.com/Daroach/Yunzai-js/blob/master/%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88promax.js) | 原旧冰祈插件(Icepray-plugin)的“今天吃什么.js”小插件的升级版 |
+| [抽头衔](https://gitee.com/Daroach/Yunzai-js/tree/master/) | [ @花澤立花理香菜 ](https://gitee.com/Daroach/) | [查看源码](https://gitee.com/Daroach/Yunzai-js/blob/master/%E6%8A%BD%E5%A4%B4%E8%A1%94v1(%E8%BD%BB%E9%87%8F%E7%89%88).js) | 群友想不出要给自己设什么头衔？抽一个罢 |
 | [抽管理](https://gitee.com/nahida22/res) | [  @nahida  ](https://gitee.com/nahida22) | [查看源码](https://gitee.com/nahida22/res/raw/master/JS/cjgly.js) | 没什么用的抽奖 |
 | [表情合成](https://gitee.com/a1_panda/Yunzai-Bot-plugins) | [ @A1_Panda ](https://gitee.com/a1_panda) | [查看源码](https://gitee.com/nahida22/res/blob/master/JS/cjgly.js) | 发送表情调用API合成 |
 | [自动处理进群事件](https://gitee.com/a1_panda/Yunzai-Bot-plugins) | [ @A1_Panda ](https://gitee.com/a1_panda) | [查看源码](https://gitee.com/a1_panda/Yunzai-Bot-plugins/raw/main/%E8%87%AA%E5%8A%A8%E5%A4%84%E7%90%86%E8%BF%9B%E7%BE%A4%E4%BA%8B%E4%BB%B6V3.1.js) | 用户加群自动判断答案同意加群，退群自动拉黑 |
@@ -19,7 +21,7 @@
 | [deepseekAI](https://gitee.com/fenglinit/yunzai-deepseekAI/) | [@枫林](https://gitee.com/fenglinit) | [查看源码](https://gitee.com/fenglinit/yunzai-deepseekAI/blob/master/deepseekAI.js) | 对接deepseek的api实现ai功能 |
 | [爱发电赞助](https://github.com/A1Panda/Yunzai-plugins) | [@A1Panda](https://github.com/A1Panda) | [查看源码](https://raw.githubusercontent.com/A1Panda/Yunzai-plugins/refs/heads/main/%E7%88%B1%E5%8F%91%E7%94%B5%E8%B5%9E%E5%8A%A9V1.0.js) | 爱发电赞助工具，自动获取QQ保存在本地，可以供二次开发 |
 | [智谱GLM](https://github.com/xiaotian2333/yunzai-plugins-Single-file?tab=readme-ov-file#%E6%99%BA%E8%B0%B1gml) | [@小天](https://github.com/xiaotian2333) | [查看源码](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E6%99%BA%E8%B0%B1GLM.js) | 基于智谱大模型的聊天插件，支持开箱即用（仓库内还有其他更多插件） |
-| [抢管理](https://gitee.com/Daroach/Yunzai-js/tree/master/) | [@Daroach](https://gitee.com/Daroach) | [查看源码](https://gitee.com/Daroach/Yunzai-js/tree/master/抢管理v4.js) | 群里太无聊？看管理不爽？来抢管理罢（⚠仅推荐在无内鬼的群聊使用！需要将机器人设为群主）！ |
+| [抢管理](https://gitee.com/Daroach/Yunzai-js/tree/master/) | [@花澤立花理香菜](https://gitee.com/Daroach) | [查看源码](https://gitee.com/Daroach/Yunzai-js/tree/master/抢管理v4.js) | 群里太无聊？看管理不爽？来抢管理罢（⚠仅推荐在无内鬼的群聊使用！需要将机器人设为群主）！ |
 | [艾特禁言](https://github.com/A1Panda/Yunzai-plugins) | [@A1Panda](https://github.com/A1Panda) | [查看源码](https://raw.githubusercontent.com/A1Panda/Yunzai-plugins/refs/heads/main/%E8%89%BE%E7%89%B9%E7%A6%81%E8%A8%80V0.1.js) | 用于防止特定用户被频繁艾特。它会根据配置在用户艾特特定用户超过设定次数时禁言艾特者，并发送提示消息。插件支持自定义禁言时间、提示消息、最大艾特次数。 |
 | [DeepSeek AI](https://github.com/NotIvny/Yunzai-DeepSeek-JS) | [@NotIvny](https://github.com/NotIvny) | [查看源码](https://raw.githubusercontent.com/NotIvny/Yunzai-DeepSeek-JS/refs/heads/main/deepseek.js) | 提供DeepSeek v3/R1 AI聊天，支持多轮对话、获取聊天记录、at群友、自定义提示词 |
 | [mc正版用户名验证进群](https://github.com/Dnyo666/Qxml-Yunzai-js?tab=readme-ov-file#mc%E6%AD%A3%E7%89%88%E7%94%A8%E6%88%B7%E5%90%8D%E9%AA%8C%E8%AF%81%E8%BF%9B%E7%BE%A4.js) | [@浅巷墨黎](https://github.com/Dnyo666) | [查看源码](https://github.com/Dnyo666/Qxml-Yunzai-js/raw/refs/heads/main/js/mc%E6%AD%A3%E7%89%88%E7%94%A8%E6%88%B7%E5%90%8D%E9%AA%8C%E8%AF%81%E8%BF%9B%E7%BE%A4.js) |通过填写Minecraft用户名进行判断并自动通过正版 |
