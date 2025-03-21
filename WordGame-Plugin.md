@@ -10,7 +10,6 @@
 | [群友市场(魔改版)](https://gitee.com/nanxu2019/Slave-Market) | [@nanxu2019](https://gitee.com/nanxu2019) | 相较于Tloml-Starry的原版，增加了贷、还款功能，并计算了利息，用黑奴打工的钱买更多的黑奴，他不香吗？更多功能待续。。。 |
 | [面包商店(Bread-Shop)](https://gitee.com/Tloml-Starry/Bread-Shop) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | 由[nonebot-plugin-bread-shop](https://github.com/Mai-icy/nonebot-plugin-bread-shop)修改制作的Yunzai特供版本，面包小游戏，用户可以通过“买”，“吃”，“抢”，“送”，”猜拳“操作来获取面包和使用面包。一起来买面包吧！本插件不适宜用于群人员较多的群，经过测试，本功能具有极大上瘾性(比如修仙)，容易造成bot刷屏，影响正常聊天！建议建立专门的Bot游戏游玩群 |
 | [种田模拟器(Farming-Simulator)](https://gitee.com/Tloml-Starry/Farming-Simulator) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | 俺是农村来滴，嫩城里人不会欺负农村人吧 |
-| [希腊奶(Shiranai-Plugin)](https://github.com/XasYer/Shiranai-Plugin) | [@小叶](https://github.com/XasYer) | 提供几个小游戏 |
 | [曲奇点点乐(Cookie-plugin)](https://gitee.com/Tloml-Starry/Cookie-plugin) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | 灵感来源Steam游戏[Cookie Clicker](https://store.steampowered.com/app/1454400/Cookie_Clicker/)功能正在逐步完善 |
 | [征途插件 (Tkdream-1.2)](https://gitee.com/AAmiaom/Tkdream-1.2) | [@喵](https://gitee.com/AAmiaom) | 三国类文字游戏 |
 | [文游(Tsai-Plugin)](https://gitee.com/TsaiXingyu/Tsai-Plugin) | [@古手梨花](https://gitee.com/TsaiXingyu) | 目前测试，有不少bug|
