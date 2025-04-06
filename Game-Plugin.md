@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [PUBG战绩查询插件（PUBG_Plugin）](https://github.com/A1Panda/PUBG_Plugin)| [@A1Panda](https://github.com/A1Panda) | 一个用于PUBG查询战绩KD历史比赛记录的插件|
 | [Maimai查分器（maimai-plugin）](https://github.com/A1Panda/maimai-plugin)| [@A1Panda](https://github.com/A1Panda) | 一个基于落雪DX查分器，支持查询玩家信息、好友码绑定、查询50首歌曲、查询50首歌曲的DX Rating|
 | [MC工具箱插件（mctool-plugin）](https://github.com/Dnyo666/mctool-plugin)| [@浅巷墨黎](https://github.com/Dnyo666) | 一个Minecraft 服务器管理插件，支持服务器状态查询推送、玩家状态推送、玩家绑定、进群验证等功能。|
 | [星铁插件（StarRail-plugin）](https://gitee.com/hewang1an/StarRail-plugin)| [@鹤望兰](https://gitee.com/hewang1an) | 一个提供了崩坏星穹铁道部分查询功能的插件，如#星铁卡片 #星铁体力 #星铁收入 等|
