@@ -5,13 +5,13 @@
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | -- | -- | -- |
-| [云崽安装图文教程|(https://gitee.com/lzqmql/bxianx-yunzai-teaching)|[@岩王帝君](https://gitee.com/fdvhsvg)[@不羡仙](https://gitee.com/bxianx)|应该算比较详细的教程了吧|
+| [云崽安装图文教程](https://gitee.com/lzqmql/bxianx-yunzai-teaching)|[@岩王帝君](https://gitee.com/fdvhsvg) [@不羡仙](https://gitee.com/bxianx)|应该算比较详细的教程了吧|
 | [优质 喵喵原神星铁角色面板图](https://gitee.com/herijian/characterpic)| [@何日见](https://gitee.com/herijian) | 很优质的角色面板图 |
 | [云崽小破站](https://yunzaibot.cn) | [@岩王帝君](https://gitee.com/fdvhsvg) | Windows云崽启动器，环境包下载，插件索引等内容的聚合站 |
 | [喵喵插件帮助的皮肤包](https://gitee.com/herijian/miaopifu) | [@何日见](https://gitee.com/herijian) | 喵喵插件(miao-plugin)帮助列表的皮肤包 |
 | [云崽的图文搭建教程](https://xn--h5q74xcj0bhth.icu/) | [@重装小兔](https://gitee.com/OvertimeBunny) | 这都看不懂那只能紫砂了 |
 | [pixiv令牌获取](https://gitee.com/OvertimeBunny/pixiv-token) | [@重装小兔](https://gitee.com/OvertimeBunny) | 获取pixiv令牌，搭配椰奶插件使用 |
-| [云崽搭建最全教程](https://gitee.com/fenglinit/Yunzai-Bot-guide) | [@祈杰](https://gitee.com/tangqijie)<br>[@枫林](https://gitee.com/fenglinit)| 十分非常详细的为各位小白讲解从0到1搭建云崽教程 |
+| [云崽搭建最全教程](https://gitee.com/fenglinit/Yunzai-Bot-guide) | [@祈杰](https://gitee.com/tangqijie) [@枫林](https://gitee.com/fenglinit)| 十分非常详细的为各位小白讲解从0到1搭建云崽教程 |
 | [原神/星铁角色面板图库](https://github.com/GuGuNiu/Miao-Plugin-MBT) | [@咕咕牛](https://github.com/GuGuNiu) | 喵喵插件的角色面板图库 |
 | [星穹铁道攻略图](https://gitee.com/HanaHimeUnica/sr-strategy)| [@小花花花儿](https://gitee.com/little-flower-flower) | 星穹铁道攻略图库 |
 | [米游社云崽部署教程](https://gitee.com/Nahida233/mysVilla-setting) | [@纳西妲](https://gitee.com/Nahida233) | 在米游社也能拥有属于自己的云崽了！！！ |

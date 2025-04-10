@@ -20,11 +20,11 @@
 
 <details><summary>点击此处展开/收起</summary>
 
-| 名称 | 作者 | GitHub | Gitee | 备注  | 推荐使用优先级 |
+| 名称 | 作者 | GitHub | Gitee | 备注 | 推荐使用优先级 |
 |------| ---- | ------ | ----- | ----- | ----- |
 | Yunzai-Bot 索引库 | [@渔火Arcadia](https://gitee.com/yhArcadia) | [☞GitHub](https://github.com/yhArcadia/Yunzai-Bot-plugins-index) | [☞Gitee](https://gitee.com/yhArcadia/Yunzai-Bot-plugins-index) | 云崽相关内容索引库 | 就是本库啦！ |
 | TRSS-Yunzai | [@时雨🌌星空](../../../../TimeRainStarSky) | [☞GitHub](https://github.com/TimeRainStarSky/Yunzai) | [☞Gitee](https://gitee.com/TimeRainStarSky/Yunzai) | Yunzai 应用端，支持多账号，支持协议端：go-cqhttp、ComWeChat、GSUIDCore、ICQQ、QQBot、QQ频道、微信、KOOK、Telegram、Discord、OPQBot | ■■■■■ |
-| Miao-Yunzai | [@喵喵](https://gitee.com/yoimiya-kokomi) | [☞GitHub](https://github.com/yoimiya-kokomi/Miao-Yunzai) | [☞Gitee](https://gitee.com/yoimiya-kokomi/Miao-Yunzai) | 喵版 Yunzai | ■■■■□ |
+| Miao-Yunzai | [@喵喵](https://github.com/yoimiya-kokomi) | [☞GitHub](https://github.com/yoimiya-kokomi/Miao-Yunzai) | [☞Gitee](https://gitee.com/yoimiya-kokomi/Miao-Yunzai) | 喵版 Yunzai | ■■■■□ |
 | YunzaiJS | [@yunzaijs](https://github.com/yunzaijs/) | [☞GitHub](https://github.com/yunzaijs/bot) |  | 支持TypeScript、具备插件npm模块化、同时实现向下兼容和向上扩展的机器人开发框架。 [☞点击阅读文档了解更多](https://yunzaijs.com/docs/) [文档镜像](https://yunzaijs.github.io/docs/)| ■■■■□ |
 | Yunzai-Bot | [@喵喵](https://gitee.com/yoimiya-kokomi) | [☞GitHub](https://github.com/yoimiya-kokomi/Yunzai-Bot) | [☞Gitee](https://gitee.com/yoimiya-kokomi/Yunzai-Bot) | 喵喵维护版 Yunzai | ■■□□□ |
 | Yunzai-Bot | [@Le-niao](https://gitee.com/Le-niao) | [☞GitHub](https://github.com/Le-niao/Yunzai-Bot) | [☞Gitee](https://gitee.com/Le-niao/Yunzai-Bot) | 原版 Yunzai | ■□□□□ |
@@ -40,11 +40,11 @@
 
 <!-- [GUOBA:TOP:BEGIN] 锅巴插件访问标记，请勿移动 -->
 
-| 名称  |  作者  | 备注  |
-|-------| ----- |------ |
-| [喵喵插件 (miao-plugin)](https://gitee.com/yoimiya-kokomi/miao-plugin) | [@喵喵](https://gitee.com/yoimiya-kokomi)| Miao-Plugin是一个Yunzai-Bot的升级插件，提供包括角色面板查询等升级功能 |
+| 名称 | 作者 | 备注 |
+|------| ---- | ------ |
+| [喵喵插件 (miao-plugin)](https://github.com/yoimiya-kokomi/miao-plugin) | [@喵喵](https://gitee.com/yoimiya-kokomi)| Miao-Plugin是一个Yunzai-Bot的升级插件，提供包括角色面板查询等升级功能 |
 | [梁氏伤害计算 (liangshi-calc)](https://gitee.com/liangshi233/liangshi-calc) | [@梁氏](https://gitee.com/liangshi233)| 为喵喵插件面板提供更丰富的伤害计算，以及极限面板，试用面板等... |
-| [图鉴 (Atlas)](https://github.com/Nwflower/atlas) | [@听语惊花](https://github.com/Nwflower/) | 支持原神和崩坏：星穹铁道的新一代图鉴插件 |
+| [图鉴 (Atlas)](https://github.com/Nwflower/atlas) | [@听语惊花](https://github.com/Nwflower/) | 支持原神、崩坏：星穹铁道和绝区零的新一代图鉴插件 |
 | [锅巴插件 (guoba-plugin)](https://gitee.com/guoba-yunzai/guoba-plugin) | [@zolay-poi](https://github.com/zolay-poi) | V3主要提供云崽的网页端后台管理界面功能；V2提供丝滑迁移V3功能。 |
 | [戏天插件 (xitian-plugin)](https://gitee.com/XiTianGame/xitian-plugin) | [@戏天](https://github.com/XiTianGame) | 提供js类插件管理功能 |
 
