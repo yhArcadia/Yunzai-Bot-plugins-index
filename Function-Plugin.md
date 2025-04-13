@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [Chat-plugin](https://gitee.com/HDTianRu/Chat-plugin) | [@天如](https://gitee.com/HDTianRu) | 一款使用OpenAI接口的AI伪人聊天插件，功能配置简洁 |
 | [Napcat管理插件 (Napcat_Plugin)](https://github.com/A1Panda/Napcat_Plugin) | [@A1_Panda](https://github.com/A1Panda) | 支持通过ssh远程管理Napcat |
 | [TJ插件 (Yunzai-TomyJan-Plugin)](https://github.com/TomyJan/Yunzai-TomyJan-Plugin) | [@TomyJan](https://github.com/TomyJan) | 目前仅有禁漫天堂下载功能 |
 | [B站插件 (Bili-Plugin)](https://github.com/miltrbefr/Bili-Plugin) | [@NenNen_CN](https://gitee.com/nennen-cn) | 支持B站账号管理/签到/直播监听/QQBot等功能 |
