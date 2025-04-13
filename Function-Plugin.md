@@ -7,7 +7,7 @@
 |-------| ----- |------ |
 | [Napcat管理插件 (Napcat_Plugin)](https://github.com/A1Panda/Napcat_Plugin) | [@A1_Panda](https://github.com/A1Panda) | 支持通过ssh远程管理Napcat |
 | [TJ插件 (Yunzai-TomyJan-Plugin)](https://github.com/TomyJan/Yunzai-TomyJan-Plugin) | [@TomyJan](https://github.com/TomyJan) | 目前仅有禁漫天堂下载功能 |
-| [B站插件 (Bili-Plugin)](https://gitee.com/nennen-cn/Bili-Plugin) | [@NenNen_CN](https://gitee.com/nennen-cn) | 支持B站账号管理/签到/直播监听/QQBot等功能 |
+| [B站插件 (Bili-Plugin)](https://github.com/miltrbefr/Bili-Plugin) | [@NenNen_CN](https://gitee.com/nennen-cn) | 支持B站账号管理/签到/直播监听/QQBot等功能 |
 | [清语表情插件 (meme-plugin)](https://github.com/ClarityJS/meme-plugin) | [@ClarityJS](https://github.com/ClarityJS) | 清语表情， 一个Yunzai-Bot V3插件,表情包合成 |
 | [综合插件 (juhkff-plugin)](https://github.com/juhkff/juhkff-plugin) | [@扎克芙芙](https://github.com/juhkff) | 主动回复群聊、表情偷取、日报推送等综合功能插件 |
 | [不羡仙插件(Bxianx-plugin)](https://github.com/bxianxo/bxianx-plugin) | [@庆](https://gitee.com/bxianx) | 网络查询工具，多类API远程查询控制功能 |
