@@ -6,6 +6,7 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | ------- |
+| [deepseekAI](https://gitee.com/atri0828a/deepseekAI.js-for-yunzai) | [@陌aaa](https://gitee.com/atri0828a) | 在@枫林的deepseekAI插件的基础上增加了一些功能 |
 | [自动戳人](https://gitee.com/feixingwa/poking) | [  @飞行蛙  ](https://gitee.com/feixingwa) | [查看源码](https://gitee.com/feixingwa/poking.git) | 解放双手的戳人小玩意 |
 | [今天吃什么promax](https://gitee.com/Daroach/Yunzai-js/tree/master/) | [ @花澤立花理香菜 ](https://gitee.com/Daroach/) | [查看源码](https://gitee.com/Daroach/Yunzai-js/blob/master/%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88promax.js) | 原旧冰祈插件(Icepray-plugin)的“今天吃什么.js”小插件的升级版 |
 | [抽头衔](https://gitee.com/Daroach/Yunzai-js/tree/master/) | [ @花澤立花理香菜 ](https://gitee.com/Daroach/) | [查看源码](https://gitee.com/Daroach/Yunzai-js/blob/master/%E6%8A%BD%E5%A4%B4%E8%A1%94v1(%E8%BD%BB%E9%87%8F%E7%89%88).js) | 群友想不出要给自己设什么头衔？抽一个罢 |
