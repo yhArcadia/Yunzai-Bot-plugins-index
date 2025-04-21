@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [Xtower-Plugin](https://gitee.com/sczr/Xtower-Plugin) | [@弦塔](https://gitee.com/sczr) | 零碎的JS功能实现，目前包括：随机歌词，聪明Bingo |
 | [Chat-plugin](https://gitee.com/HDTianRu/Chat-plugin) | [@天如](https://gitee.com/HDTianRu) | 一款使用OpenAI接口的AI伪人聊天插件，功能配置简洁 |
 | [Napcat管理插件 (Napcat_Plugin)](https://github.com/A1Panda/Napcat_Plugin) | [@A1_Panda](https://github.com/A1Panda) | 支持通过ssh远程管理Napcat |
 | [TJ插件 (Yunzai-TomyJan-Plugin)](https://github.com/TomyJan/Yunzai-TomyJan-Plugin) | [@TomyJan](https://github.com/TomyJan) | 目前仅有禁漫天堂下载功能 |

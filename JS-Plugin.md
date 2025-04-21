@@ -17,7 +17,7 @@
 | [网页截图工具](https://gitee.com/a1_panda/Yunzai-Bot-plugins) | [@A1_Panda](https://gitee.com/a1_panda) | [查看源码](https://gitee.com/a1_panda/Yunzai-Bot-plugins/raw/main/%E7%BD%91%E9%A1%B5%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7V1.0.js) | 发送链接自动返回截图 |
 | [反馈](https://gitee.com/tttfff/QingYing-Plugins) | [@QingYing](https://gitee.com/tttfff) | [查看源码](https://gitee.com/tttfff/QingYing-Plugins/raw/master/Feedback.js) | 更好的反馈插件 |
 | [sleepy-for-yunzai](https://gitee.com/WindDrift/sleepy-for-yunzai) | [@WindDrift](https://gitee.com/WindDrift) | [查看源码](https://gitee.com/WindDrift/sleepy-for-yunzai/blob/master/sleepy-for-yunzai.js) | 看看你的主人活着 or 似了 |
-| [随机课题](https://github.com/Sczr0/PhiPluginAdv) | [@Sczr0](https://github.com/Sczr0) | [查看源码](https://github.com/Sczr0/PhiPluginAdv/blob/main/%E9%9A%8F%E6%9C%BA%E8%AF%BE%E9%A2%98.js) | 用于抽取Phigros随机课题的文字版插件 |
+| [随机课题](https://gitee.com/sczr/PhiPluginAdv#%E9%9A%8F%E6%9C%BA%E8%AF%BE%E9%A2%98) | [@弦塔](https://gitee.com/sczr) | [查看源码](https://gitee.com/sczr/PhiPluginAdv/raw/main/%E9%9A%8F%E6%9C%BA%E8%AF%BE%E9%A2%98.js) | 用于抽取Phigros随机课题的文字版插件 |
 | [siliconflow-deepseek](https://gitee.com/jinseaaahh/siliconflow-deepseek) | [@锦瑟](https://gitee.com/jinseaaahh) | [查看源码](https://gitee.com/jinseaaahh/siliconflow-deepseek/blob/master/siliconflow-deepseek.js) | 对接siliconflow提供的api使用deepseek的js插件，是deepseek官网无法使用时的替代品 |
 | [随机歌词](https://github.com/Sczr0/RandomLyrics/) | [@Sczr0](https://github.com/Sczr0) | [查看源码](https://github.com/Sczr0/RandomLyrics/blob/main/lyrics.js) | 随机歌词抽取实现 |
 | [deepseekAI](https://gitee.com/fenglinit/yunzai-deepseekAI/) | [@枫林](https://gitee.com/fenglinit) | [查看源码](https://gitee.com/fenglinit/yunzai-deepseekAI/blob/master/deepseekAI.js) | 对接deepseek的api实现ai功能 |
