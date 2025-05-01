@@ -42,7 +42,7 @@
 
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
-| [喵喵插件 (miao-plugin)](https://gitee.com/yoimiya-kokomi/miao-plugin) | [@喵喵](https://gitee.com/yoimiya-kokomi)| Miao-Plugin是一个Yunzai-Bot的升级插件，提供包括角色面板查询等升级功能 |
+| [喵喵插件 (miao-plugin)](https://github.com/yoimiya-kokomi/miao-plugin) | [@喵喵](https://gitee.com/yoimiya-kokomi)| Miao-Plugin是一个Yunzai-Bot的升级插件，提供包括角色面板查询等升级功能 |
 | [梁氏伤害计算 (liangshi-calc)](https://gitee.com/liangshi233/liangshi-calc) | [@梁氏](https://gitee.com/liangshi233)| 为喵喵插件面板提供更丰富的伤害计算，以及极限面板，试用面板等... |
 | [图鉴 (Atlas)](https://github.com/Nwflower/atlas) | [@听语惊花](https://github.com/Nwflower/) | 支持原神和崩坏：星穹铁道的新一代图鉴插件 |
 | [锅巴插件 (guoba-plugin)](https://gitee.com/guoba-yunzai/guoba-plugin) | [@zolay-poi](https://github.com/zolay-poi) | V3主要提供云崽的网页端后台管理界面功能；V2提供丝滑迁移V3功能。 |
