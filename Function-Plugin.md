@@ -6,7 +6,7 @@
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
 | [NapCat-Adapter](https://gitee.com/qiannqq/napcat-adapter) | [@千奈千祁](https://gitee.com/qiannqq) | 兼容Miapo-Yunzai的NapCat.OneBot适配器 |
-| [Xingluo-Plugin](https://gitee.com/yll14/xingluo-plugin) | [@洛洛](https：//gitee.com/yll14) | luoluo-plugin的重构版[更新](https://kuluo.xyz/docs/xingluo)[日志](https://kuluo.xyz/)|
+| [Xingluo-Plugin](https://gitee.com/yll14/xingluo-plugin) | [@洛洛](https：//gitee.com/yll14) | luoluo-plugin的重构版[更新](https://blog.yll14.cn/docs/xingluo)[日志](https://blog.yll14.cn/)|
 | [GroupEntry_Plugin](https://github.com/A1Panda/GroupEntry_Plugin) | [@A1_Panda](https://github.com/A1Panda) | 一款强大的群管理插件持续更新中。。。 |
 | [Xtower-Plugin](https://gitee.com/sczr/Xtower-Plugin) | [@弦塔](https://gitee.com/sczr) | 零碎的JS功能实现，目前包括：随机歌词，聪明Bingo |
 | [Chat-plugin](https://gitee.com/HDTianRu/Chat-plugin) | [@天如](https://gitee.com/HDTianRu) | 一款使用OpenAI接口的AI伪人聊天插件，功能配置简洁 |
