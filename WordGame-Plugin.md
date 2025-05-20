@@ -13,9 +13,7 @@
 | [种田模拟器(Farming-Simulator)](https://gitee.com/Tloml-Starry/Farming-Simulator) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | 俺是农村来滴，嫩城里人不会欺负农村人吧 |
 | [曲奇点点乐(Cookie-plugin)](https://gitee.com/Tloml-Starry/Cookie-plugin) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | 灵感来源Steam游戏[Cookie Clicker](https://store.steampowered.com/app/1454400/Cookie_Clicker/)功能正在逐步完善 |
 | [征途插件 (Tkdream-1.2)](https://gitee.com/AAmiaom/Tkdream-1.2) | [@喵](https://gitee.com/AAmiaom) | 三国类文字游戏 |
-| [武者文游(wuzhe-plugin)](https://wz.mzswebs.top/) | [@名字](https://gitee.com/xyb12345678qwe) | 武者文游~，目前功能较少 |
 | [绝云间修仙V1.3.0「龙腾虎跃庆周年」(xiuxian@1.3.0)](https://gitee.com/hutao222/DDZS-XIUXIAN-V1.3.0) | [@DD斩首](https://gitee.com/hutao222) | _周年庆活动限时开启_ |
-| [三国文游(sanguo-plugin)](https://wz.mzswebs.top/) | [@名字](https://gitee.com/xyb12345678qwe) | 三国类的游戏插件 |
 | [虚空插件 (akasha-terminal-plugin)](https://gitee.com/go-farther-and-farther/akasha-terminal-plugin) | [@越追越远](https://gitee.com/go-farther-and-farther) | 提供企鹅群游戏，目前实现了群内决斗，娶群友等有趣的小游戏 |
 | [咸鱼插件 (xianyu-plugin)](https://gitee.com/suancaixianyu/xianyu-plugin) | [@酸菜咸鱼](https://gitee.com/suancaixianyu) | 一些群聊对战小游戏，没有文游的复杂体系，休闲娱乐，老少皆宜 |
 
