@@ -12,7 +12,6 @@
 | [Chat-plugin](https://gitee.com/HDTianRu/Chat-plugin) | [@天如](https://gitee.com/HDTianRu) | 一款使用OpenAI接口的AI伪人聊天插件，功能配置简洁 |
 | [Napcat管理插件 (Napcat_Plugin)](https://github.com/A1Panda/Napcat_Plugin) | [@A1_Panda](https://github.com/A1Panda) | 支持通过ssh远程管理Napcat |
 | [TJ插件 (Yunzai-TomyJan-Plugin)](https://github.com/TomyJan/Yunzai-TomyJan-Plugin) | [@TomyJan](https://github.com/TomyJan) | 目前仅有禁漫天堂下载功能 |
-| [B站插件 (Bili-Plugin)](https://github.com/miltrbefr/Bili-Plugin) | [@NenNen_CN](https://gitee.com/nennen-cn) | 支持B站账号管理/签到/直播监听/QQBot等功能 |
 | [清语表情插件 (meme-plugin)](https://github.com/ClarityJS/meme-plugin) | [@ClarityJS](https://github.com/ClarityJS) | 清语表情， 一个Yunzai-Bot V3插件,表情包合成 |
 | [综合插件 (juhkff-plugin)](https://github.com/juhkff/juhkff-plugin) | [@扎克芙芙](https://github.com/juhkff) | 主动回复群聊、表情偷取、日报推送等综合功能插件 |
 | [不羡仙插件(BXX-plugin)](https://gitcode.com/bxianx/BXX-plugin) | [@庆](https://gitee.com/bxianx) | 提供一些有的没的功能，一键跑路！ |
@@ -56,11 +55,9 @@
 | [名字插件(mz-plugin)](https://gitee.com/xyb12345678qwe/mz-plugin-alemon) | [@名字](https://gitee.com/xyb12345678qwe) | 一些丰富的小功能 |
 | [互动插件(Gi-plugin)](https://gitee.com/qiannqq/Gi-plugin) | [@千奈千祁](https://gitee.com/qiannqq) | Yunzai娱乐性扩展插件，包含漂流瓶、每日随机幸运值、模拟高考查分、群历史文献、钓鱼小游戏等娱乐功能 |
 | [重置版千羽插件(reset-qianyu-plugin)](https://gitee.com/think-first-sxs/reset-qianyu-plugin) | [@think-first-sxs](https://gitee.com/think-first-sxs)   | 对千羽插件进行重置，优化功能，一个咕咕咕插件 |
-| [饼干插件(biscuit-plugin)](https://github.com/Yummy-cookie/biscuit-plugin) |[@Yummy-cookie](https://github.com/Yummy-cookie) | 全新版本，yunzai的多功能插件 |
 | [Xs-plugin](https://gitee.com/hsxfk/Xs-plugin) | [@黄色小方块](https://gitee.com/hsxfk) | 提供动漫语音合成，王者荣耀战力查询，公共签名api以及个人api检测功能。 还有一些简单的娱乐功能 |
 | [违规图片监听插件(nsfwjs-plugin)](https://github.com/CikeyQi/nsfwjs-plugin) | [@0卡苏打水](https://github.com/CikeyQi)  [@二枣子](https://github.com/erzaozi) | 基于本地的免费违规图片监听插件，得益于NSFWJS，检测速度极快。使用TensorFlow，低配置服务器也能流畅运行 |
 | [Midjourney绘图插件(mj-plugin)](https://github.com/ap-plugin/mj-plugin) | [@0卡苏打水](https://github.com/CikeyQi)  [@二枣子](https://github.com/erzaozi) | 又一个AI绘图插件，使用 [Midjourney](https://www.midjourney.com/) 接口，实现在QQ内使用Midjourney生成图片 |
-|[小月插件 (xiaoyue-Plugin)](https://gitee.com/bule-Tech/xiaoyue-plugin) | [@bule-Tech](https://gitee.com/bule-Tech) | 由云溪院提供的最后一版小月插件，有戳一戳，抖音，blbl解析，插件及插件包安装等功能，现已无法更新 |
 |[无用插件 (Useless-Plugin)](https://gitee.com/SmallK111407/useless-plugin) | [@曉K](https://gitee.com/SmallK111407) | 提供通过云崽随机发送云崽圈子一些人不寻常、逆天、乐子、搞笑、有趣等等的发言的功能 |
 |[天如插件 (TianRu-plugin)](https://gitee.com/HDTianRu/TianRu-plugin)|[@天如](https://github.com/HDTianRu) |获取"提瓦特小助手"抽卡记录，执行各种语言代码，模拟指定QQ执行指令，生成二维码，将数字变成114514组合的恶臭数字....等各种小功能|
 | [面板插件 (panel-plugin)](https://gitee.com/yunzai-panel/README) | [@硫酸钡Barite](../../../../CUZNIL) | 对[喵喵插件](https://gitee.com/yoimiya-kokomi/miao-plugin)的面板数据提供操作：转换旧版圣遗物格式、适配[Gspanel](https://github.com/monsterxcn/nonebot-plugin-gspanel)、备份面板 |
@@ -101,5 +98,4 @@
 | [白纸插件 (zhi-plugin)](https://github.com/HeadmasterTan/zhi-plugin)    | [@HeadmasterTan](https://github.com/HeadmasterTan) | 提供B站动态推送。优化云崽的“添加”功能，可在同一触发词下添加多个回复 |
 | [成就插件 (achievements-plugin)](https://gitee.com/zolay-poi/achievements-plugin) | [@zolay-poi](https://gitee.com/zolay-poi) | 提供成就查漏、成就搜索等功能 |
 | [抽卡插件 (flower-plugin)](https://github.com/Nwflower/flower-plugin) | [@听语惊花](https://github.com/Nwflower/) | 百连、单抽、文字狱、转生、隐形拉黑等 |
-| [扩展插件 (Depot-js-plugin)](https://gitee.com/lycofuture/Depot-js-plugin) | [@Lycofuture](https://gitee.com/lycofuture) | 随心api，GTP-API，网页预览，woc 指令，风控处理 ，广播，QQ 凶吉查询 |
 <!-- 请不要在此处添加行，请在此表格顶部添加 -->
