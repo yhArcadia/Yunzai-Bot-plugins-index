@@ -8,7 +8,7 @@
 | [NapCat-Adapter](https://gitee.com/qiannqq/napcat-adapter) | [@千奈千祁](https://gitee.com/qiannqq) | 兼容Miao-Yunzai的NapCat.OneBot适配器 |
 | [Xingluo-Plugin](https://gitee.com/yll14/xingluo-plugin) | [@洛洛](https：//gitee.com/yll14) | luoluo-plugin的重构版(不想写更新日志)|
 | [GroupEntry_Plugin](https://github.com/A1Panda/GroupEntry_Plugin) | [@A1_Panda](https://github.com/A1Panda) | 一款强大的群管理插件持续更新中。。。 |
-| [Xtower-Plugin](https://gitee.com/sczr/Xtower-Plugin) | [@弦塔](https://gitee.com/sczr) | 零碎的JS功能实现，目前包括：随机歌词，聪明Bingo |
+| [Xtower-Plugin](https://gitee.com/sczr/Xtower-Plugin) | [@弦塔](https://gitee.com/sczr) | 零碎的JS功能实现，目前包括：随机歌词，聪明Bingo，以及测试中的谁是卧底与狼人杀功能等等 |
 | [Chat-plugin](https://gitee.com/HDTianRu/Chat-plugin) | [@天如](https://gitee.com/HDTianRu) | 一款使用OpenAI接口的AI伪人聊天插件，功能配置简洁 |
 | [Napcat管理插件 (Napcat_Plugin)](https://github.com/A1Panda/Napcat_Plugin) | [@A1_Panda](https://github.com/A1Panda) | 支持通过ssh远程管理Napcat |
 | [TJ插件 (Yunzai-TomyJan-Plugin)](https://github.com/TomyJan/Yunzai-TomyJan-Plugin) | [@TomyJan](https://github.com/TomyJan) | 目前仅有禁漫天堂下载功能 |
