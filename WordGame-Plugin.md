@@ -5,7 +5,6 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
-| [虚空插件trss版 (trss-akasha-terminal-plugin)](https://gitee.com/dmqaq/trss-akasha-terminal-plugin) | [@我不能倒霉](https://gitee.com/dmqaq) | 提供企鹅群游戏，目前实现了群内决斗，娶群友等有趣的小游戏（升级适配到trss） |
 | [模拟人生(sims-plugin)](https://gitcode.com/nahida22/sims-plugin) | [ @nahida ](https://gitee.com/nahida22) | 哇奥！很开心向大家介绍这款生活模拟游戏插件喔~ 这是一款为Yunzai-Bot设计的超赞生活模拟游戏插件，让你在聊天群组中体验充满惊喜和欢乐的模拟人生玩法！是不是很心动呢？无论是成为帅气的秩序维护者，还是当一名超厉害的美食大师，亦或是在游戏休闲区度过悠闲的时光，都能在这里找到属于你的梦想职业道路！让我们一起在模拟世界中创造属于自己的小确幸吧~|
 | [按钮(Button)](https://gitee.com/Tloml-Starry/Button) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | 给你一个按钮，你是按下，还是不按下（远程更新按钮，未来将增加更多按钮，可发起PR） |
 | [群友市场(Slave-Market)](https://gitee.com/Tloml-Starry/Slave-Market) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | 群友之间的增温小游戏，购买群友来替你打工，然后买下更多群友（doge |
