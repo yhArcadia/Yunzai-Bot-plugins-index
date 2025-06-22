@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [Hack-Plugin](https://github.com/admilkjs/hack-plugin) | [@Admilk](https://gitee.com/adrae) | 为TRSS-Yunzai,Miao-Yunzai提供发送`raw`消息的能力 |
 | [NapCat-Adapter](https://gitee.com/qiannqq/napcat-adapter) | [@千奈千祁](https://gitee.com/qiannqq) | 兼容Miao-Yunzai的NapCat.OneBot适配器 |
 | [Xingluo-Plugin](https://gitee.com/yll14/xingluo-plugin) | [@洛洛](https：//gitee.com/yll14) | luoluo-plugin的重构版(不想写更新日志)|
 | [GroupEntry_Plugin](https://github.com/A1Panda/GroupEntry_Plugin) | [@A1_Panda](https://github.com/A1Panda) | 一款强大的群管理插件持续更新中。。。 |
