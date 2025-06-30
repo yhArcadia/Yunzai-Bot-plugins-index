@@ -6,6 +6,7 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | ------- |
+| [AdvanceaRetreatGroup](https://gitee.com/tttfff/yunzai-bot-js-plugins) | [@QingYing](https://gitee.com/tttfff) | [查看源码](https://gitee.com/tttfff/yunzai-bot-js-plugins/raw/master/AdvanceaRetreatGroup.js) | 进退群提示小插件 |
 | [Phigros版本更新信息](https://gitee.com/pimeng/yunzai-jsplugin#phigros%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0%E4%BF%A1%E6%81%AF) | [@皮梦](https://gitee.com/pimeng) | [查看源码](https://gitee.com/pimeng/yunzai-jsplugin/raw/master/TaptapPhigrosUpdateInfo.js) |  通过抓包获取Phigros的更新日志 |
 | [deepseekAI](https://gitee.com/atri0828a/deepseekAI.js-for-yunzai) | [@陌aaa](https://gitee.com/atri0828a) | [查看源码](https://gitee.com/atri0828a/deepseekAI.js-for-yunzai/blob/master/deepseekAI.js) |  在@枫林的deepseekAI插件的基础上增加了一些功能 |
 | [自动戳人](https://gitee.com/feixingwa/poking) | [  @飞行蛙  ](https://gitee.com/feixingwa) | [查看源码](https://gitee.com/feixingwa/poking.git) | 解放双手的戳人小玩意 |
