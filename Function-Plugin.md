@@ -5,7 +5,6 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
-| [Groupmanager](https://gitee.com/gitxinos/GroupManager) | [@Xin OS](https://gitee.com/gitxinos) | 为 TRSS-Yunzai 提供群聊管理功能，支持踢人、禁言、解禁，支持主人保护与操作日志 |
 | [Hack-Plugin](https://github.com/admilkjs/hack-plugin) | [@Admilk](https://gitee.com/adrae) | 为TRSS-Yunzai,Miao-Yunzai提供发送`raw`消息的能力 |
 | [NapCat-Adapter](https://gitee.com/qiannqq/napcat-adapter) | [@千奈千祁](https://gitee.com/qiannqq) | 兼容Miao-Yunzai的NapCat.OneBot适配器 |
 | [Xingluo-Plugin](https://gitee.com/yll14/xingluo-plugin) | [@洛洛](https：//gitee.com/yll14) | luoluo-plugin的重构版(不想写更新日志)|
