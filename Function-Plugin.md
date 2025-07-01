@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [Notice-plugin](https://gitee.com/tttfff/notice-plugin) | [QingYing](https://gitee.com/tttfff) | 一款提供群发公告功能的插件 |
 | [Hack-Plugin](https://github.com/admilkjs/hack-plugin) | [@Admilk](https://gitee.com/adrae) | 为TRSS-Yunzai,Miao-Yunzai提供发送`raw`消息的能力 |
 | [NapCat-Adapter](https://gitee.com/qiannqq/napcat-adapter) | [@千奈千祁](https://gitee.com/qiannqq) | 兼容Miao-Yunzai的NapCat.OneBot适配器 |
 | [Xingluo-Plugin](https://gitee.com/yll14/xingluo-plugin) | [@洛洛](https：//gitee.com/yll14) | luoluo-plugin的重构版(不想写更新日志)|
