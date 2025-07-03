@@ -14,8 +14,7 @@
 | [Chat-plugin](https://gitee.com/HDTianRu/Chat-plugin) | [@天如](https://gitee.com/HDTianRu) | 一款使用OpenAI接口的AI伪人聊天插件，功能配置简洁 |
 | [Napcat管理插件 (Napcat_Plugin)](https://github.com/A1Panda/Napcat_Plugin) | [@A1_Panda](https://github.com/A1Panda) | 支持通过ssh远程管理Napcat |
 | [TJ插件 (Yunzai-TomyJan-Plugin)](https://github.com/TomyJan/Yunzai-TomyJan-Plugin) | [@TomyJan](https://github.com/TomyJan) | 目前仅有禁漫天堂下载功能 |
-| [清语表情插件 (meme-plugin)](https://github.com/ClarityJS/meme-plugin) | [@ClarityJS](https://github.com/ClarityJS) | 清语表情， 一个Yunzai-Bot V3插件,表情包合成 |
-| [综合插件 (juhkff-plugin)](https://gitee.com/juhkff/juhkff-plugin) | [@扎克芙芙](https://github.com/juhkff) | 主动回复群聊、表情偷取、日报推送等综合功能插件 |
+| [综合插件 (juhkff-plugin)](https://github.com/juhkff/juhkff-plugin) | [@扎克芙芙](https://github.com/juhkff) | 主动回复群聊、表情偷取、日报推送等综合功能插件 |
 | [不羡仙插件(BXX-plugin)](https://gitcode.com/bxianx/BXX-plugin) | [@庆](https://gitee.com/bxianx) | 提供一些有的没的功能，一键跑路！ |
 | [Mcsmanager管理插件(mcsmanager-plugin)](https://github.com/A1Panda/mcsmanager-plugin) | [ @A1_Panda ](https://github.com/A1Panda) | 基于 Yunzai-Bot v3 的 MCSManager 服务器管理插件，提供完整的远程控制和监控功能 |
 | [San插件(San-plugin)](https://gitee.com/San-luo/San-plugin) | [@san-luo](https://gitee.com/San-luo) | 拓展了云崽原有的表情添加功能,以及一些小功能 |
@@ -47,7 +46,6 @@
 | [在线语音合成插件(vits-plugin)](https://github.com/erzaozi/vits-plugin) | [@二枣子](https://github.com/erzaozi) [@0卡苏打水](https://github.com/CikeyQi) | 在线VITS插件，免部署，使用网络上各种各样的在线接口 |
 | [猫猫状态插件(neko-status-plugin)](https://github.com/erzaozi/neko-status-plugin) | [@二枣子](https://github.com/erzaozi) [@0卡苏打水](https://github.com/CikeyQi) | 可爱的服务器状态查看插件喵~ |
 | [群管插件（group-plugin）](https://gitee.com/clarlotte/group-plugin) | [@Clarlotte](https://gitee.com/clarlotte) | 群管插件，功能写的很杂，部分功能bug，请多多包涵 |
-| [星点签名（starlight-qsign）](https://github.com/wuliya336/starlight-qsign) | [@wuliya336](https://github.com/wuliya336) | 向机器发送信息可自动获取可用的免费签名 |
 | [鸢尾花插件(logier-plugin)](https://gitee.com/logier/logier-plugins) | [@logier](https://gitee.com/logier) | 表情包仓库、运势算卦、AI塔罗牌、资讯推送 |
 | [GPTI插件(gpti-plugin)](https://github.com/CikeyQi/gpti-plugin) | [@0卡苏打水](https://github.com/CikeyQi) | 一个GPT插件，简化了GPT模型的交互，无需令牌来访问GPT |
 | [米家插件(mijia-plugin)](https://github.com/CikeyQi/mijia-plugin) | [@0卡苏打水](https://github.com/CikeyQi) | 米家插件，在任何地方控制家中米家生态设备 |
