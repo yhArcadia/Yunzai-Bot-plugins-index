@@ -15,7 +15,7 @@
 | [Napcat管理插件 (Napcat_Plugin)](https://github.com/A1Panda/Napcat_Plugin) | [@A1_Panda](https://github.com/A1Panda) | 支持通过ssh远程管理Napcat |
 | [TJ插件 (Yunzai-TomyJan-Plugin)](https://github.com/TomyJan/Yunzai-TomyJan-Plugin) | [@TomyJan](https://github.com/TomyJan) | 目前仅有禁漫天堂下载功能 |
 | [综合插件 (juhkff-plugin)](https://github.com/juhkff/juhkff-plugin) | [@扎克芙芙](https://github.com/juhkff) | 主动回复群聊、表情偷取、日报推送等综合功能插件 |
-| [不羡仙插件(BXX-plugin)](https://gitcode.com/bxianx/BXX-plugin) | [@庆](https://gitee.com/bxianx) | 提供一些有的没的功能，一键跑路！ |
+| [不羡仙插件 (BXX-plugin)](https://gitee.com/bxxov/BXX-plugin) | [@不羡仙](https://gitee.com/bxxov) | 提供站长功能,和部分解析娱乐实用API功能 |
 | [Mcsmanager管理插件(mcsmanager-plugin)](https://github.com/A1Panda/mcsmanager-plugin) | [ @A1_Panda ](https://github.com/A1Panda) | 基于 Yunzai-Bot v3 的 MCSManager 服务器管理插件，提供完整的远程控制和监控功能 |
 | [San插件(San-plugin)](https://gitee.com/San-luo/San-plugin) | [@san-luo](https://gitee.com/San-luo) | 拓展了云崽原有的表情添加功能,以及一些小功能 |
 | [MEMZ插件(memz-plugin)](https://github.com/MEMLTS/memz-plugin) | [@memzjs](https://github.com/MEMLTS) | 提供了一些web工具等 |
