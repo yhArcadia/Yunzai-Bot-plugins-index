@@ -6,6 +6,7 @@
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
 | [⭐][TRSS Yunzai 管理脚本](https://TRSS.me) | [@时雨🌌星空](../../../../TimeRainStarSky) | 【置顶】提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Windows / Linux / Mac / Android |
+| [EquipScore_split](https://gitee.com/tttfff/yunzai-bot-js-plugins) | [@QingYing](https://gitee.com/tttfff) | 用于zzz词条权重自定义 |
 | [喵喵角色资源更新](https://gitee.com/Gaias/miao-python) | [@Gaias](https://gitee.com/Gaias) | 用于更新miao-plugin角色资源的一键脚本，喵喵仓库更新后建议使用源库数据) |
 |[TRSS-Yunzai最小安装脚本](https://gitee.com/Vremq_vperyod/yunzai-install-script)|[Vremq_vperyod](https://gitee.com/Vremq_vperyod)|使用systemd-nspawn和alpine linux的Yunzai安装脚本，完美解决docker连不上和占用大的问题|
 | [Pixiv令牌自动获取](https://gitee.com/OvertimeBunny/pixiv-token) | [重装小兔](https://gitee.com/OvertimeBunny) | 方便椰奶插件使用而写的脚本 |
