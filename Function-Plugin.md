@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [cyxz-Plugin](https://github.com/xiaotian2333/cyxz-plugin) | [xiaotian2333](https://github.com/xiaotian2333) | 抓取次元小镇的各类图片的插件 |
 | [戳戳榜插件 (Poke-plugin)](https://gitee.com/tttfff/poke-plugin) | [@QingYing](https://gitee.com/tttfff) | 一款提供统计戳一戳的插件 |
 | [GamePush-plugin](https://github.com/rainbowwarmth/GamePush-Plugin) | [rainbowwarmth](https://gitee.com/rainbowwarmth) | 实时监控游戏版本更新，用于检测原神、星铁、绝区零、崩坏3、鸣潮游戏版本更新状态的插件 |
 | [公告插件 (Notice-plugin)](https://gitee.com/tttfff/notice-plugin) | [@QingYing](https://gitee.com/tttfff) | 一款提供群发公告功能的插件 |
