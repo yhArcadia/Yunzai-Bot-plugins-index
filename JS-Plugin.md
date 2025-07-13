@@ -6,6 +6,7 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | ------- |
+| [原神 & 星铁抽卡期望计算](https://gitee.com/sczr/mihoyo-gacha-calculator) | [@Sczr0](https://gitee.com/sczr) | [查看源码](https://gitee.com/sczr/mihoyo-gacha-calculator/raw/main/test2.js) | 计算《原神》和《崩坏：星穹铁道》抽卡期望与概率分布，适配了新版本的捕获明光和命定值减一。 |
 | [GroupManager](https://gitee.com/gitxinos/GroupManager) | [@Xin OS](https://gitee.com/gitxinos) | [查看源码](https://gitee.com/gitxinos/GroupManager/raw/master/GroupManager.js) | 为 TRSS-Yunzai 提供群聊管理功能，支持踢人、禁言、解禁，支持主人保护与操作日志 |
 | [AdvanceaRetreatGroup](https://gitee.com/tttfff/yunzai-bot-js-plugins) | [@QingYing](https://gitee.com/tttfff) | [查看源码](https://gitee.com/tttfff/yunzai-bot-js-plugins/raw/master/AdvanceaRetreatGroup.js) | 进退群提示小插件 |
 | [Phigros版本更新信息](https://gitee.com/pimeng/yunzai-jsplugin#phigros%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0%E4%BF%A1%E6%81%AF) | [@皮梦](https://gitee.com/pimeng) | [查看源码](https://gitee.com/pimeng/yunzai-jsplugin/raw/master/TaptapPhigrosUpdateInfo.js) |  通过抓包获取Phigros的更新日志 |
