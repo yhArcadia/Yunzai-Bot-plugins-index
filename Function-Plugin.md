@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [dg-lab-russian-roulette-plugin](https://github.com/admilkjs/dg-lab-russian-roulette-plugin/) | [@Admilk](https://github.com/admilkk) | 提供郊狼论盘渎的功能,中枪后被电击 |
 | [Lotus-Plugin](https://github.com/SummerLotus520/Lotus-Plugin/) | [@SummerLotus520](https://github.com/SummerLotus520/) | 提供一些便携功能，例如全部体力及米游社游戏&社区自动签到，感谢[@Womsxd](https://github.com/Womsxd/)的[MihoyoBBSTools](https://github.com/Womsxd/MihoyoBBSTools/)项目提供技术支持 |
 | [cyxz-Plugin](https://github.com/xiaotian2333/cyxz-plugin) | [xiaotian2333](https://github.com/xiaotian2333) | 抓取次元小镇的各类图片的插件 |
 | [戳戳榜插件 (Poke-plugin)](https://gitee.com/tttfff/poke-plugin) | [@QingYing](https://gitee.com/tttfff) | 一款提供统计戳一戳的插件 |
