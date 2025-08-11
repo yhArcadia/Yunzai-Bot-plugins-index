@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [三角洲行动插件（delta-force-plugin）](https://github.com/Dnyo666/delta-force-plugin)| [@Dnyo666](https://github.com/Dnyo666/) | 提供登陆绑定、信息战绩周报日报查询、物品价格信息等查询、密码和特勤处推送等推送的多功能插件 |
 | [蓝色星原旅谣插件（yoyo-plugin）](https://gitee.com/ZyeAlex/yoyo-plugin)| [@ZyeAlex](https://github.com/ZyeAlex) | 提供蓝色星原旅谣信息查询、Wiki查询、日常娱乐功能插件 |
 | [PUBG战绩查询插件（PUBG_Plugin）](https://github.com/A1Panda/PUBG_Plugin)| [@A1Panda](https://github.com/A1Panda) | 一个用于PUBG查询战绩KD历史比赛记录的插件|
 | [Maimai查分器（maimai-plugin）](https://github.com/A1Panda/maimai-plugin)| [@A1Panda](https://github.com/A1Panda) | 一个基于落雪DX查分器，支持查询玩家信息、好友码绑定、查询50首歌曲、查询50首歌曲的DX Rating|
