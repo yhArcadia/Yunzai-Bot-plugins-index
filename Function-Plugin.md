@@ -27,7 +27,7 @@
 | [Pixiv插件(pixiv-plugin)](https://github.com/admilkjs/pixiv-plugin) | [@Admilk](https://gitee.com/adrae) | pixiv解析,禁漫天堂下载功能 |
 | [Ad插件(ad-plugin)](https://gitee.com/adrae/ad-plugin) | [@Admilk](https://gitee.com/adrae) | 实用功能 |
 | [steam插件 (steam-plugin)](https://github.com/XasYer/steam-plugin) | [@小叶](https://github.com/XasYer) | 提供steam相关功能, 如好友状态播报 查看库存 愿望单 搜索 等 |
-| [SF-插件 (siliconflow-plugin)](https://github.com/AIGC-Yunzai/siliconflow-plugin) | [@Misaka20002](https://github.com/Misaka20002) [@syfantasy](https://github.com/syfantasy) [@eggacheb](https://github.com/eggacheb) | 基于 Yunzai 的 AIGC 插件，可免费使用 FLUX、SD、MJ 等绘图、LLM 推理、Vits语音合成等。|
+| [SF-插件 (siliconflow-plugin)](https://github.com/AIGC-Yunzai/siliconflow-plugin) | [@Misaka20002](https://github.com/Misaka20002) [@syfantasy](https://github.com/syfantasy) [@eggacheb](https://github.com/eggacheb) | 基于 Yunzai 的 AIGC 插件，可免费使用 FLUX、SD、MJ 等绘图、LLM 推理、Vits语音合成、抖音 b站视频解析等。|
 | [小叶面板 (YePanel)](https://github.com/XasYer/YePanel) | [@小叶](https://github.com/XasYer) | 提供web管理面板 |
 | [鹿管插件 (yunzai-plugin-deer-pipe)](https://gitee.com/kyrzy0416/yunzai-plugin-deer-pipe) | [@zhiyu](https://gitee.com/kyrzy0416) | 一个鹿管签到小插件，纯净、轻量、有且仅有一个每月鹿管签到功能 |
 | [文本语音合成(yunzai-fish-speech-plugin)](https://github.com/oldcitynight/yunzai-fish-speech-plugin) | [@oldcitynight](https://github.com/oldcitynight) [@fishaudio](https://github.com/fishaudio) | 本地或远程文本语音合成，支持从任意音源即时学习并推理合成语音，目前处于早期开发阶段。<br> **注意：因 Gitee Reward 无法关闭，本项目无 Gitee 镜像。此外使用前请详细阅读 README 中的声明部分。** |
