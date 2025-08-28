@@ -6,6 +6,7 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | ------- |
+| [手办化](https://github.com/xiaotian2333/yunzai-plugins-Single-file?tab=readme-ov-file#%E6%89%8B%E5%8A%9E%E5%8C%96) | [@小天](https://github.com/xiaotian2333) | [查看源码](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E6%89%8B%E5%8A%9E%E5%8C%96.js) | 通过智谱大模型将图片转换为手办化的图片（仓库内还有其他更多插件） |
 | [三角洲每日密码](https://github.com/xiaotian2333/yunzai-plugins-Single-file?tab=readme-ov-file#%E4%B8%89%E8%A7%92%E6%B4%B2%E6%AF%8F%E6%97%A5%E5%AF%86%E7%A0%81) | [@小天](https://github.com/xiaotian2333) | [查看源码](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E4%B8%89%E8%A7%92%E6%B4%B2%E6%AF%8F%E6%97%A5%E5%AF%86%E7%A0%81.js) | 获取三角洲密码门每日密码（仓库内还有其他更多插件） |
 | [进群语音欢迎](https://gitee.com/z3198550236/yunzai-speech-synthesis) | [ @jujiang ](https://gitee.com/z3198550236) | [查看源码](https://gitee.com/z3198550236/yunzai-speech-synthesis/raw/master/%E5%96%B5%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90.js) | 使用api进行语音合成 |
 | [语音合成](https://gitee.com/z3198550236/yunzai-speech-synthesis) | [ @jujiang ](https://gitee.com/z3198550236) | [查看源码](https://gitee.com/z3198550236/yunzai-speech-synthesis/raw/master/%E5%96%B5%E8%AF%AD%E8%BF%9B%E7%BE%A4%E9%80%9A%E7%9F%A5%E8%AF%AD%E9%9F%B3.js) | 使用api进行语音合成实现进群语音欢迎 |
