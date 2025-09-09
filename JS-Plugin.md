@@ -6,7 +6,7 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | ------- |
-| [定时闹钟](https://gitee.com/aozorayui/Timed-alarm-clock/tree/master) | [@青空由依](https://gitee.com/aozorayui) | [Github](https://github.com/Yuki-01/Timed-alarm-clock/blob/main/Timed-alarm-clock.js)&[Gitee](https://gitee.com/aozorayui/Timed-alarm-clock/blob/master/Timed-alarm-clock.js) | 一个定时闹钟插件，可以指定时间指定对象到点艾特提醒 |
+| [定时闹钟](https://gitee.com/aozorayui/Timed-alarm-clock/tree/master) | [@青空由依](https://gitee.com/aozorayui) | [Github](https://github.com/AozoraYui/Timed-alarm-clock/blob/main/Timed-alarm-clock.js)&[Gitee](https://gitee.com/aozorayui/Timed-alarm-clock/blob/master/Timed-alarm-clock.js) | 一个定时闹钟插件，可以指定时间指定对象到点艾特提醒 |
 | [yunzai系统窗口和状态检测](https://gitee.com/wind-trace-typ/sys_status/tree/master) | [@风之迹](https://gitee.com/wind-trace-typ) | [查看源码](https://gitee.com/wind-trace-typ/sys_status/blob/master/%E7%B3%BB%E7%BB%9F%E7%8A%B6%E6%80%81%E6%A3%80%E6%B5%8B.js) | 可通过yunzai端的公网ip进行连接发送本地系统状态还有当前应用程序和应用标题 |
 | [手办化](https://github.com/xiaotian2333/yunzai-plugins-Single-file?tab=readme-ov-file#%E6%89%8B%E5%8A%9E%E5%8C%96) | [@小天](https://github.com/xiaotian2333) | [查看源码](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E6%89%8B%E5%8A%9E%E5%8C%96.js) | 通过智谱大模型将图片转换为手办化的图片（仓库内还有其他更多插件） |
 | [三角洲每日密码](https://github.com/xiaotian2333/yunzai-plugins-Single-file?tab=readme-ov-file#%E4%B8%89%E8%A7%92%E6%B4%B2%E6%AF%8F%E6%97%A5%E5%AF%86%E7%A0%81) | [@小天](https://github.com/xiaotian2333) | [查看源码](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E4%B8%89%E8%A7%92%E6%B4%B2%E6%AF%8F%E6%97%A5%E5%AF%86%E7%A0%81.js) | 获取三角洲密码门每日密码（仓库内还有其他更多插件） |
