@@ -15,7 +15,7 @@
 | [公告插件 (Notice-plugin)](https://gitee.com/tttfff/notice-plugin) | [@QingYing](https://gitee.com/tttfff) | 一款提供群发公告功能的插件 |
 | [Hack-Plugin](https://github.com/admilkjs/hack-plugin) | [@Admilk](https://gitee.com/adrae) | 为TRSS-Yunzai,Miao-Yunzai提供发送`raw`消息的能力 |
 | [NapCat-Adapter](https://gitee.com/qiannqq/napcat-adapter) | [@千奈千祁](https://gitee.com/qiannqq) | 兼容Miao-Yunzai的NapCat.OneBot适配器 |
-| [Xingluo-Plugin](https://gitee.com/yll14/xingluo-plugin) | [@洛洛](https：//gitee.com/yll14) | luoluo-plugin的重构版(不想写更新日志)|
+| [Xingluo-Plugin](https://gitee.com/yhArcadia/Yunzai-Bot-plugins-index) | [@洛洛](https：//gitee.com/yll14) | 重构中 |
 | [GroupEntry_Plugin](https://github.com/A1Panda/GroupEntry_Plugin) | [@A1_Panda](https://github.com/A1Panda) | 一款强大的群管理插件持续更新中。。。 |
 | [Xtower-Plugin](https://gitee.com/sczr/Xtower-Plugin) | [@弦塔](https://gitee.com/sczr) | 零碎的JS功能实现，目前包括：随机歌词，聪明Bingo，以及测试中的谁是卧底与狼人杀功能等等 |
 | [Chat-plugin](https://gitee.com/HDTianRu/Chat-plugin) | [@天如](https://gitee.com/HDTianRu) | 一款使用OpenAI接口的AI伪人聊天插件，功能配置简洁 |
