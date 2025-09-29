@@ -6,6 +6,8 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | ------- |
+| [鉴黄](https://gitee.com/atri0828a/Yunzai-plugins#%E9%89%B4%E9%BB%84) | [@陌aaa](https://gitee.com/atri0828a) | [查看源码](https://gitee.com/atri0828a/Yunzai-plugins/raw/master/%E9%89%B4%E9%BB%84.js) | 对一张图片的涩情程度进行判断（娱乐向） |
+| [取信息](https://gitee.com/atri0828a/Yunzai-plugins#%E5%8F%96%E4%BF%A1%E6%81%AF) | [@陌aaa](https://gitee.com/atri0828a) | [查看源码](https://gitee.com/atri0828a/Yunzai-plugins/raw/master/%E5%8F%96%E4%BF%A1%E6%81%AF.js) | 提取一条消息的所有信息，比如图片的外显，图链等，支持图片，语音，视频，卡片，文本等 |
 | [定时闹钟](https://gitee.com/aozorayui/Timed-alarm-clock/tree/master) | [@青空由依](https://gitee.com/aozorayui) | [Github](https://github.com/AozoraYui/Timed-alarm-clock/blob/main/Timed-alarm-clock.js)&[Gitee](https://gitee.com/aozorayui/Timed-alarm-clock/blob/master/Timed-alarm-clock.js) | 一个定时闹钟插件，可以指定时间指定对象到点艾特提醒 |
 | [yunzai系统窗口和状态检测](https://gitee.com/wind-trace-typ/sys_status/tree/master) | [@风之迹](https://gitee.com/wind-trace-typ) | [查看源码](https://gitee.com/wind-trace-typ/sys_status/blob/master/%E7%B3%BB%E7%BB%9F%E7%8A%B6%E6%80%81%E6%A3%80%E6%B5%8B.js) | 可通过yunzai端的公网ip进行连接发送本地系统状态还有当前应用程序和应用标题 |
 | [手办化](https://github.com/xiaotian2333/yunzai-plugins-Single-file?tab=readme-ov-file#%E6%89%8B%E5%8A%9E%E5%8C%96) | [@小天](https://github.com/xiaotian2333) | [查看源码](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E6%89%8B%E5%8A%9E%E5%8C%96.js) | 通过智谱大模型将图片转换为手办化的图片（仓库内还有其他更多插件） |
