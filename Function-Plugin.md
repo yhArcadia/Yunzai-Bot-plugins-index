@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [fufu-plugin](https://gitee.com/qianzhi11_admin/fufu-plugin)|[@dmmdekkd](https://github.com/dmmdekkd) [@岩王帝君](https://gitee.com/fdvhsvg) | 提供最新表情合成及一些其他功能 |
 | [wordle-plugin](https://github.com/Pimeng/wordle-plugin) | [@Pimeng](https://github.com/Pimeng) | Wordle猜词 For Yunzai-Bot |
 | [sakura-plugin](https://github.com/suzuka-suzuka/sakura-plugin) | [@suzuka-suzuka](https://github.com/suzuka-suzuka) | 集成了 AI 聊天、图片获取、群聊管理、飞行棋游戏等多种功能 |
 | [zhiyu-plugin](https://github.com/dmmdekkd/zhiyu-plugin) | [@dmmdekkd](https://github.com/dmmdekkd) | 开放平台查询，适配官机向插件 |
