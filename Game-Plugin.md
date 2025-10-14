@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [MC 白名单插件（mcwhitelist-plugin）](https://github.com/kmizmal/mcwhitelist-plugin) | [@kmizmal](https://github.com/kmizmal)  | 对接 [whitelistapimod](https://github.com/kmizmal/whitelistapimod) （理论上全版本）实现在 q 群中方便的管理服务器白名单，同时提供简单的服务器状态查询 |
 | [和平精英(PUBG-Helper-Plugin)](https://gitee.com/Tloml-Starry/PUBG-Helper-Plugin) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | 和平相关功能，很多功能还没写好，来pr |
 | [三角洲行动插件（delta-force-plugin）](https://github.com/Dnyo666/delta-force-plugin)| [@Dnyo666](https://github.com/Dnyo666/) | 提供登陆绑定、信息战绩周报日报查询、物品价格信息等查询、密码和特勤处推送等推送的多功能插件 |
 | [蓝色星原旅谣插件（yoyo-plugin）](https://gitee.com/yoyo-plugin/yoyo-plugin)| [@ZyeAlex](https://github.com/ZyeAlex) | 提供蓝色星原旅谣信息查询、Wiki查询、日常娱乐功能插件 |
