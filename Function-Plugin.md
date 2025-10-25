@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [xhh](https://gitee.com/this_e/xhh) | [@this_e](https://gitee.com/this_e) | 提供一些小功能：原神每日委托是否有成就，原神和崩铁的卡池信息，获取B站视频评论区，米游社视频播报等 |
 | [mCat-ac](https://gitlab.com/mCat0/mcat-ac) | [@mCat猫客](https://gitee.com/mcat0) | 原神成就录入、查漏，内容可视化反馈 |
 | [Speech-statistics-plugin](https://gitee.com/tttfff/speech-statistics-plugin) | [@QingYing](https://gitee.com/tttfff) | 多维度统计各个群聊消息数的插件 |
 | [wordle-plugin](https://gitee.com/Pimeng/wordle-plugin) | [@Pimeng](https://gitee.com/Pimeng) | Wordle猜词 For Yunzai-Bot |
