@@ -6,6 +6,7 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | ------- |
+| [欧卡状态](https://gitee.com/xingdonglcy/js-plugins) | [@LCY星动](https://gitee.com/xingdonglcy) | [查看源码](https://gitee.com/xingdonglcy/js-plugins/blob/master/example/%E6%AC%A7%E5%8D%A1%E7%8A%B6%E6%80%81.js) | 功能介绍：可以帮助卡车玩家实时获取TruckersMP 各个服务器（欧卡&美卡都有）状态；指令为：#欧卡状态 |
 | [鉴黄](https://gitee.com/atri0828a/Yunzai-plugins#%E9%89%B4%E9%BB%84) | [@陌aaa](https://gitee.com/atri0828a) | [查看源码](https://gitee.com/atri0828a/Yunzai-plugins/raw/master/%E9%89%B4%E9%BB%84.js) | 对一张图片的涩情程度进行判断（娱乐向） |
 | [取信息](https://gitee.com/atri0828a/Yunzai-plugins#%E5%8F%96%E4%BF%A1%E6%81%AF) | [@陌aaa](https://gitee.com/atri0828a) | [查看源码](https://gitee.com/atri0828a/Yunzai-plugins/raw/master/%E5%8F%96%E4%BF%A1%E6%81%AF.js) | 提取一条消息的所有信息，比如图片的外显，图链等，支持图片，语音，视频，卡片，文本等 |
 | [定时闹钟](https://github.com/aozorayui/Timed-alarm-clock/tree/master) | [@青空由依](https://github.com/aozorayui) | [Github](https://github.com/AozoraYui/Timed-alarm-clock/blob/main/Timed-alarm-clock.js)&[Gitee](https://gitee.com/aozorayui/Timed-alarm-clock/blob/master/Timed-alarm-clock.js) | 一个定时闹钟插件，可以指定时间指定对象到点艾特提醒 |
