@@ -5,19 +5,19 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [每日运势（DA-plugin）](https://gitee.com/qingyingxbot/Daily-Attendance-plugin) | [@QingYingX](https://gitee.com/QingYingX) | 每日运势... |
 | [crystelf-plugin](https://github.com/Jerryplusy/crystelf-plugin) | [@Jerryplusy](https://github.com/Jerryplusy) | 多功能辅助插件:早报,手性碳验证,早晚安,加群欢迎词,晶灵智能等 |
 | [xhh](https://gitee.com/this_e/xhh) | [@this_e](https://gitee.com/this_e) | 提供一些小功能：原神每日委托是否有成就，原神和崩铁的卡池信息，获取B站视频评论区，米游社视频播报等 |
 | [mCat-ac](https://gitlab.com/mCat0/mcat-ac) | [@mCat猫客](https://gitee.com/mcat0) | 原神成就录入、查漏，内容可视化反馈 |
-| [Speech-statistics-plugin](https://gitee.com/tttfff/speech-statistics-plugin) | [@QingYing](https://gitee.com/tttfff) | 多维度统计各个群聊消息数的插件 |
 | [wordle-plugin](https://gitee.com/Pimeng/wordle-plugin) | [@Pimeng](https://gitee.com/Pimeng) | Wordle猜词 For Yunzai-Bot |
 | [sakura-plugin](https://github.com/suzuka-suzuka/sakura-plugin) | [@suzuka-suzuka](https://github.com/suzuka-suzuka) | 集成了 AI 聊天、图片获取、群聊管理、飞行棋游戏等多种功能 |
 | [zhiyu-plugin](https://github.com/dmmdekkd/zhiyu-plugin) | [@dmmdekkd](https://github.com/dmmdekkd) | 开放平台查询，适配官机向插件 |
 | [dg-lab-russian-roulette-plugin](https://github.com/admilkjs/dg-lab-russian-roulette-plugin/) | [@Admilk](https://github.com/admilkk) | 提供郊狼论盘渎的功能,中枪后被电击 |
 | [Lotus-Plugin](https://github.com/SummerLotus520/Lotus-Plugin/) | [@SummerLotus520](https://github.com/SummerLotus520/) | 提供一些便携功能，如自定义执行（万能代操作）、全部体力及米游社游戏&社区自动签到，感谢[@Womsxd](https://github.com/Womsxd/)的[MihoyoBBSTools](https://github.com/Womsxd/MihoyoBBSTools/)项目提供技术支持 |
 | [次元小镇（CYXZ-Plugin）](https://github.com/xiaotian2333/cyxz-plugin) | [xiaotian2333](https://github.com/xiaotian2333) | 抓取次元小镇的各类图片的插件 |
-| [戳戳榜插件 (Poke-plugin)](https://gitee.com/tttfff/poke-plugin) | [@QingYing](https://gitee.com/tttfff) | 一款提供统计戳一戳的插件 |
+| [戳戳榜插件 (Poke-plugin)](https://gitee.com/qingyingxbot/Poke-plugin) | [@QingYingX](https://gitee.com/QingYingX) | 一款提供统计戳一戳的插件 |
 | [GamePush-plugin](https://github.com/rainbowwarmth/GamePush-Plugin) | [rainbowwarmth](https://gitee.com/rainbowwarmth) | 实时监控游戏版本更新，用于检测原神、星铁、绝区零、崩坏3、鸣潮游戏版本更新状态的插件 |
-| [公告插件 (Notice-plugin)](https://gitee.com/tttfff/notice-plugin) | [@QingYing](https://gitee.com/tttfff) | 一款提供群发公告功能的插件 |
+| [公告插件 (Notice-plugin)](https://gitee.com/qingyingxbot/Notice-plugin) | [@QingYingX](https://gitee.com/QingYingX) | 一款提供群发公告功能的插件 |
 | [Hack-Plugin](https://github.com/admilkjs/hack-plugin) | [@Admilk](https://gitee.com/adrae) | 为TRSS-Yunzai,Miao-Yunzai提供发送`raw`消息的能力 |
 | [NapCat-Adapter](https://gitee.com/qiannqq/napcat-adapter) | [@千奈千祁](https://gitee.com/qiannqq) | 兼容Miao-Yunzai的NapCat.OneBot适配器 |
 | [Xingluo-Plugin](https://gitee.com/yhArcadia/Yunzai-Bot-plugins-index) | [@洛洛](https：//gitee.com/yll14) | 重构中 |
