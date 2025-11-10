@@ -42,6 +42,7 @@
 | [DIY帮助插件(help-plugin)](https://gitee.com/tu-zhengxiong0925/help-plugin)  | [@饺子](https://gitee.com/tu-zhengxiong0925)  | 提供美化帮助菜单，支持DIY，可一键同步喵喵帮助  |
 | [喵喵扩展插件(ark-plugin)](https://github.com/NotIvny/ark-plugin)  | [@NotIvny](https://github.com/NotIvny)  | 为喵喵插件提供总排名、排名统计、独立群设置、帮助图扩展等功能，同时提供文件备份、修改插件优先级等功能。  |
 | [优纪插件(yuki-plugin)](https://gitee.com/snowtafir/yuki-plugin)  | [@snowtafir](https://github.com/snowtafir) | 一个适用于 Yunzai (Miao/Trss/JS) 系列机器人框架 的B站动态、微博动态订阅推送和B站视频链接解析的插件 |
+| [落落插件(luoluo-Plugin)](https://gitee.com/yll14/luoluo-plugin) | [@洛洛](https://gitee.com/yll14) | 没什么用的小破api娱乐性插件 提供随机动漫图 哔哩哔哩视频解析 Ping等功能(部分api已无法正常使用请等待v6重构后的[星落插件](https://gitee.com/yll14/xingluo-plugin))|
 | [Esca插件(esca-plugin)](https://gitee.com/escaped-spark/esca-plugin) | [@逸燧](https://escaped.icu) | 功能性插件，提供随机图/视频，备案查询等功能 |
 | [更好的远程命令插件(better-rc)](https://gitee.com/Vremq_vperyod/better-rc) | [  @Vremq_vperyod ](https://gitee.com/Vremq_vperyod)| 交互式远程命令执行与定时任务 |
 | [奥林匹克插件(Olympic-plugin)](https://gitee.com/xiaomifan233/olympic-plugin) | [ @小米饭](https://gitee.com/xiaomifan233)| 提供有关巴黎奥运会的一些查询功能 |
@@ -100,6 +101,7 @@
 | [小飞插件 (xiaofei-plugin)](https://gitee.com/xfdown/xiaofei-plugin) | [@小飞](https://gitee.com/xfdown) | 多选点歌、天气查询、原神注册时间查询 |
 | [l-plugin](https://github.com/liuly0322/l-plugin) | [@liuly0322](https://github.com/liuly0322) | 塔罗牌，抽签，骰子，今天吃什么，tex图片等 |
 | [土块插件（QQ频道版） (earth-k-plugin)](https://gitee.com/diqiushengwu/earth-k-plugin) |  [@地球生物](https://gitee.com/diqiushengwu) [@曉K](https://gitee.com/SmallK111407) | 适用于QQ频道的土块插件，功能同下，详见插件帮助 |
+| [土块插件 (earth-k-plugin)](https://gitee.com/SmallK111407/earth-k-plugin) | [@地球生物](https://gitee.com/diqiushengwu) [@曉K](https://gitee.com/SmallK111407) | 提供了猜语音、打我、练习记忆力小游戏，获取游戏内过场动画及角色PV，AI画图，卜卦，图片可视化点歌/视频/小说/漫画，原史（原神角色/圣遗物/武器/NPC等背景故事等）等功能 |
 | [麟插件 (lin-plugin)](https://gitee.com/go-farther-and-farther/lin-plugin) | [@越追越远](https://gitee.com/go-farther-and-farther) | ai接口以及配置了相关设置的功能，全局点赞、复读打断等智能化工具，发送日志文件，一些查询功能等工具 |
 | [碎月插件 (suiyue)](https://gitee.com/Acceleratorsky/suiyue)|[@碎月](https://gitee.com/Acceleratorsky) | [此插件已跑路，戳我前往喵崽维护版](https://gitee.com/SmallK111407/suiyue)疫情，清晰度提升，搜番，搜磁力，疯狂星期四，计算器 |
 | [闲心插件 (xianxin-plugin)](https://gitee.com/xianxincoder/xianxin-plugin) |[@闲心](https://gitee.com/xianxincoder) |是一个集米游社cos、米游社wiki攻略、B站up动态推送(支持长图模式)、神秘指令、群战小游戏、五子棋、21点等功能的插件 [喵崽版点我](https://gitee.com/masuzuillust/xianxin-plugin)|
