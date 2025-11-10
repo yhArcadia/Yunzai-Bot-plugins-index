@@ -5,7 +5,6 @@
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | -- | -- | -- |
-| [Yunzai文档【论坛】](https://yunz.cc)| [@云崽论坛](https://yunz.cc) | 包含TRSS/MIAO/NEXT的文档【论坛】更新有用的教程也欢迎入驻 |
 | [云崽一站式解决方案](https://gitee.com/lzqmql)| [@岩王帝君](https://gitee.com/fdvhsvg) |适用于云崽绝大部分问题的解决方案，提供下载站，enka，qs脚本，安装脚本的聚合站点|
 | [Yunzai渲染器](https://gitee.com/Gaias/playwright)| [@Gaias](https://gitee.com/Gaias) | 适用于yunzai项目的Playwright渲染器 |
 | [Yunzai 加速计划](https://gitcode.com/Mirror-Yunzai) | [@千奈千祁](https://gitee.com/qiannqq) | **Yunzai 加速计划** 旨在为所有无国内源的Yunzai插件创建GitCode国内镜像源 |
