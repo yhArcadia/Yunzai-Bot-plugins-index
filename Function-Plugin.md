@@ -5,19 +5,19 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
-| [crystelf-plugin](https://github.com/Jerryplusy/crystelf-plugin) | [@Jerryplusy](https://github.com/Jerryplusy) | 多功能辅助插件:早报,手性碳验证,早晚安,加群欢迎词,晶灵智能等
+| [每日运势（DA-plugin）](https://gitee.com/qingyingxbot/Daily-Attendance-plugin) | [@QingYingX](https://gitee.com/QingYingX) | 每日运势... |
+| [crystelf-plugin](https://github.com/Jerryplusy/crystelf-plugin) | [@Jerryplusy](https://github.com/Jerryplusy) | 多功能辅助插件:早报,手性碳验证,早晚安,加群欢迎词,晶灵智能等 |
 | [xhh](https://gitee.com/this_e/xhh) | [@this_e](https://gitee.com/this_e) | 提供一些小功能：原神每日委托是否有成就，原神和崩铁的卡池信息，获取B站视频评论区，米游社视频播报等 |
 | [mCat-ac](https://gitlab.com/mCat0/mcat-ac) | [@mCat猫客](https://gitee.com/mcat0) | 原神成就录入、查漏，内容可视化反馈 |
-| [Speech-statistics-plugin](https://gitee.com/tttfff/speech-statistics-plugin) | [@QingYing](https://gitee.com/tttfff) | 多维度统计各个群聊消息数的插件 |
 | [wordle-plugin](https://gitee.com/Pimeng/wordle-plugin) | [@Pimeng](https://gitee.com/Pimeng) | Wordle猜词 For Yunzai-Bot |
 | [sakura-plugin](https://github.com/suzuka-suzuka/sakura-plugin) | [@suzuka-suzuka](https://github.com/suzuka-suzuka) | 集成了 AI 聊天、图片获取、群聊管理、飞行棋游戏等多种功能 |
 | [zhiyu-plugin](https://github.com/dmmdekkd/zhiyu-plugin) | [@dmmdekkd](https://github.com/dmmdekkd) | 开放平台查询，适配官机向插件 |
 | [dg-lab-russian-roulette-plugin](https://github.com/admilkjs/dg-lab-russian-roulette-plugin/) | [@Admilk](https://github.com/admilkk) | 提供郊狼论盘渎的功能,中枪后被电击 |
 | [Lotus-Plugin](https://github.com/SummerLotus520/Lotus-Plugin/) | [@SummerLotus520](https://github.com/SummerLotus520/) | 提供一些便携功能，如自定义执行（万能代操作）、全部体力及米游社游戏&社区自动签到，感谢[@Womsxd](https://github.com/Womsxd/)的[MihoyoBBSTools](https://github.com/Womsxd/MihoyoBBSTools/)项目提供技术支持 |
 | [次元小镇（CYXZ-Plugin）](https://github.com/xiaotian2333/cyxz-plugin) | [xiaotian2333](https://github.com/xiaotian2333) | 抓取次元小镇的各类图片的插件 |
-| [戳戳榜插件 (Poke-plugin)](https://gitee.com/tttfff/poke-plugin) | [@QingYing](https://gitee.com/tttfff) | 一款提供统计戳一戳的插件 |
+| [戳戳榜插件 (Poke-plugin)](https://gitee.com/qingyingxbot/Poke-plugin) | [@QingYingX](https://gitee.com/QingYingX) | 一款提供统计戳一戳的插件 |
 | [GamePush-plugin](https://github.com/rainbowwarmth/GamePush-Plugin) | [rainbowwarmth](https://gitee.com/rainbowwarmth) | 实时监控游戏版本更新，用于检测原神、星铁、绝区零、崩坏3、鸣潮游戏版本更新状态的插件 |
-| [公告插件 (Notice-plugin)](https://gitee.com/tttfff/notice-plugin) | [@QingYing](https://gitee.com/tttfff) | 一款提供群发公告功能的插件 |
+| [公告插件 (Notice-plugin)](https://gitee.com/qingyingxbot/Notice-plugin) | [@QingYingX](https://gitee.com/QingYingX) | 一款提供群发公告功能的插件 |
 | [Hack-Plugin](https://github.com/admilkjs/hack-plugin) | [@Admilk](https://gitee.com/adrae) | 为TRSS-Yunzai,Miao-Yunzai提供发送`raw`消息的能力 |
 | [NapCat-Adapter](https://gitee.com/qiannqq/napcat-adapter) | [@千奈千祁](https://gitee.com/qiannqq) | 兼容Miao-Yunzai的NapCat.OneBot适配器 |
 | [Xingluo-Plugin](https://gitee.com/yhArcadia/Yunzai-Bot-plugins-index) | [@洛洛](https：//gitee.com/yll14) | 重构中 |
@@ -34,7 +34,7 @@
 | [Pixiv插件(pixiv-plugin)](https://github.com/admilkjs/pixiv-plugin) | [@Admilk](https://gitee.com/adrae) | pixiv解析,禁漫天堂下载功能 |
 | [Ad插件(ad-plugin)](https://gitee.com/adrae/ad-plugin) | [@Admilk](https://gitee.com/adrae) | 实用功能 |
 | [steam插件 (steam-plugin)](https://github.com/XasYer/steam-plugin) | [@小叶](https://github.com/XasYer) | 提供steam相关功能, 如好友状态播报 查看库存 愿望单 搜索 等 |
-| [SF-插件 (siliconflow-plugin)](https://github.com/AIGC-Yunzai/siliconflow-plugin) | [@Misaka20002](https://github.com/Misaka20002) [@syfantasy](https://github.com/syfantasy) [@eggacheb](https://github.com/eggacheb) | 基于 Yunzai 的 AIGC 插件，可免费使用 FLUX、SD、MJ 等绘图、LLM 推理、Vits语音合成、抖音 b站视频解析等。|
+| [SF-插件 (siliconflow-plugin)](https://github.com/AIGC-Yunzai/siliconflow-plugin) | [@Misaka20002](https://github.com/Misaka20002) [@syfantasy](https://github.com/syfantasy) [@eggacheb](https://github.com/eggacheb) | 可免费使用 FLUX、SD、MJ 等绘图、免费gemini对话/画图、语音合成，还有抖音、b站视频解析、自动打招呼、表情包偷取发送等 |
 | [小叶面板 (YePanel)](https://github.com/XasYer/YePanel) | [@小叶](https://github.com/XasYer) | 提供web管理面板 |
 | [鹿管插件 (yunzai-plugin-deer-pipe)](https://gitee.com/kyrzy0416/yunzai-plugin-deer-pipe) | [@zhiyu](https://gitee.com/kyrzy0416) | 一个鹿管签到小插件，纯净、轻量、有且仅有一个每月鹿管签到功能 |
 | [文本语音合成(yunzai-fish-speech-plugin)](https://github.com/oldcitynight/yunzai-fish-speech-plugin) | [@oldcitynight](https://github.com/oldcitynight) [@fishaudio](https://github.com/fishaudio) | 本地或远程文本语音合成，支持从任意音源即时学习并推理合成语音，目前处于早期开发阶段。<br> **注意：因 Gitee Reward 无法关闭，本项目无 Gitee 镜像。此外使用前请详细阅读 README 中的声明部分。** |
@@ -42,7 +42,6 @@
 | [DIY帮助插件(help-plugin)](https://gitee.com/tu-zhengxiong0925/help-plugin)  | [@饺子](https://gitee.com/tu-zhengxiong0925)  | 提供美化帮助菜单，支持DIY，可一键同步喵喵帮助  |
 | [喵喵扩展插件(ark-plugin)](https://github.com/NotIvny/ark-plugin)  | [@NotIvny](https://github.com/NotIvny)  | 为喵喵插件提供总排名、排名统计、独立群设置、帮助图扩展等功能，同时提供文件备份、修改插件优先级等功能。  |
 | [优纪插件(yuki-plugin)](https://gitee.com/snowtafir/yuki-plugin)  | [@snowtafir](https://github.com/snowtafir) | 一个适用于 Yunzai (Miao/Trss/JS) 系列机器人框架 的B站动态、微博动态订阅推送和B站视频链接解析的插件 |
-| [落落插件(luoluo-Plugin)](https://gitee.com/yll14/luoluo-plugin) | [@洛洛](https://gitee.com/yll14) | 没什么用的小破api娱乐性插件 提供随机动漫图 哔哩哔哩视频解析 Ping等功能(部分api已无法正常使用请等待v6重构后的[星落插件](https://gitee.com/yll14/xingluo-plugin))|
 | [Esca插件(esca-plugin)](https://gitee.com/escaped-spark/esca-plugin) | [@逸燧](https://escaped.icu) | 功能性插件，提供随机图/视频，备案查询等功能 |
 | [更好的远程命令插件(better-rc)](https://gitee.com/Vremq_vperyod/better-rc) | [  @Vremq_vperyod ](https://gitee.com/Vremq_vperyod)| 交互式远程命令执行与定时任务 |
 | [奥林匹克插件(Olympic-plugin)](https://gitee.com/xiaomifan233/olympic-plugin) | [ @小米饭](https://gitee.com/xiaomifan233)| 提供有关巴黎奥运会的一些查询功能 |
