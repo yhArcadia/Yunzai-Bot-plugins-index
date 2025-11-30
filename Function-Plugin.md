@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [Modrinth查询插件](https://github.com/HaMan412/Modrinth-Helper-Plugin) | [@哈曼](https://github.com/HaMan412) | 快速查询Modrinth上的Minecraft资源或下载等... |
 | [每日运势（DA-plugin）](https://gitee.com/qingyingxbot/Daily-Attendance-plugin) | [@QingYingX](https://gitee.com/QingYingX) | 每日运势... |
 | [crystelf-plugin](https://github.com/Jerryplusy/crystelf-plugin) | [@Jerryplusy](https://github.com/Jerryplusy) | 多功能辅助插件:早报,手性碳验证,早晚安,加群欢迎词,晶灵智能等 |
 | [xhh](https://gitee.com/this_e/xhh) | [@this_e](https://gitee.com/this_e) | 提供一些小功能：原神每日委托是否有成就，原神和崩铁的卡池信息，获取B站视频评论区，米游社视频播报等 |
