@@ -6,6 +6,7 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | ------- |
+| [喵言喵语](https://gitee.com/VanillaNahida/yunzai-js-plugin#%E5%8D%A1%E6%8B%89%E5%BD%BC%E4%B8%98%E5%96%B5%E8%A8%80%E5%96%B5%E8%AF%AD) | [@香草味的纳西妲喵](https://github.com/VanillaNahida) | [Github](https://raw.githubusercontent.com/VanillaNahida/yunzai-js-plugin/refs/heads/main/%E5%96%B5%E8%A8%80%E5%96%B5%E8%AF%AD.js)&[Gitee](https://gitee.com/VanillaNahida/yunzai-js-plugin/raw/main/%E5%96%B5%E8%A8%80%E5%96%B5%E8%AF%AD.js) | 快捷发送卡拉彼丘的喵语。一起成为卡奴吧喵！ |
 [卢浮宫插件](https://gitee.com/aozorayui/JS-Plugin) | [@青空由依](https://gitee.com/aozorayui) | [Github](https://github.com/AozoraYui/JS-Plugin/blob/main/one-last-image.js)&[Gitee](https://gitee.com/aozorayui/JS-Plugin/blob/master/one-last-image.js) | 卢浮宫插件，可将图片处理为one last kiss歌曲封面的“卢浮宫”风格 |
 | [欧卡状态](https://gitee.com/xingdonglcy/js-plugins) | [@LCY星动](https://gitee.com/xingdonglcy) | [查看源码](https://gitee.com/xingdonglcy/js-plugins/blob/master/example/%E6%AC%A7%E5%8D%A1%E7%8A%B6%E6%80%81.js) | 功能介绍：可以帮助卡车玩家实时获取TruckersMP 各个服务器（欧卡&美卡都有）状态；指令为：#欧卡状态 |
 | [鉴黄](https://gitee.com/atri0828a/Yunzai-plugins#%E9%89%B4%E9%BB%84) | [@陌aaa](https://gitee.com/atri0828a) | [查看源码](https://gitee.com/atri0828a/Yunzai-plugins/raw/master/%E9%89%B4%E9%BB%84.js) | 对一张图片的涩情程度进行判断（娱乐向） |
@@ -53,7 +54,7 @@
 | [随机超能力](https://github.com/xiaotian2333/yunzai-plugins-Single-file?tab=readme-ov-file#%E9%9A%8F%E6%9C%BA%E8%B6%85%E8%83%BD%E5%8A%9B) | [@小天](https://github.com/xiaotian2333) | [查看源码](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E9%9A%8F%E6%9C%BA%E8%B6%85%E8%83%BD%E5%8A%9B.js) | 获取一个超能力及对应的副作用（仓库内还有其他更多插件） |
 | [黑神话B站wiki查询](https://gitee.com/wzwei1990/wukong)  |  [@wzwei1990](https://gitee.com/wzwei1990) | [查看源码](https://gitee.com/wzwei1990/wukong/blob/master/wukong.js) | 黑神话B站wiki查询，输入#影神图+要查询人物妖怪物品的名称，返回图片  |
 | [网页预览截图](https://gitee.com/tu-zhengxiong0925/JiaoziJS)  |  [@饺子](https://gitee.com/tu-zhengxiong0925) | [查看源码](https://gitee.com/tu-zhengxiong0925/JiaoziJS/raw/main/JavaScript/webPreview.js) | 自适应全屏网页截屏，可自定义屏蔽网址  |
-| [发癫插件单JS本地版](https://gitee.com/NyaOH/fadian-plugin) | [@香草味的纳西妲](https://gitee.com/NyaOH/) | [查看源码](https://gitee.com/NyaOH/fadian-plugin/raw/master/fadian-plugin.js) | 一个非常简洁的本地版发癫语录插件，内置几十条发癫语录 |
+| [发癫插件单JS本地版](https://gitee.com/NyaOH/fadian-plugin) | [@香草味的纳西妲喵](https://gitee.com/NyaOH/) | [查看源码](https://gitee.com/NyaOH/fadian-plugin/raw/master/fadian-plugin.js) | 一个非常简洁的本地版发癫语录插件，内置几十条发癫语录 |
 | [智谱ai视频生成](https://gitee.com/xyzqwefd/aivideo-plugin) | [@xyz](https://github.com/XuF163) | [查看源码](https://gitee.com/xyzqwefd/yz-js-cogvideox/blob/master/aivideo.js) | 基于智谱ai接口实现的简易文生视频/图生视频功能 |
 | [McMotd](https://gitee.com/Aliorpse/Yunzai-AliorpsePlugins/) |[@Aliorpse](https://github.com/Aliorpse) | [查看源码](https://gitee.com/Aliorpse/Yunzai-AliorpsePlugins/blob/master/mcplugins/McMotd.js) | JE/BE双版本查询Motd,支持群聊自定义默认,返回图片,[效果图](https://github.com/Aliorpse/personal_html_templates) |
 | [osu!玩家信息查询](https://gitee.com/Aliorpse/Yunzai-AliorpsePlugins) | [@Aliorpse](https://github.com/Aliorpse) | [查看源码](https://gitee.com/Aliorpse/Yunzai-AliorpsePlugins/blob/master/osu.js) | osu!玩家信息查询,pp模拟计算(功能不完善) |
