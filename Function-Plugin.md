@@ -5,9 +5,10 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [wordle-plugin](https://gitee.com/qingyingxbot/wordle-plugin) | [@QingYingX](https://gitee.com/QingYingX) | 一款集合了 Wordle,Math,汉兜 的游戏插件 二改插件：) |
+| [每日运势（Daily-Attendance-plugin）](https://gitee.com/qingyingxbot/Daily-Attendance-plugin) | [@QingYingX](https://gitee.com/QingYingX) | 每日运势... |
 | [group-insight](https://github.com/KBVsent/group-insight) | [@KBVsent](https://github.com/KBVsent) | 群聊洞见插件，可以定时或者手动生成群聊天记录的总结报告，并以精美卡片形式展示，词云功能，增强版的谁艾特我查询功能 |
 | [voicevox-plugin](https://github.com/KBVsent/voicevox-plugin) | [@KBVsent](https://github.com/KBVsent) | 俊达萌等VoiceVox角色语音生成插件，支持输入为中文，日语 |
-| [每日运势（DA-plugin）](https://gitee.com/qingyingxbot/Daily-Attendance-plugin) | [@QingYingX](https://gitee.com/QingYingX) | 每日运势... |
 | [crystelf-plugin](https://github.com/Jerryplusy/crystelf-plugin) | [@Jerryplusy](https://github.com/Jerryplusy) | 多功能辅助插件:早报,手性碳验证,早晚安,加群欢迎词,晶灵智能等 |
 | [xhh](https://gitee.com/this_e/xhh) | [@this_e](https://gitee.com/this_e) | 提供一些小功能：原神每日委托是否有成就，原神和崩铁的卡池信息，获取B站视频评论区，米游社视频播报等 |
 | [mCat-ac](https://gitlab.com/mCat0/mcat-ac) | [@mCat猫客](https://gitee.com/mcat0) | 原神成就录入、查漏，内容可视化反馈 |
