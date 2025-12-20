@@ -11,7 +11,7 @@
 | [crystelf-plugin](https://github.com/Jerryplusy/crystelf-plugin) | [@Jerryplusy](https://github.com/Jerryplusy) | 多功能辅助插件:早报,手性碳验证,早晚安,加群欢迎词,晶灵智能等 |
 | [xhh](https://gitee.com/this_e/xhh) | [@this_e](https://gitee.com/this_e) | 提供一些小功能：原神每日委托是否有成就，原神和崩铁的卡池信息，获取B站视频评论区，米游社视频播报等 |
 | [mCat-ac](https://gitlab.com/mCat0/mcat-ac) | [@mCat猫客](https://gitee.com/mcat0) | 原神成就录入、查漏，内容可视化反馈 |
-| [wordle-plugin](https://gitee.com/Pimeng/wordle-plugin) | [@Pimeng](https://gitee.com/Pimeng) | Wordle猜词 For Yunzai-Bot |
+| [wordle-plugin](https://github.com/Pimeng/wordle-plugin) | [@Pimeng](https://github.com/Pimeng) | Wordle猜词 For Yunzai-Bot |
 | [sakura-plugin](https://github.com/suzuka-suzuka/sakura-plugin) | [@suzuka-suzuka](https://github.com/suzuka-suzuka) | 集成了 AI 聊天、图片获取、群聊管理、飞行棋游戏等多种功能 |
 | [zhiyu-plugin](https://github.com/dmmdekkd/zhiyu-plugin) | [@dmmdekkd](https://github.com/dmmdekkd) | 开放平台查询，适配官机向插件 |
 | [dg-lab-russian-roulette-plugin](https://github.com/admilkjs/dg-lab-russian-roulette-plugin/) | [@Admilk](https://github.com/admilkk) | 提供郊狼论盘渎的功能,中枪后被电击 |
