@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [黑名单插件（yunzai-blacklist-plugin）](https://github.com/Sakura1618/yunzai-blacklist-plugin) | [@Sakura1618](https://github.com/Sakura1618) | 黑名单/授权管理插件，支持入群自动踢黑、自检踢黑、黑名单与管理名单查询以及主人授权，并在关键操作时私聊通知主人。 |
 | [wordle-plugin](https://gitee.com/qingyingxbot/wordle-plugin) | [@QingYingX](https://gitee.com/QingYingX) | 一款集合了 Wordle,Math,汉兜 的游戏插件 二改插件：) |
 | [每日运势（Daily-Attendance-plugin）](https://gitee.com/qingyingxbot/Daily-Attendance-plugin) | [@QingYingX](https://gitee.com/QingYingX) | 每日运势... |
 | [group-insight](https://github.com/KBVsent/group-insight) | [@KBVsent](https://github.com/KBVsent) | 群聊洞见插件，可以定时或者手动生成群聊天记录的总结报告，并以精美卡片形式展示，词云功能，增强版的谁艾特我查询功能 |
