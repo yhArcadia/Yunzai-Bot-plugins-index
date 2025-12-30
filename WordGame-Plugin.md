@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [模拟农场(farm_game)](https://gitee.com/lianzi01/farm_game) | [@xingyu42](https://github.com/xingyu42) | 基于心流编程开发的农场游戏，你是否也曾梦想过拥有一片属于自己的土地，远离喧嚣，体验播种与收获的喜悦？让我们一起，在群聊里种下一片希望吧！ |
 | [诸天万界修仙V1.0「遮天三部曲」(zhutianxiuxian1.0)](https://gitee.com/mo-wuming/zhutianxiuxian1.0) | [@莫无铭](https://gitee.com/mo-wuming) | 基于DD斩首的开源修仙魔改的遮天三部曲修仙[诸天万界]，夹杂了一堆我以前写的小说的私货，增加了修仙时代，证道系统，元神系统，内景地，位面系统，更新了大量灵根以及玩法，道法仙术系统……（省略一大堆话） |
 | [虚空插件trss版 (trss-akasha-terminal-plugin)](https://gitee.com/dmqaq/trss-akasha-terminal-plugin) | [@我不能倒霉](https://gitee.com/dmqaq) [@越追越远](https://gitee.com/go-farther-and-farther) | 一个功能丰富的Yunzai-Bot插件（trss&miao双版本开发版），提供完整的游戏系统、MySQL数据库&JSON存储双支持和Web管理界面） |
 | [模拟人生(sims-plugin)](https://gitcode.com/nahida22/sims-plugin) | [ @nahida ](https://gitee.com/nahida22) | 哇奥！很开心向大家介绍这款生活模拟游戏插件喔~ 这是一款为Yunzai-Bot设计的超赞生活模拟游戏插件，让你在聊天群组中体验充满惊喜和欢乐的模拟人生玩法！是不是很心动呢？无论是成为帅气的秩序维护者，还是当一名超厉害的美食大师，亦或是在游戏休闲区度过悠闲的时光，都能在这里找到属于你的梦想职业道路！让我们一起在模拟世界中创造属于自己的小确幸吧~|
