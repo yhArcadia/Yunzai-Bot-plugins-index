@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [endfield-plugin)](https://github.com/Entropy-Increase-Team/endfield-plugin) | [@QingYingX](https://github.com/QingYingX) | Endfield-plugin 是一个为 Yunzai-Bot 开发的 终末地 游戏插件 |
 | [雀魂插件(Majsoul-Plugin)](https://github.com/Xcheng-dada/Majsoul-Plugin/) | [@小橙c](https://github.com/Xcheng-dada) | 雀魂麻将抽卡插件，支持十连抽卡，多卡池切换，每日次数限制与管理 |
 | [和平精英(PUBG-Helper-Plugin)](https://gitee.com/Tloml-Starry/PUBG-Helper-Plugin) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | 和平相关功能，很多功能还没写好，来pr |
 | [三角洲行动插件（delta-force-plugin）](https://github.com/Dnyo666/delta-force-plugin)| [@Dnyo666](https://github.com/Dnyo666/) | 提供登陆绑定、信息战绩周报日报查询、物品价格信息等查询、密码和特勤处推送等推送的多功能插件 |
