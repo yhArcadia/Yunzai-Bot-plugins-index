@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [终末地插件(zmd-plugin)](https://github.com/Anon-deisu/zmd-plugin) | [@Anon-deisu](https://github.com/Anon-deisu) | 终末地插件，支持抽卡查询/角色数据查询等 |
 | [endfield-plugin)](https://github.com/Entropy-Increase-Team/endfield-plugin) | [@QingYingX](https://github.com/QingYingX) | Endfield-plugin 是一个为 Yunzai-Bot 开发的 终末地 游戏插件 |
 | [雀魂插件(Majsoul-Plugin)](https://github.com/Xcheng-dada/Majsoul-Plugin/) | [@小橙c](https://github.com/Xcheng-dada) | 雀魂麻将抽卡插件，支持十连抽卡，多卡池切换，每日次数限制与管理 |
 | [和平精英(PUBG-Helper-Plugin)](https://gitee.com/Tloml-Starry/PUBG-Helper-Plugin) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | 和平相关功能，很多功能还没写好，来pr |
