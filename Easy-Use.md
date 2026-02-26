@@ -5,8 +5,8 @@
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [一键启动Yunzai+LLonebot并监控进程](https://gitee.com/touchscale_admin/one-click-start---yunzai-llbot) | [touchscale](https://gitee.com/touchscale_admin) |一键启动Yunzai+LLonebot并监测其状态，检测到停止运行后能自动重启|
 | [⭐][TRSS Yunzai 管理脚本](https://TRSS.me) | [@时雨🌌星空](../../../../TimeRainStarSky) | 【置顶】提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Windows / Linux / Mac / Android |
-| [喵喵角色资源更新](https://gitee.com/Gaias/miao-python) | [@Gaias](https://gitee.com/Gaias) | 用于更新miao-plugin角色资源的一键脚本，喵喵仓库更新后建议使用源库数据) |
 |[TRSS-Yunzai最小安装脚本](https://gitee.com/Vremq_vperyod/yunzai-install-script)|[Vremq_vperyod](https://gitee.com/Vremq_vperyod)|使用systemd-nspawn和alpine linux的Yunzai安装脚本，完美解决docker连不上和占用大的问题|
 | [Pixiv令牌自动获取](https://gitee.com/OvertimeBunny/pixiv-token) | [重装小兔](https://gitee.com/OvertimeBunny) | 方便椰奶插件使用而写的脚本 |
 | [抖音ck自动获取](https://gitee.com/OvertimeBunny/tiktok-ck-douying) | [重装小兔](https://gitee.com/OvertimeBunny) | 方便R插件使用而写的脚本 |
