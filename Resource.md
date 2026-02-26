@@ -10,7 +10,7 @@
 | [Yunzai渲染器](https://gitee.com/Gaias/playwright)| [@Gaias](https://gitee.com/Gaias) | 适用于yunzai项目的Playwright渲染器 |
 | [Yunzai 加速计划](https://gitcode.com/Mirror-Yunzai) | [@千奈千祁](https://gitee.com/qiannqq) | **Yunzai 加速计划** 旨在为所有无国内源的Yunzai插件创建GitCode国内镜像源 |
 | [云崽安装图文教程](https://gitee.com/lzqmql/bxianx-yunzai-teaching)| [@岩王帝君](https://gitee.com/fdvhsvg)[@不羡仙](https://gitee.com/bxianx) | 应该算比较详细的教程了吧 |
-| [何日见原神星铁角色面板图](https://gitee.com/herijian/characterpic)| [@何日见](https://gitee.com/herijian) | 喵喵插件角色面板图库这里→是[存储库](https://gitee.com/herijian/characterpic1) |
+| [何日见原神星铁角色面板图](https://github.com/herijian1/characterpic)| [@何日见](https://github.com/herijian1) | 喵喵插件角色面板图库这里→是[存储库](https://github.com/herijian1/characterpic1) |
 | [云崽小破站](https://yunzaibot.cn) | [@岩王帝君](https://gitee.com/fdvhsvg) | Windows云崽启动器，环境包下载，插件索引等内容的聚合站 |
 | [喵喵插件帮助的皮肤包](https://gitee.com/herijian/miaopifu) | [@何日见](https://gitee.com/herijian) | 喵喵插件(miao-plugin)帮助列表的皮肤包 |
 | [云崽的图文搭建教程](https://xn--h5q74xcj0bhth.icu/) | [@重装小兔](https://gitee.com/OvertimeBunny) | 这都看不懂那只能紫砂了 |
