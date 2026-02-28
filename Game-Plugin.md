@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [日子线插件 (riz-plugin)](https://github.com/catrong/riz-plugin) | [@Catrong](https://github.com/Catrong) | ~~phi-plugin作者最新力作~~，提供Rizline现有曲目的曲目信息查询、定数表等，查分功能仍在全力开发ing [Gitee仓库](https://gitee.com/catrong/riz-plugin)|
 | [终末地插件(zmd-plugin)](https://github.com/Anon-deisu/zmd-plugin) | [@Anon-deisu](https://github.com/Anon-deisu) | 终末地插件，支持抽卡查询/角色数据查询等 |
 | [endfield-plugin)](https://github.com/Entropy-Increase-Team/endfield-plugin) | [@QingYingX](https://github.com/QingYingX) | Endfield-plugin 是一个为 Yunzai-Bot 开发的 终末地 游戏插件 |
 | [雀魂插件(Majsoul-Plugin)](https://github.com/Xcheng-dada/Majsoul-Plugin/) | [@小橙c](https://github.com/Xcheng-dada) | 雀魂麻将抽卡插件，支持十连抽卡，多卡池切换，每日次数限制与管理 |
