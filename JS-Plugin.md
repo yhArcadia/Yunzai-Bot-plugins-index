@@ -1,4 +1,4 @@
-## 单JS类插件索引
+## 单JS类插引
 
 可以点击查看源码，另存为 `.js` 文件放入 `example` 文件夹来使用（有特别说明除外）
 
@@ -6,6 +6,7 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | ------- |
+| [QQ农场](https://gitee.com/z3198550236/yunzai-speech-synthesis) | [@jiujiang](https://gitee.com/z3198550236) | [查看源码](https://gitee.com/z3198550236/yunzai-speech-synthesis/raw/master/%E5%86%9C%E5%9C%BA.js) | ai写的一个QQ农场小插件，自建后端即可使用，https://github.com/maile456/qq-farm-bot.git|
 | [绝区零导入/导出抽卡记录](https://github.com/rainbowwarmth/Yunzai-Js) | [@RainBow](https://github.com/rainbowwarmth) | [查看源码](https://raw.githubusercontent.com/rainbowwarmth/Yunzai-Js/refs/heads/main/zzz-gcLog.js) | 为ZZZ-Plugin的抽卡记录在uigfv4标准上实现导入导出记录，命令为 %导入记录 %导出记录 |
 [卢浮宫插件](https://gitee.com/aozorayui/JS-Plugin) | [@青空由依](https://gitee.com/aozorayui) | [Github](https://github.com/AozoraYui/JS-Plugin/blob/main/one-last-image.js)&[Gitee](https://gitee.com/aozorayui/JS-Plugin/blob/master/one-last-image.js) | 卢浮宫插件，可将图片处理为one last kiss歌曲封面的“卢浮宫”风格 |
 | [欧卡状态](https://gitee.com/xingdonglcy/js-plugins) | [@LCY星动](https://gitee.com/xingdonglcy) | [查看源码](https://gitee.com/xingdonglcy/js-plugins/blob/master/example/%E6%AC%A7%E5%8D%A1%E7%8A%B6%E6%80%81.js) | 功能介绍：可以帮助卡车玩家实时获取TruckersMP 各个服务器（欧卡&美卡都有）状态；指令为：#欧卡状态 |
@@ -13,13 +14,13 @@
 | [取信息](https://gitee.com/atri0828a/Yunzai-plugins#%E5%8F%96%E4%BF%A1%E6%81%AF) | [@陌aaa](https://gitee.com/atri0828a) | [查看源码](https://gitee.com/atri0828a/Yunzai-plugins/raw/master/%E5%8F%96%E4%BF%A1%E6%81%AF.js) | 提取一条消息的所有信息，比如图片的外显，图链等，支持图片，语音，视频，卡片，文本等 |
 | [定时闹钟](https://gitee.com/aozorayui/JS-Plugin) | [@青空由依](https://gitee.com/aozorayui) | [Github](https://github.com/aozorayui/JS-Plugin/blob/main/Timed-alarm-clock.js)&[Gitee](https://gitee.com/aozorayui/JS-Plugin/blob/master/Timed-alarm-clock.js) | 一个定时闹钟插件，可以指定时间指定对象到点艾特提醒 |
 | [yunzai系统窗口和状态检测](https://gitee.com/wind-trace-typ/sys_status/tree/master) | [@风之迹](https://gitee.com/wind-trace-typ) | [查看源码](https://gitee.com/wind-trace-typ/sys_status/blob/master/%E7%B3%BB%E7%BB%9F%E7%8A%B6%E6%80%81%E6%A3%80%E6%B5%8B.js) | 可通过yunzai端的公网ip进行连接发送本地系统状态还有当前应用程序和应用标题 |
-| [手办化](https://github.com/xiaotian2333/yunzai-plugins-Single-file?tab=readme-ov-file#%E6%89%8B%E5%8A%9E%E5%8C%96) | [@小天](https://github.com/xiaotian2333) | [查看源码](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E6%89%8B%E5%8A%9E%E5%8C%96.js) | 通过智谱大模型将图片转换为手办化的图片（仓库内还有其他更多插件） |
-| [三角洲每日密码](https://github.com/xiaotian2333/yunzai-plugins-Single-file?tab=readme-ov-file#%E4%B8%89%E8%A7%92%E6%B4%B2%E6%AF%8F%E6%97%A5%E5%AF%86%E7%A0%81) | [@小天](https://github.com/xiaotian2333) | [查看源码](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E4%B8%89%E8%A7%92%E6%B4%B2%E6%AF%8F%E6%97%A5%E5%AF%86%E7%A0%81.js) | 获取三角洲密码门每日密码（仓库内还有其他更多插件） |
-| [进群语音欢迎](https://gitee.com/z3198550236/yunzai-speech-synthesis) | [ @jujiang ](https://gitee.com/z3198550236) | [查看源码](https://gitee.com/z3198550236/yunzai-speech-synthesis/raw/master/%E5%96%B5%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90.js) | 使用api进行语音合成 |
-| [语音合成](https://gitee.com/z3198550236/yunzai-speech-synthesis) | [ @jujiang ](https://gitee.com/z3198550236) | [查看源码](https://gitee.com/z3198550236/yunzai-speech-synthesis/raw/master/%E5%96%B5%E8%AF%AD%E8%BF%9B%E7%BE%A4%E9%80%9A%E7%9F%A5%E8%AF%AD%E9%9F%B3.js) | 使用api进行语音合成实现进群语音欢迎 |
+| [手办化](https://github.com/xiaotian2333/yunzai-plugins-Single-file?tab=readme-ov-file#%E6%89%8B%E5%8A%9E%E5%8C%96) | [@小天](https://github.com/xiaotian2333) | [查看源码](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E6%89%8B%E5%8A%9E%E5%8C%96.js) | 通过智谱大模型将图片转换为手办化的图片（仓库内还有其他更多插件） |/%E5%96%B5%E8%AF%AD%E8%BF%9B%E7%BE%A4%E9%80%9A%E7%9F%A5%E8%AF%AD%E9%9F%B3.js) | 使用api进行语音合成实现进群语音欢迎 |
 | [原神 & 星铁抽卡期望计算](https://gitee.com/sczr/mihoyo-gacha-calculator) | [@Sczr0](https://gitee.com/sczr) | [查看源码](https://gitee.com/sczr/mihoyo-gacha-calculator/raw/main/test2.js) | 计算《原神》和《崩坏：星穹铁道》抽卡期望与概率分布，适配了新版本的捕获明光和命定值减一。 |
 | [GroupManager](https://gitee.com/gitxinos/GroupManager) | [@Xin OS](https://gitee.com/gitxinos) | [查看源码](https://gitee.com/gitxinos/GroupManager/raw/master/GroupManager.js) | 为 TRSS-Yunzai 提供群聊管理功能，支持踢人、禁言、解禁，支持主人保护与操作日志 |
-| [Phigros版本更新信息](https://gitee.com/pimeng/yunzai-jsplugin#phigros%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0%E4%BF%A1%E6%81%AF) | [@皮梦](https://gitee.com/pimeng) | [查看源码](https://gitee.com/pimeng/yunzai-jsplugin/raw/master/TaptapPhigrosUpdateInfo.js) |  通过抓包获取Phigros的更新日志 |
+| [Phigros版本更新信息](https://gitee.com/pimeng/yunzai-jsplugin#phigros%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0%E4%BF%A1%E6%81%AF) | [@皮梦](https://gitee.com/pimeng) | [查看源码](https:/
+| [三角洲每日密码](https://github.com/xiaotian2333/yunzai-plugins-Single-file?tab=readme-ov-file#%E4%B8%89%E8%A7%92%E6%B4%B2%E6%AF%8F%E6%97%A5%E5%AF%86%E7%A0%81) | [@小天](https://github.com/xiaotian2333) | [查看源码](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E4%B8%89%E8%A7%92%E6%B4%B2%E6%AF%8F%E6%97%A5%E5%AF%86%E7%A0%81.js) | 获取三角洲密码门每日密码（仓库内还有其他更多插件） |
+| [进群语音欢迎](https://gitee.com/z3198550236/yunzai-speech-synthesis) | [ @jujiang ](https://gitee.com/z3198550236) | [查看源码](https://gitee.com/z3198550236/yunzai-speech-synthesis/raw/master/%E5%96%B5%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90.js) | 使用api进行语音合成 |
+| [语音合成](https://gitee.com/z3198550236/yunzai-speech-synthesis) | [ @jujiang ](https://gitee.com/z3198550236) | [查看源码](https://gitee.com/z3198550236/yunzai-speech-synthesis/raw/master/gitee.com/pimeng/yunzai-jsplugin/raw/master/TaptapPhigrosUpdateInfo.js) |  通过抓包获取Phigros的更新日志 |
 | [deepseekAI](https://gitee.com/atri0828a/deepseekAI.js-for-yunzai) | [@陌aaa](https://gitee.com/atri0828a) | [查看源码](https://gitee.com/atri0828a/deepseekAI.js-for-yunzai/blob/master/deepseekAI.js) |  在@枫林的deepseekAI插件的基础上增加了一些功能 |
 | [自动戳人](https://gitee.com/feixingwa/poking) | [  @飞行蛙  ](https://gitee.com/feixingwa) | [查看源码](https://gitee.com/feixingwa/poking.git) | 解放双手的戳人小玩意 |
 | [今天吃什么promax](https://gitee.com/Daroach/Yunzai-js/tree/master/) | [ @花澤立花理香菜 ](https://gitee.com/Daroach/) | [查看源码](https://gitee.com/Daroach/Yunzai-js/blob/master/%E4%BB%8A%E5%A4%A9%E5%90%83%E4%BB%80%E4%B9%88promax.js) | 原旧冰祈插件(Icepray-plugin)的“今天吃什么.js”小插件的升级版 |
