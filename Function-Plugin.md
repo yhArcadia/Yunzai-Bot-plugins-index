@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [daily-Plugin](https://gitee.com/yll14/daily-plugin) | [@桉南](https：//gitee.com/yll14) | xingluo-plugin（星落插件）复活版，仅保留了热榜功能 |
 | [黑名单插件（yunzai-blacklist-plugin）](https://github.com/Sakura1618/yunzai-blacklist-plugin) | [@Sakura1618](https://github.com/Sakura1618) | 黑名单/授权管理插件，支持入群自动踢黑、自检踢黑、黑名单与管理名单查询以及主人授权，并在关键操作时私聊通知主人。 |
 | [wordle-plugin](https://gitee.com/qingyingxbot/wordle-plugin) | [@QingYingX](https://gitee.com/QingYingX) | 一款集合了 Wordle,Math,汉兜 的游戏插件 二改插件：) |
 | [每日运势（Daily-Attendance-plugin）](https://gitee.com/qingyingxbot/Daily-Attendance-plugin) | [@QingYingX](https://gitee.com/QingYingX) | 每日运势... |
@@ -24,7 +25,6 @@
 | [公告插件 (Notice-plugin)](https://gitee.com/qingyingxbot/Notice-plugin) | [@QingYingX](https://gitee.com/QingYingX) | 一款提供群发公告功能的插件 |
 | [Hack-Plugin](https://github.com/admilkjs/hack-plugin) | [@Admilk](https://gitee.com/adrae) | 为TRSS-Yunzai,Miao-Yunzai提供发送`raw`消息的能力 |
 | [NapCat-Adapter](https://gitee.com/qiannqq/napcat-adapter) | [@千奈千祁](https://gitee.com/qiannqq) | 兼容Miao-Yunzai的NapCat.OneBot适配器 |
-| [Xingluo-Plugin](https://gitee.com/yhArcadia/Yunzai-Bot-plugins-index) | [@洛洛](https：//gitee.com/yll14) | 重构中 |
 | [GroupEntry_Plugin](https://github.com/A1Panda/GroupEntry_Plugin) | [@A1_Panda](https://github.com/A1Panda) | 一款强大的群管理插件持续更新中。。。 |
 | [Xtower-Plugin](https://gitee.com/sczr/Xtower-Plugin) | [@弦塔](https://gitee.com/sczr) | 零碎的JS功能实现，目前包括：随机歌词，聪明Bingo，以及测试中的谁是卧底与狼人杀功能等等 |
 | [Chat-plugin](https://gitee.com/HDTianRu/Chat-plugin) | [@天如](https://gitee.com/HDTianRu) | 一款使用OpenAI接口的AI伪人聊天插件，功能配置简洁 |
