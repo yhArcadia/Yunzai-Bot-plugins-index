@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [喵喵资源更新脚本](https://github.com/kvcfdd/oi) | [白咩](https://github.com/kvcfdd) | 喵喵资源更新脚本，数据源gensh.honeyhunterworld.com |
 | [一键启动Yunzai+LLonebot并监控进程](https://gitee.com/touchscale_admin/one-click-start---yunzai-llbot) | [touchscale](https://gitee.com/touchscale_admin) |一键启动Yunzai+LLonebot并监测其状态，检测到停止运行后能自动重启|
 | [⭐][TRSS Yunzai 管理脚本](https://TRSS.me) | [@时雨🌌星空](../../../../TimeRainStarSky) | 【置顶】提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Windows / Linux / Mac / Android |
 |[TRSS-Yunzai最小安装脚本](https://gitee.com/Vremq_vperyod/yunzai-install-script)|[Vremq_vperyod](https://gitee.com/Vremq_vperyod)|使用systemd-nspawn和alpine linux的Yunzai安装脚本，完美解决docker连不上和占用大的问题|
