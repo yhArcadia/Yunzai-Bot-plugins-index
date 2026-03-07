@@ -7,6 +7,7 @@
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | ------- |
 | [完美许愿器](https://github.com/Temmie0125/Yunzai-JS-Plugin#%E5%AE%8C%E7%BE%8E%E8%AE%B8%E6%84%BF%E5%99%A8wishjs) | [@Temmie](https://github.com/Temmie0125) | [查看源码](https://github.com/Temmie0125/Yunzai-JS-Plugin.git) | 一个因果律模拟应用。利用 DeepSeek API 的强大推理能力，在满足用户愿望的同时，精准指出其中的逻辑漏洞并反馈一个毫无收益的反转现实。**需要自行配置DeepSeek API Key** |
+| [圣遗物OCR](https://github.com/NotIvny/yunzai-artis-ocr-js) | [@NotIvny](https://github.com/NotIvny) | [查看源码](https://raw.githubusercontent.com/NotIvny/yunzai-artis-ocr-js/refs/heads/main/ocr.js) | 为喵喵插件角色面板替换支持使用圣遗物/遗器属性截图 |
 | [QQ农场](https://gitee.com/z3198550236/yunzai-speech-synthesis) | [@jiujiang](https://gitee.com/z3198550236) | [查看源码](https://gitee.com/z3198550236/yunzai-speech-synthesis/raw/master/%E5%86%9C%E5%9C%BA.js) | ai写的一个QQ农场小插件，自建后端即可使用，https://github.com/maile456/qq-farm-bot.git|
 | [绝区零导入/导出抽卡记录](https://github.com/rainbowwarmth/Yunzai-Js) | [@RainBow](https://github.com/rainbowwarmth) | [查看源码](https://raw.githubusercontent.com/rainbowwarmth/Yunzai-Js/refs/heads/main/zzz-gcLog.js) | 为ZZZ-Plugin的抽卡记录在uigfv4标准上实现导入导出记录，命令为 %导入记录 %导出记录 |
 [卢浮宫插件](https://gitee.com/aozorayui/JS-Plugin) | [@青空由依](https://gitee.com/aozorayui) | [Github](https://github.com/AozoraYui/JS-Plugin/blob/main/one-last-image.js)&[Gitee](https://gitee.com/aozorayui/JS-Plugin/blob/master/one-last-image.js) | 卢浮宫插件，可将图片处理为one last kiss歌曲封面的“卢浮宫”风格 |
