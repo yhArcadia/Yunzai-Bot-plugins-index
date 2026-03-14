@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [Lofter插件 (Lofter-Plugin)](https://github.com/WindDrift/Lofter-Plugin) | [@WindDrift](https://github.com/WindDrift) | 适用于 Yunzai-Bot v3 和 TRSS-Yunzai 的 Lofter 博文解析插件，支持自动解析博文内容、提取文字和高清原图。 |
 | [书籍角色文本图鉴（bookdex-plugin）](https://github.com/KexinyingLife/bookdex-plugin) | [@KexinyingLife](https://github.com/KexinyingLife) | 原神书籍、角色故事、圣遗物、武器故事的文本检索与阅读插件，支持统一更新与搜索，首次使用请先执行 #统一更新 全量拉取数据。 |
 | [daily-Plugin](https://gitee.com/yll14/daily-plugin) | [@桉南](https：//gitee.com/yll14) | xingluo-plugin（星落插件）复活版，仅保留了热榜功能 |
 | [黑名单插件（yunzai-blacklist-plugin）](https://github.com/Sakura1618/yunzai-blacklist-plugin) | [@Sakura1618](https://github.com/Sakura1618) | 黑名单/授权管理插件，支持入群自动踢黑、自检踢黑、黑名单与管理名单查询以及主人授权，并在关键操作时私聊通知主人。 |
