@@ -6,6 +6,7 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | ------- |
+| [QA全能问答](https://github.com/Tangxinyan0904/Yunzai-QA-plugin )|  [@Tangxinyan](https://github.com/Tangxinyan0904) | [查看源码](https://github.com/Tangxinyan0904/Yunzai-QA-plugin/blob/main/QA.js)  | 一款为 Yunzai-Bot 打造的轻量级问答管理插件。支持模糊/精确双匹配模式，内置 CD 保护，并优化了图片存储 |
 | [完美许愿器](https://github.com/Temmie0125/Yunzai-JS-Plugin#%E5%AE%8C%E7%BE%8E%E8%AE%B8%E6%84%BF%E5%99%A8wishjs) | [@Temmie](https://github.com/Temmie0125) | [查看源码](https://github.com/Temmie0125/Yunzai-JS-Plugin.git) | 一个因果律模拟应用。利用 DeepSeek API 的强大推理能力，在满足用户愿望的同时，精准指出其中的逻辑漏洞并反馈一个毫无收益的反转现实。**需要自行配置DeepSeek API Key** |
 | [圣遗物OCR](https://github.com/NotIvny/yunzai-artis-ocr-js) | [@NotIvny](https://github.com/NotIvny) | [查看源码](https://raw.githubusercontent.com/NotIvny/yunzai-artis-ocr-js/refs/heads/main/ocr.js) | 为喵喵插件角色面板替换支持使用圣遗物/遗器属性截图 |
 | [QQ农场](https://gitee.com/z3198550236/yunzai-speech-synthesis) | [@jiujiang](https://gitee.com/z3198550236) | [查看源码](https://gitee.com/z3198550236/yunzai-speech-synthesis/raw/master/%E5%86%9C%E5%9C%BA.js) | ai写的一个QQ农场小插件，自建后端即可使用，https://github.com/maile456/qq-farm-bot.git|
