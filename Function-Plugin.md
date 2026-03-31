@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [Lofter-Plugin](https://github.com/WindDrift/Lofter-Plugin) | [@WindDrift](https://github.com/WindDrift) | 适用于 Yunzai-Bot v3 和 TRSS-Yunzai 的 Lofter 博文解析插件。 |
 | [微信个人号适配器（TRSS-WeChat-OC-Plugin）](https://github.com/AIGC-Yunzai/TRSS-WeChat-OC-Plugin) | [@ethan42nd](https://github.com/ethan42nd) [@misaka20002](https://github.com/misaka20002) | TRSS-Yunzai 的微信个人号适配器插件，接入微信ClawBot接口。 |
 | [书籍角色文本图鉴（bookdex-plugin）](https://github.com/KexinyingLife/bookdex-plugin) | [@KexinyingLife](https://github.com/KexinyingLife) | 原神书籍、角色故事、圣遗物、武器故事的文本检索与阅读插件，支持统一更新与搜索，首次使用请先执行 #统一更新 全量拉取数据。 |
 | [daily-Plugin](https://gitee.com/yll14/daily-plugin) | [@桉南](https：//gitee.com/yll14) | xingluo-plugin（星落插件）复活版，仅保留了热榜功能 |
