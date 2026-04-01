@@ -5,7 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
-| [原神背包查询](https://github.com/devil233-ui/GsMaterialPack) | [@devil](https://github.com/devil233-ui) | 获取原神背包部分物品数量的插件，数据来源养成计算器+大地图
+| [米游材料背包查询](https://github.com/devil233-ui/HoyoMaterialPack) | [@devil](https://github.com/devil233-ui) | 获取米游材料背包部分物品数量的插件，数据来源mys养成计算器+大地图
 | [书籍角色文本图鉴（bookdex-plugin）](https://github.com/KexinyingLife/bookdex-plugin) | [@KexinyingLife](https://github.com/KexinyingLife) | 原神书籍、角色故事、圣遗物、武器故事的文本检索与阅读插件，支持统一更新与搜索，首次使用请先执行 #统一更新 全量拉取数据。 |
 | [daily-Plugin](https://gitee.com/yll14/daily-plugin) | [@桉南](https：//gitee.com/yll14) | xingluo-plugin（星落插件）复活版，仅保留了热榜功能 |
 | [黑名单插件（yunzai-blacklist-plugin）](https://github.com/Sakura1618/yunzai-blacklist-plugin) | [@Sakura1618](https://github.com/Sakura1618) | 黑名单/授权管理插件，支持入群自动踢黑、自检踢黑、黑名单与管理名单查询以及主人授权，并在关键操作时私聊通知主人。 |
