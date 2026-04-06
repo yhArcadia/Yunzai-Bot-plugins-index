@@ -6,7 +6,6 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | ------- |
-| [批量撤回](https://gitcode.com/qiannqq/yunzai-plugin-JS#%E6%89%B9%E9%87%8F%E6%92%A4%E5%9B%9Ejs)|  [@千奈千祁](https://gitee.com/qiannqq) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/JS/batchRecall.js)  | 批量撤回群消息的插件，支持撤回指定用户的消息或撤回最近N条消息 |
 | [runCmd](https://gitcode.com/qiannqq/yunzai-plugin-JS#runcmdjs)|  [@千奈千祁](https://gitee.com/qiannqq) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/JS/runCmd.js)  | 该插件的主要作用是实现远程执行指令，支持Windows输出和Linux |
 | [渲染控制台日志](https://gitcode.com/qiannqq/yunzai-plugin-JS#%E6%B8%B2%E6%9F%93%E6%8E%A7%E5%88%B6%E5%8F%B0%E6%97%A5%E5%BF%97js)|  [@千奈千祁](https://gitee.com/qiannqq) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/JS/renderConsole.js)  | 该插件的主要作用是代替原版`#日志`和`#错误日志`，将模拟终端控制台渲染为图片，以图片的形式将最近的N条日志记录发送出来，使日志更容易看懂 |
 | [QA全能问答](https://github.com/Tangxinyan0904/Yunzai-QA-plugin )|  [@Tangxinyan](https://github.com/Tangxinyan0904) | [查看源码](https://github.com/Tangxinyan0904/Yunzai-QA-plugin/blob/main/QA.js)  | 一款为 Yunzai-Bot 打造的轻量级问答管理插件。支持模糊/精确双匹配模式，内置 CD 保护，并优化了图片存储 |
@@ -23,7 +22,6 @@
 | [手办化](https://github.com/xiaotian2333/yunzai-plugins-Single-file?tab=readme-ov-file#%E6%89%8B%E5%8A%9E%E5%8C%96) | [@小天](https://github.com/xiaotian2333) | [查看源码](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E6%89%8B%E5%8A%9E%E5%8C%96.js) | 通过智谱大模型将图片转换为手办化的图片（仓库内还有其他更多插件） |/%E5%96%B5%E8%AF%AD%E8%BF%9B%E7%BE%A4%E9%80%9A%E7%9F%A5%E8%AF%AD%E9%9F%B3.js) | 使用api进行语音合成实现进群语音欢迎 |
 | [原神 & 星铁抽卡期望计算](https://gitee.com/sczr/mihoyo-gacha-calculator) | [@Sczr0](https://gitee.com/sczr) | [查看源码](https://gitee.com/sczr/mihoyo-gacha-calculator/raw/main/test2.js) | 计算《原神》和《崩坏：星穹铁道》抽卡期望与概率分布，适配了新版本的捕获明光和命定值减一。 |
 | [GroupManager](https://gitee.com/gitxinos/GroupManager) | [@Xin OS](https://gitee.com/gitxinos) | [查看源码](https://gitee.com/gitxinos/GroupManager/raw/master/GroupManager.js) | 为 TRSS-Yunzai 提供群聊管理功能，支持踢人、禁言、解禁，支持主人保护与操作日志 |
-| [Phigros版本更新信息](https://gitee.com/pimeng/yunzai-jsplugin#phigros%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0%E4%BF%A1%E6%81%AF) | [@皮梦](https://gitee.com/pimeng) | [查看源码](https:/
 | [三角洲每日密码](https://github.com/xiaotian2333/yunzai-plugins-Single-file?tab=readme-ov-file#%E4%B8%89%E8%A7%92%E6%B4%B2%E6%AF%8F%E6%97%A5%E5%AF%86%E7%A0%81) | [@小天](https://github.com/xiaotian2333) | [查看源码](https://github.com/xiaotian2333/yunzai-plugins-Single-file/blob/main/%E4%B8%89%E8%A7%92%E6%B4%B2%E6%AF%8F%E6%97%A5%E5%AF%86%E7%A0%81.js) | 获取三角洲密码门每日密码（仓库内还有其他更多插件） |
 | [进群语音欢迎](https://gitee.com/z3198550236/yunzai-speech-synthesis) | [ @jujiang ](https://gitee.com/z3198550236) | [查看源码](https://gitee.com/z3198550236/yunzai-speech-synthesis/raw/master/%E5%96%B5%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90.js) | 使用api进行语音合成 |
 | [语音合成](https://gitee.com/z3198550236/yunzai-speech-synthesis) | [ @jujiang ](https://gitee.com/z3198550236) | [查看源码](https://gitee.com/z3198550236/yunzai-speech-synthesis/raw/master/gitee.com/pimeng/yunzai-jsplugin/raw/master/TaptapPhigrosUpdateInfo.js) |  通过抓包获取Phigros的更新日志 |
