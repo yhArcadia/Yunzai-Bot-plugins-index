@@ -6,6 +6,7 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | ------- |
+| [Help_Lite](https://gitcode.com/T060925ZX/help-plugin/)|  [@Jiaozi](https://github.com/T060925ZX) | [查看源码](https://gitcode.com/T060925ZX/help-plugin/blob/main/Help_Lite.js)  | 为Yunzai提供一个简约美观的菜单，无需修改喵喵帮助导致菜单过于笼长不美观 |
 | [runCmd](https://gitcode.com/qiannqq/yunzai-plugin-JS#runcmdjs)|  [@千奈千祁](https://gitee.com/qiannqq) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/JS/runCmd.js)  | 该插件的主要作用是实现远程执行指令，支持Windows输出和Linux |
 | [渲染控制台日志](https://gitcode.com/qiannqq/yunzai-plugin-JS#%E6%B8%B2%E6%9F%93%E6%8E%A7%E5%88%B6%E5%8F%B0%E6%97%A5%E5%BF%97js)|  [@千奈千祁](https://gitee.com/qiannqq) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/JS/renderConsole.js)  | 该插件的主要作用是代替原版`#日志`和`#错误日志`，将模拟终端控制台渲染为图片，以图片的形式将最近的N条日志记录发送出来，使日志更容易看懂 |
 | [QA全能问答](https://github.com/Tangxinyan0904/Yunzai-QA-plugin )|  [@Tangxinyan](https://github.com/Tangxinyan0904) | [查看源码](https://github.com/Tangxinyan0904/Yunzai-QA-plugin/blob/main/QA.js)  | 一款为 Yunzai-Bot 打造的轻量级问答管理插件。支持模糊/精确双匹配模式，内置 CD 保护，并优化了图片存储 |
