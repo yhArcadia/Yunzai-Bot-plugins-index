@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [谁是卧底插件(undercover-plugin)](https://github.com/Cat-bl/undercover-plugin) | [@Cat-bl](https://github.com/Cat-bl) | 基于 Trss-Yunzai 的谁是卧底游戏插件，支持大模型动态出词（OpenAI兼容接口）、连通性预检、平票 PK 加赛、超时自动推进，群内 4~12 人对战。 |
 | [lolomi-calc](https://gitee.com/land-route_lu/lolomi-calc) | [@land-route_lu](https://gitee.com/land-route_lu) | 复用梁氏框架，仅保留原神角色计算。 |
 | [微信个人号适配器（TRSS-WeChat-OC-Plugin）](https://github.com/AIGC-Yunzai/TRSS-WeChat-OC-Plugin) | [@ethan42nd](https://github.com/ethan42nd) [@misaka20002](https://github.com/misaka20002) | TRSS-Yunzai 的微信个人号适配器插件，接入微信ClawBot接口。 |
 | [书籍角色文本图鉴（bookdex-plugin）](https://github.com/KexinyingLife/bookdex-plugin) | [@KexinyingLife](https://github.com/KexinyingLife) | 原神书籍、角色故事、圣遗物、武器故事的文本检索与阅读插件，支持统一更新与搜索，首次使用请先执行 #统一更新 全量拉取数据。 |
