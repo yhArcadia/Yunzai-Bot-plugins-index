@@ -50,7 +50,6 @@
 | [DIY帮助插件(help-plugin)](https://gitcode.com/T060925ZX/help-plugin)  | [@饺子](https://github.com/T060925ZX)  | 提供美化帮助菜单，支持DIY，可一键同步喵喵帮助  |
 | [喵喵扩展插件(ark-plugin)](https://github.com/NotIvny/ark-plugin)  | [@NotIvny](https://github.com/NotIvny)  | 为喵喵插件提供总排名、排名统计、独立群设置、帮助图扩展等功能，同时提供文件备份、修改插件优先级等功能。  |
 | [优纪插件(yuki-plugin)](https://gitee.com/snowtafir/yuki-plugin)  | [@snowtafir](https://github.com/snowtafir) | 一个适用于 Yunzai (Miao/Trss/JS) 系列机器人框架 的B站动态、微博动态订阅推送和B站视频链接解析的插件 |
-| [Esca插件(esca-plugin)](https://gitee.com/escaped-spark/esca-plugin) | [@逸燧](https://escaped.icu) | 功能性插件，提供随机图/视频，备案查询等功能 |
 | [更好的远程命令插件(better-rc)](https://gitee.com/Vremq_vperyod/better-rc) | [  @Vremq_vperyod ](https://gitee.com/Vremq_vperyod)| 交互式远程命令执行与定时任务 |
 | [奥林匹克插件(Olympic-plugin)](https://gitee.com/xiaomifan233/olympic-plugin) | [ @小米饭](https://gitee.com/xiaomifan233)| 提供有关巴黎奥运会的一些查询功能 |
 | [DF插件(DF-Plugin)](https://github.com/DenFengLai/DF-Plugin) | [@等风来](https://gitee.com/DengFengLai-F) | 提供了用户联系主人、Git仓库更新推送到群聊、随机表情包戳一戳、随机图片、图片自动添加外显等功能，推荐使用[锅巴插件](https://gitee.com/guoba-yunzai/guoba-plugin)进行配置。 |
