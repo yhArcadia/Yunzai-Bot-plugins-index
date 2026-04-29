@@ -6,6 +6,9 @@
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
 | [Lofter-Plugin](https://github.com/WindDrift/Lofter-Plugin) | [@WindDrift](https://github.com/WindDrift) | 适用于 Yunzai-Bot v3 和 TRSS-Yunzai 的 Lofter 博文解析插件。 |
+| [Classtable（课表插件）](https://github.com/Pimeng/classtable) | [@Pimeng](https://github.com/Pimeng) | Miao-Yunzai 机器人课程表插件 |
+| [课程表插件（Yunzai-Schedule-Plugin）](https://github.com/Temmie0125/Yunzai-Schedule-Plugin) | [@Temmie](https://github.com/Temmie0125) | 一个功能全面的课程表插件，支持口令/文件导入课表、查看群友的上课情况、自由查询个人课表、并支持推送次日课表、开启翘课模式。内置一套课表显示主题，支持渲染精美的图片。代码已重构，支持自由进行配置，详情请查看插件页面 |
+| [lolomi-calc](https://gitee.com/land-route_lu/lolomi-calc) | [@land-route_lu](https://gitee.com/land-route_lu) | 复用梁氏框架，仅保留原神角色计算。 |
 | [微信个人号适配器（TRSS-WeChat-OC-Plugin）](https://github.com/AIGC-Yunzai/TRSS-WeChat-OC-Plugin) | [@ethan42nd](https://github.com/ethan42nd) [@misaka20002](https://github.com/misaka20002) | TRSS-Yunzai 的微信个人号适配器插件，接入微信ClawBot接口。 |
 | [书籍角色文本图鉴（bookdex-plugin）](https://github.com/KexinyingLife/bookdex-plugin) | [@KexinyingLife](https://github.com/KexinyingLife) | 原神书籍、角色故事、圣遗物、武器故事的文本检索与阅读插件，支持统一更新与搜索，首次使用请先执行 #统一更新 全量拉取数据。 |
 | [daily-Plugin](https://gitee.com/yll14/daily-plugin) | [@桉南](https：//gitee.com/yll14) | xingluo-plugin（星落插件）复活版，仅保留了热榜功能 |
@@ -46,10 +49,9 @@
 | [鹿管插件 (yunzai-plugin-deer-pipe)](https://gitee.com/kyrzy0416/yunzai-plugin-deer-pipe) | [@zhiyu](https://gitee.com/kyrzy0416) | 一个鹿管签到小插件，纯净、轻量、有且仅有一个每月鹿管签到功能 |
 | [文本语音合成(yunzai-fish-speech-plugin)](https://github.com/oldcitynight/yunzai-fish-speech-plugin) | [@oldcitynight](https://github.com/oldcitynight) [@fishaudio](https://github.com/fishaudio) | 本地或远程文本语音合成，支持从任意音源即时学习并推理合成语音，目前处于早期开发阶段。<br> **注意：因 Gitee Reward 无法关闭，本项目无 Gitee 镜像。此外使用前请详细阅读 README 中的声明部分。** |
 | [小微插件(micro-plugin)](https://github.com/V2233/micro-plugin)  | [@Smallv](https://github.com/V2233)  | Yunzai开发管理面板，可在线生成简易插件、编辑图片、仿真QQ沙盒测试、数据库管理、文件管理、代码编辑、配置编辑、onebot连接、终端ssh连接等，详情见[文档](https://v2233.github.io/zh/)  |
-| [DIY帮助插件(help-plugin)](https://gitee.com/tu-zhengxiong0925/help-plugin)  | [@饺子](https://gitee.com/tu-zhengxiong0925)  | 提供美化帮助菜单，支持DIY，可一键同步喵喵帮助  |
+| [DIY帮助插件(help-plugin)](https://gitcode.com/T060925ZX/help-plugin)  | [@饺子](https://github.com/T060925ZX)  | 提供美化帮助菜单，支持DIY，可一键同步喵喵帮助  |
 | [喵喵扩展插件(ark-plugin)](https://github.com/NotIvny/ark-plugin)  | [@NotIvny](https://github.com/NotIvny)  | 为喵喵插件提供总排名、排名统计、独立群设置、帮助图扩展等功能，同时提供文件备份、修改插件优先级等功能。  |
 | [优纪插件(yuki-plugin)](https://gitee.com/snowtafir/yuki-plugin)  | [@snowtafir](https://github.com/snowtafir) | 一个适用于 Yunzai (Miao/Trss/JS) 系列机器人框架 的B站动态、微博动态订阅推送和B站视频链接解析的插件 |
-| [Esca插件(esca-plugin)](https://gitee.com/escaped-spark/esca-plugin) | [@逸燧](https://escaped.icu) | 功能性插件，提供随机图/视频，备案查询等功能 |
 | [更好的远程命令插件(better-rc)](https://gitee.com/Vremq_vperyod/better-rc) | [  @Vremq_vperyod ](https://gitee.com/Vremq_vperyod)| 交互式远程命令执行与定时任务 |
 | [奥林匹克插件(Olympic-plugin)](https://gitee.com/xiaomifan233/olympic-plugin) | [ @小米饭](https://gitee.com/xiaomifan233)| 提供有关巴黎奥运会的一些查询功能 |
 | [DF插件(DF-Plugin)](https://github.com/DenFengLai/DF-Plugin) | [@等风来](https://gitee.com/DengFengLai-F) | 提供了用户联系主人、Git仓库更新推送到群聊、随机表情包戳一戳、随机图片、图片自动添加外显等功能，推荐使用[锅巴插件](https://gitee.com/guoba-yunzai/guoba-plugin)进行配置。 |
