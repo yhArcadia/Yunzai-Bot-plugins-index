@@ -6,7 +6,7 @@
 | 名称 | 作者 | 备注 |
 | -- | -- | -- |
 | [Yunzai插件开发skill](https://gitee.com/yeqiu6080/yunzai-plugin-skill/) |  @yeqiu6080 | 让AI工具更熟练地写trss崽插件（可能） |
-| [Yunzai文档【论坛】](https://yunz.cc)| [@云崽论坛](https://yunz.cc) | 包含TRSS/MIAO/NEXT的文档【论坛】更新有用的教程也欢迎入驻 |
+| [Yunzai文档【论坛】](https://yzai.top/)| [@墨安](https://github.com/Muoan) | 包含TRSS/MIAO/NEXT的文档【论坛】更新有用的教程也欢迎嘿壳入驻 |
 | [云崽一站式解决方案](https://gitee.com/lzqmql)| [@岩王帝君](https://gitee.com/fdvhsvg) |适用于云崽绝大部分问题的解决方案，提供下载站，enka，qs脚本，安装脚本的聚合站点|
 | [Yunzai 加速计划](https://gitcode.com/Mirror-Yunzai) | [@千奈千祁](https://gitee.com/qiannqq) | **Yunzai 加速计划** 旨在为所有无国内源的Yunzai插件创建GitCode国内镜像源 |
 | [云崽安装图文教程](https://gitee.com/lzqmql/bxianx-yunzai-teaching)| [@岩王帝君](https://gitee.com/fdvhsvg)[@不羡仙](https://gitee.com/bxianx) | 应该算比较详细的教程了吧 |
