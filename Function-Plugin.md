@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [Lofter-Plugin](https://github.com/WindDrift/Lofter-Plugin) | [@WindDrift](https://github.com/WindDrift) | 适用于 Yunzai-Bot v3 和 TRSS-Yunzai 的 Lofter 博文解析插件。 |
 | [Classtable（课表插件）](https://github.com/Pimeng/classtable) | [@Pimeng](https://github.com/Pimeng) | Miao-Yunzai 机器人课程表插件 |
 | [课程表插件（Yunzai-Schedule-Plugin）](https://github.com/Temmie0125/Yunzai-Schedule-Plugin) | [@Temmie](https://github.com/Temmie0125) | 一个功能全面的课程表插件，支持口令/文件导入课表、查看群友的上课情况、自由查询个人课表、并支持推送次日课表、开启翘课模式。内置一套课表显示主题，支持渲染精美的图片。代码已重构，支持自由进行配置，详情请查看插件页面 |
 | [lolomi-calc](https://gitee.com/land-route_lu/lolomi-calc) | [@land-route_lu](https://gitee.com/land-route_lu) | 复用梁氏框架，仅保留原神角色计算。 |
