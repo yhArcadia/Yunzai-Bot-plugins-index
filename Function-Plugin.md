@@ -5,6 +5,9 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [群聊ai对话插件(bl-chat-plugin)](https://github.com/Cat-bl/bl-chat-plugin) | [@Cat-bl](https://github.com/Cat-bl) | 适用于Trss yunzai+napcat的ai对话插件，支持本地工具调用，自定义本地工具，mcp服务配置等。|
+| [谁是卧底插件(undercover-plugin)](https://github.com/Cat-bl/undercover-plugin) | [@Cat-bl](https://github.com/Cat-bl) | 基于 Trss-Yunzai 的谁是卧底游戏插件，支持大模型动态出词（OpenAI兼容接口）、连通性预检、平票 PK 加赛、超时自动推进，群内 4~12 人对战。|
+| [海龟汤插件(soupbubble-plugin)](https://github.com/Cat-bl/soupbubble-plugin) | [@Cat-bl](https://github.com/Cat-bl) | 基于 Trss-Yunzai 的海龟汤（情境猜谜）游戏插件，AI 生成谜题并担任裁判。|
 | [Lofter-Plugin](https://github.com/WindDrift/Lofter-Plugin) | [@WindDrift](https://github.com/WindDrift) | 适用于 Yunzai-Bot v3 和 TRSS-Yunzai 的 Lofter 博文解析插件。 |
 | [Classtable（课表插件）](https://github.com/Pimeng/classtable) | [@Pimeng](https://github.com/Pimeng) | Miao-Yunzai 机器人课程表插件 |
 | [课程表插件（Yunzai-Schedule-Plugin）](https://github.com/Temmie0125/Yunzai-Schedule-Plugin) | [@Temmie](https://github.com/Temmie0125) | 一个功能全面的课程表插件，支持口令/文件导入课表、查看群友的上课情况、自由查询个人课表、并支持推送次日课表、开启翘课模式。内置一套课表显示主题，支持渲染精美的图片。代码已重构，支持自由进行配置，详情请查看插件页面 |
