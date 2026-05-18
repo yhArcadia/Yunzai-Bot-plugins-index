@@ -6,6 +6,7 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | ------- |
+| [米游材料背包查询](https://github.com/devil233-ui/HoyoMaterialPack) | [@devil](https://github.com/devil233-ui) | 获取米游材料背包养成相关物品数量的插件，数据来源mys养成计算器+大地图
 | [Help_Lite](https://gitcode.com/T060925ZX/help-plugin/)|  [@Jiaozi](https://github.com/T060925ZX) | [查看源码](https://gitcode.com/T060925ZX/help-plugin/blob/main/Help_Lite.js)  | 为Yunzai提供一个简约美观的菜单，无需修改喵喵帮助导致菜单过于笼长不美观 |
 | [cnb图床](https://gitee.com/wind-trace-typ/cnb-image-bed)|  [@风之迹](https://gitee.com/wind-trace-typ) | [查看源码](https://gitee.com/wind-trace-typ/cnb-image-bed/raw/master/cnb图床.js)  | 该插件的主要作用上传图片或文件至cnb图床然后获得链接，cnb是腾讯推出的代码仓库，上传速度和下载速度都很快，而且每个人拥有100g免费的对象存储空间，所以对于官机发送md图片非常友好 |
 | [runCmd](https://gitcode.com/qiannqq/yunzai-plugin-JS#runcmdjs)|  [@千奈千祁](https://gitee.com/qiannqq) | [查看源码](https://gitee.com/qiannqq/yunzai-plugin-JS/raw/master/JS/runCmd.js)  | 该插件的主要作用是实现远程执行指令，支持Windows输出和Linux |
