@@ -24,7 +24,7 @@
 |------| ---- | ------ | ----- | ----- | ----- |
 | Yunzai-Bot 索引库 | [@渔火Arcadia](https://gitee.com/yhArcadia) | [☞GitHub](https://github.com/yhArcadia/Yunzai-Bot-plugins-index) | [☞Gitee](https://gitee.com/yhArcadia/Yunzai-Bot-plugins-index) | 云崽相关内容索引库 | 就是本库啦！ |
 | TRSS-Yunzai | [@时雨🌌星空](../../../../TimeRainStarSky) | [☞GitHub](https://github.com/TimeRainStarSky/Yunzai) | [☞Gitee](https://gitee.com/TimeRainStarSky/Yunzai) | Yunzai 应用端，支持多账号，支持协议端：go-cqhttp、ComWeChat、GSUIDCore、ICQQ、QQBot、QQ频道、微信、KOOK、Telegram、Discord、OPQBot | ■■■■■ |
-| ALemonJS | [@lemonade](https://github.com/lemonade-lab/) | [☞GitHub](https://github.com/lemonade-lab/alemonjs) | [点击加入机器人开发者群](https://qm.qq.com/q/QYgwvEH22Q) |   可兼容或迁移Yunzai生态的全新机器人设计，多平台多协议，自由扩展，高性能，可沙河测试，可WEB管理，可桌面安装，可崩溃自愈，可热开发扩展和图片，支持js/ts | ■■■■■ |
+| ALemonJS | [@lemonade](https://github.com/lemonade-lab/) | [☞GitHub](https://github.com/lemonade-lab/alemonjs) | [点击加入机器人开发者群](https://qm.qq.com/q/QYgwvEH22Q) |   可兼容Yunzai生态的全新机器人，多平台多协议，自由扩展，高性能，可沙盒测试，可一键安装(桌面/手机/WEB)，可崩溃自愈，可热开发扩展和图片，支持js/ts | ■■■■■ |
 | Miao-Yunzai | [@喵喵](https://gitee.com/yoimiya-kokomi) | [☞GitHub](https://github.com/yoimiya-kokomi/Miao-Yunzai) | [☞Gitee](https://gitee.com/yoimiya-kokomi/Miao-Yunzai) | 喵版 Yunzai | ■■■■□ |
 | Yunzai-Bot | [@喵喵](https://gitee.com/yoimiya-kokomi) | [☞GitHub](https://github.com/yoimiya-kokomi/Yunzai-Bot) | [☞Gitee](https://gitee.com/yoimiya-kokomi/Yunzai-Bot) | 喵喵维护版 Yunzai | ■■□□□ |
 | Yunzai-Bot | [@Le-niao](https://gitee.com/Le-niao) | [☞GitHub](https://github.com/Le-niao/Yunzai-Bot) | [☞Gitee](https://gitee.com/Le-niao/Yunzai-Bot) | 原版 Yunzai | ■□□□□ |
