@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [CS开箱模拟插件(cs-opener-plugin)](https://github.com/Cat-bl/cs-opener-plugin) | [@Cat-bl](https://github.com/Cat-bl) | 适用于Yunzai bot的cs开箱模拟插件，本地代码真实渲染，视频格式发送结果。|
 | [群聊ai对话插件(bl-chat-plugin)](https://github.com/Cat-bl/bl-chat-plugin) | [@Cat-bl](https://github.com/Cat-bl) | 适用于Trss yunzai+napcat的ai对话插件，支持本地工具调用，自定义本地工具，mcp服务配置等。|
 | [谁是卧底插件(undercover-plugin)](https://github.com/Cat-bl/undercover-plugin) | [@Cat-bl](https://github.com/Cat-bl) | 基于 Trss-Yunzai 的谁是卧底游戏插件，支持大模型动态出词（OpenAI兼容接口）、连通性预检、平票 PK 加赛、超时自动推进，群内 4~12 人对战。|
 | [海龟汤插件(soupbubble-plugin)](https://github.com/Cat-bl/soupbubble-plugin) | [@Cat-bl](https://github.com/Cat-bl) | 基于 Trss-Yunzai 的海龟汤（情境猜谜）游戏插件，AI 生成谜题并担任裁判。|
