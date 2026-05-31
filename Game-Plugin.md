@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [Milthm插件 (mil-plugin)](https://github.com/Temmie0125/mil-plugin) | [@Temmie](https://github.com/Temmie0125) | 提供Milthm曲目图鉴、b20查询等功能，正在全力咕咕中 |
 | [TaJiDuo-plugin)](https://github.com/Entropy-Increase-Team/TaJiDuo-plugin) | [@QingYingX](https://github.com/QingYingX) | TaJiDuo-plugin 是一个为 Yunzai-Bot 开发的 塔吉多社区 插件 提供多个游戏查询功能 |
 | [WeGame-plugin)](https://github.com/Entropy-Increase-Team/WeGame-plugin) | [@QingYingX](https://github.com/QingYingX) | WeGame-plugin 是一个为 Yunzai-Bot 开发的 WeGame 插件 提供多个游戏查询功能 |
 | [日子线插件 (riz-plugin)](https://github.com/catrong/riz-plugin) | [@Catrong](https://github.com/Catrong) | ~~phi-plugin作者最新力作~~，提供Rizline现有曲目的曲目信息查询、定数表等，查分功能仍在全力开发ing [Gitee仓库](https://gitee.com/catrong/riz-plugin)|
