@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [猫娘调教（smer-plugin）](https://github.com/shiomon/smer-plugin) | [@shiomon](https://github.com/shiomon) | 猫娘调教插件，基于Yunzai框架的猫娘养成调教小游戏 |
 | [赛博钓鱼（fish-plugin）](https://github.com/Selonite925/Fish-Plugin) | [@Selonite925](https://github.com/Selonite925) | TRSS-Yunzai 独立钓鱼小游戏插件，支持鱼市，鱼竿，鱼饵，鱼缸，成就，每日鱼讯，做赛博钓鱼佬，享空军人生 |
 | [诸天万界修仙V1.0「遮天三部曲」(zhutianxiuxian)](https://github.com/moxiaoyu1423/zhutianxiuxian) | [@莫无铭](https://github.com/moxiaoyu1423) | 基于DD斩首的开源修仙魔改的遮天三部曲修仙[诸天万界]，夹杂了一堆我以前写的小说的私货，增加了修仙时代，证道系统，元神系统，内景地，位面系统，更新了大量灵根以及玩法，道法仙术系统……（省略一大堆话） |
 | [虚空插件trss版 (trss-akasha-terminal-plugin)](https://gitee.com/dmqaq/trss-akasha-terminal-plugin) | [@我不能倒霉](https://gitee.com/dmqaq) [@越追越远](https://gitee.com/go-farther-and-farther) | 一个功能丰富的Yunzai-Bot插件（trss&miao双版本开发版），提供完整的游戏系统、MySQL数据库&JSON存储双支持和Web管理界面） |
