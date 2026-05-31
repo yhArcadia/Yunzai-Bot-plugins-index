@@ -6,6 +6,7 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | ------- |
+| [消息追加文本](https://gitee.com/herijian/message-append-text)|  [@何日见](https://gitee.com/herijian) | [查看源码](https://gitee.com/herijian/message-append-text/消息追加文本.js)  | 该插件可以拦截机器人发的消息后，在开头或末尾再添加一段消息再发送 |
 | [米游材料背包查询](https://github.com/devil233-ui/HoyoMaterialPack) | [@devil](https://github.com/devil233-ui) | [查看源码](https://github.com/devil233-ui/HoyoMaterialPack/raw/refs/heads/master/plugins/example/%E7%B1%B3%E6%B8%B8%E6%9D%90%E6%96%99%E8%83%8C%E5%8C%85.js) |获取米游材料背包养成相关物品数量的插件，数据来源mys养成计算器+大地图
 | [Help_Lite](https://gitcode.com/T060925ZX/help-plugin/)|  [@Jiaozi](https://github.com/T060925ZX) | [查看源码](https://gitcode.com/T060925ZX/help-plugin/blob/main/Help_Lite.js)  | 为Yunzai提供一个简约美观的菜单，无需修改喵喵帮助导致菜单过于笼长不美观 |
 | [cnb图床](https://gitee.com/wind-trace-typ/cnb-image-bed)|  [@风之迹](https://gitee.com/wind-trace-typ) | [查看源码](https://gitee.com/wind-trace-typ/cnb-image-bed/raw/master/cnb图床.js)  | 该插件的主要作用上传图片或文件至cnb图床然后获得链接，cnb是腾讯推出的代码仓库，上传速度和下载速度都很快，而且每个人拥有100g免费的对象存储空间，所以对于官机发送md图片非常友好 |
