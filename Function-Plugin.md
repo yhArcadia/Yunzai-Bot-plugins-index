@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [桌游查询插件(yunzai-bgg-plugin)](https://github.com/fsqhn/yunzai-bgg-plugin) | [@fsqhn](https://github.com/fsqhn) | 桌游信息查询插件，支持通过中文名智能搜索桌游，获取 BGG / 集石 的详细数据，并支持 AI 智能翻译与多搜索引擎聚合。|
 | [Git-Plugin](https://github.com/QingYingX-Bot/Git-Plugin) | [@QingYingX](https://github.com/QingYingX) | Yunzai 的 Git 仓库助手，支持 GitHub、Gitee、GitCode、Gitea 四个平台。|
 | [官机全局按钮替换](https://gitee.com/wind-trace-typ/replaceButton-plugin)|  [@风之迹](https://gitee.com/wind-trace-typ) | 本插件主要用于trss官机按钮的替换，可根据拦截规则拦截对应指令的响应，然后替换里面的按钮为你自己设计的按钮 |
 | [本地网易云api插件(NCMApi-plugin)](https://github.com/sarsxe/NCMApi-plugin) | [sarsxe](https://github.com/sarsxe) | 简易方便的本地api，安装后重启即可用，可在解析插件上等使用。|
