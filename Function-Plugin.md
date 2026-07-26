@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [agents-plugin](https://github.com/yunhai89/agents-plugin.git) | [@yunhai89](https://github.com/yunhai89) | 适用于 TRSS-Yunzai 的 AI Agent 插件，支持 OpenAI/Anthropic 双协议多模型切换、MCP 工具桥接、技能渐进式加载、长期记忆与用户画像、多源搜索(Tavily/Exa/Perplexity/Brave/SearXNG)、米游社查询、群管工具、深度研究(#研究)与高危操作主人审批。|
 | [Git-Plugin](https://github.com/QingYingX-Bot/Git-Plugin) | [@QingYingX](https://github.com/QingYingX) | Yunzai 的 Git 仓库助手，支持 GitHub、Gitee、GitCode、Gitea 四个平台。|
 | [官机全局按钮替换](https://gitee.com/wind-trace-typ/replaceButton-plugin)|  [@风之迹](https://gitee.com/wind-trace-typ) | 本插件主要用于trss官机按钮的替换，可根据拦截规则拦截对应指令的响应，然后替换里面的按钮为你自己设计的按钮 |
 | [本地网易云api插件(NCMApi-plugin)](https://github.com/sarsxe/NCMApi-plugin) | [sarsxe](https://github.com/sarsxe) | 简易方便的本地api，安装后重启即可用，可在解析插件上等使用。|
