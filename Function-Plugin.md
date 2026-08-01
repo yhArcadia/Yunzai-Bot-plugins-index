@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [桌游查询插件(yunzai-bgg-plugin)](https://github.com/fsqhn/yunzai-bgg-plugin) | [@fsqhn](https://github.com/fsqhn) | 桌游信息查询插件，支持通过中文名智能搜索桌游，获取 BGG / 集石 的详细数据，并支持 AI 智能翻译与多搜索引擎聚合。|
 | [Hapi-connector-plugin](https://github.com/AIGC-Yunzai/hapi_connector-plugin) | [@misaka20002](https://github.com/misaka20002) [@127Wzc](https://github.com/127Wzc) | 连接 HAPI 后端，通过聊天窗口远程查看、切换、创建和管理 Claude Code / Codex 等的 AI 会话。 |
 | [QQBot-Web-Adapter](https://gitee.com/wind-trace-typ/QQBot-Web-Adapter)|  [@风之迹](https://gitee.com/wind-trace-typ) | 本插件主要功能为夺舍官机发送消息，查看用户消息。 |
 | [Napcat_GL-plugin](https://github.com/zhisiluo/Napcat_GL) | [@zhisiluo](https://github.com/zhisiluo) | 通过 SSH 连接到多台远程服务器，统一管理多个 NapCat 实例，支持账号创建、配置修改、备份恢复等全套操作。 |
