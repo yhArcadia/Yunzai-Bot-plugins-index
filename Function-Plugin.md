@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [Lotus-Plugin](https://github.com/MOPELotus/Lotus-ReFactor/) | [@MOPELotus](https://github.com/MOPELotus/) | 【已重构，请使用新库】提供完整的多通行证绑定、米游社社区/游戏自动签到、过码链路、最新最全的 Nanoka 图鉴/深渊详情查询等功能。 |
 | [今日小猪(rollpig-plugin)](https://github.com/ZuBeri05/rollpig-plugin) | [@ZuBeri05](https://github.com/ZuBeri05) | 可以每日抽取专属小猪性格、从 PigHub 随机获取猪猪图片、以及搜索特定猪猪的功能。 |
 | [宝塔插件(BTPanel-Plugin)](../../../../../yll14/btpanel-plugin) | [@yll14](../../../../../yll14) | 宝塔面板运维插件，支持系统状态、网站、数据库、计划任务等管理。 |
 | [MATOOL-Plugin](https://github.com/Muoan/MATOOL-Plugin) | [@墨安](https://github.com/Muoan) | 墨安游戏助手适配插件·原神星铁绝区零功能，抽卡记录遵循UIGFV4.2标准|
@@ -44,7 +45,6 @@
 | [sakura-plugin](https://github.com/suzuka-suzuka/sakura-plugin) | [@suzuka-suzuka](https://github.com/suzuka-suzuka) | 集成了 AI 聊天、图片获取、群聊管理、飞行棋游戏等多种功能 |
 | [zhiyu-plugin](https://github.com/dmmdekkd/zhiyu-plugin) | [@dmmdekkd](https://github.com/dmmdekkd) | 开放平台查询，适配官机向插件 |
 | [dg-lab-russian-roulette-plugin](https://github.com/admilkjs/dg-lab-russian-roulette-plugin/) | [@Admilk](https://github.com/admilkk) | 提供郊狼论盘渎的功能,中枪后被电击 |
-| [Lotus-Plugin](https://github.com/SummerLotus520/Lotus-Plugin/) | [@SummerLotus520](https://github.com/SummerLotus520/) | 提供一些便携功能，如自定义执行（万能代操作）、全部体力及米游社游戏&社区自动签到，感谢[@Womsxd](https://github.com/Womsxd/)的[MihoyoBBSTools](https://github.com/Womsxd/MihoyoBBSTools/)项目提供技术支持 |
 | [次元小镇（CYXZ-Plugin）](https://github.com/xiaotian2333/cyxz-plugin) | [xiaotian2333](https://github.com/xiaotian2333) | 抓取次元小镇的各类图片的插件 |
 | [戳戳榜插件 (Poke-plugin)](https://gitee.com/qingyingxbot/Poke-plugin) | [@QingYingX](https://gitee.com/QingYingX) | 一款提供统计戳一戳的插件 |
 | [GamePush-plugin](https://github.com/rainbowwarmth/GamePush-Plugin) | [rainbowwarmth](https://gitee.com/rainbowwarmth) | 实时监控游戏版本更新，用于检测原神、星铁、绝区零、崩坏3、鸣潮游戏版本更新状态的插件 |
