@@ -27,6 +27,7 @@
 | [voicevox-plugin](https://github.com/KBVsent/voicevox-plugin) | [@KBVsent](https://github.com/KBVsent) | 俊达萌等VoiceVox角色语音生成插件，支持输入为中文，日语 |
 | [crystelf-plugin](https://github.com/Jerryplusy/crystelf-plugin) | [@Jerryplusy](https://github.com/Jerryplusy) | 多功能辅助插件:早报,手性碳验证,早晚安,加群欢迎词,晶灵智能等 |
 | [xhh](https://gitee.com/this_e/xhh) | [@this_e](https://gitee.com/this_e) | 提供一些小功能：原神每日委托是否有成就，原神和崩铁的卡池信息，获取B站视频评论区，米游社视频播报等 |
+| [群聊插件](https://gitee.com/mcat0/qunliao-plugin) | [@mCat猫客](https://gitee.com/mcat0) | 一个集成化的 Yunzai-Bot 插件，将 12 个常用群聊功能一站式整合。适配锅巴面板，所有功能均可使用锅巴面板进行全部配置，配置立即生效 |
 | [mCat-ac](https://gitlab.com/mCat0/mcat-ac) | [@mCat猫客](https://gitee.com/mcat0) | 原神成就录入、查漏，内容可视化反馈 |
 | [wordle-plugin](https://github.com/Pimeng/wordle-plugin) | [@Pimeng](https://github.com/Pimeng) | Wordle猜词 For Yunzai-Bot |
 | [sakura-plugin](https://github.com/suzuka-suzuka/sakura-plugin) | [@suzuka-suzuka](https://github.com/suzuka-suzuka) | 集成了 AI 聊天、图片获取、群聊管理、飞行棋游戏等多种功能 |
