@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [Hapi-connector-plugin](https://github.com/AIGC-Yunzai/hapi_connector-plugin) | [@misaka20002](https://github.com/misaka20002) [@127Wzc](https://github.com/127Wzc) | 连接 HAPI 后端，通过聊天窗口远程查看、切换、创建和管理 Claude Code / Codex 等的 AI 会话。 |
 | [QQBot-Web-Adapter](https://gitee.com/wind-trace-typ/QQBot-Web-Adapter)|  [@风之迹](https://gitee.com/wind-trace-typ) | 本插件主要功能为夺舍官机发送消息，查看用户消息。 |
 | [Napcat_GL-plugin](https://github.com/zhisiluo/Napcat_GL) | [@zhisiluo](https://github.com/zhisiluo) | 通过 SSH 连接到多台远程服务器，统一管理多个 NapCat 实例，支持账号创建、配置修改、备份恢复等全套操作。 |
 | [agents-plugin](https://gitee.com/YunXi-67/agents-plugin) | [@YunXi-67](https://gitee.com/YunXi-67) | 适用于 TRSS-Yunzai 的 AI Agent 插件，支持 OpenAI/Anthropic 双协议多模型切换、MCP 工具桥接、技能渐进式加载、长期记忆与用户画像、多源搜索(Tavily/Exa/Perplexity/Brave/SearXNG)、米游社查询、群管工具、深度研究(#研究)与高危操作主人审批。|
