@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [今日小猪(rollpig-plugin)](https://github.com/ZuBeri05/rollpig-plugin) | [@ZuBeri05](https://github.com/ZuBeri05) | 可以每日抽取专属小猪性格、从 PigHub 随机获取猪猪图片、以及搜索特定猪猪的功能。 |
 | [宝塔插件(BTPanel-Plugin)](../../../../../yll14/btpanel-plugin) | [@yll14](../../../../../yll14) | 宝塔面板运维插件，支持系统状态、网站、数据库、计划任务等管理。 |
 | [MATOOL-Plugin](https://github.com/Muoan/MATOOL-Plugin) | [@墨安](https://github.com/Muoan) | 墨安游戏助手适配插件·原神星铁绝区零功能，抽卡记录遵循UIGFV4.2标准|
 | [guess-plugin](https://github.com/Small-JiaJia/guess-plugin) | [@小佳佳](https://github.com/Small-JiaJia) | 猜角色类插件，支持头像、全身立绘、命座、天赋等多种不同类型的猜图模式，玩法丰富多样。|
