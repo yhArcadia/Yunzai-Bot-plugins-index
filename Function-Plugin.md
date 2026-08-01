@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [宝塔插件(BTPanel-Plugin)](../../../../../yll14/btpanel-plugin) | [@yll14](../../../../../yll14) | 宝塔面板运维插件，支持系统状态、网站、数据库、计划任务等管理。 |
 | [MATOOL-Plugin](https://github.com/Muoan/MATOOL-Plugin) | [@墨安](https://github.com/Muoan) | 墨安游戏助手适配插件·原神星铁绝区零功能，抽卡记录遵循UIGFV4.2标准|
 | [guess-plugin](https://github.com/Small-JiaJia/guess-plugin) | [@小佳佳](https://github.com/Small-JiaJia) | 猜角色类插件，支持头像、全身立绘、命座、天赋等多种不同类型的猜图模式，玩法丰富多样。|
 | [桌游查询插件(yunzai-bgg-plugin)](https://github.com/fsqhn/yunzai-bgg-plugin) | [@fsqhn](https://github.com/fsqhn) | 桌游信息查询插件，支持通过中文名智能搜索桌游，获取 BGG / 集石 的详细数据，并支持 AI 智能翻译与多搜索引擎聚合。|
