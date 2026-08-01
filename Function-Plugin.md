@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [group-daily-analysis](https://github.com/NotIvny/yunzai_qq_group_daily_analysis) | [@NotIvny](https://github.com/NotIvny) | astrbot_plugin_qq_group_daily_analysis插件的Yunzai版本，通过 LLM 分析群聊消息，生成包含话题、用户称号、金句、聊天质量评估的可视化日报图片。|
 | [qq音乐插件(qqmusic-plugin)](https://github.com/zaras123/qqmusic-plugin) | [@ZaraS](https://github.com/zaras123) | Yunzai 的 qq音乐插件，支持解析、点播、排行榜等|
 | [Mozu-Plugin](https://github.com/MozuGit/Mozu-Plugin) | [@MozuGit](https://github.com/MozuGit) | 适用于TRSS-Yunzai的插件，主要功能有修仙、伪造聊天、发言统计等 |
 | [Git-Plugin](https://github.com/QingYingX-Bot/Git-Plugin) | [@QingYingX](https://github.com/QingYingX) | Yunzai 的 Git 仓库助手，支持 GitHub、Gitee、GitCode、Gitea 四个平台。|
