@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [qq音乐插件(qqmusic-plugin)](https://github.com/zaras123/qqmusic-plugin) | [@ZaraS](https://github.com/zaras123) | Yunzai 的 qq音乐插件，支持解析、点播、排行榜等|
 | [Mozu-Plugin](https://github.com/MozuGit/Mozu-Plugin) | [@MozuGit](https://github.com/MozuGit) | 适用于TRSS-Yunzai的插件，主要功能有修仙、伪造聊天、发言统计等 |
 | [Git-Plugin](https://github.com/QingYingX-Bot/Git-Plugin) | [@QingYingX](https://github.com/QingYingX) | Yunzai 的 Git 仓库助手，支持 GitHub、Gitee、GitCode、Gitea 四个平台。|
 | [官机全局按钮替换](https://gitee.com/wind-trace-typ/replaceButton-plugin)|  [@风之迹](https://gitee.com/wind-trace-typ) | 本插件主要用于trss官机按钮的替换，可根据拦截规则拦截对应指令的响应，然后替换里面的按钮为你自己设计的按钮 |
