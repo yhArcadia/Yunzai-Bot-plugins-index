@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [agents-plugin](https://gitee.com/YunXi-67/agents-plugin) | [@YunXi-67](https://gitee.com/YunXi-67) | 适用于 TRSS-Yunzai 的 AI Agent 插件，支持 OpenAI/Anthropic 双协议多模型切换、MCP 工具桥接、技能渐进式加载、长期记忆与用户画像、多源搜索(Tavily/Exa/Perplexity/Brave/SearXNG)、米游社查询、群管工具、深度研究(#研究)与高危操作主人审批。|
 | [group-daily-analysis](https://github.com/NotIvny/yunzai_qq_group_daily_analysis) | [@NotIvny](https://github.com/NotIvny) | astrbot_plugin_qq_group_daily_analysis插件的Yunzai版本，通过 LLM 分析群聊消息，生成包含话题、用户称号、金句、聊天质量评估的可视化日报图片。|
 | [qq音乐插件(qqmusic-plugin)](https://github.com/zaras123/qqmusic-plugin) | [@ZaraS](https://github.com/zaras123) | Yunzai 的 qq音乐插件，支持解析、点播、排行榜等|
 | [Mozu-Plugin](https://github.com/MozuGit/Mozu-Plugin) | [@MozuGit](https://github.com/MozuGit) | 适用于TRSS-Yunzai的插件，主要功能有修仙、伪造聊天、发言统计等 |
