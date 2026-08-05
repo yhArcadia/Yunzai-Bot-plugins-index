@@ -5,6 +5,10 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [agents-plugin](https://github.com/yunhai89/agents-plugin.git) | [@yunhai89](https://github.com/yunhai89) | 适用于 TRSS-Yunzai 的 AI Agent 插件，支持 OpenAI/Anthropic 双协议多模型切换、MCP 工具桥接、技能渐进式加载、长期记忆与用户画像、多源搜索(Tavily/Exa/Perplexity/Brave/SearXNG)、米游社查询、群管工具、深度研究(#研究)与高危操作主人审批。|
+| [Huitian-daily](https://github.com/OriginSXC/Huitian-daily) | [@OriginSXC](https://github.com/OriginSXC) | 回天日报聚合插件，把 60s、番剧、摸鱼、Epic、油价、历史上的今天等多源日报拼成派蒙主题图卡。|
+| [Huitian-mini](https://github.com/OriginSXC/Huitian-mini) | [@OriginSXC](https://github.com/OriginSXC) | 轻量级 Yunzai 插件合集：早报、摸鱼日历、米游社 COS、WP 抓图、随机图/视频。|
+| [QQBot-Web-Adapter](https://gitee.com/wind-trace-typ/QQBot-Web-Adapter)|  [@风之迹](https://gitee.com/wind-trace-typ) | 本插件主要功能为夺舍官机发送消息，查看用户消息。 |
 | [聚合图床插件(ImageBed-Plugin)](https://gitee.com/wind-trace-typ/ImageBed-Plugin)|  [@风之迹](https://gitee.com/wind-trace-typ) | 本插件提供数十款图床，配合修改版的QQBot-Plugin插件可以很稳定的输出markdown图片，也可主动调用特定图床获取图片链接 |
 | [Lotus-Plugin](https://github.com/MOPELotus/Lotus-ReFactor/) | [@MOPELotus](https://github.com/MOPELotus/) | 【已重构，请使用新库】提供完整的多通行证绑定、米游社社区/游戏自动签到、过码链路、最新最全的 Nanoka 图鉴/深渊详情查询等功能。 |
 | [今日小猪(rollpig-plugin)](https://github.com/ZuBeri05/rollpig-plugin) | [@ZuBeri05](https://github.com/ZuBeri05) | 可以每日抽取专属小猪性格、从 PigHub 随机获取猪猪图片、以及搜索特定猪猪的功能。 |
