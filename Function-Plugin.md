@@ -7,6 +7,21 @@
 |-------| ----- |------ |
 | [Huitian-daily](https://github.com/OriginSXC/Huitian-daily) | [@OriginSXC](https://github.com/OriginSXC) | 回天日报聚合插件，把 60s、番剧、摸鱼、Epic、油价、历史上的今天等多源日报拼成派蒙主题图卡。|
 | [Huitian-mini](https://github.com/OriginSXC/Huitian-mini) | [@OriginSXC](https://github.com/OriginSXC) | 轻量级 Yunzai 插件合集：早报、摸鱼日历、米游社 COS、WP 抓图、随机图/视频。|
+| [QQBot-Web-Adapter](https://gitee.com/wind-trace-typ/QQBot-Web-Adapter)|  [@风之迹](https://gitee.com/wind-trace-typ) | 本插件主要功能为夺舍官机发送消息，查看用户消息。 |
+| [聚合图床插件(ImageBed-Plugin)](https://gitee.com/wind-trace-typ/ImageBed-Plugin)|  [@风之迹](https://gitee.com/wind-trace-typ) | 本插件提供数十款图床，配合修改版的QQBot-Plugin插件可以很稳定的输出markdown图片，也可主动调用特定图床获取图片链接 |
+| [Lotus-Plugin](https://github.com/MOPELotus/Lotus-ReFactor/) | [@MOPELotus](https://github.com/MOPELotus/) | 【已重构，请使用新库】提供完整的多通行证绑定、米游社社区/游戏自动签到、过码链路、最新最全的 Nanoka 图鉴/深渊详情查询等功能。 |
+| [今日小猪(rollpig-plugin)](https://github.com/ZuBeri05/rollpig-plugin) | [@ZuBeri05](https://github.com/ZuBeri05) | 可以每日抽取专属小猪性格、从 PigHub 随机获取猪猪图片、以及搜索特定猪猪的功能。 |
+| [宝塔插件(BTPanel-Plugin)](../../../../../yll14/btpanel-plugin) | [@yll14](../../../../../yll14) | 宝塔面板运维插件，支持系统状态、网站、数据库、计划任务等管理。 |
+| [MATOOL-Plugin](https://github.com/Muoan/MATOOL-Plugin) | [@墨安](https://github.com/Muoan) | 墨安游戏助手适配插件·原神星铁绝区零功能，抽卡记录遵循UIGFV4.2标准|
+| [guess-plugin](https://github.com/Small-JiaJia/guess-plugin) | [@小佳佳](https://github.com/Small-JiaJia) | 猜角色类插件，支持头像、全身立绘、命座、天赋等多种不同类型的猜图模式，玩法丰富多样。|
+| [桌游查询插件(yunzai-bgg-plugin)](https://github.com/fsqhn/yunzai-bgg-plugin) | [@fsqhn](https://github.com/fsqhn) | 桌游信息查询插件，支持通过中文名智能搜索桌游，获取 BGG / 集石 的详细数据，并支持 AI 智能翻译与多搜索引擎聚合。|
+| [Hapi-connector-plugin](https://github.com/AIGC-Yunzai/hapi_connector-plugin) | [@misaka20002](https://github.com/misaka20002) [@127Wzc](https://github.com/127Wzc) | 连接 HAPI 后端，通过聊天窗口远程查看、切换、创建和管理 Claude Code / Codex 等的 AI 会话。 |
+| [QQBot-Web-Adapter](https://gitee.com/wind-trace-typ/QQBot-Web-Adapter)|  [@风之迹](https://gitee.com/wind-trace-typ) | 本插件主要功能为夺舍官机发送消息，查看用户消息。 |
+| [Napcat_GL-plugin](https://github.com/zhisiluo/Napcat_GL) | [@zhisiluo](https://github.com/zhisiluo) | 通过 SSH 连接到多台远程服务器，统一管理多个 NapCat 实例，支持账号创建、配置修改、备份恢复等全套操作。 |
+| [agents-plugin](https://gitee.com/YunXi-67/agents-plugin) | [@YunXi-67](https://gitee.com/YunXi-67) | 适用于 TRSS-Yunzai 的 AI Agent 插件，支持 OpenAI/Anthropic 双协议多模型切换、MCP 工具桥接、技能渐进式加载、长期记忆与用户画像、多源搜索(Tavily/Exa/Perplexity/Brave/SearXNG)、米游社查询、群管工具、深度研究(#研究)与高危操作主人审批。|
+| [group-daily-analysis](https://github.com/NotIvny/yunzai_qq_group_daily_analysis) | [@NotIvny](https://github.com/NotIvny) | astrbot_plugin_qq_group_daily_analysis插件的Yunzai版本，通过 LLM 分析群聊消息，生成包含话题、用户称号、金句、聊天质量评估的可视化日报图片。|
+| [qq音乐插件(qqmusic-plugin)](https://github.com/zaras123/qqmusic-plugin) | [@ZaraS](https://github.com/zaras123) | Yunzai 的 qq音乐插件，支持解析、点播、排行榜等|
+| [Mozu-Plugin](https://github.com/MozuGit/Mozu-Plugin) | [@MozuGit](https://github.com/MozuGit) | 适用于TRSS-Yunzai的插件，主要功能有修仙、伪造聊天、发言统计等 |
 | [Git-Plugin](https://github.com/QingYingX-Bot/Git-Plugin) | [@QingYingX](https://github.com/QingYingX) | Yunzai 的 Git 仓库助手，支持 GitHub、Gitee、GitCode、Gitea 四个平台。|
 | [官机全局按钮替换](https://gitee.com/wind-trace-typ/replaceButton-plugin)|  [@风之迹](https://gitee.com/wind-trace-typ) | 本插件主要用于trss官机按钮的替换，可根据拦截规则拦截对应指令的响应，然后替换里面的按钮为你自己设计的按钮 |
 | [本地网易云api插件(NCMApi-plugin)](https://github.com/sarsxe/NCMApi-plugin) | [sarsxe](https://github.com/sarsxe) | 简易方便的本地api，安装后重启即可用，可在解析插件上等使用。|
@@ -28,12 +43,12 @@
 | [voicevox-plugin](https://github.com/KBVsent/voicevox-plugin) | [@KBVsent](https://github.com/KBVsent) | 俊达萌等VoiceVox角色语音生成插件，支持输入为中文，日语 |
 | [crystelf-plugin](https://github.com/Jerryplusy/crystelf-plugin) | [@Jerryplusy](https://github.com/Jerryplusy) | 多功能辅助插件:早报,手性碳验证,早晚安,加群欢迎词,晶灵智能等 |
 | [xhh](https://gitee.com/this_e/xhh) | [@this_e](https://gitee.com/this_e) | 提供一些小功能：原神每日委托是否有成就，原神和崩铁的卡池信息，获取B站视频评论区，米游社视频播报等 |
+| [群聊插件](https://gitee.com/mcat0/qunliao-plugin) | [@mCat猫客](https://gitee.com/mcat0) | 一个集成化的 Yunzai-Bot 插件，将 12 个常用群聊功能一站式整合。适配锅巴面板，所有功能均可使用锅巴面板进行全部配置，配置立即生效 |
 | [mCat-ac](https://gitlab.com/mCat0/mcat-ac) | [@mCat猫客](https://gitee.com/mcat0) | 原神成就录入、查漏，内容可视化反馈 |
 | [wordle-plugin](https://github.com/Pimeng/wordle-plugin) | [@Pimeng](https://github.com/Pimeng) | Wordle猜词 For Yunzai-Bot |
 | [sakura-plugin](https://github.com/suzuka-suzuka/sakura-plugin) | [@suzuka-suzuka](https://github.com/suzuka-suzuka) | 集成了 AI 聊天、图片获取、群聊管理、飞行棋游戏等多种功能 |
 | [zhiyu-plugin](https://github.com/dmmdekkd/zhiyu-plugin) | [@dmmdekkd](https://github.com/dmmdekkd) | 开放平台查询，适配官机向插件 |
 | [dg-lab-russian-roulette-plugin](https://github.com/admilkjs/dg-lab-russian-roulette-plugin/) | [@Admilk](https://github.com/admilkk) | 提供郊狼论盘渎的功能,中枪后被电击 |
-| [Lotus-Plugin](https://github.com/SummerLotus520/Lotus-Plugin/) | [@SummerLotus520](https://github.com/SummerLotus520/) | 提供一些便携功能，如自定义执行（万能代操作）、全部体力及米游社游戏&社区自动签到，感谢[@Womsxd](https://github.com/Womsxd/)的[MihoyoBBSTools](https://github.com/Womsxd/MihoyoBBSTools/)项目提供技术支持 |
 | [次元小镇（CYXZ-Plugin）](https://github.com/xiaotian2333/cyxz-plugin) | [xiaotian2333](https://github.com/xiaotian2333) | 抓取次元小镇的各类图片的插件 |
 | [戳戳榜插件 (Poke-plugin)](https://gitee.com/qingyingxbot/Poke-plugin) | [@QingYingX](https://gitee.com/QingYingX) | 一款提供统计戳一戳的插件 |
 | [GamePush-plugin](https://github.com/rainbowwarmth/GamePush-Plugin) | [rainbowwarmth](https://gitee.com/rainbowwarmth) | 实时监控游戏版本更新，用于检测原神、星铁、绝区零、崩坏3、鸣潮游戏版本更新状态的插件 |
@@ -46,7 +61,7 @@
 | [Napcat管理插件 (Napcat_Plugin)](https://github.com/A1Panda/Napcat_Plugin) | [@A1_Panda](https://github.com/A1Panda) | 支持通过ssh远程管理Napcat |
 | [TJ插件 (Yunzai-TomyJan-Plugin)](https://github.com/TomyJan/Yunzai-TomyJan-Plugin) | [@TomyJan](https://github.com/TomyJan) | 目前仅有禁漫天堂下载功能 |
 | [综合插件 (juhkff-plugin)](https://gitee.com/juhkff/juhkff-plugin) | [@扎克芙芙](https://github.com/juhkff) | 主动回复群聊、表情偷取、日报推送等综合功能插件 |
-| [不羡仙插件 (BXX-plugin)](https://gitee.com/bxxov/BXX-plugin) | [@不羡仙](https://gitee.com/bxxov) | 提供站长功能,和部分解析娱乐实用API功能 |
+| [不羡仙插件 (BXX-plugin)](https://gitee.com/muoan/BXX-plugin) | [@墨安](https://github.com/Muoan) | 提供站长网络服务·及其娱乐/查询/控制功能 |
 | [Mcsmanager管理插件(mcsmanager-plugin)](https://github.com/A1Panda/mcsmanager-plugin) | [ @A1_Panda ](https://github.com/A1Panda) | 基于 Yunzai-Bot v3 的 MCSManager 服务器管理插件，提供完整的远程控制和监控功能 |
 | [San插件(San-plugin)](https://gitee.com/San-luo/San-plugin) | [@san-luo](https://gitee.com/San-luo) | 拓展了云崽原有的表情添加功能,以及一些小功能 |
 | [MEMZ插件(memz-plugin)](https://github.com/MEMLTS/memz-plugin) | [@memzjs](https://github.com/MEMLTS) | 提供了一些web工具等 |
@@ -108,7 +123,7 @@
 | [小叶插件 (xiaoye-plugin)](https://gitee.com/xiaoye12123/xiaoye-plugin)     | [@小叶](https://gitee.com/xiaoye12123) | 模拟刷圣遗物和强化，可自定义概率 |
 | [自动化插件 (auto-plugin)](https://github.com/Nwflower/auto-plugin) | [@听语惊花](https://github.com/Nwflower/) | 原神倒计时、自动发说说...可能是史上最强大的群名片更新插件。另外还提供了一些自动化小功能。 |
 | [ChаtGPT问答插件（chаtgpt-plugin）](https://github.com/ikechan8370/chatgpt-plugin) | [@ikechan8370](https://github.com/ikechan8370) | ChаtGPT问答插件 |
-| [榴莲插件 (liulian-plugin)](https://gitee.com/huifeidemangguomao/liulian-plugin) |[@会飞的芒果猫](https://gitee.com/huifeidemangguomao) [@萧枘](https://gitee.com/xiaoxiaorurui) | 提供原神地下地图、B站推送、插件管理等一些拓展功能及原神/星铁猜角色、娶群友、随机表情、星座运势、话痨统计、天气、多群广播消息等群聊功能 |
+| [榴莲插件 (liulian-plugin)](https://gitee.com/huifeidemangguomao/liulian-plugin) |[@会飞的芒果猫](https://gitee.com/huifeidemangguomao) [@萧枘](https://gitee.com/xiaoxiaorurui) | 提供B站推送、热搜推送、原神地下地图、插件管理等一些拓展功能及原神/星铁/绝区零/异环/鸣潮猜角色、娶群友、随机表情、星座运势、话痨统计、天气、多群广播消息等群聊（娱乐）功能 |
 | [止水插件 (zhishui-plugin)](https://gitee.com/fjcq/zhishui-plugin) | [@止水](https://gitee.com/fjcq) | 打造的多功能娱乐扩展插件，集成了**搜剧**、**AI对话**和**乐器演奏**三大核心功能。插件支持多资源站点切换、AI角色自定义、语音互动、乐器简谱演奏等丰富玩法，满足群聊娱乐、智能对话和音乐创作等多样需求。 |
 | [娱乐插件(Recreation-plugin)](https://github.com/QiuLing0/recreation-plugin) | [@QiuLing0](https://github.com/QiuLing0) | 基于YunzaiV3.0版本衍生娱乐插件，插件将不断集成娱乐工具 |
 | [Python插件 (py-plugin)](https://gitee.com/realhuhu/py-plugin) | [@realhuhu](https://gitee.com/realhuhu) | 主要提供nonebot2机器人服务|

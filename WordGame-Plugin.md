@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [宠物养成（cwer-plugin）](https://gitee.com/shiomon/cwer-plugin) | [@shiomon](https://gitee.com/shiomon) | 宠物养成插件，基于Yunzai框架的1对1宠物养成小游戏 |
 | [猫娘调教（smer-plugin）](https://github.com/shiomon/smer-plugin) | [@shiomon](https://github.com/shiomon) | 猫娘调教插件，基于Yunzai框架的猫娘养成调教小游戏 |
 | [赛博钓鱼（fish-plugin）](https://github.com/Selonite925/Fish-Plugin) | [@Selonite925](https://github.com/Selonite925) | TRSS-Yunzai 独立钓鱼小游戏插件，支持鱼市，鱼竿，鱼饵，鱼缸，成就，每日鱼讯，做赛博钓鱼佬，享空军人生 |
 | [诸天万界修仙V1.0「遮天三部曲」(zhutianxiuxian)](https://github.com/moxiaoyu1423/zhutianxiuxian) | [@莫无铭](https://github.com/moxiaoyu1423) | 基于DD斩首的开源修仙魔改的遮天三部曲修仙[诸天万界]，夹杂了一堆我以前写的小说的私货，增加了修仙时代，证道系统，元神系统，内景地，位面系统，更新了大量灵根以及玩法，道法仙术系统……（省略一大堆话） |
