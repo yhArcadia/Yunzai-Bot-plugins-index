@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [ChessGame](https://github.com/QWEfcxzz/ChessGame) | [@QWEfcxzz](https://github.com/QWEfcxzz) | 网页五子棋与中国象棋对战，支持AI实时局势分析 |
 | [崩坏3查询插件 (bh3-plugin)](https://github.com/QWEfcxzz/bh3-plugin) | [@QWEfcxzz](https://github.com/QWEfcxzz) | 崩坏3全功能查询插件，支持面板、角色、深渊、战场、乐土、图鉴、伤害计算，可复用逍遥插件CK，图片化输出 |
 | [二游签到助手 (A-game-checkin)](https://github.com/yoshino-xiao7/A-game_checkin) | [ @yoshino-xiao7 ](https://github.com/yoshino-xiao7) | 面向 Yunzai v3、Miao-Yunzai 与 TRSS-Yunzai 的多社区游戏签到插件 |
 | [Milthm插件 (mil-plugin)](https://github.com/Temmie0125/mil-plugin) | [@Temmie](https://github.com/Temmie0125) | 提供Milthm曲目图鉴、b20查询等功能，正在全力咕咕中 |
