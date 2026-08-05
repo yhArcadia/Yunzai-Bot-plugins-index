@@ -5,14 +5,14 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [二游签到助手 (A-game-checkin)](https://github.com/yoshino-xiao7/A-game_checkin) | [ @yoshino-xiao7 ](https://github.com/yoshino-xiao7) | 面向 Yunzai v3、Miao-Yunzai 与 TRSS-Yunzai 的多社区游戏签到插件 |
 | [Milthm插件 (mil-plugin)](https://github.com/Temmie0125/mil-plugin) | [@Temmie](https://github.com/Temmie0125) | 提供Milthm曲目图鉴、b20查询等功能，正在全力咕咕中 |
-| [TaJiDuo-plugin)](https://github.com/Entropy-Increase-Team/TaJiDuo-plugin) | [@QingYingX](https://github.com/QingYingX) | TaJiDuo-plugin 是一个为 Yunzai-Bot 开发的 塔吉多社区 插件 提供多个游戏查询功能 |
 | [WeGame-plugin)](https://github.com/Entropy-Increase-Team/WeGame-plugin) | [@QingYingX](https://github.com/QingYingX) | WeGame-plugin 是一个为 Yunzai-Bot 开发的 WeGame 插件 提供多个游戏查询功能 |
 | [日子线插件 (riz-plugin)](https://github.com/catrong/riz-plugin) | [@Catrong](https://github.com/Catrong) | ~~phi-plugin作者最新力作~~，提供Rizline现有曲目的曲目信息查询、定数表等，查分功能仍在全力开发ing [Gitee仓库](https://gitee.com/catrong/riz-plugin)|
 | [endfield-suzuki-plugin](https://github.com/yoshino-xiao7/endfield-suzuki-plugin) | [@yoshino-xiao7](https://github.com/yoshino-xiao7) | 明日方舟：终末地助手，支持签到、角色查询、基建查询、理智提醒等，功能开发中... |
 | [终末地插件(zmd-plugin)](https://github.com/Anon-deisu/zmd-plugin) | [@Anon-deisu](https://github.com/Anon-deisu) | 终末地插件，支持抽卡查询/角色数据查询等 |
 | [endfield-plugin)](https://github.com/Entropy-Increase-Team/endfield-plugin) | [@QingYingX](https://github.com/QingYingX) | Endfield-plugin 是一个为 Yunzai-Bot 开发的 终末地 游戏插件 |
-| [雀魂插件(Majsoul-Plugin)](https://github.com/Xcheng-dada/Majsoul-Plugin/) | [@小橙c](https://github.com/Xcheng-dada) | 雀魂麻将抽卡插件，支持十连抽卡，多卡池切换，每日次数限制与管理 |
+| [雀魂插件(Majsoul-Plugin)](https://github.com/Xcheng-dada/Majsoul-Plugin/) | [@小橙c](https://github.com/Xcheng-dada) | 雀魂麻将多功能插件，支持雀魂对局订阅推送，雀魂玩家搜索，雀魂十连模拟，近期对局查询，玩家详细数据，AI 牌谱分析等功能 |
 | [和平精英(PUBG-Helper-Plugin)](https://gitee.com/Tloml-Starry/PUBG-Helper-Plugin) | [@Tloml-Starry](https://gitee.com/Tloml-Starry) | 和平相关功能，很多功能还没写好，来pr |
 | [三角洲行动插件（delta-force-plugin）](https://github.com/Dnyo666/delta-force-plugin)| [@Dnyo666](https://github.com/Dnyo666/) | 提供登陆绑定、信息战绩周报日报查询、物品价格信息等查询、密码和特勤处推送等推送的多功能插件 |
 | [蓝色星原旅谣插件（yoyo-plugin）](https://gitee.com/yoyo-plugin/yoyo-plugin)| [@ZyeAlex](https://github.com/ZyeAlex) | 提供蓝色星原旅谣信息查询、Wiki查询、日常娱乐功能插件 |
