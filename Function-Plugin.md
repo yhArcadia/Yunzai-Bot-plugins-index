@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [QQBot-Web-Adapter](https://gitee.com/wind-trace-typ/QQBot-Web-Adapter)|  [@风之迹](https://gitee.com/wind-trace-typ) | 本插件主要功能为夺舍官机发送消息，查看用户消息。 |
 | [聚合图床插件(ImageBed-Plugin)](https://gitee.com/wind-trace-typ/ImageBed-Plugin)|  [@风之迹](https://gitee.com/wind-trace-typ) | 本插件提供数十款图床，配合修改版的QQBot-Plugin插件可以很稳定的输出markdown图片，也可主动调用特定图床获取图片链接 |
 | [Lotus-Plugin](https://github.com/MOPELotus/Lotus-ReFactor/) | [@MOPELotus](https://github.com/MOPELotus/) | 【已重构，请使用新库】提供完整的多通行证绑定、米游社社区/游戏自动签到、过码链路、最新最全的 Nanoka 图鉴/深渊详情查询等功能。 |
 | [今日小猪(rollpig-plugin)](https://github.com/ZuBeri05/rollpig-plugin) | [@ZuBeri05](https://github.com/ZuBeri05) | 可以每日抽取专属小猪性格、从 PigHub 随机获取猪猪图片、以及搜索特定猪猪的功能。 |
