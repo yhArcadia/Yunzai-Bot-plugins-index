@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [抽卡统计/存储](https://record.muoan.com/) | [@墨安](https://github.com/Muoan) | 抽卡记录解析/存储/统计/导入导出等功能 |
 | [喵喵资源更新脚本](https://github.com/kvcfdd/oi) | [白咩](https://github.com/kvcfdd) | 喵喵资源更新脚本，数据源gensh.honeyhunterworld.com |
 | [一键启动Yunzai+LLonebot并监控进程](https://gitee.com/touchscale_admin/one-click-start---yunzai-llbot) | [touchscale](https://gitee.com/touchscale_admin) |一键启动Yunzai+LLonebot并监测其状态，检测到停止运行后能自动重启|
 | [⭐][TRSS Yunzai 管理脚本](https://TRSS.me) | [@时雨🌌星空](../../../../TimeRainStarSky) | 【置顶】提供 Yunzai-Bot 及 插件 一键安装与管理 功能，可用于 Windows / Linux / Mac / Android |
