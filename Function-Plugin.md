@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [AQing-plugin](https://github.com/mldqzs/AQing-plugin) | [@明るい青紫色](https://github.com/mldqzs) | 基于 TRSS-Yunzai 的综合娱乐小插件，集群管、复读禁言、状态图、扫雷、五子棋、音乐/视频/图文解析、每日日报、涩图打分、图片混淆、禁漫天堂、塔罗牌等功能于一体，支持锅巴面板配置。 |
 | [agents-plugin](https://github.com/yunhai89/agents-plugin.git) | [@yunhai89](https://github.com/yunhai89) | 适用于 TRSS-Yunzai 的 AI Agent 插件，支持 OpenAI/Anthropic 双协议多模型切换、MCP 工具桥接、技能渐进式加载、长期记忆与用户画像、多源搜索(Tavily/Exa/Perplexity/Brave/SearXNG)、米游社查询、群管工具、深度研究(#研究)与高危操作主人审批。|
 | [Huitian-daily](https://github.com/OriginSXC/Huitian-daily) | [@OriginSXC](https://github.com/OriginSXC) | 回天日报聚合插件，把 60s、番剧、摸鱼、Epic、油价、历史上的今天等多源日报拼成派蒙主题图卡。|
 | [Huitian-mini](https://github.com/OriginSXC/Huitian-mini) | [@OriginSXC](https://github.com/OriginSXC) | 轻量级 Yunzai 插件合集：早报、摸鱼日历、米游社 COS、WP 抓图、随机图/视频。|
