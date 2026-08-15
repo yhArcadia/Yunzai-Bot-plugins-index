@@ -26,7 +26,7 @@
 | [Mozu-Plugin](https://github.com/MozuGit/Mozu-Plugin) | [@MozuGit](https://github.com/MozuGit) | 适用于TRSS-Yunzai的插件，主要功能有修仙、伪造聊天、发言统计等 |
 | [Git-Plugin](https://github.com/QingYingX-Bot/Git-Plugin) | [@QingYingX](https://github.com/QingYingX) | Yunzai 的 Git 仓库助手，支持 GitHub、Gitee、GitCode、Gitea 四个平台。|
 | [官机全局按钮替换](https://gitee.com/wind-trace-typ/replaceButton-plugin)|  [@风之迹](https://gitee.com/wind-trace-typ) | 本插件主要用于trss官机按钮的替换，可根据拦截规则拦截对应指令的响应，然后替换里面的按钮为你自己设计的按钮 |
-| [本地网易云api插件(NCMApi-plugin)](https://github.com/sarsxe/NCMApi-plugin) | [sarsxe](https://github.com/sarsxe) | 简易方便的本地api，安装后重启即可用，可在解析插件上等使用。|
+| [双管乐 · api插件(NCM-plugin)](https://github.com/sarsxe/NCM-plugin) | [sarsxe](https://github.com/sarsxe) | 简易方便的本地api，安装后重启即可使用用，可在解析插件上等配置使用。|
 | [CS开箱模拟插件(cs-opener-plugin)](https://github.com/Cat-bl/cs-opener-plugin) | [@Cat-bl](https://github.com/Cat-bl) | 适用于Yunzai bot的cs开箱模拟插件，本地代码真实渲染，视频格式发送结果。|
 | [群聊ai对话插件(bl-chat-plugin)](https://github.com/Cat-bl/bl-chat-plugin) | [@Cat-bl](https://github.com/Cat-bl) | 适用于Trss yunzai+napcat的ai对话插件，支持本地工具调用，自定义本地工具，mcp服务配置等。|
 | [谁是卧底插件(undercover-plugin)](https://github.com/Cat-bl/undercover-plugin) | [@Cat-bl](https://github.com/Cat-bl) | 基于 Trss-Yunzai 的谁是卧底游戏插件，支持大模型动态出词（OpenAI兼容接口）、连通性预检、平票 PK 加赛、超时自动推进，群内 4~12 人对战。|
