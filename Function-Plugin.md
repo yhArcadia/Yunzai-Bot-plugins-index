@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [gi-nanoka-plugin](https://gitee.com/wisped/gi-nanoka-plugin) | [@wisped](https://gitee.com/wisped) | 一只给gi.nanoka.cc拍照的夏洛蒂。 |
 | [Secluded-Adapter](https://github.com/Lovely02Y/Secluded-Adapter) | [@Lovely02Y](https://github.com/Lovely02Y) [@Senior Horikawa](https://github.com/SeniorHorikawa) | 一个普通的协议适配器 |
 | [kh-plugin](https://github.com/yhArcadia/kh-plugin) | [@渔火Arcadia](https://github.com/yhArcadia) | 群成员**头像**、**昵称**记录留档工具，有效制裁群友“改头换面”、秽土转生。(如链接打不开请把github换成gitee) |
 | [AQing-plugin](https://github.com/mldqzs/AQing-plugin) | [@明るい青紫色](https://github.com/mldqzs) | 基于 TRSS-Yunzai 的综合娱乐小插件，集群管、复读禁言、状态图、扫雷、五子棋、音乐/视频/图文解析、每日日报、涩图打分、图片混淆、禁漫天堂、塔罗牌等功能于一体，支持锅巴面板配置。 |
@@ -144,3 +145,4 @@
 | [成就插件 (achievements-plugin)](https://gitee.com/zolay-poi/achievements-plugin) | [@zolay-poi](https://gitee.com/zolay-poi) | 提供成就查漏、成就搜索等功能 |
 | [抽卡插件 (flower-plugin)](https://github.com/Nwflower/flower-plugin) | [@听语惊花](https://github.com/Nwflower/) | 百连、单抽、文字狱、转生、隐形拉黑等 |
 <!-- 请不要在此处添加行，请在此表格顶部添加 -->
+
