@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [Gscore-Adapter](https://github.com/xiowo/yunzai-gscore-adapter) | [ @MortalCat ](https://gitee.com/xiowo) | 一个适用于Yunzai的早柚适配器. |
 | [gi-nanoka-plugin](https://gitee.com/wisped/gi-nanoka-plugin) | [@wisped](https://gitee.com/wisped) | 一只给gi.nanoka.cc拍照的夏洛蒂。 |
 | [Secluded-Adapter](https://github.com/Lovely02Y/Secluded-Adapter) | [@Lovely02Y](https://github.com/Lovely02Y) [@Senior Horikawa](https://github.com/SeniorHorikawa) | 一个普通的协议适配器 |
 | [kh-plugin](https://github.com/yhArcadia/kh-plugin) | [@渔火Arcadia](https://github.com/yhArcadia) | 群成员**头像**、**昵称**记录留档工具，有效制裁群友“改头换面”、秽土转生。(如链接打不开请把github换成gitee) |
