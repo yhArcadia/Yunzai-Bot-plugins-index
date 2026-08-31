@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [帝国玫瑰（rose-plugin）](https://github.com/nahida2203/hajimi-game) | [@nahida2203](https://github.com/nahida2203) | 哈基米攻略游戏，额，就是。。。。。。。。。。。你们自己看吧 |
 | [宠物养成（cwer-plugin）](https://gitee.com/shiomon/cwer-plugin) | [@shiomon](https://gitee.com/shiomon) | 宠物养成插件，基于Yunzai框架的1对1宠物养成小游戏 |
 | [猫娘调教（smer-plugin）](https://github.com/shiomon/smer-plugin) | [@shiomon](https://github.com/shiomon) | 猫娘调教插件，基于Yunzai框架的猫娘养成调教小游戏 |
 | [赛博钓鱼（fish-plugin）](https://github.com/Selonite925/Fish-Plugin) | [@Selonite925](https://github.com/Selonite925) | TRSS-Yunzai 独立钓鱼小游戏插件，支持鱼市，鱼竿，鱼饵，鱼缸，成就，每日鱼讯，做赛博钓鱼佬，享空军人生 |
