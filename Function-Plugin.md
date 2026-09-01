@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [抖音续火（douyin-auto-spark）](https://github.com/LiuYunLingNai/douyin-auto-spark) | [@LiuYunLingNai](https://github.com/LiuYunLingNai) | 一个利用playwright打开抖音进行续火的插件，支持自定义续火内容和多用户使用 |
 | [X-plugin](https://github.com/Muoan/X-plugin) | [@墨安](https://github.com/Muoan) | X【推特】解析/下载/查询/搜索/插件~虾片我管不住奥，支持web面板 |
 | [Gscore-Adapter](https://github.com/xiowo/yunzai-gscore-adapter) | [ @MortalCat ](https://gitee.com/xiowo) | 一个适用于Yunzai的早柚适配器. |
 | [gi-nanoka-plugin](https://gitee.com/wisped/gi-nanoka-plugin) | [@wisped](https://gitee.com/wisped) | 一只给gi.nanoka.cc拍照的夏洛蒂。 |
