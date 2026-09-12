@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [小火花插件 (xhh-TL)](https://gitee.com/longhengmu/xhh-TL) | [@龙横木](https://gitee.com/longhengmu) | 原神 / 星铁 / 绝区零 / 鸣潮四游戏实时体力与阈值推送、米游社签到与米游币、成绩汇总与配队、星铁抽卡记录，出图走毛玻璃模板。[GitHub 镜像](https://github.com/cchanlan/xhh-TL) |
 | [王者荣耀插件(GloryOfKings-Plugin)](https://gitee.com/longhengmu/GloryOfKings-Plugin) | [@龙横木](https://gitee.com/longhengmu) | 王者荣耀查询插件：战绩、主页、皮肤、排名与推送，微信与 QQ 双扫码登录，支持多账号与共享登录态 |
 | [崩坏二功能查询插件](https://github.com/l52312516-cell/bh2-plugin) | [@l52312516-cell](https://github.com/l52312516-cell) | 面向 TRSS-Yunzai / Yunzai 3.x 的崩坏学园2查询插件，提供账号战绩、展柜概览、本地图鉴、图片帮助和在线更新。 |
 | [ChessGame](https://github.com/QWEfcxzz/ChessGame) | [@QWEfcxzz](https://github.com/QWEfcxzz) | 网页五子棋与中国象棋对战，支持AI实时局势分析 |

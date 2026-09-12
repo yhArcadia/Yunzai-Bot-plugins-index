@@ -5,6 +5,9 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [表情包插件 (meme-plugin)](https://gitee.com/longhengmu/meme-plugin) | [@龙横木](https://gitee.com/longhengmu) | 给云崽装上 900 多个表情包：中文指令出图、网页版做图、表情搜索与列表、抽 CP 与整活、套娃动图、分群排行。[GitHub 镜像](https://github.com/cchanlan/meme-plugin) |
+| [中转站签到插件 (relay-checkin-plugin)](https://gitee.com/longhengmu/relay-checkin-plugin) | [@龙横木](https://gitee.com/longhengmu) | 中转站自动签到与余额查询，站点类型自动识别，支持手动与定时签到，结果出图、数据按用户隔离。本仓库为 Fork（上游 [Cat-bl/relay-checkin-plugin](https://github.com/Cat-bl/relay-checkin-plugin)）。[GitHub 镜像](https://github.com/cchanlan/relay-checkin-plugin) |
+| [锅巴插件 Next (guoba-plugin-next)](https://gitee.com/longhengmu/guoba-plugin-next) | [@龙横木](https://gitee.com/longhengmu) | 云崽网页端后台管理与插件市场，Fork 自 guoba-plugin 并重写整套前端，已适配 Miao-Yunzai、TRSS-Yunzai 及其 fork。[GitHub 镜像](https://github.com/cchanlan/guoba-plugin-next) |
 | [抖音续火（douyin-auto-spark）](https://github.com/LiuYunLingNai/douyin-auto-spark) | [@LiuYunLingNai](https://github.com/LiuYunLingNai) | 一个利用playwright打开抖音进行续火的插件，支持自定义续火内容和多用户使用 |
 | [X-plugin](https://github.com/Muoan/X-plugin) | [@墨安](https://github.com/Muoan) | X【推特】解析/下载/查询/搜索/插件~虾片我管不住奥，支持web面板 |
 | [Gscore-Adapter](https://github.com/xiowo/yunzai-gscore-adapter) | [ @MortalCat ](https://gitee.com/xiowo) | 一个适用于Yunzai的早柚适配器. |
