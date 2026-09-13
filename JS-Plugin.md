@@ -6,6 +6,7 @@
 <!-- 请在表首添加新行。在“源码”列，链接指向的是该js文件的源码（raw）地址 -->
 | 名称  |  作者  | 源码 | 备注  |
 | --- | --- | ---- | ------- |
+| [QQBot官机兑换码复制按钮](https://github.com/shiomon/codes)|  [@shiomon](https://github.com/shiomon) | [查看源码](https://raw.githubusercontent.com/shiomon/codes/main/%E5%85%91%E6%8D%A2%E7%A0%81.js)  | 发送各种游戏的兑换码，自动提取追加兑换码一键复制按钮，如#兑换码，ww兑换码 |
 | [绝区零历史卡池查询](https://github.com/devil233-ui/gachaHistory-for-ZZZ)|  [@devil233](https://github.com/devil233-ui) | [查看源码](https://github.com/devil233-ui/gachaHistory-for-ZZZ/raw/refs/heads/master/ZZZ%E5%8D%A1%E6%B1%A0%E6%9F%A5%E8%AF%A2.js)  | 纯文本输出，支持zzz-plugin和atlas的别名 |
 | [喵言喵语](https://gitee.com/VanillaNahida/yunzai-js-plugin#%E5%8D%A1%E6%8B%89%E5%BD%BC%E4%B8%98%E5%96%B5%E8%A8%80%E5%96%B5%E8%AF%AD) | [@香草味的纳西妲喵](https://github.com/VanillaNahida) | [Github](https://raw.githubusercontent.com/VanillaNahida/yunzai-js-plugin/refs/heads/main/%E5%96%B5%E8%A8%80%E5%96%B5%E8%AF%AD.js) & [Gitee](https://gitee.com/VanillaNahida/yunzai-js-plugin/raw/main/%E5%96%B5%E8%A8%80%E5%96%B5%E8%AF%AD.js) | 快捷发送卡拉彼丘的喵语。一起成为卡奴吧喵！ |
 | [消息追加文本](https://github.com/herijian1/message-append-text)|  [@何日见](https://github.com/herijian1) | [查看源码](https://github.com/herijian1/message-append-text/消息追加文本.js)  | 该插件可以拦截机器人发的消息在开头或末尾再添加一段消息再发送 |
