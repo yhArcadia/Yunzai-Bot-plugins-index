@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [DeepChat (deep-chat-plugin)](https://gitee.com/qiderendeqiao/deep-chat-plugin) | [@qiderendeqiao](https://gitee.com/qiderendeqiao) | 接入 OpenAI / Anthropic 兼容 API 的拟人聊天插件，支持按句号问号分条回复、AI 名称与关键词触发、逐模型图片输入能力、每个群与私聊独立开关、主人与管理员权限、锅巴面板配置与图片帮助，零第三方依赖。[GitHub 镜像](https://github.com/FeatherCloudSky/DeepChat-plugin) |
 | [chenai](https://gitee.com/Gob1ing/chenai) | [@Gob1ing](https://gitee.com/Gob1ing) | 一个使用miao-plugin数据输出图鉴的插件 |
 | [表情包插件 (meme-plugin)](https://gitee.com/longhengmu/meme-plugin) | [@龙横木](https://gitee.com/longhengmu) | 给云崽装上 900 多个表情包：中文指令出图、网页版做图、表情搜索与列表、抽 CP 与整活、套娃动图、分群排行。[GitHub 镜像](https://github.com/cchanlan/meme-plugin) |
 | [中转站签到插件 (relay-checkin-plugin)](https://gitee.com/longhengmu/relay-checkin-plugin) | [@龙横木](https://gitee.com/longhengmu) | 中转站自动签到与余额查询，站点类型自动识别，支持手动与定时签到，结果出图、数据按用户隔离。本仓库为 Fork（上游 [Cat-bl/relay-checkin-plugin](https://github.com/Cat-bl/relay-checkin-plugin)）。[GitHub 镜像](https://github.com/cchanlan/relay-checkin-plugin) |
