@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [DouYin-Plugin (抖音适配器插件)](https://github.com/dmmdekkd/DouYin-Plugin) | [@dmmdekkd](https://github.com/dmmdekkd) | 基于 [douyin.ts](https://github.com/dmmdekkd/douyin.ts) SDK 的 TRSS-Yunzai 抖音适配器插件，支持私聊/群聊消息收发与编辑、图片/视频/语音/文件/表情/位置等多种消息类型，以及撤回、已读、表情回应、好友增减、群成员增减等事件处理，支持扫码登录多账号、配置热更新自动重连 |
 | [DeepChat (deep-chat-plugin)](https://gitee.com/qiderendeqiao/deep-chat-plugin) | [@qiderendeqiao](https://gitee.com/qiderendeqiao) | 接入 OpenAI / Anthropic 兼容 API 的拟人聊天插件，支持按句号问号分条回复、AI 名称与关键词触发、逐模型图片输入能力、每个群与私聊独立开关、主人与管理员权限、锅巴面板配置与图片帮助，零第三方依赖。[GitHub 镜像](https://github.com/FeatherCloudSky/DeepChat-plugin) |
 | [chenai](https://gitee.com/Gob1ing/chenai) | [@Gob1ing](https://gitee.com/Gob1ing) | 一个使用miao-plugin数据输出图鉴的插件 |
 | [表情包插件 (meme-plugin)](https://gitee.com/longhengmu/meme-plugin) | [@龙横木](https://gitee.com/longhengmu) | 给云崽装上 900 多个表情包：中文指令出图、网页版做图、表情搜索与列表、抽 CP 与整活、套娃动图、分群排行。[GitHub 镜像](https://github.com/cchanlan/meme-plugin) |
