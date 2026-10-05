@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | -- | -- | -- |
+| [Yunzai部署教程](https://www.bilibili.com/opus/680591757761576977) | [@会飞的芒果猫](https://space.bilibili.com/609035442) | 云崽机器人(Yunzai-Bot)的部署帮助 |
 | [Yunzai插件开发skill](https://gitee.com/yeqiu6080/yunzai-plugin-skill/) |  @yeqiu6080 | 让AI工具更熟练地写trss崽插件（可能） |
 | [Yunzai文档【论坛】](https://yzai.top/)| [@墨安](https://github.com/Muoan) | 包含TRSS/MIAO/NEXT的文档【论坛】更新有用的教程也欢迎嘿壳入驻 |
 | [云崽一站式解决方案](https://gitee.com/lzqmql)| [@岩王帝君](https://gitee.com/fdvhsvg) |适用于云崽绝大部分问题的解决方案，提供下载站，enka，qs脚本，安装脚本的聚合站点|
