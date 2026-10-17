@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [名言卡片 (quote-card)](https://github.com/Looking08/yunzai-plugin-quote-card) | [@Looking08](https://github.com/Looking08) | 引用一条消息回复 #名言 即可生成玻璃质感名言卡片，支持自定义背景图槽位、随机配色和长文本自动缩放，复用 Yunzai 自带 puppeteer 渲染，零第三方依赖。 |
 | [DingTalk-Plugin (钉钉适配器插件)](https://github.com/lylncode/DingTalk-Plugin) | [@dmmdekkd](https://github.com/dmmdekkd) [@LiuYunLingNai](https://github.com/LiuYunLingNai) | 基于钉钉开放平台 Stream 模式的 TRSS-Yunzai 钉钉适配器插件，支持单聊/群聊消息收发与群管理，支持 Markdown、互动卡片按钮、图片/语音/视频/文件等消息类型，支持多账号与锅巴面板配置。 |
 | [DouYin-Plugin (抖音适配器插件)](https://github.com/dmmdekkd/DouYin-Plugin) | [@dmmdekkd](https://github.com/dmmdekkd) | 基于 [douyin.ts](https://github.com/dmmdekkd/douyin.ts) SDK 的 TRSS-Yunzai 抖音适配器插件，支持私聊/群聊消息收发与编辑、图片/视频/语音/文件/表情/位置等多种消息类型，以及撤回、已读、表情回应、好友增减、群成员增减等事件处理，支持扫码登录多账号、配置热更新自动重连 |
 | [DeepChat (deep-chat-plugin)](https://gitee.com/qiderendeqiao/deep-chat-plugin) | [@qiderendeqiao](https://gitee.com/qiderendeqiao) | 接入 OpenAI / Anthropic 兼容 API 的拟人聊天插件，支持按句号问号分条回复、AI 名称与关键词触发、逐模型图片输入能力、每个群与私聊独立开关、主人与管理员权限、锅巴面板配置与图片帮助，零第三方依赖。[GitHub 镜像](https://github.com/FeatherCloudSky/DeepChat-plugin) |
