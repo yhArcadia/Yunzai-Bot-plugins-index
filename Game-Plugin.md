@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [无畏契约插件 (Valorant-Plugin)](https://github.com/Looking08/Valorant-Plugin) | [@Looking08](https://github.com/Looking08) | 面向 TRSS-Yunzai / Yunzai 3.x 的无畏契约查询插件：数据面板、战绩列表与单局详情（红蓝敌我、MVP 标记）、枪械熟练度、一人一份登录态互不串号，出图中文字体内置。注意：玩家数据需各自抓包导入登录态，掌瓦没有扫码登录 |
 | [星穹铁道文本图鉴插件 (srBookdex-plugin)](https://github.com/devil233-ui/srBookdex-plugin) | [@devil](https://github.com/devil233-ui) | 崩坏：星穹铁道米游社 wiki 的文本检索与阅读插件，覆盖阅读物、任务、角色、光锥、遗器、道具材料等 15 个分类、约 3600 条条目，支持按分类更新与强制核对、分类内搜索与全局搜索，本地没有命中的词条会去 bwiki 兜底检索，首次使用请先执行 *统一更新 全量拉取数据。与原神侧的 bookdex-plugin 同一套命令风格。 |
 | [书籍角色文本图鉴插件 (bookdex-plugin)](https://github.com/devil233-ui/bookdex-plugin) | [@devil](https://github.com/devil233-ui) | 原神书籍、角色故事、圣遗物、武器故事的文本检索与阅读插件，支持统一更新与搜索，首次使用请先执行 #统一更新 全量拉取数据。本仓库为 Fork（上游 [KexinyingLife/bookdex-plugin](https://github.com/KexinyingLife/bookdex-plugin)），在原版基础上接入了云崽统一请求入口、全局搜索的 bwiki 兜底与网页设置反馈。 |
 | [舞萌DX插件](https://github.com/Temmie0125/mai-plugin) | [@Temmie](https://github.com/Temmie0125) | 面向 TRSS-Yunzai / Yunzai 3.x 的舞萌DX插件，支持落雪/水鱼和一系列附加功能。移植自nonebot-plugin-maimaidx。 |
