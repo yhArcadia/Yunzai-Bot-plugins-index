@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [Yunzai-Bot一键部署](https://gitee.com/huifeidemangguomao/yunzai-one-button) | [@会飞的芒果猫](https://gitee.com/huifeidemangguomao) | Yunzai-Bot各改版本体＋必备插件一键便捷安装，支持Windows / Linux / Mac（缺少测试资料） / Android（Termux） |
 | [抽卡统计/存储](https://record.muoan.com/) | [@墨安](https://github.com/Muoan) | 抽卡记录解析/存储/统计/导入导出等功能 |
 | [喵喵资源更新脚本](https://github.com/kvcfdd/oi) | [白咩](https://github.com/kvcfdd) | 喵喵资源更新脚本，数据源gensh.honeyhunterworld.com |
 | [一键启动Yunzai+LLonebot并监控进程](https://gitee.com/touchscale_admin/one-click-start---yunzai-llbot) | [touchscale](https://gitee.com/touchscale_admin) |一键启动Yunzai+LLonebot并监测其状态，检测到停止运行后能自动重启|
