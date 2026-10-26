@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [ChatAI (chatai-plugin)](https://github.com/XxxXTeam/chatai-plugin) | [@XxxXTeam](https://github.com/XxxXTeam) | 基于 chatgpt-plugin 重构的 Yunzai AI 聊天插件，支持 OpenAI、Gemini、Claude、DeepSeek 等多模型切换，内置 50+ 工具并兼容 MCP 协议（stdio/npm/SSE/HTTP），提供多轮上下文与用户/群组会话隔离、长期记忆与用户画像、人格预设、知识库与 RAG、AI 绘图与语音合成、伪人模式与主动聊天，附带 Web 管理面板。 |
 | [名言卡片 (quote-card)](https://github.com/Looking08/yunzai-plugin-quote-card) | [@Looking08](https://github.com/Looking08) | 引用一条消息回复 #名言 即可生成玻璃质感名言卡片，支持自定义背景图槽位、随机配色和长文本自动缩放，复用 Yunzai 自带 puppeteer 渲染，零第三方依赖。 |
 | [DingTalk-Plugin (钉钉适配器插件)](https://github.com/lylncode/DingTalk-Plugin) | [@dmmdekkd](https://github.com/dmmdekkd) [@LiuYunLingNai](https://github.com/LiuYunLingNai) | 基于钉钉开放平台 Stream 模式的 TRSS-Yunzai 钉钉适配器插件，支持单聊/群聊消息收发与群管理，支持 Markdown、互动卡片按钮、图片/语音/视频/文件等消息类型，支持多账号与锅巴面板配置。 |
 | [DouYin-Plugin (抖音适配器插件)](https://github.com/dmmdekkd/DouYin-Plugin) | [@dmmdekkd](https://github.com/dmmdekkd) | 基于 [douyin.ts](https://github.com/dmmdekkd/douyin.ts) SDK 的 TRSS-Yunzai 抖音适配器插件，支持私聊/群聊消息收发与编辑、图片/视频/语音/文件/表情/位置等多种消息类型，以及撤回、已读、表情回应、好友增减、群成员增减等事件处理，支持扫码登录多账号、配置热更新自动重连 |
