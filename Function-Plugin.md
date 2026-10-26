@@ -5,7 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
-| [伊伊插件 (yiyi-plugin)](https://gitee.com/IKUN-HUANG/YIYI-Plugin) | [@煌](https://gitee.com/IKUN-HUANG) | [GitHub 镜像](https://github.com/IKUN-HUANG/YIYI-Plugin) · 可能没啥用的插件. |
+| [伊伊插件 (YIYI-Plugin)](https://gitee.com/IKUN-HUANG/YIYI-Plugin) | [@煌](https://gitee.com/IKUN-HUANG) | [GitHub 镜像](https://github.com/IKUN-HUANG/YIYI-Plugin) · 可能没啥用的插件. |
 | [ChatAI (chatai-plugin)](https://github.com/XxxXTeam/chatai-plugin) | [@XxxXTeam](https://github.com/XxxXTeam) | 基于 chatgpt-plugin 重构的 Yunzai AI 聊天插件，支持 OpenAI、Gemini、Claude、DeepSeek 等多模型切换，内置 50+ 工具并兼容 MCP 协议（stdio/npm/SSE/HTTP），提供多轮上下文与用户/群组会话隔离、长期记忆与用户画像、人格预设、知识库与 RAG、AI 绘图与语音合成、伪人模式与主动聊天，附带 Web 管理面板。 |
 | [chi-plugin (吃什么)](https://gitcode.com/shiomon/chi-plugin.git) | [@shiomon](https://gitcode.com/shiomon) | TRSS-Yunzai 吃什么随机菜插件，也兼容管机QQBot按钮。370 道菜谱10 个分类370 张成菜图。|
 | [名言卡片 (quote-card)](https://github.com/Looking08/yunzai-plugin-quote-card) | [@Looking08](https://github.com/Looking08) | 引用一条消息回复 #名言 即可生成玻璃质感名言卡片，支持自定义背景图槽位、随机配色和长文本自动缩放，复用 Yunzai 自带 puppeteer 渲染，零第三方依赖。 |
