@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [Yunzai Guard (yunzai-guard)](https://github.com/Admilkk/yunzai-guard) | [@Admilkk](https://github.com/Admilkk) | 插件行为审计与权限管控，支持 TRSS-Yunzai 与玖璃。记录每个插件的网络、文件、进程、端口与原生扩展行为，可按插件设置拦截规则，异常行为与拦截推送给主人，带网页控制台、行为画像与一键更新。默认模式用于观察和管控正常插件，隔离不可信插件需开启系统隔离 |
 | [伊伊插件 (YIYI-Plugin)](https://gitee.com/IKUN-HUANG/YIYI-Plugin) | [@煌](https://gitee.com/IKUN-HUANG) | [GitHub 镜像](https://github.com/IKUN-HUANG/YIYI-Plugin) · 可能没啥用的插件. |
 | [ChatAI (chatai-plugin)](https://github.com/XxxXTeam/chatai-plugin) | [@XxxXTeam](https://github.com/XxxXTeam) | 基于 chatgpt-plugin 重构的 Yunzai AI 聊天插件，支持 OpenAI、Gemini、Claude、DeepSeek 等多模型切换，内置 50+ 工具并兼容 MCP 协议（stdio/npm/SSE/HTTP），提供多轮上下文与用户/群组会话隔离、长期记忆与用户画像、人格预设、知识库与 RAG、AI 绘图与语音合成、伪人模式与主动聊天，附带 Web 管理面板。 |
 | [chi-plugin (吃什么)](https://gitcode.com/shiomon/chi-plugin.git) | [@shiomon](https://gitcode.com/shiomon) | TRSS-Yunzai 吃什么随机菜插件，也兼容管机QQBot按钮。370 道菜谱10 个分类370 张成菜图。|
