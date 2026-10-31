@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [qq-official-bot-plugin](https://github.com/XingYunStar/qq-official-bot-plugin) | [@星陨](https://github.com/XingYunStar) | [QQBot-Plugin](https://github.com/TimeRainStarSky/Yunzai-QQBot-Plugin)使用的SDK[`qq-group-bot`](https://www.npmjs.com/package/qq-group-bot)已停止更新。本插件使用持续更新的SDK[`qq-official-bot`](https://www.npmjs.com/package/qq-official-bot)，相对于旧版新增的功能有：禁言、踢人、撤回、群信息、成员信息、群通知、入群审批、URL处理、引用消息、自动重连，[新增功能](https://github.com/XingYunStar/qq-official-bot-plugin/tree/main#%E6%96%B0%E7%89%88%E6%94%AF%E6%8C%81%E4%BA%86%E4%BB%80%E4%B9%88) |
 | [Yunzai Guard (yunzai-guard)](https://github.com/Admilkk/yunzai-guard) | [@Admilkk](https://github.com/Admilkk) | 插件行为审计与权限管控，支持 TRSS-Yunzai 与玖璃。记录每个插件的网络、文件、进程、端口与原生扩展行为，可按插件设置拦截规则，异常行为与拦截推送给主人，带网页控制台、行为画像与一键更新。默认模式用于观察和管控正常插件，隔离不可信插件需开启系统隔离 |
 | [伊伊插件 (YIYI-Plugin)](https://gitee.com/IKUN-HUANG/YIYI-Plugin) | [@煌](https://gitee.com/IKUN-HUANG) | [GitHub 镜像](https://github.com/IKUN-HUANG/YIYI-Plugin) · 可能没啥用的插件. |
 | [ChatAI (chatai-plugin)](https://github.com/XxxXTeam/chatai-plugin) | [@XxxXTeam](https://github.com/XxxXTeam) | 基于 chatgpt-plugin 重构的 Yunzai AI 聊天插件，支持 OpenAI、Gemini、Claude、DeepSeek 等多模型切换，内置 50+ 工具并兼容 MCP 协议（stdio/npm/SSE/HTTP），提供多轮上下文与用户/群组会话隔离、长期记忆与用户画像、人格预设、知识库与 RAG、AI 绘图与语音合成、伪人模式与主动聊天，附带 Web 管理面板。 |
