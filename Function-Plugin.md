@@ -11,7 +11,7 @@
 | [chi-plugin (吃什么)](https://gitcode.com/shiomon/chi-plugin.git) | [@shiomon](https://gitcode.com/shiomon) | TRSS-Yunzai 吃什么随机菜插件，也兼容管机QQBot按钮。370 道菜谱10 个分类370 张成菜图。|
 | [名言卡片 (quote-card)](https://github.com/Looking08/yunzai-plugin-quote-card) | [@Looking08](https://github.com/Looking08) | 引用一条消息回复 #名言 即可生成玻璃质感名言卡片，支持自定义背景图槽位、随机配色和长文本自动缩放，复用 Yunzai 自带 puppeteer 渲染，零第三方依赖。 |
 | [DingTalk-Plugin (钉钉适配器插件)](https://github.com/lylncode/DingTalk-Plugin) | [@dmmdekkd](https://github.com/dmmdekkd) [@LiuYunLingNai](https://github.com/LiuYunLingNai) | 基于钉钉开放平台 Stream 模式的 TRSS-Yunzai 钉钉适配器插件，支持单聊/群聊消息收发与群管理，支持 Markdown、互动卡片按钮、图片/语音/视频/文件等消息类型，支持多账号与锅巴面板配置。 |
-| [DouYin-Plugin (抖音适配器插件)](https://github.com/dmmdekkd/DouYin-Plugin) | [@dmmdekkd](https://github.com/dmmdekkd) | 基于 [douyin.ts](https://github.com/dmmdekkd/douyin.ts) SDK 的 TRSS-Yunzai 抖音适配器插件，支持私聊/群聊消息收发与编辑、图片/视频/语音/文件/表情/位置等多种消息类型，以及撤回、已读、表情回应、好友增减、群成员增减等事件处理，支持扫码登录多账号、配置热更新自动重连 |
+| [DouYin-Plugin (抖音适配器插件)](https://github.com/CialloJS/DouYin-Plugin) | [@3774177076](https://github.com/3774177076) | 基于 [douyin.ts](https://github.com/CialloJS/douyin.ts) SDK 的 TRSS-Yunzai 抖音适配器插件，支持私聊/群聊消息收发与编辑、图片/视频/语音/文件/表情/位置等多种消息类型，以及撤回、已读、表情回应、好友增减、群成员增减等事件处理，支持扫码登录多账号、配置热更新自动重连 |
 | [DeepChat (deep-chat-plugin)](https://gitee.com/qiderendeqiao/deep-chat-plugin) | [@qiderendeqiao](https://gitee.com/qiderendeqiao) | 接入 OpenAI / Anthropic 兼容 API 的拟人聊天插件，支持按句号问号分条回复、AI 名称与关键词触发、逐模型图片输入能力、每个群与私聊独立开关、主人与管理员权限、锅巴面板配置与图片帮助，零第三方依赖。[GitHub 镜像](https://github.com/FeatherCloudSky/DeepChat-plugin) |
 | [chenai](https://gitee.com/Gob1ing/chenai) | [@Gob1ing](https://gitee.com/Gob1ing) | 一个使用miao-plugin数据输出图鉴的插件 |
 | [表情包插件 (meme-plugin)](https://gitee.com/longhengmu/meme-plugin) | [@龙横木](https://gitee.com/longhengmu) | 给云崽装上 900 多个表情包：中文指令出图、网页版做图、表情搜索与列表、抽 CP 与整活、套娃动图、分群排行。[GitHub 镜像](https://github.com/cchanlan/meme-plugin) |
@@ -65,7 +65,6 @@
 | [mCat-ac](https://gitlab.com/mCat0/mcat-ac) | [@mCat猫客](https://gitee.com/mcat0) | 原神成就录入、查漏，内容可视化反馈 |
 | [wordle-plugin](https://github.com/Pimeng/wordle-plugin) | [@Pimeng](https://github.com/Pimeng) | Wordle猜词 For Yunzai-Bot |
 | [sakura-plugin](https://github.com/suzuka-suzuka/sakura-plugin) | [@suzuka-suzuka](https://github.com/suzuka-suzuka) | 集成了 AI 聊天、图片获取、群聊管理、飞行棋游戏等多种功能 |
-| [zhiyu-plugin](https://github.com/dmmdekkd/zhiyu-plugin) | [@dmmdekkd](https://github.com/dmmdekkd) | 开放平台查询，适配官机向插件 |
 | [dg-lab-russian-roulette-plugin](https://github.com/admilkjs/dg-lab-russian-roulette-plugin/) | [@Admilk](https://github.com/admilkk) | 提供郊狼论盘渎的功能,中枪后被电击 |
 | [次元小镇（CYXZ-Plugin）](https://github.com/xiaotian2333/cyxz-plugin) | [xiaotian2333](https://github.com/xiaotian2333) | 抓取次元小镇的各类图片的插件 |
 | [戳戳榜插件 (Poke-plugin)](https://gitee.com/qingyingxbot/Poke-plugin) | [@QingYingX](https://gitee.com/QingYingX) | 一款提供统计戳一戳的插件 |
