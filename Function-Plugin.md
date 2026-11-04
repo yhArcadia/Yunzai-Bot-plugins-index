@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [JiuLi-Plugin](https://github.com/RainFoam0693/JiuLi-Plugin) | [@RainFoam0693](https://github.com/RainFoam0693) | 基于原 TRSS 插件继续维护的多功能工具插件，提供二维码生成与识别、QQ 账号档案（ICQQ）、Markdown 渲染、代码高亮、系统信息、远程命令与文件管理，内置图片插件市场和安装器，支持 QQ 官机原生按钮，图片日志为 JiuLi 适配。 |
 | [鱼鱼找鸡 (yunzai-plugin-fish-chicken)](https://github.com/1055169799/fish-chicken) | [@Jinx](https://github.com/1055169799) | 引用一张图，发「#这是什么鸡 / #这是哪只鸡」反查 coser 的社媒账号；多引擎（谷歌 Lens、SauceNAO、trace.moe、Yandex、百度识图），全局搜图间隔防 SauceNAO 429、图片缓存、每日配额，支持锅巴面板配置。 |
 | [Yunzai Guard (yunzai-guard)](https://github.com/Admilkk/yunzai-guard) | [@Admilkk](https://github.com/Admilkk) | 插件行为审计与权限管控，支持 TRSS-Yunzai 与玖璃。记录每个插件的网络、文件、进程、端口与原生扩展行为，可按插件设置拦截规则，异常行为与拦截推送给主人，带网页控制台、行为画像与一键更新。默认模式用于观察和管控正常插件，隔离不可信插件需开启系统隔离 |
 | [伊伊插件 (YIYI-Plugin)](https://gitee.com/IKUN-HUANG/YIYI-Plugin) | [@煌](https://gitee.com/IKUN-HUANG) | [GitHub 镜像](https://github.com/IKUN-HUANG/YIYI-Plugin) · 可能没啥用的插件. |
