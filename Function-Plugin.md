@@ -5,6 +5,7 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
+| [qq-official-bot-plugin](https://github.com/XingYunStar/qq-official-bot-plugin) | [@星陨](https://github.com/XingYunStar) | [QQBot-Plugin](https://github.com/TimeRainStarSky/Yunzai-QQBot-Plugin)使用的SDK[`qq-group-bot`](https://www.npmjs.com/package/qq-group-bot)已停止更新。本插件使用持续更新的SDK[`qq-official-bot`](https://www.npmjs.com/package/qq-official-bot)，可直接使用AppID和AppSecret连接，而旧版额外需token，现已获取不到，相对于旧版新增的功能有：禁言、踢人、撤回、群信息、成员信息、群通知、入群审批、URL处理、引用消息、自动重连、WebUI，[新增功能](https://github.com/XingYunStar/qq-official-bot-plugin/tree/main#%E6%96%B0%E7%89%88%E6%94%AF%E6%8C%81%E4%BA%86%E4%BB%80%E4%B9%88) |
 | [Yunzai-LLM-Plugin](https://github.com/KCFindstr/Yunzai-LLM-Plugin) | [@KCFindstr](https://github.com/KCFindstr) | 适用于云崽的大模型对话插件，支持主流协议接入与提示词缓存，内置 Web 可视化管理面板、细粒度额度控制、分层记忆、机器人电脑、定时任务等特性。支持通过决策模型智能选择思考强度和主动回复。 |
 | [JiuLi-Plugin](https://github.com/RainFoam0693/JiuLi-Plugin) | [@RainFoam0693](https://github.com/RainFoam0693) | 基于原 TRSS 插件继续维护的多功能工具插件，提供二维码生成与识别、QQ 账号档案（ICQQ）、Markdown 渲染、代码高亮、系统信息、远程命令与文件管理，内置图片插件市场和安装器，支持 QQ 官机原生按钮，图片日志为 JiuLi 适配。 |
 | [鱼鱼找鸡 (yunzai-plugin-fish-chicken)](https://github.com/1055169799/fish-chicken) | [@Jinx](https://github.com/1055169799) | 引用一张图，发「#这是什么鸡 / #这是哪只鸡」反查 coser 的社媒账号；多引擎（谷歌 Lens、SauceNAO、trace.moe、Yandex、百度识图），全局搜图间隔防 SauceNAO 429、图片缓存、每日配额，支持锅巴面板配置。 |
