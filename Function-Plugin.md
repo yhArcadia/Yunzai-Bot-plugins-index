@@ -5,14 +5,17 @@
 <!-- 请在表首添加新行 -->
 | 名称  |  作者  | 备注  |
 |-------| ----- |------ |
-| [qq-official-bot-plugin](https://github.com/XingYunStar/qq-official-bot-plugin) | [@星陨](https://github.com/XingYunStar) | [QQBot-Plugin](https://github.com/TimeRainStarSky/Yunzai-QQBot-Plugin)使用的SDK[`qq-group-bot`](https://www.npmjs.com/package/qq-group-bot)已停止更新。本插件使用持续更新的SDK[`qq-official-bot`](https://www.npmjs.com/package/qq-official-bot)，相对于旧版新增的功能有：禁言、踢人、撤回、群信息、成员信息、群通知、入群审批、URL处理、引用消息、自动重连，[新增功能](https://github.com/XingYunStar/qq-official-bot-plugin/tree/main#%E6%96%B0%E7%89%88%E6%94%AF%E6%8C%81%E4%BA%86%E4%BB%80%E4%B9%88) |
+| [qq-official-bot-plugin](https://github.com/XingYunStar/qq-official-bot-plugin) | [@星陨](https://github.com/XingYunStar) | [QQBot-Plugin](https://github.com/TimeRainStarSky/Yunzai-QQBot-Plugin)使用的SDK[`qq-group-bot`](https://www.npmjs.com/package/qq-group-bot)已停止更新。本插件使用持续更新的SDK[`qq-official-bot`](https://www.npmjs.com/package/qq-official-bot)，可直接使用AppID和AppSecret连接，而旧版额外需token，现已获取不到，相对于旧版新增的功能有：禁言、踢人、撤回、群信息、成员信息、群通知、入群审批、URL处理、引用消息、自动重连、WebUI，[新增功能](https://github.com/XingYunStar/qq-official-bot-plugin/tree/main#%E6%96%B0%E7%89%88%E6%94%AF%E6%8C%81%E4%BA%86%E4%BB%80%E4%B9%88) |
+| [Yunzai-LLM-Plugin](https://github.com/KCFindstr/Yunzai-LLM-Plugin) | [@KCFindstr](https://github.com/KCFindstr) | 适用于云崽的大模型对话插件，支持主流协议接入与提示词缓存，内置 Web 可视化管理面板、细粒度额度控制、分层记忆、机器人电脑、定时任务等特性。支持通过决策模型智能选择思考强度和主动回复。 |
+| [JiuLi-Plugin](https://github.com/RainFoam0693/JiuLi-Plugin) | [@RainFoam0693](https://github.com/RainFoam0693) | 基于原 TRSS 插件继续维护的多功能工具插件，提供二维码生成与识别、QQ 账号档案（ICQQ）、Markdown 渲染、代码高亮、系统信息、远程命令与文件管理，内置图片插件市场和安装器，支持 QQ 官机原生按钮，图片日志为 JiuLi 适配。 |
+| [鱼鱼找鸡 (yunzai-plugin-fish-chicken)](https://github.com/1055169799/fish-chicken) | [@Jinx](https://github.com/1055169799) | 引用一张图，发「#这是什么鸡 / #这是哪只鸡」反查 coser 的社媒账号；多引擎（谷歌 Lens、SauceNAO、trace.moe、Yandex、百度识图），全局搜图间隔防 SauceNAO 429、图片缓存、每日配额，支持锅巴面板配置。 |
 | [Yunzai Guard (yunzai-guard)](https://github.com/Admilkk/yunzai-guard) | [@Admilkk](https://github.com/Admilkk) | 插件行为审计与权限管控，支持 TRSS-Yunzai 与玖璃。记录每个插件的网络、文件、进程、端口与原生扩展行为，可按插件设置拦截规则，异常行为与拦截推送给主人，带网页控制台、行为画像与一键更新。默认模式用于观察和管控正常插件，隔离不可信插件需开启系统隔离 |
 | [伊伊插件 (YIYI-Plugin)](https://gitee.com/IKUN-HUANG/YIYI-Plugin) | [@煌](https://gitee.com/IKUN-HUANG) | [GitHub 镜像](https://github.com/IKUN-HUANG/YIYI-Plugin) · 可能没啥用的插件. |
 | [ChatAI (chatai-plugin)](https://github.com/XxxXTeam/chatai-plugin) | [@XxxXTeam](https://github.com/XxxXTeam) | 基于 chatgpt-plugin 重构的 Yunzai AI 聊天插件，支持 OpenAI、Gemini、Claude、DeepSeek 等多模型切换，内置 50+ 工具并兼容 MCP 协议（stdio/npm/SSE/HTTP），提供多轮上下文与用户/群组会话隔离、长期记忆与用户画像、人格预设、知识库与 RAG、AI 绘图与语音合成、伪人模式与主动聊天，附带 Web 管理面板。 |
 | [chi-plugin (吃什么)](https://gitcode.com/shiomon/chi-plugin.git) | [@shiomon](https://gitcode.com/shiomon) | TRSS-Yunzai 吃什么随机菜插件，也兼容管机QQBot按钮。370 道菜谱10 个分类370 张成菜图。|
 | [名言卡片 (quote-card)](https://github.com/Looking08/yunzai-plugin-quote-card) | [@Looking08](https://github.com/Looking08) | 引用一条消息回复 #名言 即可生成玻璃质感名言卡片，支持自定义背景图槽位、随机配色和长文本自动缩放，复用 Yunzai 自带 puppeteer 渲染，零第三方依赖。 |
 | [DingTalk-Plugin (钉钉适配器插件)](https://github.com/lylncode/DingTalk-Plugin) | [@dmmdekkd](https://github.com/dmmdekkd) [@LiuYunLingNai](https://github.com/LiuYunLingNai) | 基于钉钉开放平台 Stream 模式的 TRSS-Yunzai 钉钉适配器插件，支持单聊/群聊消息收发与群管理，支持 Markdown、互动卡片按钮、图片/语音/视频/文件等消息类型，支持多账号与锅巴面板配置。 |
-| [DouYin-Plugin (抖音适配器插件)](https://github.com/dmmdekkd/DouYin-Plugin) | [@dmmdekkd](https://github.com/dmmdekkd) | 基于 [douyin.ts](https://github.com/dmmdekkd/douyin.ts) SDK 的 TRSS-Yunzai 抖音适配器插件，支持私聊/群聊消息收发与编辑、图片/视频/语音/文件/表情/位置等多种消息类型，以及撤回、已读、表情回应、好友增减、群成员增减等事件处理，支持扫码登录多账号、配置热更新自动重连 |
+| [DouYin-Plugin (抖音适配器插件)](https://github.com/CialloJS/DouYin-Plugin) | [@3774177076](https://github.com/3774177076) | 基于 [douyin.ts](https://github.com/CialloJS/douyin.ts) SDK 的 TRSS-Yunzai 抖音适配器插件，支持私聊/群聊消息收发与编辑、图片/视频/语音/文件/表情/位置等多种消息类型，以及撤回、已读、表情回应、好友增减、群成员增减等事件处理，支持扫码登录多账号、配置热更新自动重连 |
 | [DeepChat (deep-chat-plugin)](https://gitee.com/qiderendeqiao/deep-chat-plugin) | [@qiderendeqiao](https://gitee.com/qiderendeqiao) | 接入 OpenAI / Anthropic 兼容 API 的拟人聊天插件，支持按句号问号分条回复、AI 名称与关键词触发、逐模型图片输入能力、每个群与私聊独立开关、主人与管理员权限、锅巴面板配置与图片帮助，零第三方依赖。[GitHub 镜像](https://github.com/FeatherCloudSky/DeepChat-plugin) |
 | [chenai](https://gitee.com/Gob1ing/chenai) | [@Gob1ing](https://gitee.com/Gob1ing) | 一个使用miao-plugin数据输出图鉴的插件 |
 | [表情包插件 (meme-plugin)](https://gitee.com/longhengmu/meme-plugin) | [@龙横木](https://gitee.com/longhengmu) | 给云崽装上 900 多个表情包：中文指令出图、网页版做图、表情搜索与列表、抽 CP 与整活、套娃动图、分群排行。[GitHub 镜像](https://github.com/cchanlan/meme-plugin) |
@@ -25,7 +28,7 @@
 | [Secluded-Adapter](https://github.com/Lovely02Y/Secluded-Adapter) | [@Lovely02Y](https://github.com/Lovely02Y) [@Senior Horikawa](https://github.com/SeniorHorikawa) | 一个普通的协议适配器 |
 | [kh-plugin](https://github.com/yhArcadia/kh-plugin) | [@渔火Arcadia](https://github.com/yhArcadia) | 群成员**头像**、**昵称**记录留档工具，有效制裁群友“改头换面”、秽土转生。(如链接打不开请把github换成gitee) |
 | [AQing-plugin](https://github.com/mldqzs/AQing-plugin) | [@明るい青紫色](https://github.com/mldqzs) | 基于 TRSS-Yunzai 的综合娱乐小插件，集群管、复读禁言、状态图、扫雷、五子棋、音乐/视频/图文解析、每日日报、涩图打分、图片混淆、禁漫天堂、塔罗牌等功能于一体，支持锅巴面板配置。 |
-| [agents-plugin](https://github.com/yunhai89/trss-agent-plugin.git) | [@yunhai89](https://github.com/yunhai89) | 适用于 TRSS-Yunzai 的 AI Agent 插件，支持 OpenAI/Anthropic 双协议多模型切换、MCP 工具桥接、技能渐进式加载、长期记忆与用户画像、多源搜索(Tavily/Exa/Perplexity/Brave/SearXNG)、米游社查询、群管工具、深度研究(#研究)与高危操作主人审批。|
+| [agents-plugin](https://github.com/yunhai89/yunzai-agent-plugin) | [@yunhai89](https://github.com/yunhai89) | 适用于 Yunzai 的 AI Agent 插件，支持 OpenAI/Anthropic 双协议多模型切换、MCP 工具桥接、技能渐进式加载、长期记忆与用户画像、多源搜索(Tavily/Exa/Perplexity/Brave/SearXNG)、米游社查询、群管工具、深度研究(#研究)与高危操作主人审批。|
 | [Huitian-daily](https://github.com/OriginSXC/Huitian-daily) | [@OriginSXC](https://github.com/OriginSXC) | 回天日报聚合插件，把 60s、番剧、摸鱼、Epic、油价、历史上的今天等多源日报拼成派蒙主题图卡。|
 | [Huitian-mini](https://github.com/OriginSXC/Huitian-mini) | [@OriginSXC](https://github.com/OriginSXC) | 轻量级 Yunzai 插件合集：早报、摸鱼日历、米游社 COS、WP 抓图、随机图/视频。|
 | [QQBot-Web-Adapter](https://gitee.com/wind-trace-typ/QQBot-Web-Adapter)|  [@风之迹](https://gitee.com/wind-trace-typ) | 本插件主要功能为夺舍官机发送消息，查看用户消息。 |
@@ -66,7 +69,6 @@
 | [mCat-ac](https://gitlab.com/mCat0/mcat-ac) | [@mCat猫客](https://gitee.com/mcat0) | 原神成就录入、查漏，内容可视化反馈 |
 | [wordle-plugin](https://github.com/Pimeng/wordle-plugin) | [@Pimeng](https://github.com/Pimeng) | Wordle猜词 For Yunzai-Bot |
 | [sakura-plugin](https://github.com/suzuka-suzuka/sakura-plugin) | [@suzuka-suzuka](https://github.com/suzuka-suzuka) | 集成了 AI 聊天、图片获取、群聊管理、飞行棋游戏等多种功能 |
-| [zhiyu-plugin](https://github.com/dmmdekkd/zhiyu-plugin) | [@dmmdekkd](https://github.com/dmmdekkd) | 开放平台查询，适配官机向插件 |
 | [dg-lab-russian-roulette-plugin](https://github.com/admilkjs/dg-lab-russian-roulette-plugin/) | [@Admilk](https://github.com/admilkk) | 提供郊狼论盘渎的功能,中枪后被电击 |
 | [次元小镇（CYXZ-Plugin）](https://github.com/xiaotian2333/cyxz-plugin) | [xiaotian2333](https://github.com/xiaotian2333) | 抓取次元小镇的各类图片的插件 |
 | [戳戳榜插件 (Poke-plugin)](https://gitee.com/qingyingxbot/Poke-plugin) | [@QingYingX](https://gitee.com/QingYingX) | 一款提供统计戳一戳的插件 |
